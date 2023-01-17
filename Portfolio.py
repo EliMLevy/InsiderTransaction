@@ -39,7 +39,7 @@ class Portfolio():
     
     def get_percent_pl(self, date):
         val = self.portfolio_value(date)
-        return round(val / self.initial_cash * 100, 2)
+        return val / self.initial_cash
 
     def get_pl(self, date):
         return f"${self.get_dollar_pl(date)}, %{self.get_percent_pl(date)}"

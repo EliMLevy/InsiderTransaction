@@ -10,7 +10,7 @@ class Holding:
         # print(f"{self.ticker} calculating profit: {self.get_price(date)} {(self.purchase_price)}")
         if self.get_price(date) is None:
             return 1
-        return (self.get_price(date) / (self.purchase_price))
+        return self.get_price(date) / (self.purchase_price)
 
     def profit_dollar(self, date):
         if self.get_price(date) is None:

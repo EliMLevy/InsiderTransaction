@@ -1,0 +1,201 @@
+INFO:Initialize variables. Starting simulation...
+INFO:[2022-01-03 00:00:00] Current P/L: $0, %100.0
+INFO:[2022-01-03 00:00:00] Current holdings: []
+INFO:[2022-01-03 00:00:00] 4 interesting insider trades
+INFO:[2022-01-03 00:00:00] buying MOH for 315.9750061035156
+INFO:[2022-01-03 00:00:00] buying SYF for 467.39999771118164
+INFO:[2022-01-03 00:00:00] buying WK for 388.70999908447266
+INFO:[2022-01-06 00:00:00] Current P/L: $-64.20500946044922, %98.72
+INFO:[2022-01-06 00:00:00] Current holdings: [[MOH quantity:1; profit:0.93][SYF quantity:10; profit:1.02][WK quantity:3; profit:0.87]]
+INFO:[2022-01-06 00:00:00] Selling asset [MOH] for $293.4949951171875. Profi: 0.9288550975485589
+INFO:[2022-01-06 00:00:00] Selling asset [SYF] for $474.6500015258789. Profi: 1.0155113475614033
+INFO:[2022-01-06 00:00:00] Selling asset [WK] for $339.7349967956543. Profi: 0.8740063224404594
+INFO:[2022-01-06 00:00:00] 1 interesting insider trades
+INFO:[2022-01-06 00:00:00] buying LXP for 482.7900037765503
+INFO:[2022-01-07 00:00:00] Current P/L: $-69.65000820159912, %98.61
+INFO:[2022-01-07 00:00:00] Current holdings: [[LXP quantity:33; profit:0.99]]
+INFO:[2022-01-07 00:00:00] 1 interesting insider trades
+INFO:[2022-01-07 00:00:00] buying DFIN for 457.4350109100342
+INFO:[2022-01-12 00:00:00] Current P/L: $-76.63501596450806, %98.47
+INFO:[2022-01-12 00:00:00] Current holdings: [[LXP quantity:33; profit:0.97][DFIN quantity:11; profit:1.0]]
+INFO:[2022-01-12 00:00:00] 1 interesting insider trades
+INFO:[2022-01-12 00:00:00] buying HTGC for 476.28000926971436
+INFO:[2022-01-13 00:00:00] Current P/L: $-75.83003759384155, %98.48
+INFO:[2022-01-13 00:00:00] Current holdings: [[LXP quantity:33; profit:0.97][DFIN quantity:11; profit:0.99][HTGC quantity:27; profit:1.01]]
+INFO:[2022-01-13 00:00:00] 0 interesting insider trades
+INFO:[2022-01-14 00:00:00] Current P/L: $-95.1450457572937, %98.1
+INFO:[2022-01-14 00:00:00] Current holdings: [[LXP quantity:33; profit:0.97][DFIN quantity:11; profit:0.97][HTGC quantity:27; profit:1.0]]
+INFO:[2022-01-14 00:00:00] 3 interesting insider trades
+INFO:[2022-01-14 00:00:00] buying PNC for 443.5699920654297
+INFO:[2022-01-14 00:00:00] buying PM for 410.9599914550781
+INFO:[2022-01-18 00:00:00] Current P/L: $-121.03000402450562, %97.58
+INFO:[2022-01-18 00:00:00] Current holdings: [[LXP quantity:33; profit:0.96][DFIN quantity:11; profit:0.93][HTGC quantity:27; profit:0.99][PNC quantity:2; profit:0.99][PM quantity:4; profit:1.0]]
+INFO:[2022-01-18 00:00:00] Selling asset [DFIN] for $427.5699882507324. Profi: 0.9347119876113387
+INFO:[2022-01-18 00:00:00] 2 interesting insider trades
+INFO:[2022-01-18 00:00:00] buying IEX for 435.19000244140625
+INFO:[2022-01-19 00:00:00] Current P/L: $-141.29001998901367, %97.17
+INFO:[2022-01-19 00:00:00] Current holdings: [[LXP quantity:33; profit:0.95][HTGC quantity:27; profit:0.99][PNC quantity:2; profit:0.96][PM quantity:4; profit:0.99][IEX quantity:2; profit:1.0]]
+INFO:[2022-01-19 00:00:00] 0 interesting insider trades
+INFO:[2022-01-20 00:00:00] Current P/L: $-162.15003108978271, %96.76
+INFO:[2022-01-20 00:00:00] Current holdings: [[LXP quantity:33; profit:0.95][HTGC quantity:27; profit:0.98][PNC quantity:2; profit:0.94][PM quantity:4; profit:0.99][IEX quantity:2; profit:1.0]]
+INFO:[2022-01-20 00:00:00] Selling asset [LXP] for $458.0400037765503. Profi: 0.9487354754522733
+INFO:[2022-01-20 00:00:00] Selling asset [PNC] for $414.8999938964844. Profi: 0.9353653342611231
+INFO:[2022-01-20 00:00:00] 1 interesting insider trades
+INFO:[2022-01-26 00:00:00] Current P/L: $-172.0800657272339, %96.56
+INFO:[2022-01-26 00:00:00] Current holdings: [[HTGC quantity:27; profit:0.97][PM quantity:4; profit:0.99][IEX quantity:2; profit:0.98]]
+INFO:[2022-01-26 00:00:00] 1 interesting insider trades
+INFO:[2022-01-26 00:00:00] buying VLY for 479.9850025177002
+INFO:[2022-01-27 00:00:00] Current P/L: $-186.73000812530518, %96.27
+INFO:[2022-01-27 00:00:00] Current holdings: [[HTGC quantity:27; profit:0.98][PM quantity:4; profit:0.99][IEX quantity:2; profit:0.97][VLY quantity:33; profit:0.97]]
+INFO:[2022-01-27 00:00:00] 0 interesting insider trades
+INFO:[2022-01-28 00:00:00] Current P/L: $-214.07003116607666, %95.72
+INFO:[2022-01-28 00:00:00] Current holdings: [[HTGC quantity:27; profit:0.97][PM quantity:4; profit:1.0][IEX quantity:2; profit:0.96][VLY quantity:33; profit:0.93]]
+INFO:[2022-01-28 00:00:00] Selling asset [VLY] for $444.0149974822998. Profi: 0.9250601480322836
+INFO:[2022-01-28 00:00:00] 4 interesting insider trades
+INFO:[2022-01-28 00:00:00] buying GPN for 432.7350082397461
+INFO:[2022-01-28 00:00:00] buying MRK for 401.1000061035156
+INFO:[2022-01-28 00:00:00] buying SUI for 365.9399871826172
+INFO:[2022-01-28 00:00:00] buying URI for 317.6899871826172
+INFO:[2022-01-31 00:00:00] Current P/L: $-173.1600227355957, %96.54
+INFO:[2022-01-31 00:00:00] Current holdings: [[HTGC quantity:27; profit:0.99][PM quantity:4; profit:1.0][IEX quantity:2; profit:0.98][GPN quantity:3; profit:1.02][MRK quantity:5; profit:1.01][SUI quantity:2; profit:1.03][URI quantity:1; profit:1.0]]
+INFO:[2022-01-31 00:00:00] Selling asset [GPN] for $442.8900146484375. Profi: 1.0234670322837973
+INFO:[2022-01-31 00:00:00] Selling asset [MRK] for $406.25. Profi: 1.012839675437839
+INFO:[2022-01-31 00:00:00] Selling asset [SUI] for $375.75. Profi: 1.0268077093539583
+INFO:[2022-01-31 00:00:00] 1 interesting insider trades
+INFO:[2022-02-02 00:00:00] Current P/L: $-148.8200273513794, %97.02
+INFO:[2022-02-02 00:00:00] Current holdings: [[HTGC quantity:27; profit:1.02][PM quantity:4; profit:1.01][IEX quantity:2; profit:0.97][URI quantity:1; profit:1.03]]
+INFO:[2022-02-02 00:00:00] Selling asset [HTGC] for $485.45998764038086. Profi: 1.0192743306290395
+INFO:[2022-02-02 00:00:00] Selling asset [URI] for $328.125. Profi: 1.0328465272384693
+INFO:[2022-02-02 00:00:00] 4 interesting insider trades
+INFO:[2022-02-02 00:00:00] buying SGRY for 457.09999084472656
+INFO:[2022-02-03 00:00:00] Current P/L: $-159.2200517654419, %96.82
+INFO:[2022-02-03 00:00:00] Current holdings: [[PM quantity:4; profit:1.01][IEX quantity:2; profit:0.94][SGRY quantity:10; profit:1.0]]
+INFO:[2022-02-03 00:00:00] Selling asset [PM] for $415.8199920654297. Profi: 1.0118259701951615
+INFO:[2022-02-03 00:00:00] Selling asset [IEX] for $408.989990234375. Profi: 0.9397963830509668
+INFO:[2022-02-03 00:00:00] 4 interesting insider trades
+INFO:[2022-02-03 00:00:00] buying SYF for 467.0049991607666
+INFO:[2022-02-07 00:00:00] Current P/L: $-164.06505489349365, %96.72
+INFO:[2022-02-07 00:00:00] Current holdings: [[SGRY quantity:10; profit:0.99][SYF quantity:11; profit:1.01]]
+INFO:[2022-02-07 00:00:00] 1 interesting insider trades
+INFO:[2022-02-07 00:00:00] buying DFIN for 474.0450019836426
+INFO:[2022-02-08 00:00:00] Current P/L: $-141.1900281906128, %97.18
+INFO:[2022-02-08 00:00:00] Current holdings: [[SGRY quantity:10; profit:1.01][SYF quantity:11; profit:1.03][DFIN quantity:13; profit:1.01]]
+INFO:[2022-02-08 00:00:00] Selling asset [SYF] for $478.8849983215332. Profi: 1.0254386980484482
+INFO:[2022-02-08 00:00:00] 0 interesting insider trades
+INFO:[2022-02-09 00:00:00] Current P/L: $-104.78003978729248, %97.9
+INFO:[2022-02-09 00:00:00] Current holdings: [[SGRY quantity:10; profit:1.06][DFIN quantity:13; profit:1.03]]
+INFO:[2022-02-09 00:00:00] Selling asset [SGRY] for $486.5999984741211. Profi: 1.0645373183553957
+INFO:[2022-02-09 00:00:00] Selling asset [DFIN] for $487.9549980163574. Profi: 1.029343197322002
+INFO:[2022-02-09 00:00:00] 4 interesting insider trades
+INFO:[2022-02-09 00:00:00] failed to get price for Z AND ZG
+INFO:[2022-02-09 00:00:00] buying DGX for 408.2849807739258
+INFO:[2022-02-09 00:00:00] buying WRK for 474.3000030517578
+INFO:[2022-02-09 00:00:00] buying OTTR for 439.0750026702881
+INFO:[2022-02-14 00:00:00] Current P/L: $-148.75004482269287, %97.02
+INFO:[2022-02-14 00:00:00] Current holdings: [[DGX quantity:3; profit:0.96][WRK quantity:10; profit:0.97][OTTR quantity:7; profit:0.96]]
+INFO:[2022-02-14 00:00:00] 3 interesting insider trades
+INFO:[2022-02-14 00:00:00] buying PM for 434.47999572753906
+INFO:[2022-02-15 00:00:00] Current P/L: $-131.15002536773682, %97.38
+INFO:[2022-02-15 00:00:00] Current holdings: [[DGX quantity:3; profit:0.96][WRK quantity:10; profit:0.99][OTTR quantity:7; profit:0.98][PM quantity:4; profit:1.01]]
+INFO:[2022-02-15 00:00:00] 3 interesting insider trades
+INFO:[2022-02-16 00:00:00] Current P/L: $-126.89003276824951, %97.46
+INFO:[2022-02-16 00:00:00] Current holdings: [[DGX quantity:3; profit:0.96][WRK quantity:10; profit:1.0][OTTR quantity:7; profit:0.97][PM quantity:4; profit:1.02]]
+INFO:[2022-02-16 00:00:00] Selling asset [PM] for $442.47999572753906. Profi: 1.0184128155005248
+INFO:[2022-02-16 00:00:00] 6 interesting insider trades
+INFO:[2022-02-16 00:00:00] buying AWR for 425.7749938964844
+INFO:[2022-02-16 00:00:00] buying UNH for 477.7749938964844
+INFO:[2022-02-16 00:00:00] buying GPI for 352.9600067138672
+INFO:[2022-02-16 00:00:00] buying RCII for 458.3150100708008
+INFO:[2022-02-18 00:00:00] Current P/L: $-157.3350477218628, %96.85
+INFO:[2022-02-18 00:00:00] Current holdings: [[DGX quantity:3; profit:0.96][WRK quantity:10; profit:0.98][OTTR quantity:7; profit:0.98][AWR quantity:5; profit:0.99][UNH quantity:1; profit:0.98][GPI quantity:2; profit:1.02][RCII quantity:11; profit:0.96]]
+INFO:[2022-02-18 00:00:00] Selling asset [GPI] for $359.5399932861328. Profi: 1.0186423006774243
+INFO:[2022-02-18 00:00:00] 2 interesting insider trades
+INFO:[2022-02-22 00:00:00] Current P/L: $-172.99500942230225, %96.54
+INFO:[2022-02-22 00:00:00] Current holdings: [[DGX quantity:3; profit:0.96][WRK quantity:10; profit:0.98][OTTR quantity:7; profit:0.97][AWR quantity:5; profit:1.01][UNH quantity:1; profit:0.97][RCII quantity:11; profit:0.93]]
+INFO:[2022-02-22 00:00:00] Selling asset [RCII] for $424.3799991607666. Profi: 0.9259570161038543
+INFO:[2022-02-22 00:00:00] 2 interesting insider trades
+INFO:[2022-02-23 00:00:00] Current P/L: $-190.530047416687, %96.19
+INFO:[2022-02-23 00:00:00] Current holdings: [[DGX quantity:3; profit:0.94][WRK quantity:10; profit:0.97][OTTR quantity:7; profit:0.98][AWR quantity:5; profit:0.99][UNH quantity:1; profit:0.97]]
+INFO:[2022-02-23 00:00:00] Selling asset [DGX] for $385.1699981689453. Profi: 0.9433851753224799
+INFO:[2022-02-23 00:00:00] 6 interesting insider trades
+INFO:[2022-02-23 00:00:00] buying CLX for 444.61498260498047
+INFO:[2022-02-28 00:00:00] Current P/L: $-194.73502826690674, %96.11
+INFO:[2022-02-28 00:00:00] Current holdings: [[WRK quantity:10; profit:0.95][OTTR quantity:7; profit:0.99][AWR quantity:5; profit:0.98][UNH quantity:1; profit:0.99][CLX quantity:3; profit:0.99]]
+INFO:[2022-02-28 00:00:00] 4 interesting insider trades
+INFO:[2022-02-28 00:00:00] buying MRK for 457.2300109863281
+INFO:[2022-02-28 00:00:00] buying SUI for 362.8000030517578
+INFO:[2022-02-28 00:00:00] buying URI for 317.0449981689453
+INFO:[2022-03-02 00:00:00] Current P/L: $-208.21503162384033, %95.84
+INFO:[2022-03-02 00:00:00] Current holdings: [[WRK quantity:10; profit:0.93][OTTR quantity:7; profit:0.96][AWR quantity:5; profit:0.99][UNH quantity:1; profit:1.01][CLX quantity:3; profit:0.97][MRK quantity:6; profit:1.0][SUI quantity:2; profit:1.0][URI quantity:1; profit:1.01]]
+INFO:[2022-03-02 00:00:00] Selling asset [WRK] for $438.799991607666. Profi: 0.9251528331948632
+INFO:[2022-03-02 00:00:00] Selling asset [URI] for $321.3800048828125. Profi: 1.0136731591379882
+INFO:[2022-03-02 00:00:00] 4 interesting insider trades
+INFO:[2022-03-02 00:00:00] buying SGRY for 445.5199890136719
+INFO:[2022-03-03 00:00:00] Current P/L: $-186.50002002716064, %96.27
+INFO:[2022-03-03 00:00:00] Current holdings: [[OTTR quantity:7; profit:0.97][AWR quantity:5; profit:0.99][UNH quantity:1; profit:1.02][CLX quantity:3; profit:0.98][MRK quantity:6; profit:1.01][SUI quantity:2; profit:1.01][SGRY quantity:8; profit:1.0]]
+INFO:[2022-03-03 00:00:00] Selling asset [UNH] for $486.2949981689453. Profi: 1.0178326709880234
+INFO:[2022-03-03 00:00:00] 4 interesting insider trades
+INFO:[2022-03-03 00:00:00] buying HII for 419.77000427246094
+INFO:[2022-03-07 00:00:00] Current P/L: $-164.42001056671143, %96.71
+INFO:[2022-03-07 00:00:00] Current holdings: [[OTTR quantity:7; profit:1.0][AWR quantity:5; profit:1.05][CLX quantity:3; profit:0.98][MRK quantity:6; profit:1.02][SUI quantity:2; profit:0.99][SGRY quantity:8; profit:0.94][HII quantity:2; profit:1.04]]
+INFO:[2022-03-07 00:00:00] Selling asset [AWR] for $446.35000228881836. Profi: 1.048323665521175
+INFO:[2022-03-07 00:00:00] Selling asset [MRK] for $464.2200164794922. Profi: 1.015287722426805
+INFO:[2022-03-07 00:00:00] Selling asset [SGRY] for $418.8000030517578. Profi: 0.9400251691937125
+INFO:[2022-03-07 00:00:00] Selling asset [HII] for $438.1999969482422. Profi: 1.0439049776977845
+INFO:[2022-03-07 00:00:00] 1 interesting insider trades
+INFO:[2022-03-08 00:00:00] Current P/L: $-178.90001583099365, %96.42
+INFO:[2022-03-08 00:00:00] Current holdings: [[OTTR quantity:7; profit:1.0][CLX quantity:3; profit:0.96][SUI quantity:2; profit:0.97]]
+INFO:[2022-03-08 00:00:00] 0 interesting insider trades
+INFO:[2022-03-09 00:00:00] Current P/L: $-179.1150140762329, %96.42
+INFO:[2022-03-09 00:00:00] Current holdings: [[OTTR quantity:7; profit:1.01][CLX quantity:3; profit:0.93][SUI quantity:2; profit:0.99]]
+INFO:[2022-03-09 00:00:00] Selling asset [OTTR] for $444.14999198913574. Profi: 1.011558365399951
+INFO:[2022-03-09 00:00:00] Selling asset [CLX] for $413.5650100708008. Profi: 0.9301643584922415
+INFO:[2022-03-09 00:00:00] 4 interesting insider trades
+INFO:[2022-03-09 00:00:00] failed to get price for Z AND ZG
+INFO:[2022-03-09 00:00:00] buying DGX for 407.85001373291016
+INFO:[2022-03-09 00:00:00] buying OTTR for 444.14999198913574
+INFO:[2022-03-14 00:00:00] Current P/L: $-199.41003704071045, %96.01
+INFO:[2022-03-14 00:00:00] Current holdings: [[SUI quantity:2; profit:0.96][DGX quantity:3; profit:1.01][OTTR quantity:7; profit:0.97]]
+INFO:[2022-03-14 00:00:00] Selling asset [DGX] for $413.12999725341797. Profi: 1.0129458951642099
+INFO:[2022-03-14 00:00:00] 3 interesting insider trades
+INFO:[2022-03-14 00:00:00] buying NUE for 401.37000274658203
+INFO:[2022-03-15 00:00:00] Current P/L: $-207.82499980926514, %95.84
+INFO:[2022-03-15 00:00:00] Current holdings: [[SUI quantity:2; profit:0.95][OTTR quantity:7; profit:0.97][NUE quantity:3; profit:0.99]]
+INFO:[2022-03-15 00:00:00] 3 interesting insider trades
+INFO:[2022-03-15 00:00:00] buying RSG for 388.125
+INFO:[2022-03-16 00:00:00] Current P/L: $-184.80003452301025, %96.3
+INFO:[2022-03-16 00:00:00] Current holdings: [[SUI quantity:2; profit:0.96][OTTR quantity:7; profit:0.98][NUE quantity:3; profit:1.02][RSG quantity:3; profit:1.0]]
+INFO:[2022-03-16 00:00:00] Selling asset [NUE] for $407.84999084472656. Profi: 1.0161446746239178
+INFO:[2022-03-16 00:00:00] 6 interesting insider trades
+INFO:[2022-03-16 00:00:00] buying AWR for 429.62501525878906
+INFO:[2022-03-16 00:00:00] buying UNH for 0.0
+INFO:[2022-03-16 00:00:00] buying GPI for 385.30999755859375
+INFO:[2022-03-18 00:00:00] Current P/L: $-161.51503658294678, %96.77
+INFO:[2022-03-18 00:00:00] Current holdings: [[SUI quantity:2; profit:0.99][OTTR quantity:7; profit:0.97][RSG quantity:3; profit:1.02][AWR quantity:5; profit:1.01][UNH quantity:0; profit:1.02][GPI quantity:2; profit:1.02]]
+INFO:[2022-03-18 00:00:00] Selling asset [RSG] for $395.01001739501953. Profi: 1.0177391752528684
+INFO:[2022-03-18 00:00:00] Selling asset [AWR] for $434.5750045776367. Profi: 1.0115216506093483
+INFO:[2022-03-18 00:00:00] Selling asset [UNH] for $0.0. Profi: 1.0168020810500085
+INFO:[2022-03-18 00:00:00] Selling asset [GPI] for $393.55999755859375. Profi: 1.0214113312716353
+INFO:[2022-03-18 00:00:00] 2 interesting insider trades
+INFO:[2022-03-18 00:00:00] buying IEX for 400.8400115966797
+INFO:[2022-03-22 00:00:00] Current P/L: $-160.995041847229, %96.78
+INFO:[2022-03-22 00:00:00] Current holdings: [[SUI quantity:2; profit:0.98][OTTR quantity:7; profit:0.99][IEX quantity:2; profit:0.99]]
+INFO:[2022-03-22 00:00:00] 2 interesting insider trades
+INFO:[2022-03-23 00:00:00] Current P/L: $-179.56003284454346, %96.41
+INFO:[2022-03-23 00:00:00] Current holdings: [[SUI quantity:2; profit:0.97][OTTR quantity:7; profit:0.98][IEX quantity:2; profit:0.97]]
+INFO:[2022-03-23 00:00:00] 6 interesting insider trades
+INFO:[2022-03-23 00:00:00] buying CLX for 409.27498626708984
+INFO:[2022-03-23 00:00:00] buying TPH for 473.6599941253662
+INFO:[2022-03-23 00:00:00] buying CVNA for 419.3399963378906
+INFO:[2022-03-23 00:00:00] buying OKE for 413.87999725341797
+INFO:[2022-03-28 00:00:00] Current P/L: $-205.40998363494873, %95.89
+INFO:[2022-03-28 00:00:00] Current holdings: [[SUI quantity:2; profit:0.97][OTTR quantity:7; profit:0.99][IEX quantity:2; profit:0.97][CLX quantity:3; profit:1.01][TPH quantity:22; profit:0.97][CVNA quantity:3; profit:0.92][OKE quantity:6; profit:1.03]]
+INFO:[2022-03-28 00:00:00] Selling asset [CVNA] for $385.29000091552734. Profi: 0.9188009831646803
+INFO:[2022-03-28 00:00:00] Selling asset [OKE] for $426.12000274658203. Profi: 1.0295738029728205
+INFO:[2022-03-28 00:00:00] 4 interesting insider trades
+INFO:[2022-03-28 00:00:00] buying MRK for 406.4500045776367
+INFO:[2022-03-28 00:00:00] buying URI for 362.9199981689453
+INFO:[2022-03-29 00:00:00] Current P/L: $-166.52499103546143, %96.67
+INFO:[2022-03-29 00:00:00] Current holdings: [[SUI quantity:2; profit:0.99][OTTR quantity:7; profit:1.0][IEX quantity:2; profit:0.98][CLX quantity:3; profit:1.03][TPH quantity:22; profit:0.99][MRK quantity:5; profit:1.0][URI quantity:1; profit:1.01]]
+INFO:[2022-03-29 00:00:00] Selling asset [CLX] for $420.16500091552734. Profi: 1.0266080630721242
+INFO:[2022-03-29 00:00:00] 0 interesting insider trades

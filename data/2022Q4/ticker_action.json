@@ -1,0 +1,660 @@
+{
+    "2022-09-01 00:00:00": {},
+    "2022-09-02 00:00:00": {},
+    "2022-09-03 00:00:00": {},
+    "2022-09-04 00:00:00": {
+        "TPR": {
+            "accession_number": "0001225208-22-011393",
+            "ticker": "TPR",
+            "quantity": 184356.0,
+            "price": 23.63,
+            "total_trans_cost": 4356332.28,
+            "total_shares_after_trans": 474518.0
+        }
+    },
+    "2022-09-05 00:00:00": {},
+    "2022-09-06 00:00:00": {
+        "HCCI": {
+            "accession_number": "0001403431-22-000084",
+            "ticker": "HCCI",
+            "quantity": 36471.0,
+            "price": 28.79,
+            "total_trans_cost": 1050000.09,
+            "total_shares_after_trans": 103276.0
+        }
+    },
+    "2022-09-07 00:00:00": {
+        "BEN": {
+            "accession_number": "0001127602-22-025043",
+            "ticker": "BEN",
+            "quantity": 78056.0,
+            "price": 22.42,
+            "total_trans_cost": 1750015.52,
+            "total_shares_after_trans": 295539.0
+        },
+        "TUP": {
+            "accession_number": "0001127602-22-024991",
+            "ticker": "TUP",
+            "quantity": 447762.0,
+            "price": 4.02,
+            "total_trans_cost": 1800003.2399999998,
+            "total_shares_after_trans": 647441.0
+        }
+    },
+    "2022-09-08 00:00:00": {
+        "JCI": {
+            "accession_number": "0001127602-22-027067",
+            "ticker": "JCI",
+            "quantity": 20171.72,
+            "price": 66.39,
+            "total_trans_cost": 1339200.4908,
+            "total_shares_after_trans": 68128.38
+        }
+    },
+    "2022-09-09 00:00:00": {},
+    "2022-09-10 00:00:00": {},
+    "2022-09-11 00:00:00": {},
+    "2022-09-12 00:00:00": {
+        "PFG": {
+            "accession_number": "0001062993-22-023737",
+            "ticker": "PFG",
+            "quantity": 25992.0,
+            "price": 58.68,
+            "total_trans_cost": 1525210.56,
+            "total_shares_after_trans": 123737.0
+        }
+    },
+    "2022-09-13 00:00:00": {
+        "HPE": {
+            "accession_number": "0001062993-22-023858",
+            "ticker": "HPE",
+            "quantity": 152041.0,
+            "price": 16.15,
+            "total_trans_cost": 2455462.15,
+            "total_shares_after_trans": 269576.0
+        },
+        "NLSN": {
+            "accession_number": "0001209191-22-053613",
+            "ticker": "NLSN",
+            "quantity": 82706.0,
+            "price": 28.0,
+            "total_trans_cost": 2315768.0,
+            "total_shares_after_trans": 237894.58
+        }
+    },
+    "2022-09-14 00:00:00": {
+        "NLOK": {
+            "accession_number": "0001209191-22-056752",
+            "ticker": "NLOK",
+            "quantity": 139808.0,
+            "price": 22.63,
+            "total_trans_cost": 3163855.04,
+            "total_shares_after_trans": 3723051.0
+        }
+    },
+    "2022-09-15 00:00:00": {},
+    "2022-09-16 00:00:00": {
+        "JCI": {
+            "accession_number": "0001127602-22-025713",
+            "ticker": "JCI",
+            "quantity": 26227.0,
+            "price": 65.58,
+            "total_trans_cost": 1719966.66,
+            "total_shares_after_trans": 26227.0
+        }
+    },
+    "2022-09-17 00:00:00": {
+        "A": {
+            "accession_number": "0001127602-22-025877",
+            "ticker": "A",
+            "quantity": 19280.0,
+            "price": 148.0,
+            "total_trans_cost": 2853440.0,
+            "total_shares_after_trans": 110443.03
+        }
+    },
+    "2022-09-18 00:00:00": {
+        "J": {
+            "accession_number": "0001209191-22-058017",
+            "ticker": "J",
+            "quantity": 11211.0,
+            "price": 124.88,
+            "total_trans_cost": 1400029.68,
+            "total_shares_after_trans": 253130.0
+        }
+    },
+    "2022-09-19 00:00:00": {
+        "SANM": {
+            "accession_number": "0001104659-22-128220",
+            "ticker": "SANM",
+            "quantity": 17000.0,
+            "price": 60.29,
+            "total_trans_cost": 1024930.0,
+            "total_shares_after_trans": 76373.0
+        },
+        "IEX": {
+            "accession_number": "0001950285-22-000003",
+            "ticker": "IEX",
+            "quantity": 12895.0,
+            "price": 203.58,
+            "total_trans_cost": 2625164.1,
+            "total_shares_after_trans": 12895.0
+        }
+    },
+    "2022-09-20 00:00:00": {},
+    "2022-09-21 00:00:00": {},
+    "2022-09-22 00:00:00": {},
+    "2022-09-23 00:00:00": {},
+    "2022-09-24 00:00:00": {},
+    "2022-09-25 00:00:00": {},
+    "2022-09-26 00:00:00": {},
+    "2022-09-27 00:00:00": {},
+    "2022-09-28 00:00:00": {},
+    "2022-09-29 00:00:00": {
+        "DLTR": {
+            "accession_number": "0001127602-22-026501",
+            "ticker": "DLTR",
+            "quantity": 7929.0,
+            "price": 151.33,
+            "total_trans_cost": 1199895.57,
+            "total_shares_after_trans": 7929.0
+        }
+    },
+    "2022-09-30 00:00:00": {},
+    "2022-10-01 00:00:00": {},
+    "2022-10-02 00:00:00": {},
+    "2022-10-03 00:00:00": {},
+    "2022-10-04 00:00:00": {
+        "TPR": {
+            "accession_number": "0001225208-22-011393",
+            "ticker": "TPR",
+            "quantity": 184356.0,
+            "price": 23.63,
+            "total_trans_cost": 4356332.28,
+            "total_shares_after_trans": 474518.0
+        }
+    },
+    "2022-10-05 00:00:00": {},
+    "2022-10-06 00:00:00": {
+        "HCCI": {
+            "accession_number": "0001403431-22-000084",
+            "ticker": "HCCI",
+            "quantity": 36471.0,
+            "price": 28.79,
+            "total_trans_cost": 1050000.09,
+            "total_shares_after_trans": 103276.0
+        }
+    },
+    "2022-10-07 00:00:00": {
+        "BEN": {
+            "accession_number": "0001127602-22-025043",
+            "ticker": "BEN",
+            "quantity": 78056.0,
+            "price": 22.42,
+            "total_trans_cost": 1750015.52,
+            "total_shares_after_trans": 295539.0
+        },
+        "TUP": {
+            "accession_number": "0001127602-22-024991",
+            "ticker": "TUP",
+            "quantity": 447762.0,
+            "price": 4.02,
+            "total_trans_cost": 1800003.2399999998,
+            "total_shares_after_trans": 647441.0
+        }
+    },
+    "2022-10-08 00:00:00": {
+        "JCI": {
+            "accession_number": "0001127602-22-027067",
+            "ticker": "JCI",
+            "quantity": 20171.72,
+            "price": 66.39,
+            "total_trans_cost": 1339200.4908,
+            "total_shares_after_trans": 68128.38
+        }
+    },
+    "2022-10-09 00:00:00": {},
+    "2022-10-10 00:00:00": {},
+    "2022-10-11 00:00:00": {},
+    "2022-10-12 00:00:00": {
+        "PFG": {
+            "accession_number": "0001062993-22-023737",
+            "ticker": "PFG",
+            "quantity": 25992.0,
+            "price": 58.68,
+            "total_trans_cost": 1525210.56,
+            "total_shares_after_trans": 123737.0
+        }
+    },
+    "2022-10-13 00:00:00": {
+        "HPE": {
+            "accession_number": "0001062993-22-023858",
+            "ticker": "HPE",
+            "quantity": 152041.0,
+            "price": 16.15,
+            "total_trans_cost": 2455462.15,
+            "total_shares_after_trans": 269576.0
+        },
+        "NLSN": {
+            "accession_number": "0001209191-22-053613",
+            "ticker": "NLSN",
+            "quantity": 82706.0,
+            "price": 28.0,
+            "total_trans_cost": 2315768.0,
+            "total_shares_after_trans": 237894.58
+        }
+    },
+    "2022-10-14 00:00:00": {
+        "NLOK": {
+            "accession_number": "0001209191-22-056752",
+            "ticker": "NLOK",
+            "quantity": 139808.0,
+            "price": 22.63,
+            "total_trans_cost": 3163855.04,
+            "total_shares_after_trans": 3723051.0
+        }
+    },
+    "2022-10-15 00:00:00": {},
+    "2022-10-16 00:00:00": {
+        "JCI": {
+            "accession_number": "0001127602-22-025713",
+            "ticker": "JCI",
+            "quantity": 26227.0,
+            "price": 65.58,
+            "total_trans_cost": 1719966.66,
+            "total_shares_after_trans": 26227.0
+        }
+    },
+    "2022-10-17 00:00:00": {
+        "A": {
+            "accession_number": "0001127602-22-025877",
+            "ticker": "A",
+            "quantity": 19280.0,
+            "price": 148.0,
+            "total_trans_cost": 2853440.0,
+            "total_shares_after_trans": 110443.03
+        }
+    },
+    "2022-10-18 00:00:00": {
+        "J": {
+            "accession_number": "0001209191-22-058017",
+            "ticker": "J",
+            "quantity": 11211.0,
+            "price": 124.88,
+            "total_trans_cost": 1400029.68,
+            "total_shares_after_trans": 253130.0
+        }
+    },
+    "2022-10-19 00:00:00": {
+        "SANM": {
+            "accession_number": "0001104659-22-128220",
+            "ticker": "SANM",
+            "quantity": 17000.0,
+            "price": 60.29,
+            "total_trans_cost": 1024930.0,
+            "total_shares_after_trans": 76373.0
+        },
+        "IEX": {
+            "accession_number": "0001950285-22-000003",
+            "ticker": "IEX",
+            "quantity": 12895.0,
+            "price": 203.58,
+            "total_trans_cost": 2625164.1,
+            "total_shares_after_trans": 12895.0
+        }
+    },
+    "2022-10-20 00:00:00": {},
+    "2022-10-21 00:00:00": {},
+    "2022-10-22 00:00:00": {},
+    "2022-10-23 00:00:00": {},
+    "2022-10-24 00:00:00": {},
+    "2022-10-25 00:00:00": {},
+    "2022-10-26 00:00:00": {},
+    "2022-10-27 00:00:00": {},
+    "2022-10-28 00:00:00": {},
+    "2022-10-29 00:00:00": {
+        "DLTR": {
+            "accession_number": "0001127602-22-026501",
+            "ticker": "DLTR",
+            "quantity": 7929.0,
+            "price": 151.33,
+            "total_trans_cost": 1199895.57,
+            "total_shares_after_trans": 7929.0
+        }
+    },
+    "2022-10-30 00:00:00": {},
+    "2022-10-31 00:00:00": {
+        "BSY": {
+            "accession_number": "0001104659-22-112963",
+            "ticker": "BSY",
+            "quantity": 38555.0,
+            "price": 35.08,
+            "total_trans_cost": 1352509.4,
+            "total_shares_after_trans": 2036446.0
+        }
+    },
+    "2022-11-01 00:00:00": {},
+    "2022-11-02 00:00:00": {},
+    "2022-11-03 00:00:00": {},
+    "2022-11-04 00:00:00": {
+        "TPR": {
+            "accession_number": "0001225208-22-011393",
+            "ticker": "TPR",
+            "quantity": 184356.0,
+            "price": 23.63,
+            "total_trans_cost": 4356332.28,
+            "total_shares_after_trans": 474518.0
+        }
+    },
+    "2022-11-05 00:00:00": {},
+    "2022-11-06 00:00:00": {
+        "HCCI": {
+            "accession_number": "0001403431-22-000084",
+            "ticker": "HCCI",
+            "quantity": 36471.0,
+            "price": 28.79,
+            "total_trans_cost": 1050000.09,
+            "total_shares_after_trans": 103276.0
+        }
+    },
+    "2022-11-07 00:00:00": {
+        "BEN": {
+            "accession_number": "0001127602-22-025043",
+            "ticker": "BEN",
+            "quantity": 78056.0,
+            "price": 22.42,
+            "total_trans_cost": 1750015.52,
+            "total_shares_after_trans": 295539.0
+        },
+        "TUP": {
+            "accession_number": "0001127602-22-024991",
+            "ticker": "TUP",
+            "quantity": 447762.0,
+            "price": 4.02,
+            "total_trans_cost": 1800003.2399999998,
+            "total_shares_after_trans": 647441.0
+        }
+    },
+    "2022-11-08 00:00:00": {
+        "JCI": {
+            "accession_number": "0001127602-22-027067",
+            "ticker": "JCI",
+            "quantity": 20171.72,
+            "price": 66.39,
+            "total_trans_cost": 1339200.4908,
+            "total_shares_after_trans": 68128.38
+        }
+    },
+    "2022-11-09 00:00:00": {},
+    "2022-11-10 00:00:00": {},
+    "2022-11-11 00:00:00": {},
+    "2022-11-12 00:00:00": {
+        "PFG": {
+            "accession_number": "0001062993-22-023737",
+            "ticker": "PFG",
+            "quantity": 25992.0,
+            "price": 58.68,
+            "total_trans_cost": 1525210.56,
+            "total_shares_after_trans": 123737.0
+        }
+    },
+    "2022-11-13 00:00:00": {
+        "HPE": {
+            "accession_number": "0001062993-22-023858",
+            "ticker": "HPE",
+            "quantity": 152041.0,
+            "price": 16.15,
+            "total_trans_cost": 2455462.15,
+            "total_shares_after_trans": 269576.0
+        },
+        "NLSN": {
+            "accession_number": "0001209191-22-053613",
+            "ticker": "NLSN",
+            "quantity": 82706.0,
+            "price": 28.0,
+            "total_trans_cost": 2315768.0,
+            "total_shares_after_trans": 237894.58
+        }
+    },
+    "2022-11-14 00:00:00": {
+        "NLOK": {
+            "accession_number": "0001209191-22-056752",
+            "ticker": "NLOK",
+            "quantity": 139808.0,
+            "price": 22.63,
+            "total_trans_cost": 3163855.04,
+            "total_shares_after_trans": 3723051.0
+        }
+    },
+    "2022-11-15 00:00:00": {},
+    "2022-11-16 00:00:00": {
+        "JCI": {
+            "accession_number": "0001127602-22-025713",
+            "ticker": "JCI",
+            "quantity": 26227.0,
+            "price": 65.58,
+            "total_trans_cost": 1719966.66,
+            "total_shares_after_trans": 26227.0
+        }
+    },
+    "2022-11-17 00:00:00": {
+        "A": {
+            "accession_number": "0001127602-22-025877",
+            "ticker": "A",
+            "quantity": 19280.0,
+            "price": 148.0,
+            "total_trans_cost": 2853440.0,
+            "total_shares_after_trans": 110443.03
+        }
+    },
+    "2022-11-18 00:00:00": {
+        "J": {
+            "accession_number": "0001209191-22-058017",
+            "ticker": "J",
+            "quantity": 11211.0,
+            "price": 124.88,
+            "total_trans_cost": 1400029.68,
+            "total_shares_after_trans": 253130.0
+        }
+    },
+    "2022-11-19 00:00:00": {
+        "SANM": {
+            "accession_number": "0001104659-22-128220",
+            "ticker": "SANM",
+            "quantity": 17000.0,
+            "price": 60.29,
+            "total_trans_cost": 1024930.0,
+            "total_shares_after_trans": 76373.0
+        },
+        "IEX": {
+            "accession_number": "0001950285-22-000003",
+            "ticker": "IEX",
+            "quantity": 12895.0,
+            "price": 203.58,
+            "total_trans_cost": 2625164.1,
+            "total_shares_after_trans": 12895.0
+        }
+    },
+    "2022-11-20 00:00:00": {},
+    "2022-11-21 00:00:00": {},
+    "2022-11-22 00:00:00": {},
+    "2022-11-23 00:00:00": {},
+    "2022-11-24 00:00:00": {},
+    "2022-11-25 00:00:00": {},
+    "2022-11-26 00:00:00": {},
+    "2022-11-27 00:00:00": {},
+    "2022-11-28 00:00:00": {},
+    "2022-11-29 00:00:00": {
+        "DLTR": {
+            "accession_number": "0001127602-22-026501",
+            "ticker": "DLTR",
+            "quantity": 7929.0,
+            "price": 151.33,
+            "total_trans_cost": 1199895.57,
+            "total_shares_after_trans": 7929.0
+        }
+    },
+    "2022-11-30 00:00:00": {},
+    "2022-12-01 00:00:00": {},
+    "2022-12-02 00:00:00": {},
+    "2022-12-03 00:00:00": {},
+    "2022-12-04 00:00:00": {
+        "TPR": {
+            "accession_number": "0001225208-22-011393",
+            "ticker": "TPR",
+            "quantity": 184356.0,
+            "price": 23.63,
+            "total_trans_cost": 4356332.28,
+            "total_shares_after_trans": 474518.0
+        }
+    },
+    "2022-12-05 00:00:00": {},
+    "2022-12-06 00:00:00": {
+        "HCCI": {
+            "accession_number": "0001403431-22-000084",
+            "ticker": "HCCI",
+            "quantity": 36471.0,
+            "price": 28.79,
+            "total_trans_cost": 1050000.09,
+            "total_shares_after_trans": 103276.0
+        }
+    },
+    "2022-12-07 00:00:00": {
+        "BEN": {
+            "accession_number": "0001127602-22-025043",
+            "ticker": "BEN",
+            "quantity": 78056.0,
+            "price": 22.42,
+            "total_trans_cost": 1750015.52,
+            "total_shares_after_trans": 295539.0
+        },
+        "TUP": {
+            "accession_number": "0001127602-22-024991",
+            "ticker": "TUP",
+            "quantity": 447762.0,
+            "price": 4.02,
+            "total_trans_cost": 1800003.2399999998,
+            "total_shares_after_trans": 647441.0
+        }
+    },
+    "2022-12-08 00:00:00": {
+        "JCI": {
+            "accession_number": "0001127602-22-027067",
+            "ticker": "JCI",
+            "quantity": 20171.72,
+            "price": 66.39,
+            "total_trans_cost": 1339200.4908,
+            "total_shares_after_trans": 68128.38
+        }
+    },
+    "2022-12-09 00:00:00": {},
+    "2022-12-10 00:00:00": {},
+    "2022-12-11 00:00:00": {},
+    "2022-12-12 00:00:00": {
+        "PFG": {
+            "accession_number": "0001062993-22-023737",
+            "ticker": "PFG",
+            "quantity": 25992.0,
+            "price": 58.68,
+            "total_trans_cost": 1525210.56,
+            "total_shares_after_trans": 123737.0
+        }
+    },
+    "2022-12-13 00:00:00": {
+        "HPE": {
+            "accession_number": "0001062993-22-023858",
+            "ticker": "HPE",
+            "quantity": 152041.0,
+            "price": 16.15,
+            "total_trans_cost": 2455462.15,
+            "total_shares_after_trans": 269576.0
+        },
+        "NLSN": {
+            "accession_number": "0001209191-22-053613",
+            "ticker": "NLSN",
+            "quantity": 82706.0,
+            "price": 28.0,
+            "total_trans_cost": 2315768.0,
+            "total_shares_after_trans": 237894.58
+        }
+    },
+    "2022-12-14 00:00:00": {
+        "NLOK": {
+            "accession_number": "0001209191-22-056752",
+            "ticker": "NLOK",
+            "quantity": 139808.0,
+            "price": 22.63,
+            "total_trans_cost": 3163855.04,
+            "total_shares_after_trans": 3723051.0
+        }
+    },
+    "2022-12-15 00:00:00": {},
+    "2022-12-16 00:00:00": {
+        "JCI": {
+            "accession_number": "0001127602-22-025713",
+            "ticker": "JCI",
+            "quantity": 26227.0,
+            "price": 65.58,
+            "total_trans_cost": 1719966.66,
+            "total_shares_after_trans": 26227.0
+        }
+    },
+    "2022-12-17 00:00:00": {
+        "A": {
+            "accession_number": "0001127602-22-025877",
+            "ticker": "A",
+            "quantity": 19280.0,
+            "price": 148.0,
+            "total_trans_cost": 2853440.0,
+            "total_shares_after_trans": 110443.03
+        }
+    },
+    "2022-12-18 00:00:00": {
+        "J": {
+            "accession_number": "0001209191-22-058017",
+            "ticker": "J",
+            "quantity": 11211.0,
+            "price": 124.88,
+            "total_trans_cost": 1400029.68,
+            "total_shares_after_trans": 253130.0
+        }
+    },
+    "2022-12-19 00:00:00": {
+        "SANM": {
+            "accession_number": "0001104659-22-128220",
+            "ticker": "SANM",
+            "quantity": 17000.0,
+            "price": 60.29,
+            "total_trans_cost": 1024930.0,
+            "total_shares_after_trans": 76373.0
+        },
+        "IEX": {
+            "accession_number": "0001950285-22-000003",
+            "ticker": "IEX",
+            "quantity": 12895.0,
+            "price": 203.58,
+            "total_trans_cost": 2625164.1,
+            "total_shares_after_trans": 12895.0
+        }
+    },
+    "2022-12-20 00:00:00": {},
+    "2022-12-21 00:00:00": {},
+    "2022-12-22 00:00:00": {},
+    "2022-12-23 00:00:00": {},
+    "2022-12-24 00:00:00": {},
+    "2022-12-25 00:00:00": {},
+    "2022-12-26 00:00:00": {},
+    "2022-12-27 00:00:00": {},
+    "2022-12-28 00:00:00": {},
+    "2022-12-29 00:00:00": {
+        "DLTR": {
+            "accession_number": "0001127602-22-026501",
+            "ticker": "DLTR",
+            "quantity": 7929.0,
+            "price": 151.33,
+            "total_trans_cost": 1199895.57,
+            "total_shares_after_trans": 7929.0
+        }
+    },
+    "2022-12-30 00:00:00": {}
+}

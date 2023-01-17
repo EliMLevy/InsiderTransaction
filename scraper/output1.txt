@@ -1,0 +1,240 @@
+******
+******
+{'company_name': '\n\nCANADIAN IMPERIAL BANK OF COMMERCE /CAN/ (0001045520) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001045520&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/1045520/000110465923002197/0001104659-23-002197.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0001104659-23-002197 \xa0Act: 33 \xa0Size:\xa0260 KB\n', 'accepted': '2023-01-0914:14:49', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nJacob Funds Inc. (0001090372) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001090372&owner=exclude&count=80', 'form': '497', 'filing_link': '/Archives/edgar/data/1090372/000089418923000150/0000894189-23-000150.txt', 'description': 'Definitive materialsAccession Number: 0000894189-23-000150 \xa0Act: 33 \xa0Size:\xa05 MB\n', 'accepted': '2023-01-0914:14:36', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nTORONTO DOMINION BANK (0000947263) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0000947263&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/947263/000114036123001023/0001140361-23-001023.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0001140361-23-001023 \xa0Act: 33 \xa0Size:\xa0220 KB\n', 'accepted': '2023-01-0913:57:23', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nTORONTO DOMINION BANK (0000947263) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0000947263&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/947263/000114036123001021/0001140361-23-001021.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0001140361-23-001021 \xa0Act: 33 \xa0Size:\xa0301 KB\n', 'accepted': '2023-01-0913:50:28', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nCREDIT SUISSE AG (0001053092) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001053092&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/1053092/000095010323000254/0000950103-23-000254.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0000950103-23-000254 \xa0Act: 33 \xa0Size:\xa0132 KB\n', 'accepted': '2023-01-0913:46:28', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nAdvisors Disciplined Trust 2157 (0001944031) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001944031&owner=exclude&count=80', 'form': '497J', 'filing_link': '/Archives/edgar/data/1944031/000138713123000170/0001387131-23-000170.txt', 'description': 'Certification of no change in definitive materialsAccession Number: 0001387131-23-000170 \xa0Act: 33 \xa0Size:\xa06 KB\n', 'accepted': '2023-01-0913:42:33', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nJPMorgan Chase Financial Co. LLC (0001665650) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001665650&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/1665650/000121390023001612/0001213900-23-001612.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0001213900-23-001612 \xa0Act: 33 \xa0Size:\xa0671 KB\n', 'accepted': '2023-01-0913:32:57', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nJPMORGAN CHASE & CO (0000019617) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0000019617&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/19617/000121390023001612/0001213900-23-001612.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0001213900-23-001612 \xa0Act: 33 \xa0Size:\xa0671 KB\n', 'accepted': '2023-01-0913:32:57', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nGS Finance Corp. (0001419828) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001419828&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/1419828/000156459023000285/0001564590-23-000285.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0001564590-23-000285 \xa0Act: 33 \xa0Size:\xa0567 KB\n', 'accepted': '2023-01-0913:31:36', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nGOLDMAN SACHS GROUP INC (0000886982) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0000886982&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/886982/000156459023000285/0001564590-23-000285.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0001564590-23-000285 \xa0Act: 33 \xa0Size:\xa0567 KB\n', 'accepted': '2023-01-0913:31:36', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nJPMorgan Chase Financial Co. LLC (0001665650) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001665650&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/1665650/000121390023001611/0001213900-23-001611.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0001213900-23-001611 \xa0Act: 33 \xa0Size:\xa0679 KB\n', 'accepted': '2023-01-0913:31:02', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nJPMORGAN CHASE & CO (0000019617) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0000019617&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/19617/000121390023001611/0001213900-23-001611.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0001213900-23-001611 \xa0Act: 33 \xa0Size:\xa0679 KB\n', 'accepted': '2023-01-0913:31:02', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nCANADIAN IMPERIAL BANK OF COMMERCE /CAN/ (0001045520) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001045520&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/1045520/000110465923002184/0001104659-23-002184.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0001104659-23-002184 \xa0Act: 33 \xa0Size:\xa0896 KB\n', 'accepted': '2023-01-0913:23:24', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nBANK OF MONTREAL /CAN/ (0000927971) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0000927971&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/927971/000121465923000388/0001214659-23-000388.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0001214659-23-000388 \xa0Act: 33 \xa0Size:\xa0125 KB\n', 'accepted': '2023-01-0913:21:37', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nGS Finance Corp. (0001419828) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001419828&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/1419828/000156459023000284/0001564590-23-000284.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0001564590-23-000284 \xa0Act: 33 \xa0Size:\xa0292 KB\n', 'accepted': '2023-01-0913:15:04', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nGOLDMAN SACHS GROUP INC (0000886982) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0000886982&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/886982/000156459023000284/0001564590-23-000284.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0001564590-23-000284 \xa0Act: 33 \xa0Size:\xa0292 KB\n', 'accepted': '2023-01-0913:15:04', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nFT 10475 (0001945131) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001945131&owner=exclude&count=80', 'form': '497J', 'filing_link': '/Archives/edgar/data/1945131/000144554623000113/0001445546-23-000113.txt', 'description': 'Certification of no change in definitive materialsAccession Number: 0001445546-23-000113 \xa0Act: 33 \xa0Size:\xa02 KB\n', 'accepted': '2023-01-0913:05:38', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nFT 10455 (0001943974) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001943974&owner=exclude&count=80', 'form': '497J', 'filing_link': '/Archives/edgar/data/1943974/000144554623000112/0001445546-23-000112.txt', 'description': 'Certification of no change in definitive materialsAccession Number: 0001445546-23-000112 \xa0Act: 33 \xa0Size:\xa02 KB\n', 'accepted': '2023-01-0913:04:28', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nFT 10490 (0001945150) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001945150&owner=exclude&count=80', 'form': '487', 'filing_link': '/Archives/edgar/data/1945150/000144554623000111/0001445546-23-000111.txt', 'description': 'Pre-effective pricing amendments [Rule 487]Accession Number: 0001445546-23-000111 \xa0Act: 33 \xa0Size:\xa0623 KB\n', 'accepted': '2023-01-0912:53:33', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nBANK OF NOVA SCOTIA (0000009631) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0000009631&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/9631/000114036123001014/0001140361-23-001014.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0001140361-23-001014 \xa0Act: 33 \xa0Size:\xa0431 KB\n', 'accepted': '2023-01-0912:52:30', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nMorgan Stanley Finance LLC (0001666268) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001666268&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/1666268/000183988223000436/0001839882-23-000436.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0001839882-23-000436 \xa0Act: 33 \xa0Size:\xa01 MB\n', 'accepted': '2023-01-0912:52:12', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nMORGAN STANLEY (0000895421) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0000895421&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/895421/000183988223000436/0001839882-23-000436.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0001839882-23-000436 \xa0Act: 33 \xa0Size:\xa01 MB\n', 'accepted': '2023-01-0912:52:12', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nJPMorgan Chase Financial Co. LLC (0001665650) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001665650&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/1665650/000121390023001601/0001213900-23-001601.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0001213900-23-001601 \xa0Act: 33 \xa0Size:\xa0294 KB\n', 'accepted': '2023-01-0912:51:00', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nJPMORGAN CHASE & CO (0000019617) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0000019617&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/19617/000121390023001601/0001213900-23-001601.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0001213900-23-001601 \xa0Act: 33 \xa0Size:\xa0294 KB\n', 'accepted': '2023-01-0912:51:00', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nMorgan Stanley Finance LLC (0001666268) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001666268&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/1666268/000095010323000251/0000950103-23-000251.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0000950103-23-000251 \xa0Act: 33 \xa0Size:\xa0319 KB\n', 'accepted': '2023-01-0912:40:13', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nMORGAN STANLEY (0000895421) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0000895421&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/895421/000095010323000251/0000950103-23-000251.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0000950103-23-000251 \xa0Act: 33 \xa0Size:\xa0319 KB\n', 'accepted': '2023-01-0912:40:13', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nFT 10485 (0001945143) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001945143&owner=exclude&count=80', 'form': '487', 'filing_link': '/Archives/edgar/data/1945143/000144554623000110/0001445546-23-000110.txt', 'description': 'Pre-effective pricing amendments [Rule 487]Accession Number: 0001445546-23-000110 \xa0Act: 33 \xa0Size:\xa0262 KB\n', 'accepted': '2023-01-0912:39:43', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nFT 10486 (0001945144) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001945144&owner=exclude&count=80', 'form': '487', 'filing_link': '/Archives/edgar/data/1945144/000144554623000109/0001445546-23-000109.txt', 'description': 'Pre-effective pricing amendments [Rule 487]Accession Number: 0001445546-23-000109 \xa0Act: 33 \xa0Size:\xa0283 KB\n', 'accepted': '2023-01-0912:37:21', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nFT 10489 (0001945148) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001945148&owner=exclude&count=80', 'form': '487', 'filing_link': '/Archives/edgar/data/1945148/000144554623000108/0001445546-23-000108.txt', 'description': 'Pre-effective pricing amendments [Rule 487]Accession Number: 0001445546-23-000108 \xa0Act: 33 \xa0Size:\xa0295 KB\n', 'accepted': '2023-01-0912:37:00', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nFT 10488 (0001945147) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001945147&owner=exclude&count=80', 'form': '487', 'filing_link': '/Archives/edgar/data/1945147/000144554623000107/0001445546-23-000107.txt', 'description': 'Pre-effective pricing amendments [Rule 487]Accession Number: 0001445546-23-000107 \xa0Act: 33 \xa0Size:\xa0281 KB\n', 'accepted': '2023-01-0912:36:55', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nFT 10484 (0001945141) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001945141&owner=exclude&count=80', 'form': '487', 'filing_link': '/Archives/edgar/data/1945141/000144554623000106/0001445546-23-000106.txt', 'description': 'Pre-effective pricing amendments [Rule 487]Accession Number: 0001445546-23-000106 \xa0Act: 33 \xa0Size:\xa0266 KB\n', 'accepted': '2023-01-0912:36:17', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nFT 10487 (0001945145) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001945145&owner=exclude&count=80', 'form': '487', 'filing_link': '/Archives/edgar/data/1945145/000144554623000105/0001445546-23-000105.txt', 'description': 'Pre-effective pricing amendments [Rule 487]Accession Number: 0001445546-23-000105 \xa0Act: 33 \xa0Size:\xa0244 KB\n', 'accepted': '2023-01-0912:36:03', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nMorgan Stanley Finance LLC (0001666268) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001666268&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/1666268/000095010323000250/0000950103-23-000250.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0000950103-23-000250 \xa0Act: 33 \xa0Size:\xa0249 KB\n', 'accepted': '2023-01-0912:31:26', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nMORGAN STANLEY (0000895421) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0000895421&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/895421/000095010323000250/0000950103-23-000250.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0000950103-23-000250 \xa0Act: 33 \xa0Size:\xa0249 KB\n', 'accepted': '2023-01-0912:31:26', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nCREDIT SUISSE AG (0001053092) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001053092&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/1053092/000095010323000249/0000950103-23-000249.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0000950103-23-000249 \xa0Act: 33 \xa0Size:\xa0218 KB\n', 'accepted': '2023-01-0912:23:27', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nJPMorgan Chase Financial Co. LLC (0001665650) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001665650&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/1665650/000121390023001597/0001213900-23-001597.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0001213900-23-001597 \xa0Act: 33 \xa0Size:\xa0203 KB\n', 'accepted': '2023-01-0912:17:51', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nJPMORGAN CHASE & CO (0000019617) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0000019617&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/19617/000121390023001597/0001213900-23-001597.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0001213900-23-001597 \xa0Act: 33 \xa0Size:\xa0203 KB\n', 'accepted': '2023-01-0912:17:51', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nCITIGROUP INC (0000831001) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0000831001&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/831001/000095010323000248/0000950103-23-000248.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0000950103-23-000248 \xa0Act: 33 \xa0Size:\xa0195 KB\n', 'accepted': '2023-01-0912:10:36', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nCitigroup Global Markets Holdings Inc. (0000200245) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0000200245&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/200245/000095010323000248/0000950103-23-000248.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0000950103-23-000248 \xa0Act: 33 \xa0Size:\xa0195 KB\n', 'accepted': '2023-01-0912:10:36', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nBANK OF AMERICA CORP /DE/ (0000070858) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0000070858&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/70858/000121390023001591/0001213900-23-001591.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0001213900-23-001591 \xa0Act: 33 \xa0Size:\xa085 KB\n', 'accepted': '2023-01-0912:06:59', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nJPMorgan Chase Financial Co. LLC (0001665650) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001665650&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/1665650/000121390023001588/0001213900-23-001588.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0001213900-23-001588 \xa0Act: 33 \xa0Size:\xa0632 KB\n', 'accepted': '2023-01-0912:02:06', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nJPMORGAN CHASE & CO (0000019617) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0000019617&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/19617/000121390023001588/0001213900-23-001588.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0001213900-23-001588 \xa0Act: 33 \xa0Size:\xa0632 KB\n', 'accepted': '2023-01-0912:02:06', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nBANK OF MONTREAL /CAN/ (0000927971) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0000927971&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/927971/000121465923000381/0001214659-23-000381.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0001214659-23-000381 \xa0Act: 33 \xa0Size:\xa0129 KB\n', 'accepted': '2023-01-0912:01:07', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nUBS AG (0001114446) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001114446&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/1114446/000183988223000434/0001839882-23-000434.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0001839882-23-000434 \xa0Act: 33 \xa0Size:\xa0593 KB\n', 'accepted': '2023-01-0911:57:48', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nJPMorgan Chase Financial Co. LLC (0001665650) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001665650&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/1665650/000121390023001582/0001213900-23-001582.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0001213900-23-001582 \xa0Act: 33 \xa0Size:\xa0706 KB\n', 'accepted': '2023-01-0911:49:14', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nJPMORGAN CHASE & CO (0000019617) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0000019617&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/19617/000121390023001582/0001213900-23-001582.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0001213900-23-001582 \xa0Act: 33 \xa0Size:\xa0706 KB\n', 'accepted': '2023-01-0911:49:14', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nJPMorgan Chase Financial Co. LLC (0001665650) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001665650&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/1665650/000121390023001580/0001213900-23-001580.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0001213900-23-001580 \xa0Act: 33 \xa0Size:\xa0507 KB\n', 'accepted': '2023-01-0911:42:56', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nJPMORGAN CHASE & CO (0000019617) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0000019617&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/19617/000121390023001580/0001213900-23-001580.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0001213900-23-001580 \xa0Act: 33 \xa0Size:\xa0507 KB\n', 'accepted': '2023-01-0911:42:56', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nARCHER INVESTMENT SERIES TRUST (0001477491) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001477491&owner=exclude&count=80', 'form': '497K', 'filing_link': '/Archives/edgar/data/1477491/000116204423000019/0001162044-23-000019.txt', 'description': 'Summary Prospectus for certain open-end management investment companies filed pursuant to Securities Act Rule 497(K)Accession Number: 0001162044-23-000019 \xa0Act: 33 \xa0Size:\xa0996 KB\n', 'accepted': '2023-01-0911:39:11', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nARCHER INVESTMENT SERIES TRUST (0001477491) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001477491&owner=exclude&count=80', 'form': '497K', 'filing_link': '/Archives/edgar/data/1477491/000116204423000018/0001162044-23-000018.txt', 'description': 'Summary Prospectus for certain open-end management investment companies filed pursuant to Securities Act Rule 497(K)Accession Number: 0001162044-23-000018 \xa0Act: 33 \xa0Size:\xa01 MB\n', 'accepted': '2023-01-0911:36:30', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nARCHER INVESTMENT SERIES TRUST (0001477491) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001477491&owner=exclude&count=80', 'form': '497K', 'filing_link': '/Archives/edgar/data/1477491/000116204423000017/0001162044-23-000017.txt', 'description': 'Summary Prospectus for certain open-end management investment companies filed pursuant to Securities Act Rule 497(K)Accession Number: 0001162044-23-000017 \xa0Act: 33 \xa0Size:\xa01 MB\n', 'accepted': '2023-01-0911:34:11', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nARCHER INVESTMENT SERIES TRUST (0001477491) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001477491&owner=exclude&count=80', 'form': '497K', 'filing_link': '/Archives/edgar/data/1477491/000116204423000016/0001162044-23-000016.txt', 'description': 'Summary Prospectus for certain open-end management investment companies filed pursuant to Securities Act Rule 497(K)Accession Number: 0001162044-23-000016 \xa0Act: 33 \xa0Size:\xa01 MB\n', 'accepted': '2023-01-0911:31:22', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nARCHER INVESTMENT SERIES TRUST (0001477491) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001477491&owner=exclude&count=80', 'form': '497K', 'filing_link': '/Archives/edgar/data/1477491/000116204423000015/0001162044-23-000015.txt', 'description': 'Summary Prospectus for certain open-end management investment companies filed pursuant to Securities Act Rule 497(K)Accession Number: 0001162044-23-000015 \xa0Act: 33 \xa0Size:\xa01 MB\n', 'accepted': '2023-01-0911:28:13', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nUBS AG (0001114446) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001114446&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/1114446/000183988223000429/0001839882-23-000429.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0001839882-23-000429 \xa0Act: 33 \xa0Size:\xa0539 KB\n', 'accepted': '2023-01-0911:26:09', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nARCHER INVESTMENT SERIES TRUST (0001477491) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001477491&owner=exclude&count=80', 'form': '497K', 'filing_link': '/Archives/edgar/data/1477491/000116204423000013/0001162044-23-000013.txt', 'description': 'Summary Prospectus for certain open-end management investment companies filed pursuant to Securities Act Rule 497(K)Accession Number: 0001162044-23-000013 \xa0Act: 33 \xa0Size:\xa01 MB\n', 'accepted': '2023-01-0911:22:04', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nFidelity Private Credit Fund (0001920453) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001920453&owner=exclude&count=80', 'form': '424B3', 'filing_link': '/Archives/edgar/data/1920453/000119312523004349/0001193125-23-004349.txt', 'description': 'Prospectus [Rule 424(b)(3)]Accession Number: 0001193125-23-004349 \xa0Act: 33 \xa0Size:\xa02 MB\n', 'accepted': '2023-01-0911:21:16', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nDELAWARE GROUP EQUITY FUNDS V (0000809821) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0000809821&owner=exclude&count=80', 'form': '485BXT', 'filing_link': '/Archives/edgar/data/809821/000168035923000004/0001680359-23-000004.txt', 'description': 'New effective date for post-effective amendment [Rule 485(b)(1)(iii)]Accession Number: 0001680359-23-000004 \xa0Act: 33 \xa0Size:\xa058 KB\n', 'accepted': '2023-01-0911:09:15', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nDELAWARE GROUP EQUITY FUNDS V (0000809821) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0000809821&owner=exclude&count=80', 'form': '485BXT', 'filing_link': '/Archives/edgar/data/809821/000168035923000004/0001680359-23-000004.txt', 'description': 'New effective date for post-effective amendment [Rule 485(b)(1)(iii)]Accession Number: 0001680359-23-000004 \xa0Act: 40 \xa0Size:\xa058 KB\n', 'accepted': '2023-01-0911:09:15', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nBARCLAYS BANK PLC (0000312070) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0000312070&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/312070/000148105723000119/0001481057-23-000119.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0001481057-23-000119 \xa0Act: 33 \xa0Size:\xa0543 KB\n', 'accepted': '2023-01-0911:08:10', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nUBS AG (0001114446) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001114446&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/1114446/000183988223000427/0001839882-23-000427.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0001839882-23-000427 \xa0Act: 33 \xa0Size:\xa0551 KB\n', 'accepted': '2023-01-0911:05:11', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nDELAWARE GROUP EQUITY FUNDS IV (0000778108) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0000778108&owner=exclude&count=80', 'form': '485BXT', 'filing_link': '/Archives/edgar/data/778108/000168035923000002/0001680359-23-000002.txt', 'description': 'New effective date for post-effective amendment [Rule 485(b)(1)(iii)]Accession Number: 0001680359-23-000002 \xa0Act: 33 \xa0Size:\xa057 KB\n', 'accepted': '2023-01-0911:05:01', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nDELAWARE GROUP EQUITY FUNDS IV (0000778108) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0000778108&owner=exclude&count=80', 'form': '485BXT', 'filing_link': '/Archives/edgar/data/778108/000168035923000002/0001680359-23-000002.txt', 'description': 'New effective date for post-effective amendment [Rule 485(b)(1)(iii)]Accession Number: 0001680359-23-000002 \xa0Act: 40 \xa0Size:\xa057 KB\n', 'accepted': '2023-01-0911:05:01', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nBofA Finance LLC (0001682472) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001682472&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/1682472/000148105723000118/0001481057-23-000118.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0001481057-23-000118 \xa0Act: 33 \xa0Size:\xa0619 KB\n', 'accepted': '2023-01-0910:56:56', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nBANK OF AMERICA CORP /DE/ (0000070858) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0000070858&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/70858/000148105723000118/0001481057-23-000118.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0001481057-23-000118 \xa0Act: 33 \xa0Size:\xa0619 KB\n', 'accepted': '2023-01-0910:56:56', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nUBS AG (0001114446) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001114446&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/1114446/000183988223000424/0001839882-23-000424.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0001839882-23-000424 \xa0Act: 33 \xa0Size:\xa0713 KB\n', 'accepted': '2023-01-0910:46:33', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nInvesco Unit Trusts Series 2263 (0001926674) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001926674&owner=exclude&count=80', 'form': '487', 'filing_link': '/Archives/edgar/data/1926674/000152862123000005/0001528621-23-000005.txt', 'description': 'Pre-effective pricing amendments [Rule 487]Accession Number: 0001528621-23-000005 \xa0Act: 33 \xa0Size:\xa01 MB\n', 'accepted': '2023-01-0910:46:18', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nUBS AG (0001114446) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001114446&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/1114446/000183988223000423/0001839882-23-000423.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0001839882-23-000423 \xa0Act: 33 \xa0Size:\xa0595 KB\n', 'accepted': '2023-01-0910:45:31', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nCITIGROUP INC (0000831001) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0000831001&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/831001/000095010323000247/0000950103-23-000247.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0000950103-23-000247 \xa0Act: 33 \xa0Size:\xa0121 KB\n', 'accepted': '2023-01-0910:42:23', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nCitigroup Global Markets Holdings Inc. (0000200245) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0000200245&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/200245/000095010323000247/0000950103-23-000247.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0000950103-23-000247 \xa0Act: 33 \xa0Size:\xa0121 KB\n', 'accepted': '2023-01-0910:42:23', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nCambria ETF Trust (0001529390) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001529390&owner=exclude&count=80', 'form': '485BXT', 'filing_link': '/Archives/edgar/data/1529390/000121390023001555/0001213900-23-001555.txt', 'description': 'New effective date for post-effective amendment [Rule 485(b)(1)(iii)]Accession Number: 0001213900-23-001555 \xa0Act: 33 \xa0Size:\xa044 KB\n', 'accepted': '2023-01-0910:40:27', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nCambria ETF Trust (0001529390) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001529390&owner=exclude&count=80', 'form': '485BXT', 'filing_link': '/Archives/edgar/data/1529390/000121390023001555/0001213900-23-001555.txt', 'description': 'New effective date for post-effective amendment [Rule 485(b)(1)(iii)]Accession Number: 0001213900-23-001555 \xa0Act: 40 \xa0Size:\xa044 KB\n', 'accepted': '2023-01-0910:40:27', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nCITIGROUP INC (0000831001) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0000831001&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/831001/000095010323000246/0000950103-23-000246.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0000950103-23-000246 \xa0Act: 33 \xa0Size:\xa0227 KB\n', 'accepted': '2023-01-0910:39:45', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nCitigroup Global Markets Holdings Inc. (0000200245) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0000200245&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/200245/000095010323000246/0000950103-23-000246.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0000950103-23-000246 \xa0Act: 33 \xa0Size:\xa0227 KB\n', 'accepted': '2023-01-0910:39:45', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nCITIGROUP INC (0000831001) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0000831001&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/831001/000095010323000245/0000950103-23-000245.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0000950103-23-000245 \xa0Act: 33 \xa0Size:\xa0247 KB\n', 'accepted': '2023-01-0910:37:29', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nCitigroup Global Markets Holdings Inc. (0000200245) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0000200245&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/200245/000095010323000245/0000950103-23-000245.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0000950103-23-000245 \xa0Act: 33 \xa0Size:\xa0247 KB\n', 'accepted': '2023-01-0910:37:29', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nFidelity Diversifying Solutions LLC (0001923624) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001923624&owner=exclude&count=80', 'form': '40-APP/A', 'filing_link': '/Archives/edgar/data/1923624/000119312523004326/0001193125-23-004326.txt', 'description': '[Amend] Application for exemption and other relief filed under the Investment Company Act of 1940Accession Number: 0001193125-23-004326 \xa0Act: IC \xa0Size:\xa0131 KB\n', 'accepted': '2023-01-0910:33:59', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nFidelity Private Credit Fund (0001920453) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001920453&owner=exclude&count=80', 'form': '40-APP/A', 'filing_link': '/Archives/edgar/data/1920453/000119312523004326/0001193125-23-004326.txt', 'description': '[Amend] Application for exemption and other relief filed under the Investment Company Act of 1940Accession Number: 0001193125-23-004326 \xa0Act: IC \xa0Size:\xa0131 KB\n', 'accepted': '2023-01-0910:33:59', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nCITIGROUP INC (0000831001) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0000831001&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/831001/000095010323000244/0000950103-23-000244.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0000950103-23-000244 \xa0Act: 33 \xa0Size:\xa0136 KB\n', 'accepted': '2023-01-0910:33:20', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nCitigroup Global Markets Holdings Inc. (0000200245) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0000200245&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/200245/000095010323000244/0000950103-23-000244.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0000950103-23-000244 \xa0Act: 33 \xa0Size:\xa0136 KB\n', 'accepted': '2023-01-0910:33:20', 'filing_date': '2023-01-09'}
+******
+******
+{'company_name': '\n\nJPMorgan Chase Financial Co. LLC (0001665650) (Filer)\n', 'company_link': '/cgi-bin/browse-edgar?action=getcompany&CIK=0001665650&owner=exclude&count=80', 'form': '424B2', 'filing_link': '/Archives/edgar/data/1665650/000121390023001545/0001213900-23-001545.txt', 'description': 'Prospectus [Rule 424(b)(2)]Accession Number: 0001213900-23-001545 \xa0Act: 33 \xa0Size:\xa0450 KB\n', 'accepted': '2023-01-0910:26:16', 'filing_date': '2023-01-09'}

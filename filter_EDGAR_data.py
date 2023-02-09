@@ -30,26 +30,27 @@ def filtered_transactions(path_to_data):
     transactions = transactions.merge(owners, how='inner', on='ACCESSION_NUMBER')
     transactions = transactions.merge(submissions, how='inner', on='ACCESSION_NUMBER')
 
+    transactions = transactions[transactions["ISSUERTRADINGSYMBOL"] != "None"]
     transactions = transactions.dropna(subset=['ISSUERTRADINGSYMBOL'])
 
     print(f"Number transactions 2.5: {len(transactions)}")
 
     def convert_date(date_string):
-        return datetime.strptime(date_string, "%d-%b-%Y")
+        return str(datetime.strptime(date_string, "%d-%b-%Y"))
 
     transactions["datetime"] = transactions['FILING_DATE'].apply(convert_date)
     print(f"Number transactions 2.75: {len(transactions)}")
 
-    def extract_month(datetime_obj):
-        return datetime_obj.month
-    transactions["month"] = transactions['datetime'].apply(extract_month)
+    # def extract_month(datetime_obj):
+    #     return datetime_obj.month
+    # transactions["month"] = transactions['datetime'].apply(extract_month)
 
     # transactions = transactions[transactions["month"] >= 9]
     # print(f"Number transactions 2.85: {len(transactions)}")
 
-    def extract_day(datetime_obj):
-        return datetime_obj.day
-    transactions["day"] = transactions['datetime'].apply(extract_day)
+    # def extract_day(datetime_obj):
+    #     return datetime_obj.day
+    # transactions["day"] = transactions['datetime'].apply(extract_day)
 
     transactions = transactions[transactions["RPTOWNER_RELATIONSHIP"] == "Officer"]
     print(f"Number transactions 3: {len(transactions)}")

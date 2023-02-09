@@ -1,0 +1,1109 @@
+2023-01-26 14:51:07,231 - simulator:71 - INFO - [2010-01-01 00:00:00] Skipping invalid trade day
+2023-01-26 14:51:07,232 - simulator:61 - INFO - [2010-01-02 00:00:00] Skipping weekend
+2023-01-26 14:51:07,232 - simulator:61 - INFO - [2010-01-03 00:00:00] Skipping weekend
+2023-01-26 14:51:07,234 - simulator:81 - INFO - [2010-01-04 00:00:00] Current P/L: $0, %1.0
+2023-01-26 14:51:07,234 - simulator:82 - INFO - [2010-01-04 00:00:00] Current holdings: []
+2023-01-26 14:51:07,239 - simulator:117 - INFO - [2010-01-04 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:07,241 - simulator:81 - INFO - [2010-01-05 00:00:00] Current P/L: $0, %1.0
+2023-01-26 14:51:07,241 - simulator:82 - INFO - [2010-01-05 00:00:00] Current holdings: []
+2023-01-26 14:51:07,246 - simulator:117 - INFO - [2010-01-05 00:00:00] 4 interesting insider trades
+2023-01-26 14:51:07,246 - simulator:124 - INFO - [2010-01-05 00:00:00] 4 unique tickers
+2023-01-26 14:51:07,248 - simulator:146 - INFO - [2010-01-05 00:00:00] buying FTI for 22.4144344329834. Total: 112.07217216491699
+2023-01-26 14:51:07,254 - simulator:146 - INFO - [2010-01-05 00:00:00] buying WSO; WSOB for 48.27999877929688. Total: 96.55999755859376
+2023-01-26 14:51:07,259 - simulator:137 - INFO - [2010-01-05 00:00:00] failed to get price for ATPG
+2023-01-26 14:51:07,262 - simulator:137 - INFO - [2010-01-05 00:00:00] failed to get price for HR
+2023-01-26 14:51:07,269 - simulator:81 - INFO - [2010-01-06 00:00:00] Current P/L: $1.1808338165283203, %1.0002361667633057
+2023-01-26 14:51:07,272 - simulator:82 - INFO - [2010-01-06 00:00:00] Current holdings: [[FTI quantity:5; profit:1.0][WSO; WSOB quantity:2; profit:1.01]]
+2023-01-26 14:51:07,286 - simulator:117 - INFO - [2010-01-06 00:00:00] 4 interesting insider trades
+2023-01-26 14:51:07,286 - simulator:124 - INFO - [2010-01-06 00:00:00] 3 unique tickers
+2023-01-26 14:51:07,297 - simulator:146 - INFO - [2010-01-06 00:00:00] buying CVS for 32.560001373291016. Total: 162.80000686645508
+2023-01-26 14:51:07,302 - simulator:137 - INFO - [2010-01-06 00:00:00] failed to get price for CHTL
+2023-01-26 14:51:07,315 - simulator:81 - INFO - [2010-01-07 00:00:00] Current P/L: $7.3787384033203125, %1.0014757476806642
+2023-01-26 14:51:07,317 - simulator:82 - INFO - [2010-01-07 00:00:00] Current holdings: [[FTI quantity:5; profit:0.99][WSO; WSOB quantity:2; profit:1.02][CVS quantity:5; profit:1.04]]
+2023-01-26 14:51:07,334 - simulator:117 - INFO - [2010-01-07 00:00:00] 3 interesting insider trades
+2023-01-26 14:51:07,334 - simulator:124 - INFO - [2010-01-07 00:00:00] 2 unique tickers
+2023-01-26 14:51:07,344 - simulator:137 - INFO - [2010-01-07 00:00:00] failed to get price for ROIA/ROIAK
+2023-01-26 14:51:07,351 - simulator:81 - INFO - [2010-01-08 00:00:00] Current P/L: $10.309072494506836, %1.0020618144989013
+2023-01-26 14:51:07,354 - simulator:82 - INFO - [2010-01-08 00:00:00] Current holdings: [[FTI quantity:5; profit:1.01][WSO; WSOB quantity:2; profit:1.02][CVS quantity:5; profit:1.04]]
+2023-01-26 14:51:07,374 - simulator:117 - INFO - [2010-01-08 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:07,375 - simulator:61 - INFO - [2010-01-09 00:00:00] Skipping weekend
+2023-01-26 14:51:07,375 - simulator:61 - INFO - [2010-01-10 00:00:00] Skipping weekend
+2023-01-26 14:51:07,382 - simulator:81 - INFO - [2010-01-11 00:00:00] Current P/L: $6.896730422973633, %1.0013793460845948
+2023-01-26 14:51:07,384 - simulator:82 - INFO - [2010-01-11 00:00:00] Current holdings: [[FTI quantity:5; profit:0.99][WSO; WSOB quantity:2; profit:1.01][CVS quantity:5; profit:1.04]]
+2023-01-26 14:51:07,401 - simulator:117 - INFO - [2010-01-11 00:00:00] 6 interesting insider trades
+2023-01-26 14:51:07,401 - simulator:124 - INFO - [2010-01-11 00:00:00] 3 unique tickers
+2023-01-26 14:51:07,408 - simulator:137 - INFO - [2010-01-11 00:00:00] failed to get price for VAL
+2023-01-26 14:51:07,415 - simulator:146 - INFO - [2010-01-11 00:00:00] buying WSO; WSOB for 48.880001068115234. Total: 146.6400032043457
+2023-01-26 14:51:07,435 - simulator:81 - INFO - [2010-01-12 00:00:00] Current P/L: $1.7485103607177734, %1.0003497020721435
+2023-01-26 14:51:07,441 - simulator:82 - INFO - [2010-01-12 00:00:00] Current holdings: [[FTI quantity:5; profit:0.96][WSO; WSOB quantity:2; profit:1.01][WSO; WSOB quantity:3; profit:1.0][CVS quantity:5; profit:1.03]]
+2023-01-26 14:51:07,460 - simulator:117 - INFO - [2010-01-12 00:00:00] 2 interesting insider trades
+2023-01-26 14:51:07,460 - simulator:124 - INFO - [2010-01-12 00:00:00] 1 unique tickers
+2023-01-26 14:51:07,467 - simulator:146 - INFO - [2010-01-12 00:00:00] buying DIS for 30.81999969482422. Total: 493.1199951171875
+2023-01-26 14:51:07,480 - simulator:81 - INFO - [2010-01-13 00:00:00] Current P/L: $13.71019172668457, %1.002742038345337
+2023-01-26 14:51:07,484 - simulator:82 - INFO - [2010-01-13 00:00:00] Current holdings: [[FTI quantity:5; profit:0.97][WSO; WSOB quantity:2; profit:1.02][WSO; WSOB quantity:3; profit:1.01][CVS quantity:5; profit:1.04][DIS quantity:16; profit:1.02]]
+2023-01-26 14:51:07,507 - simulator:117 - INFO - [2010-01-13 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:07,521 - simulator:81 - INFO - [2010-01-14 00:00:00] Current P/L: $11.682149887084961, %1.002336429977417
+2023-01-26 14:51:07,526 - simulator:82 - INFO - [2010-01-14 00:00:00] Current holdings: [[FTI quantity:5; profit:0.96][WSO; WSOB quantity:2; profit:1.03][WSO; WSOB quantity:3; profit:1.02][CVS quantity:5; profit:1.04][DIS quantity:16; profit:1.01]]
+2023-01-26 14:51:07,552 - simulator:117 - INFO - [2010-01-14 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:07,565 - simulator:81 - INFO - [2010-01-15 00:00:00] Current P/L: $13.632822036743164, %1.0027265644073486
+2023-01-26 14:51:07,568 - simulator:82 - INFO - [2010-01-15 00:00:00] Current holdings: [[FTI quantity:5; profit:0.98][WSO; WSOB quantity:2; profit:1.06][WSO; WSOB quantity:3; profit:1.05][CVS quantity:5; profit:1.04][DIS quantity:16; profit:0.99]]
+2023-01-26 14:51:07,571 - simulator:99 - INFO - [2010-01-15 00:00:00] TARGET REACHED Selling asset [WSO; WSOB] for $102.5199966430664. Profit: 1.061723272940806. Days Held: 10
+2023-01-26 14:51:07,599 - simulator:117 - INFO - [2010-01-15 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:07,599 - simulator:61 - INFO - [2010-01-16 00:00:00] Skipping weekend
+2023-01-26 14:51:07,599 - simulator:61 - INFO - [2010-01-17 00:00:00] Skipping weekend
+2023-01-26 14:51:07,599 - simulator:71 - INFO - [2010-01-18 00:00:00] Skipping invalid trade day
+2023-01-26 14:51:07,613 - simulator:81 - INFO - [2010-01-19 00:00:00] Current P/L: $23.229734420776367, %1.0046459468841553
+2023-01-26 14:51:07,616 - simulator:82 - INFO - [2010-01-19 00:00:00] Current holdings: [[FTI quantity:5; profit:0.99][WSO; WSOB quantity:3; profit:1.06][CVS quantity:5; profit:1.04][DIS quantity:16; profit:1.01]]
+2023-01-26 14:51:07,619 - simulator:99 - INFO - [2010-01-19 00:00:00] TARGET REACHED Selling asset [WSO; WSOB] for $154.97999954223633. Profit: 1.0568739508704774. Days Held: 8
+2023-01-26 14:51:07,639 - simulator:117 - INFO - [2010-01-19 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:07,651 - simulator:81 - INFO - [2010-01-20 00:00:00] Current P/L: $23.284574508666992, %1.0046569149017335
+2023-01-26 14:51:07,653 - simulator:82 - INFO - [2010-01-20 00:00:00] Current holdings: [[FTI quantity:5; profit:0.97][CVS quantity:5; profit:1.04][DIS quantity:16; profit:1.01]]
+2023-01-26 14:51:07,678 - simulator:117 - INFO - [2010-01-20 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:07,687 - simulator:81 - INFO - [2010-01-21 00:00:00] Current P/L: $6.806528091430664, %1.0013613056182862
+2023-01-26 14:51:07,691 - simulator:82 - INFO - [2010-01-21 00:00:00] Current holdings: [[FTI quantity:5; profit:0.93][CVS quantity:5; profit:1.02][DIS quantity:16; profit:0.99]]
+2023-01-26 14:51:07,711 - simulator:117 - INFO - [2010-01-21 00:00:00] 6 interesting insider trades
+2023-01-26 14:51:07,711 - simulator:124 - INFO - [2010-01-21 00:00:00] 2 unique tickers
+2023-01-26 14:51:07,718 - simulator:146 - INFO - [2010-01-21 00:00:00] buying CSX for 5.039999961853027. Total: 246.95999813079834
+2023-01-26 14:51:07,727 - simulator:137 - INFO - [2010-01-21 00:00:00] failed to get price for BHI
+2023-01-26 14:51:07,737 - simulator:81 - INFO - [2010-01-22 00:00:00] Current P/L: $-13.689037799835205, %0.997262192440033
+2023-01-26 14:51:07,742 - simulator:82 - INFO - [2010-01-22 00:00:00] Current holdings: [[FTI quantity:5; profit:0.9][CVS quantity:5; profit:1.02][DIS quantity:16; profit:0.97][CSX quantity:49; profit:0.97]]
+2023-01-26 14:51:07,764 - simulator:117 - INFO - [2010-01-22 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:07,765 - simulator:61 - INFO - [2010-01-23 00:00:00] Skipping weekend
+2023-01-26 14:51:07,765 - simulator:61 - INFO - [2010-01-24 00:00:00] Skipping weekend
+2023-01-26 14:51:07,776 - simulator:81 - INFO - [2010-01-25 00:00:00] Current P/L: $-10.423323631286621, %0.9979153352737427
+2023-01-26 14:51:07,779 - simulator:82 - INFO - [2010-01-25 00:00:00] Current holdings: [[FTI quantity:5; profit:0.91][CVS quantity:5; profit:1.01][DIS quantity:16; profit:0.97][CSX quantity:49; profit:0.99]]
+2023-01-26 14:51:07,796 - simulator:117 - INFO - [2010-01-25 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:07,808 - simulator:81 - INFO - [2010-01-26 00:00:00] Current P/L: $-14.999642372131348, %0.9970000715255737
+2023-01-26 14:51:07,811 - simulator:82 - INFO - [2010-01-26 00:00:00] Current holdings: [[FTI quantity:5; profit:0.9][CVS quantity:5; profit:1.01][DIS quantity:16; profit:0.96][CSX quantity:49; profit:1.0]]
+2023-01-26 14:51:07,833 - simulator:117 - INFO - [2010-01-26 00:00:00] 2 interesting insider trades
+2023-01-26 14:51:07,833 - simulator:124 - INFO - [2010-01-26 00:00:00] 1 unique tickers
+2023-01-26 14:51:07,840 - simulator:146 - INFO - [2010-01-26 00:00:00] buying MRK for 36.8129768371582. Total: 478.56869888305664
+2023-01-26 14:51:07,853 - simulator:81 - INFO - [2010-01-27 00:00:00] Current P/L: $-19.6608567237854, %0.9960678286552429
+2023-01-26 14:51:07,858 - simulator:82 - INFO - [2010-01-27 00:00:00] Current holdings: [[FTI quantity:5; profit:0.9][CVS quantity:5; profit:1.0][DIS quantity:16; profit:0.95][CSX quantity:49; profit:1.0][MRK quantity:13; profit:1.0]]
+2023-01-26 14:51:07,884 - simulator:117 - INFO - [2010-01-27 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:07,897 - simulator:81 - INFO - [2010-01-28 00:00:00] Current P/L: $-39.6764874458313, %0.9920647025108338
+2023-01-26 14:51:07,900 - simulator:82 - INFO - [2010-01-28 00:00:00] Current holdings: [[FTI quantity:5; profit:0.89][CVS quantity:5; profit:0.99][DIS quantity:16; profit:0.95][CSX quantity:49; profit:0.96][MRK quantity:13; profit:0.98]]
+2023-01-26 14:51:07,930 - simulator:117 - INFO - [2010-01-28 00:00:00] 5 interesting insider trades
+2023-01-26 14:51:07,930 - simulator:124 - INFO - [2010-01-28 00:00:00] 3 unique tickers
+2023-01-26 14:51:07,948 - simulator:137 - INFO - [2010-01-28 00:00:00] failed to get price for AMSG
+2023-01-26 14:51:07,969 - simulator:146 - INFO - [2010-01-28 00:00:00] buying LLY for 35.75. Total: 143.0
+2023-01-26 14:51:07,999 - simulator:81 - INFO - [2010-01-29 00:00:00] Current P/L: $-40.912625789642334, %0.9918174748420715
+2023-01-26 14:51:08,003 - simulator:82 - INFO - [2010-01-29 00:00:00] Current holdings: [[FTI quantity:5; profit:0.88][CVS quantity:5; profit:0.99][DIS quantity:16; profit:0.96][CSX quantity:49; profit:0.94][MRK quantity:13; profit:0.99][LLY quantity:4; profit:0.98]]
+2023-01-26 14:51:08,030 - simulator:117 - INFO - [2010-01-29 00:00:00] 1 interesting insider trades
+2023-01-26 14:51:08,031 - simulator:124 - INFO - [2010-01-29 00:00:00] 1 unique tickers
+2023-01-26 14:51:08,041 - simulator:146 - INFO - [2010-01-29 00:00:00] buying BRE for 9.300600051879885. Total: 492.9318027496339
+2023-01-26 14:51:08,042 - simulator:61 - INFO - [2010-01-30 00:00:00] Skipping weekend
+2023-01-26 14:51:08,043 - simulator:61 - INFO - [2010-01-31 00:00:00] Skipping weekend
+2023-01-26 14:51:08,064 - simulator:81 - INFO - [2010-02-01 00:00:00] Current P/L: $-28.971282958984375, %0.9942057434082031
+2023-01-26 14:51:08,073 - simulator:82 - INFO - [2010-02-01 00:00:00] Current holdings: [[FTI quantity:5; profit:0.92][CVS quantity:5; profit:1.01][DIS quantity:16; profit:0.96][CSX quantity:49; profit:0.97][MRK quantity:13; profit:0.99][LLY quantity:4; profit:0.98][BRE quantity:53; profit:1.0]]
+2023-01-26 14:51:08,106 - simulator:117 - INFO - [2010-02-01 00:00:00] 5 interesting insider trades
+2023-01-26 14:51:08,106 - simulator:124 - INFO - [2010-02-01 00:00:00] 2 unique tickers
+2023-01-26 14:51:08,115 - simulator:146 - INFO - [2010-02-01 00:00:00] buying JDAS for 26.25. Total: 236.25
+2023-01-26 14:51:08,127 - simulator:137 - INFO - [2010-02-01 00:00:00] failed to get price for SLE
+2023-01-26 14:51:08,161 - simulator:81 - INFO - [2010-02-02 00:00:00] Current P/L: $11.76491403579712, %1.0023529828071593
+2023-01-26 14:51:08,166 - simulator:82 - INFO - [2010-02-02 00:00:00] Current holdings: [[FTI quantity:5; profit:0.92][CVS quantity:5; profit:1.03][DIS quantity:16; profit:0.97][CSX quantity:49; profit:0.98][MRK quantity:13; profit:1.02][LLY quantity:4; profit:1.0][BRE quantity:53; profit:1.0][JDAS quantity:9; profit:1.04]]
+2023-01-26 14:51:08,214 - simulator:117 - INFO - [2010-02-02 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:08,240 - simulator:81 - INFO - [2010-02-03 00:00:00] Current P/L: $0.9931235313415527, %1.0001986247062684
+2023-01-26 14:51:08,248 - simulator:82 - INFO - [2010-02-03 00:00:00] Current holdings: [[FTI quantity:5; profit:0.93][CVS quantity:5; profit:1.0][DIS quantity:16; profit:1.0][CSX quantity:49; profit:0.97][MRK quantity:13; profit:1.0][LLY quantity:4; profit:0.99][BRE quantity:53; profit:1.0][JDAS quantity:9; profit:1.01]]
+2023-01-26 14:51:08,291 - simulator:117 - INFO - [2010-02-03 00:00:00] 13 interesting insider trades
+2023-01-26 14:51:08,291 - simulator:124 - INFO - [2010-02-03 00:00:00] 3 unique tickers
+2023-01-26 14:51:08,302 - simulator:137 - INFO - [2010-02-03 00:00:00] failed to get price for NITE
+2023-01-26 14:51:08,314 - simulator:146 - INFO - [2010-02-03 00:00:00] buying ELS for 12.100000381469728. Total: 157.30000495910647
+2023-01-26 14:51:08,325 - simulator:137 - INFO - [2010-02-03 00:00:00] failed to get price for CBB
+2023-01-26 14:51:08,348 - simulator:81 - INFO - [2010-02-04 00:00:00] Current P/L: $-71.83741092681885, %0.9856325178146362
+2023-01-26 14:51:08,353 - simulator:82 - INFO - [2010-02-04 00:00:00] Current holdings: [[FTI quantity:5; profit:0.9][CVS quantity:5; profit:0.96][DIS quantity:16; profit:0.96][CSX quantity:49; profit:0.93][MRK quantity:13; profit:0.96][LLY quantity:4; profit:0.97][BRE quantity:53; profit:1.0][JDAS quantity:9; profit:0.97][ELS quantity:13; profit:0.98]]
+2023-01-26 14:51:08,393 - simulator:117 - INFO - [2010-02-04 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:08,415 - simulator:81 - INFO - [2010-02-05 00:00:00] Current P/L: $-74.98158979415894, %0.9850036820411682
+2023-01-26 14:51:08,423 - simulator:82 - INFO - [2010-02-05 00:00:00] Current holdings: [[FTI quantity:5; profit:0.89][CVS quantity:5; profit:0.95][DIS quantity:16; profit:0.96][CSX quantity:49; profit:0.95][MRK quantity:13; profit:0.95][LLY quantity:4; profit:0.97][BRE quantity:53; profit:1.0][JDAS quantity:9; profit:0.97][ELS quantity:13; profit:0.99]]
+2023-01-26 14:51:08,465 - simulator:117 - INFO - [2010-02-05 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:08,465 - simulator:61 - INFO - [2010-02-06 00:00:00] Skipping weekend
+2023-01-26 14:51:08,465 - simulator:61 - INFO - [2010-02-07 00:00:00] Skipping weekend
+2023-01-26 14:51:08,488 - simulator:81 - INFO - [2010-02-08 00:00:00] Current P/L: $-64.16121435165405, %0.9871677571296692
+2023-01-26 14:51:08,494 - simulator:82 - INFO - [2010-02-08 00:00:00] Current holdings: [[FTI quantity:5; profit:0.89][CVS quantity:5; profit:1.0][DIS quantity:16; profit:0.96][CSX quantity:49; profit:0.94][MRK quantity:13; profit:0.95][LLY quantity:4; profit:0.97][BRE quantity:53; profit:1.0][JDAS quantity:9; profit:1.01][ELS quantity:13; profit:0.98]]
+2023-01-26 14:51:08,536 - simulator:117 - INFO - [2010-02-08 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:08,563 - simulator:81 - INFO - [2010-02-09 00:00:00] Current P/L: $-49.557671546936035, %0.9900884656906128
+2023-01-26 14:51:08,572 - simulator:82 - INFO - [2010-02-09 00:00:00] Current holdings: [[FTI quantity:5; profit:0.92][CVS quantity:5; profit:1.0][DIS quantity:16; profit:0.97][CSX quantity:49; profit:0.95][MRK quantity:13; profit:0.95][LLY quantity:4; profit:0.98][BRE quantity:53; profit:1.0][JDAS quantity:9; profit:1.02][ELS quantity:13; profit:0.98]]
+2023-01-26 14:51:08,616 - simulator:117 - INFO - [2010-02-09 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:08,645 - simulator:81 - INFO - [2010-02-10 00:00:00] Current P/L: $-51.055315017700195, %0.98978893699646
+2023-01-26 14:51:08,654 - simulator:82 - INFO - [2010-02-10 00:00:00] Current holdings: [[FTI quantity:5; profit:0.92][CVS quantity:5; profit:1.01][DIS quantity:16; profit:0.97][CSX quantity:49; profit:0.95][MRK quantity:13; profit:0.94][LLY quantity:4; profit:0.96][BRE quantity:53; profit:1.0][JDAS quantity:9; profit:1.03][ELS quantity:13; profit:0.97]]
+2023-01-26 14:51:08,704 - simulator:117 - INFO - [2010-02-10 00:00:00] 14 interesting insider trades
+2023-01-26 14:51:08,704 - simulator:124 - INFO - [2010-02-10 00:00:00] 3 unique tickers
+2023-01-26 14:51:08,715 - simulator:137 - INFO - [2010-02-10 00:00:00] failed to get price for STR
+2023-01-26 14:51:08,727 - simulator:137 - INFO - [2010-02-10 00:00:00] failed to get price for UTX
+2023-01-26 14:51:08,740 - simulator:146 - INFO - [2010-02-10 00:00:00] buying NCR for 12.649999618530272. Total: 164.44999504089353
+2023-01-26 14:51:08,765 - simulator:81 - INFO - [2010-02-11 00:00:00] Current P/L: $-18.092403411865234, %0.996381519317627
+2023-01-26 14:51:08,776 - simulator:82 - INFO - [2010-02-11 00:00:00] Current holdings: [[FTI quantity:5; profit:0.95][CVS quantity:5; profit:1.02][DIS quantity:16; profit:0.98][CSX quantity:49; profit:0.99][MRK quantity:13; profit:0.96][LLY quantity:4; profit:0.96][BRE quantity:53; profit:1.0][JDAS quantity:9; profit:1.03][ELS quantity:13; profit:0.98][NCR quantity:13; profit:1.03]]
+2023-01-26 14:51:08,818 - simulator:117 - INFO - [2010-02-11 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:08,851 - simulator:81 - INFO - [2010-02-12 00:00:00] Current P/L: $-22.774067401885986, %0.9954451865196228
+2023-01-26 14:51:08,859 - simulator:82 - INFO - [2010-02-12 00:00:00] Current holdings: [[FTI quantity:5; profit:0.95][CVS quantity:5; profit:1.01][DIS quantity:16; profit:0.98][CSX quantity:49; profit:0.99][MRK quantity:13; profit:0.96][LLY quantity:4; profit:0.95][BRE quantity:53; profit:1.0][JDAS quantity:9; profit:1.04][ELS quantity:13; profit:0.98][NCR quantity:13; profit:1.02]]
+2023-01-26 14:51:08,898 - simulator:117 - INFO - [2010-02-12 00:00:00] 1 interesting insider trades
+2023-01-26 14:51:08,899 - simulator:124 - INFO - [2010-02-12 00:00:00] 1 unique tickers
+2023-01-26 14:51:08,911 - simulator:137 - INFO - [2010-02-12 00:00:00] failed to get price for BCR
+2023-01-26 14:51:08,911 - simulator:61 - INFO - [2010-02-13 00:00:00] Skipping weekend
+2023-01-26 14:51:08,911 - simulator:61 - INFO - [2010-02-14 00:00:00] Skipping weekend
+2023-01-26 14:51:08,911 - simulator:71 - INFO - [2010-02-15 00:00:00] Skipping invalid trade day
+2023-01-26 14:51:08,940 - simulator:81 - INFO - [2010-02-16 00:00:00] Current P/L: $17.97110939025879, %1.0035942218780518
+2023-01-26 14:51:08,947 - simulator:82 - INFO - [2010-02-16 00:00:00] Current holdings: [[FTI quantity:5; profit:0.97][CVS quantity:5; profit:1.03][DIS quantity:16; profit:0.99][CSX quantity:49; profit:1.02][MRK quantity:13; profit:0.98][LLY quantity:4; profit:0.95][BRE quantity:53; profit:1.0][JDAS quantity:9; profit:1.07][ELS quantity:13; profit:0.99][NCR quantity:13; profit:1.04]]
+2023-01-26 14:51:08,954 - simulator:99 - INFO - [2010-02-16 00:00:00] TARGET REACHED Selling asset [JDAS] for $252.71999931335446. Profit: 1.0697142828078496. Days Held: 15
+2023-01-26 14:51:08,995 - simulator:117 - INFO - [2010-02-16 00:00:00] 15 interesting insider trades
+2023-01-26 14:51:08,995 - simulator:124 - INFO - [2010-02-16 00:00:00] 2 unique tickers
+2023-01-26 14:51:09,007 - simulator:146 - INFO - [2010-02-16 00:00:00] buying MTW for 11.250408172607422. Total: 247.50897979736328
+2023-01-26 14:51:09,052 - simulator:81 - INFO - [2010-02-17 00:00:00] Current P/L: $24.723562240600586, %1.0049447124481201
+2023-01-26 14:51:09,065 - simulator:82 - INFO - [2010-02-17 00:00:00] Current holdings: [[FTI quantity:5; profit:0.93][CVS quantity:5; profit:1.04][DIS quantity:16; profit:1.0][CSX quantity:49; profit:1.02][MRK quantity:13; profit:0.97][LLY quantity:4; profit:0.96][BRE quantity:53; profit:1.0][ELS quantity:13; profit:1.01][NCR quantity:13; profit:1.04][MTW quantity:22; profit:1.01]]
+2023-01-26 14:51:09,113 - simulator:117 - INFO - [2010-02-17 00:00:00] 7 interesting insider trades
+2023-01-26 14:51:09,114 - simulator:124 - INFO - [2010-02-17 00:00:00] 3 unique tickers
+2023-01-26 14:51:09,129 - simulator:137 - INFO - [2010-02-17 00:00:00] failed to get price for SIAL
+2023-01-26 14:51:09,144 - simulator:137 - INFO - [2010-02-17 00:00:00] failed to get price for APC
+2023-01-26 14:51:09,158 - simulator:137 - INFO - [2010-02-17 00:00:00] failed to get price for TRA
+2023-01-26 14:51:09,183 - simulator:81 - INFO - [2010-02-18 00:00:00] Current P/L: $22.765556812286377, %1.0045531113624573
+2023-01-26 14:51:09,193 - simulator:82 - INFO - [2010-02-18 00:00:00] Current holdings: [[FTI quantity:5; profit:0.91][CVS quantity:5; profit:1.05][DIS quantity:16; profit:1.01][CSX quantity:49; profit:1.02][MRK quantity:13; profit:0.97][LLY quantity:4; profit:0.96][BRE quantity:53; profit:1.0][ELS quantity:13; profit:1.02][NCR quantity:13; profit:1.03][MTW quantity:22; profit:0.99]]
+2023-01-26 14:51:09,243 - simulator:117 - INFO - [2010-02-18 00:00:00] 15 interesting insider trades
+2023-01-26 14:51:09,244 - simulator:124 - INFO - [2010-02-18 00:00:00] 5 unique tickers
+2023-01-26 14:51:09,261 - simulator:146 - INFO - [2010-02-18 00:00:00] buying NOC for 55.57428359985352. Total: 55.57428359985352
+2023-01-26 14:51:09,312 - simulator:137 - INFO - [2010-02-18 00:00:00] failed to get price for WIN
+2023-01-26 14:51:09,361 - simulator:81 - INFO - [2010-02-19 00:00:00] Current P/L: $29.811134815216064, %1.0059622269630433
+2023-01-26 14:51:09,367 - simulator:82 - INFO - [2010-02-19 00:00:00] Current holdings: [[FTI quantity:5; profit:0.91][CVS quantity:5; profit:1.05][DIS quantity:16; profit:1.01][CSX quantity:49; profit:1.03][MRK quantity:13; profit:0.97][LLY quantity:4; profit:0.96][BRE quantity:53; profit:1.0][ELS quantity:13; profit:1.01][NCR quantity:13; profit:1.04][MTW quantity:22; profit:0.99][NOC quantity:1; profit:1.0]]
+2023-01-26 14:51:09,370 - simulator:99 - INFO - [2010-02-19 00:00:00] TARGET REACHED Selling asset [CVS] for $171.55000686645508. Profit: 1.0537469264800317. Days Held: 44
+2023-01-26 14:51:09,415 - simulator:117 - INFO - [2010-02-19 00:00:00] 9 interesting insider trades
+2023-01-26 14:51:09,416 - simulator:124 - INFO - [2010-02-19 00:00:00] 3 unique tickers
+2023-01-26 14:51:09,431 - simulator:146 - INFO - [2010-02-19 00:00:00] buying NOC for 55.3032341003418. Total: 165.9097023010254
+2023-01-26 14:51:09,465 - simulator:146 - INFO - [2010-02-19 00:00:00] buying PACW for 20.059999465942383. Total: 160.47999572753906
+2023-01-26 14:51:09,466 - simulator:61 - INFO - [2010-02-20 00:00:00] Skipping weekend
+2023-01-26 14:51:09,466 - simulator:61 - INFO - [2010-02-21 00:00:00] Skipping weekend
+2023-01-26 14:51:09,498 - simulator:81 - INFO - [2010-02-22 00:00:00] Current P/L: $24.420063018798828, %1.0048840126037597
+2023-01-26 14:51:09,509 - simulator:82 - INFO - [2010-02-22 00:00:00] Current holdings: [[FTI quantity:5; profit:0.91][DIS quantity:16; profit:1.01][CSX quantity:49; profit:1.03][MRK quantity:13; profit:0.96][LLY quantity:4; profit:0.96][BRE quantity:53; profit:1.0][ELS quantity:13; profit:1.01][NCR quantity:13; profit:1.03][MTW quantity:22; profit:0.98][NOC quantity:1; profit:1.0][NOC quantity:3; profit:1.01][PACW quantity:8; profit:1.02]]
+2023-01-26 14:51:09,564 - simulator:117 - INFO - [2010-02-22 00:00:00] 3 interesting insider trades
+2023-01-26 14:51:09,565 - simulator:124 - INFO - [2010-02-22 00:00:00] 3 unique tickers
+2023-01-26 14:51:09,595 - simulator:137 - INFO - [2010-02-22 00:00:00] failed to get price for COG
+2023-01-26 14:51:09,612 - simulator:137 - INFO - [2010-02-22 00:00:00] failed to get price for VCSY
+2023-01-26 14:51:09,626 - simulator:137 - INFO - [2010-02-22 00:00:00] failed to get price for STR
+2023-01-26 14:51:09,653 - simulator:81 - INFO - [2010-02-23 00:00:00] Current P/L: $-9.364697933197021, %0.9981270604133606
+2023-01-26 14:51:09,665 - simulator:82 - INFO - [2010-02-23 00:00:00] Current holdings: [[FTI quantity:5; profit:0.9][DIS quantity:16; profit:1.0][CSX quantity:49; profit:1.04][MRK quantity:13; profit:0.95][LLY quantity:4; profit:0.95][BRE quantity:53; profit:1.0][ELS quantity:13; profit:1.01][NCR quantity:13; profit:1.01][MTW quantity:22; profit:0.92][NOC quantity:1; profit:1.0][NOC quantity:3; profit:1.0][PACW quantity:8; profit:1.01]]
+2023-01-26 14:51:09,736 - simulator:117 - INFO - [2010-02-23 00:00:00] 2 interesting insider trades
+2023-01-26 14:51:09,736 - simulator:124 - INFO - [2010-02-23 00:00:00] 1 unique tickers
+2023-01-26 14:51:09,761 - simulator:146 - INFO - [2010-02-23 00:00:00] buying NOC for 55.33034133911133. Total: 497.97307205200195
+2023-01-26 14:51:09,792 - simulator:81 - INFO - [2010-02-24 00:00:00] Current P/L: $19.81132221221924, %1.0039622644424437
+2023-01-26 14:51:09,801 - simulator:82 - INFO - [2010-02-24 00:00:00] Current holdings: [[FTI quantity:5; profit:0.93][DIS quantity:16; profit:1.02][CSX quantity:49; profit:1.04][MRK quantity:13; profit:0.96][LLY quantity:4; profit:0.95][BRE quantity:53; profit:1.0][ELS quantity:13; profit:1.02][NCR quantity:13; profit:1.01][MTW quantity:22; profit:0.93][NOC quantity:1; profit:1.0][NOC quantity:3; profit:1.01][NOC quantity:9; profit:1.01][PACW quantity:8; profit:1.01]]
+2023-01-26 14:51:09,860 - simulator:117 - INFO - [2010-02-24 00:00:00] 1 interesting insider trades
+2023-01-26 14:51:09,860 - simulator:124 - INFO - [2010-02-24 00:00:00] 1 unique tickers
+2023-01-26 14:51:09,883 - simulator:137 - INFO - [2010-02-24 00:00:00] failed to get price for MHP
+2023-01-26 14:51:09,943 - simulator:81 - INFO - [2010-02-25 00:00:00] Current P/L: $10.828377723693848, %1.0021656755447388
+2023-01-26 14:51:09,955 - simulator:82 - INFO - [2010-02-25 00:00:00] Current holdings: [[FTI quantity:5; profit:0.94][DIS quantity:16; profit:1.02][CSX quantity:49; profit:1.05][MRK quantity:13; profit:0.95][LLY quantity:4; profit:0.96][BRE quantity:53; profit:1.0][ELS quantity:13; profit:1.02][NCR quantity:13; profit:1.0][MTW quantity:22; profit:0.93][NOC quantity:1; profit:0.99][NOC quantity:3; profit:1.0][NOC quantity:9; profit:1.0][PACW quantity:8; profit:1.03]]
+2023-01-26 14:51:10,031 - simulator:117 - INFO - [2010-02-25 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:10,094 - simulator:81 - INFO - [2010-02-26 00:00:00] Current P/L: $14.16809606552124, %1.0028336192131042
+2023-01-26 14:51:10,103 - simulator:82 - INFO - [2010-02-26 00:00:00] Current holdings: [[FTI quantity:5; profit:0.93][DIS quantity:16; profit:1.01][CSX quantity:49; profit:1.05][MRK quantity:13; profit:0.96][LLY quantity:4; profit:0.96][BRE quantity:53; profit:1.0][ELS quantity:13; profit:1.03][NCR quantity:13; profit:1.0][MTW quantity:22; profit:0.94][NOC quantity:1; profit:1.0][NOC quantity:3; profit:1.0][NOC quantity:9; profit:1.0][PACW quantity:8; profit:1.01]]
+2023-01-26 14:51:10,169 - simulator:117 - INFO - [2010-02-26 00:00:00] 4 interesting insider trades
+2023-01-26 14:51:10,170 - simulator:124 - INFO - [2010-02-26 00:00:00] 2 unique tickers
+2023-01-26 14:51:10,211 - simulator:137 - INFO - [2010-02-26 00:00:00] failed to get price for RA
+2023-01-26 14:51:10,211 - simulator:61 - INFO - [2010-02-27 00:00:00] Skipping weekend
+2023-01-26 14:51:10,211 - simulator:61 - INFO - [2010-02-28 00:00:00] Skipping weekend
+2023-01-26 14:51:10,244 - simulator:81 - INFO - [2010-03-01 00:00:00] Current P/L: $58.5454626083374, %1.0117090925216674
+2023-01-26 14:51:10,255 - simulator:82 - INFO - [2010-03-01 00:00:00] Current holdings: [[FTI quantity:5; profit:0.94][DIS quantity:16; profit:1.02][CSX quantity:49; profit:1.07][MRK quantity:13; profit:0.97][LLY quantity:4; profit:0.96][BRE quantity:53; profit:1.0][ELS quantity:13; profit:1.04][NCR quantity:13; profit:1.0][MTW quantity:22; profit:0.96][NOC quantity:1; profit:1.02][NOC quantity:3; profit:1.03][NOC quantity:9; profit:1.03][PACW quantity:8; profit:1.01]]
+2023-01-26 14:51:10,260 - simulator:99 - INFO - [2010-03-01 00:00:00] TARGET REACHED Selling asset [CSX] for $263.07555389404297. Profit: 1.0652557332572916. Days Held: 39
+2023-01-26 14:51:10,320 - simulator:117 - INFO - [2010-03-01 00:00:00] 9 interesting insider trades
+2023-01-26 14:51:10,320 - simulator:124 - INFO - [2010-03-01 00:00:00] 4 unique tickers
+2023-01-26 14:51:10,346 - simulator:137 - INFO - [2010-03-01 00:00:00] failed to get price for ONNN
+2023-01-26 14:51:10,361 - simulator:146 - INFO - [2010-03-01 00:00:00] buying DTE for 37.710636138916016. Total: 113.13190841674805
+2023-01-26 14:51:10,390 - simulator:137 - INFO - [2010-03-01 00:00:00] failed to get price for Y
+2023-01-26 14:51:10,416 - simulator:81 - INFO - [2010-03-02 00:00:00] Current P/L: $75.63192176818848, %1.0151263843536378
+2023-01-26 14:51:10,427 - simulator:82 - INFO - [2010-03-02 00:00:00] Current holdings: [[FTI quantity:5; profit:0.96][DIS quantity:16; profit:1.03][MRK quantity:13; profit:0.97][LLY quantity:4; profit:0.97][BRE quantity:53; profit:1.0][ELS quantity:13; profit:1.03][NCR quantity:13; profit:1.02][MTW quantity:22; profit:0.99][NOC quantity:1; profit:1.02][NOC quantity:3; profit:1.03][NOC quantity:9; profit:1.03][PACW quantity:8; profit:1.01][DTE quantity:3; profit:1.01]]
+2023-01-26 14:51:10,496 - simulator:117 - INFO - [2010-03-02 00:00:00] 3 interesting insider trades
+2023-01-26 14:51:10,497 - simulator:124 - INFO - [2010-03-02 00:00:00] 2 unique tickers
+2023-01-26 14:51:10,519 - simulator:137 - INFO - [2010-03-02 00:00:00] failed to get price for PL
+2023-01-26 14:51:10,577 - simulator:81 - INFO - [2010-03-03 00:00:00] Current P/L: $67.30519008636475, %1.013461038017273
+2023-01-26 14:51:10,587 - simulator:82 - INFO - [2010-03-03 00:00:00] Current holdings: [[FTI quantity:5; profit:1.01][DIS quantity:16; profit:1.03][MRK quantity:13; profit:0.96][LLY quantity:4; profit:0.96][BRE quantity:53; profit:1.0][ELS quantity:13; profit:1.04][NCR quantity:13; profit:1.0][MTW quantity:22; profit:0.99][NOC quantity:1; profit:1.01][NOC quantity:3; profit:1.02][NOC quantity:9; profit:1.02][PACW quantity:8; profit:1.02][DTE quantity:3; profit:1.01]]
+2023-01-26 14:51:10,644 - simulator:117 - INFO - [2010-03-03 00:00:00] 4 interesting insider trades
+2023-01-26 14:51:10,644 - simulator:124 - INFO - [2010-03-03 00:00:00] 2 unique tickers
+2023-01-26 14:51:10,667 - simulator:146 - INFO - [2010-03-03 00:00:00] buying FE for 38.91999816894531. Total: 233.51998901367188
+2023-01-26 14:51:14,076 - simulator:137 - INFO - [2010-03-03 00:00:00] failed to get price for RSH
+2023-01-26 14:51:14,116 - simulator:81 - INFO - [2010-03-04 00:00:00] Current P/L: $94.22476387023926, %1.0188449527740477
+2023-01-26 14:51:14,133 - simulator:82 - INFO - [2010-03-04 00:00:00] Current holdings: [[FTI quantity:5; profit:0.99][DIS quantity:16; profit:1.06][MRK quantity:13; profit:0.96][LLY quantity:4; profit:0.97][BRE quantity:53; profit:1.0][ELS quantity:13; profit:1.04][NCR quantity:13; profit:1.01][MTW quantity:22; profit:1.0][NOC quantity:1; profit:1.03][NOC quantity:3; profit:1.03][NOC quantity:9; profit:1.03][PACW quantity:8; profit:1.02][DTE quantity:3; profit:1.01][FE quantity:6; profit:1.0]]
+2023-01-26 14:51:14,140 - simulator:99 - INFO - [2010-03-04 00:00:00] TARGET REACHED Selling asset [DIS] for $521.1199951171875. Profit: 1.0567813113993603. Days Held: 51
+2023-01-26 14:51:14,200 - simulator:117 - INFO - [2010-03-04 00:00:00] 1 interesting insider trades
+2023-01-26 14:51:14,200 - simulator:124 - INFO - [2010-03-04 00:00:00] 1 unique tickers
+2023-01-26 14:51:14,250 - simulator:81 - INFO - [2010-03-05 00:00:00] Current P/L: $136.48639011383057, %1.027297278022766
+2023-01-26 14:51:14,259 - simulator:82 - INFO - [2010-03-05 00:00:00] Current holdings: [[FTI quantity:5; profit:1.02][MRK quantity:13; profit:0.97][LLY quantity:4; profit:0.98][BRE quantity:53; profit:1.0][ELS quantity:13; profit:1.06][NCR quantity:13; profit:1.03][MTW quantity:22; profit:1.02][NOC quantity:1; profit:1.04][NOC quantity:3; profit:1.05][NOC quantity:9; profit:1.05][PACW quantity:8; profit:1.04][DTE quantity:3; profit:1.02][FE quantity:6; profit:1.02]]
+2023-01-26 14:51:14,263 - simulator:99 - INFO - [2010-03-05 00:00:00] TARGET REACHED Selling asset [ELS] for $166.3674955368042. Profit: 1.0576445663816414. Days Held: 30
+2023-01-26 14:51:14,331 - simulator:117 - INFO - [2010-03-05 00:00:00] 9 interesting insider trades
+2023-01-26 14:51:14,332 - simulator:124 - INFO - [2010-03-05 00:00:00] 2 unique tickers
+2023-01-26 14:51:14,373 - simulator:61 - INFO - [2010-03-06 00:00:00] Skipping weekend
+2023-01-26 14:51:14,374 - simulator:61 - INFO - [2010-03-07 00:00:00] Skipping weekend
+2023-01-26 14:51:14,403 - simulator:81 - INFO - [2010-03-08 00:00:00] Current P/L: $127.52176761627197, %1.0255043535232544
+2023-01-26 14:51:14,411 - simulator:82 - INFO - [2010-03-08 00:00:00] Current holdings: [[FTI quantity:5; profit:1.01][MRK quantity:13; profit:0.97][LLY quantity:4; profit:0.98][BRE quantity:53; profit:1.0][NCR quantity:13; profit:1.05][MTW quantity:22; profit:1.0][NOC quantity:1; profit:1.04][NOC quantity:3; profit:1.05][NOC quantity:9; profit:1.05][PACW quantity:8; profit:1.03][DTE quantity:3; profit:1.01][FE quantity:6; profit:1.02]]
+2023-01-26 14:51:14,415 - simulator:99 - INFO - [2010-03-08 00:00:00] TARGET REACHED Selling asset [NCR] for $172.76999950408936. Profit: 1.0505929140412982. Days Held: 26
+2023-01-26 14:51:14,491 - simulator:117 - INFO - [2010-03-08 00:00:00] 2 interesting insider trades
+2023-01-26 14:51:14,492 - simulator:124 - INFO - [2010-03-08 00:00:00] 1 unique tickers
+2023-01-26 14:51:14,550 - simulator:81 - INFO - [2010-03-09 00:00:00] Current P/L: $127.26777744293213, %1.0254535554885864
+2023-01-26 14:51:14,557 - simulator:82 - INFO - [2010-03-09 00:00:00] Current holdings: [[FTI quantity:5; profit:1.01][MRK quantity:13; profit:0.96][LLY quantity:4; profit:0.98][BRE quantity:53; profit:1.0][MTW quantity:22; profit:1.01][NOC quantity:1; profit:1.04][NOC quantity:3; profit:1.05][NOC quantity:9; profit:1.05][PACW quantity:8; profit:1.05][DTE quantity:3; profit:1.01][FE quantity:6; profit:1.01]]
+2023-01-26 14:51:14,566 - simulator:99 - INFO - [2010-03-09 00:00:00] TARGET REACHED Selling asset [PACW] for $168.9600067138672. Profit: 1.0528415454392546. Days Held: 18
+2023-01-26 14:51:14,610 - simulator:117 - INFO - [2010-03-09 00:00:00] 1 interesting insider trades
+2023-01-26 14:51:14,610 - simulator:124 - INFO - [2010-03-09 00:00:00] 1 unique tickers
+2023-01-26 14:51:14,625 - simulator:137 - INFO - [2010-03-09 00:00:00] failed to get price for ASI
+2023-01-26 14:51:14,651 - simulator:81 - INFO - [2010-03-10 00:00:00] Current P/L: $135.9989595413208, %1.0271997919082643
+2023-01-26 14:51:14,661 - simulator:82 - INFO - [2010-03-10 00:00:00] Current holdings: [[FTI quantity:5; profit:1.02][MRK quantity:13; profit:0.95][LLY quantity:4; profit:0.99][BRE quantity:53; profit:1.0][MTW quantity:22; profit:1.02][NOC quantity:1; profit:1.05][NOC quantity:3; profit:1.05][NOC quantity:9; profit:1.05][DTE quantity:3; profit:1.01][FE quantity:6; profit:1.02]]
+2023-01-26 14:51:14,667 - simulator:99 - INFO - [2010-03-10 00:00:00] TARGET REACHED Selling asset [NOC] for $174.9627799987793. Profit: 1.054566294630124. Days Held: 19
+2023-01-26 14:51:14,670 - simulator:99 - INFO - [2010-03-10 00:00:00] TARGET REACHED Selling asset [NOC] for $524.8883399963379. Profit: 1.0540496453622. Days Held: 15
+2023-01-26 14:51:14,707 - simulator:117 - INFO - [2010-03-10 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:14,730 - simulator:81 - INFO - [2010-03-11 00:00:00] Current P/L: $136.7224817276001, %1.02734449634552
+2023-01-26 14:51:14,738 - simulator:82 - INFO - [2010-03-11 00:00:00] Current holdings: [[FTI quantity:5; profit:1.01][MRK quantity:13; profit:0.96][LLY quantity:4; profit:1.0][BRE quantity:53; profit:1.0][MTW quantity:22; profit:1.0][NOC quantity:1; profit:1.05][DTE quantity:3; profit:1.01][FE quantity:6; profit:1.02]]
+2023-01-26 14:51:14,745 - simulator:99 - INFO - [2010-03-11 00:00:00] TARGET REACHED Selling asset [NOC] for $58.50162506103516. Profit: 1.0526743895118669. Days Held: 21
+2023-01-26 14:51:14,780 - simulator:117 - INFO - [2010-03-11 00:00:00] 7 interesting insider trades
+2023-01-26 14:51:14,780 - simulator:124 - INFO - [2010-03-11 00:00:00] 3 unique tickers
+2023-01-26 14:51:14,792 - simulator:137 - INFO - [2010-03-11 00:00:00] failed to get price for EUGS
+2023-01-26 14:51:14,801 - simulator:137 - INFO - [2010-03-11 00:00:00] failed to get price for PGN
+2023-01-26 14:51:14,816 - simulator:146 - INFO - [2010-03-11 00:00:00] buying SJI for 20.280000686645508. Total: 162.24000549316406
+2023-01-26 14:51:14,836 - simulator:81 - INFO - [2010-03-12 00:00:00] Current P/L: $146.1867914199829, %1.0292373582839967
+2023-01-26 14:51:14,843 - simulator:82 - INFO - [2010-03-12 00:00:00] Current holdings: [[FTI quantity:5; profit:1.03][MRK quantity:13; profit:0.96][LLY quantity:4; profit:1.01][BRE quantity:53; profit:1.0][MTW quantity:22; profit:1.02][DTE quantity:3; profit:1.01][FE quantity:6; profit:1.01][SJI quantity:8; profit:1.01]]
+2023-01-26 14:51:14,876 - simulator:117 - INFO - [2010-03-12 00:00:00] 1 interesting insider trades
+2023-01-26 14:51:14,876 - simulator:124 - INFO - [2010-03-12 00:00:00] 1 unique tickers
+2023-01-26 14:51:14,886 - simulator:146 - INFO - [2010-03-12 00:00:00] buying HSIC for 22.207843780517575. Total: 510.78040695190424
+2023-01-26 14:51:14,888 - simulator:61 - INFO - [2010-03-13 00:00:00] Skipping weekend
+2023-01-26 14:51:14,888 - simulator:61 - INFO - [2010-03-14 00:00:00] Skipping weekend
+2023-01-26 14:51:14,911 - simulator:81 - INFO - [2010-03-15 00:00:00] Current P/L: $153.2085943222046, %1.030641718864441
+2023-01-26 14:51:14,919 - simulator:82 - INFO - [2010-03-15 00:00:00] Current holdings: [[FTI quantity:5; profit:1.01][MRK quantity:13; profit:0.98][LLY quantity:4; profit:1.01][BRE quantity:53; profit:1.0][MTW quantity:22; profit:1.01][DTE quantity:3; profit:1.02][FE quantity:6; profit:1.02][SJI quantity:8; profit:1.01][HSIC quantity:23; profit:1.0]]
+2023-01-26 14:51:14,987 - simulator:117 - INFO - [2010-03-15 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:15,024 - simulator:81 - INFO - [2010-03-16 00:00:00] Current P/L: $178.64922046661377, %1.0357298440933227
+2023-01-26 14:51:15,031 - simulator:82 - INFO - [2010-03-16 00:00:00] Current holdings: [[FTI quantity:5; profit:1.05][MRK quantity:13; profit:0.98][LLY quantity:4; profit:1.01][BRE quantity:53; profit:1.0][MTW quantity:22; profit:1.05][DTE quantity:3; profit:1.03][FE quantity:6; profit:1.02][SJI quantity:8; profit:1.03][HSIC quantity:23; profit:1.01]]
+2023-01-26 14:51:15,033 - simulator:99 - INFO - [2010-03-16 00:00:00] TARGET REACHED Selling asset [FTI] for $117.85714149475098. Profit: 1.0516182493663213. Days Held: 70
+2023-01-26 14:51:15,072 - simulator:117 - INFO - [2010-03-16 00:00:00] 4 interesting insider trades
+2023-01-26 14:51:15,072 - simulator:124 - INFO - [2010-03-16 00:00:00] 1 unique tickers
+2023-01-26 14:51:15,084 - simulator:137 - INFO - [2010-03-16 00:00:00] failed to get price for MRH
+2023-01-26 14:51:15,118 - simulator:81 - INFO - [2010-03-17 00:00:00] Current P/L: $188.06508350372314, %1.0376130167007447
+2023-01-26 14:51:15,128 - simulator:82 - INFO - [2010-03-17 00:00:00] Current holdings: [[MRK quantity:13; profit:0.99][LLY quantity:4; profit:1.01][BRE quantity:53; profit:1.0][MTW quantity:22; profit:1.06][DTE quantity:3; profit:1.03][FE quantity:6; profit:1.03][SJI quantity:8; profit:1.04][HSIC quantity:23; profit:1.01]]
+2023-01-26 14:51:15,136 - simulator:99 - INFO - [2010-03-17 00:00:00] TARGET REACHED Selling asset [MTW] for $263.0530090332031. Profit: 1.062801879950238. Days Held: 29
+2023-01-26 14:51:15,176 - simulator:117 - INFO - [2010-03-17 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:15,194 - simulator:81 - INFO - [2010-03-18 00:00:00] Current P/L: $190.91313457489014, %1.038182626914978
+2023-01-26 14:51:15,200 - simulator:82 - INFO - [2010-03-18 00:00:00] Current holdings: [[MRK quantity:13; profit:1.0][LLY quantity:4; profit:1.02][BRE quantity:53; profit:1.0][DTE quantity:3; profit:1.02][FE quantity:6; profit:1.02][SJI quantity:8; profit:1.03][HSIC quantity:23; profit:1.02]]
+2023-01-26 14:51:15,237 - simulator:117 - INFO - [2010-03-18 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:15,254 - simulator:81 - INFO - [2010-03-19 00:00:00] Current P/L: $187.15401363372803, %1.0374308027267456
+2023-01-26 14:51:15,262 - simulator:82 - INFO - [2010-03-19 00:00:00] Current holdings: [[MRK quantity:13; profit:0.99][LLY quantity:4; profit:1.01][BRE quantity:53; profit:1.0][DTE quantity:3; profit:1.02][FE quantity:6; profit:1.02][SJI quantity:8; profit:1.04][HSIC quantity:23; profit:1.02]]
+2023-01-26 14:51:15,299 - simulator:117 - INFO - [2010-03-19 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:15,300 - simulator:61 - INFO - [2010-03-20 00:00:00] Skipping weekend
+2023-01-26 14:51:15,300 - simulator:61 - INFO - [2010-03-21 00:00:00] Skipping weekend
+2023-01-26 14:51:15,324 - simulator:81 - INFO - [2010-03-22 00:00:00] Current P/L: $196.9650526046753, %1.039393010520935
+2023-01-26 14:51:15,332 - simulator:82 - INFO - [2010-03-22 00:00:00] Current holdings: [[MRK quantity:13; profit:0.99][LLY quantity:4; profit:1.02][BRE quantity:53; profit:1.0][DTE quantity:3; profit:1.01][FE quantity:6; profit:1.02][SJI quantity:8; profit:1.04][HSIC quantity:23; profit:1.03]]
+2023-01-26 14:51:15,382 - simulator:117 - INFO - [2010-03-22 00:00:00] 1 interesting insider trades
+2023-01-26 14:51:15,382 - simulator:124 - INFO - [2010-03-22 00:00:00] 1 unique tickers
+2023-01-26 14:51:15,399 - simulator:137 - INFO - [2010-03-22 00:00:00] failed to get price for EUGS
+2023-01-26 14:51:15,428 - simulator:81 - INFO - [2010-03-23 00:00:00] Current P/L: $206.2056760787964, %1.0412411352157593
+2023-01-26 14:51:15,434 - simulator:82 - INFO - [2010-03-23 00:00:00] Current holdings: [[MRK quantity:13; profit:1.0][LLY quantity:4; profit:1.02][BRE quantity:53; profit:1.0][DTE quantity:3; profit:1.02][FE quantity:6; profit:1.04][SJI quantity:8; profit:1.04][HSIC quantity:23; profit:1.03]]
+2023-01-26 14:51:15,468 - simulator:117 - INFO - [2010-03-23 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:15,492 - simulator:81 - INFO - [2010-03-24 00:00:00] Current P/L: $194.72450923919678, %1.0389449018478394
+2023-01-26 14:51:15,500 - simulator:82 - INFO - [2010-03-24 00:00:00] Current holdings: [[MRK quantity:13; profit:0.99][LLY quantity:4; profit:1.01][BRE quantity:53; profit:1.0][DTE quantity:3; profit:1.02][FE quantity:6; profit:1.03][SJI quantity:8; profit:1.03][HSIC quantity:23; profit:1.03]]
+2023-01-26 14:51:15,539 - simulator:117 - INFO - [2010-03-24 00:00:00] 4 interesting insider trades
+2023-01-26 14:51:15,540 - simulator:124 - INFO - [2010-03-24 00:00:00] 1 unique tickers
+2023-01-26 14:51:15,549 - simulator:146 - INFO - [2010-03-24 00:00:00] buying NI for 6.168959140777588. Total: 518.1925678253174
+2023-01-26 14:51:15,577 - simulator:81 - INFO - [2010-03-25 00:00:00] Current P/L: $173.2966547012329, %1.0346593309402465
+2023-01-26 14:51:15,587 - simulator:82 - INFO - [2010-03-25 00:00:00] Current holdings: [[MRK quantity:13; profit:0.98][LLY quantity:4; profit:1.01][BRE quantity:53; profit:1.0][DTE quantity:3; profit:1.01][FE quantity:6; profit:1.0][SJI quantity:8; profit:1.02][HSIC quantity:23; profit:1.02][NI quantity:84; profit:0.99]]
+2023-01-26 14:51:15,633 - simulator:117 - INFO - [2010-03-25 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:15,652 - simulator:81 - INFO - [2010-03-26 00:00:00] Current P/L: $170.56180095672607, %1.0341123601913451
+2023-01-26 14:51:15,659 - simulator:82 - INFO - [2010-03-26 00:00:00] Current holdings: [[MRK quantity:13; profit:0.97][LLY quantity:4; profit:0.99][BRE quantity:53; profit:1.0][DTE quantity:3; profit:1.01][FE quantity:6; profit:1.0][SJI quantity:8; profit:1.02][HSIC quantity:23; profit:1.02][NI quantity:84; profit:1.01]]
+2023-01-26 14:51:15,692 - simulator:117 - INFO - [2010-03-26 00:00:00] 1 interesting insider trades
+2023-01-26 14:51:15,692 - simulator:124 - INFO - [2010-03-26 00:00:00] 1 unique tickers
+2023-01-26 14:51:15,704 - simulator:61 - INFO - [2010-03-27 00:00:00] Skipping weekend
+2023-01-26 14:51:15,704 - simulator:61 - INFO - [2010-03-28 00:00:00] Skipping weekend
+2023-01-26 14:51:15,727 - simulator:81 - INFO - [2010-03-29 00:00:00] Current P/L: $190.51282024383545, %1.038102564048767
+2023-01-26 14:51:15,739 - simulator:82 - INFO - [2010-03-29 00:00:00] Current holdings: [[MRK quantity:13; profit:0.98][LLY quantity:4; profit:0.99][BRE quantity:53; profit:1.0][DTE quantity:3; profit:1.02][FE quantity:6; profit:1.0][SJI quantity:8; profit:1.03][HSIC quantity:23; profit:1.03][NI quantity:84; profit:1.02]]
+2023-01-26 14:51:15,788 - simulator:117 - INFO - [2010-03-29 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:15,807 - simulator:81 - INFO - [2010-03-30 00:00:00] Current P/L: $198.59019565582275, %1.0397180391311645
+2023-01-26 14:51:15,812 - simulator:82 - INFO - [2010-03-30 00:00:00] Current holdings: [[MRK quantity:13; profit:0.98][LLY quantity:4; profit:1.0][BRE quantity:53; profit:1.0][DTE quantity:3; profit:1.02][FE quantity:6; profit:1.0][SJI quantity:8; profit:1.03][HSIC quantity:23; profit:1.05][NI quantity:84; profit:1.02]]
+2023-01-26 14:51:15,844 - simulator:117 - INFO - [2010-03-30 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:15,863 - simulator:81 - INFO - [2010-03-31 00:00:00] Current P/L: $187.60558032989502, %1.037521116065979
+2023-01-26 14:51:15,871 - simulator:82 - INFO - [2010-03-31 00:00:00] Current holdings: [[MRK quantity:13; profit:0.97][LLY quantity:4; profit:1.01][BRE quantity:53; profit:1.0][DTE quantity:3; profit:1.01][FE quantity:6; profit:1.0][SJI quantity:8; profit:1.04][HSIC quantity:23; profit:1.04][NI quantity:84; profit:1.01]]
+2023-01-26 14:51:15,932 - simulator:117 - INFO - [2010-03-31 00:00:00] 2 interesting insider trades
+2023-01-26 14:51:15,933 - simulator:124 - INFO - [2010-03-31 00:00:00] 1 unique tickers
+2023-01-26 14:51:15,948 - simulator:146 - INFO - [2010-03-31 00:00:00] buying AIG for 34.13999938964844. Total: 512.0999908447266
+2023-01-26 14:51:15,973 - simulator:81 - INFO - [2010-04-01 00:00:00] Current P/L: $208.12427043914795, %1.0416248540878297
+2023-01-26 14:51:15,979 - simulator:82 - INFO - [2010-04-01 00:00:00] Current holdings: [[MRK quantity:13; profit:0.98][LLY quantity:4; profit:1.01][BRE quantity:53; profit:1.0][DTE quantity:3; profit:1.02][FE quantity:6; profit:1.01][SJI quantity:8; profit:1.04][HSIC quantity:23; profit:1.04][NI quantity:84; profit:1.03][AIG quantity:15; profit:1.0]]
+2023-01-26 14:51:16,027 - simulator:117 - INFO - [2010-04-01 00:00:00] 3 interesting insider trades
+2023-01-26 14:51:16,028 - simulator:124 - INFO - [2010-04-01 00:00:00] 1 unique tickers
+2023-01-26 14:51:16,039 - simulator:137 - INFO - [2010-04-01 00:00:00] failed to get price for RKT
+2023-01-26 14:51:16,040 - simulator:71 - INFO - [2010-04-02 00:00:00] Skipping invalid trade day
+2023-01-26 14:51:16,040 - simulator:61 - INFO - [2010-04-03 00:00:00] Skipping weekend
+2023-01-26 14:51:16,040 - simulator:61 - INFO - [2010-04-04 00:00:00] Skipping weekend
+2023-01-26 14:51:16,067 - simulator:81 - INFO - [2010-04-05 00:00:00] Current P/L: $235.564227104187, %1.0471128454208374
+2023-01-26 14:51:16,079 - simulator:82 - INFO - [2010-04-05 00:00:00] Current holdings: [[MRK quantity:13; profit:0.97][LLY quantity:4; profit:1.02][BRE quantity:53; profit:1.0][DTE quantity:3; profit:1.03][FE quantity:6; profit:1.02][SJI quantity:8; profit:1.06][HSIC quantity:23; profit:1.05][NI quantity:84; profit:1.04][AIG quantity:15; profit:1.03]]
+2023-01-26 14:51:16,090 - simulator:99 - INFO - [2010-04-05 00:00:00] TARGET REACHED Selling asset [SJI] for $172.47999572753906. Profit: 1.0631163084792083. Days Held: 25
+2023-01-26 14:51:16,092 - simulator:99 - INFO - [2010-04-05 00:00:00] TARGET REACHED Selling asset [HSIC] for $537.3882389068604. Profit: 1.0520925070594214. Days Held: 24
+2023-01-26 14:51:16,123 - simulator:117 - INFO - [2010-04-05 00:00:00] 1 interesting insider trades
+2023-01-26 14:51:16,124 - simulator:124 - INFO - [2010-04-05 00:00:00] 1 unique tickers
+2023-01-26 14:51:16,134 - simulator:146 - INFO - [2010-04-05 00:00:00] buying PEP for 65.9800033569336. Total: 461.86002349853516
+2023-01-26 14:51:16,163 - simulator:81 - INFO - [2010-04-06 00:00:00] Current P/L: $258.5322370529175, %1.0517064474105835
+2023-01-26 14:51:16,170 - simulator:82 - INFO - [2010-04-06 00:00:00] Current holdings: [[MRK quantity:13; profit:0.97][LLY quantity:4; profit:1.02][BRE quantity:53; profit:1.0][DTE quantity:3; profit:1.05][FE quantity:6; profit:1.02][NI quantity:84; profit:1.05][AIG quantity:15; profit:1.05][PEP quantity:7; profit:1.01]]
+2023-01-26 14:51:16,176 - simulator:99 - INFO - [2010-04-06 00:00:00] TARGET REACHED Selling asset [AIG] for $538.6499977111816. Profit: 1.0518453570418151. Days Held: 6
+2023-01-26 14:51:16,206 - simulator:117 - INFO - [2010-04-06 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:16,222 - simulator:81 - INFO - [2010-04-07 00:00:00] Current P/L: $243.08631229400635, %1.0486172624588013
+2023-01-26 14:51:16,228 - simulator:82 - INFO - [2010-04-07 00:00:00] Current holdings: [[MRK quantity:13; profit:0.95][LLY quantity:4; profit:1.02][BRE quantity:53; profit:1.0][DTE quantity:3; profit:1.04][FE quantity:6; profit:1.02][NI quantity:84; profit:1.04][PEP quantity:7; profit:1.0]]
+2023-01-26 14:51:16,264 - simulator:117 - INFO - [2010-04-07 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:16,286 - simulator:81 - INFO - [2010-04-08 00:00:00] Current P/L: $237.49872875213623, %1.0474997457504271
+2023-01-26 14:51:16,294 - simulator:82 - INFO - [2010-04-08 00:00:00] Current holdings: [[MRK quantity:13; profit:0.95][LLY quantity:4; profit:1.02][BRE quantity:53; profit:1.0][DTE quantity:3; profit:1.04][FE quantity:6; profit:1.01][NI quantity:84; profit:1.03][PEP quantity:7; profit:1.0]]
+2023-01-26 14:51:16,334 - simulator:117 - INFO - [2010-04-08 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:16,356 - simulator:81 - INFO - [2010-04-09 00:00:00] Current P/L: $246.8487024307251, %1.049369740486145
+2023-01-26 14:51:16,365 - simulator:82 - INFO - [2010-04-09 00:00:00] Current holdings: [[MRK quantity:13; profit:0.96][LLY quantity:4; profit:1.03][BRE quantity:53; profit:1.0][DTE quantity:3; profit:1.04][FE quantity:6; profit:1.02][NI quantity:84; profit:1.04][PEP quantity:7; profit:1.01]]
+2023-01-26 14:51:16,401 - simulator:117 - INFO - [2010-04-09 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:16,402 - simulator:61 - INFO - [2010-04-10 00:00:00] Skipping weekend
+2023-01-26 14:51:16,403 - simulator:61 - INFO - [2010-04-11 00:00:00] Skipping weekend
+2023-01-26 14:51:16,422 - simulator:81 - INFO - [2010-04-12 00:00:00] Current P/L: $245.74221324920654, %1.0491484426498414
+2023-01-26 14:51:16,427 - simulator:82 - INFO - [2010-04-12 00:00:00] Current holdings: [[MRK quantity:13; profit:0.96][LLY quantity:4; profit:1.02][BRE quantity:53; profit:1.0][DTE quantity:3; profit:1.04][FE quantity:6; profit:1.02][NI quantity:84; profit:1.04][PEP quantity:7; profit:1.01]]
+2023-01-26 14:51:16,457 - simulator:117 - INFO - [2010-04-12 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:16,476 - simulator:81 - INFO - [2010-04-13 00:00:00] Current P/L: $241.549542427063, %1.0483099084854126
+2023-01-26 14:51:16,481 - simulator:82 - INFO - [2010-04-13 00:00:00] Current holdings: [[MRK quantity:13; profit:0.95][LLY quantity:4; profit:1.03][BRE quantity:53; profit:1.0][DTE quantity:3; profit:1.04][FE quantity:6; profit:1.01][NI quantity:84; profit:1.03][PEP quantity:7; profit:1.01]]
+2023-01-26 14:51:16,515 - simulator:117 - INFO - [2010-04-13 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:16,533 - simulator:81 - INFO - [2010-04-14 00:00:00] Current P/L: $234.57983112335205, %1.0469159662246703
+2023-01-26 14:51:16,538 - simulator:82 - INFO - [2010-04-14 00:00:00] Current holdings: [[MRK quantity:13; profit:0.94][LLY quantity:4; profit:1.02][BRE quantity:53; profit:1.0][DTE quantity:3; profit:1.04][FE quantity:6; profit:1.0][NI quantity:84; profit:1.04][PEP quantity:7; profit:1.0]]
+2023-01-26 14:51:16,573 - simulator:117 - INFO - [2010-04-14 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:16,592 - simulator:81 - INFO - [2010-04-15 00:00:00] Current P/L: $230.962872505188, %1.0461925745010376
+2023-01-26 14:51:16,597 - simulator:82 - INFO - [2010-04-15 00:00:00] Current holdings: [[MRK quantity:13; profit:0.93][LLY quantity:4; profit:1.03][BRE quantity:53; profit:1.0][DTE quantity:3; profit:1.04][FE quantity:6; profit:0.99][NI quantity:84; profit:1.04][PEP quantity:7; profit:1.0]]
+2023-01-26 14:51:16,629 - simulator:117 - INFO - [2010-04-15 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:16,646 - simulator:81 - INFO - [2010-04-16 00:00:00] Current P/L: $219.24380207061768, %1.0438487604141236
+2023-01-26 14:51:16,653 - simulator:82 - INFO - [2010-04-16 00:00:00] Current holdings: [[MRK quantity:13; profit:0.93][LLY quantity:4; profit:1.02][BRE quantity:53; profit:1.0][DTE quantity:3; profit:1.03][FE quantity:6; profit:0.97][NI quantity:84; profit:1.04][PEP quantity:7; profit:1.0]]
+2023-01-26 14:51:16,695 - simulator:117 - INFO - [2010-04-16 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:16,695 - simulator:61 - INFO - [2010-04-17 00:00:00] Skipping weekend
+2023-01-26 14:51:16,695 - simulator:61 - INFO - [2010-04-18 00:00:00] Skipping weekend
+2023-01-26 14:51:16,731 - simulator:81 - INFO - [2010-04-19 00:00:00] Current P/L: $222.73499965667725, %1.0445469999313355
+2023-01-26 14:51:16,741 - simulator:82 - INFO - [2010-04-19 00:00:00] Current holdings: [[MRK quantity:13; profit:0.93][LLY quantity:4; profit:1.02][BRE quantity:53; profit:1.0][DTE quantity:3; profit:1.04][FE quantity:6; profit:0.96][NI quantity:84; profit:1.04][PEP quantity:7; profit:1.0]]
+2023-01-26 14:51:16,785 - simulator:117 - INFO - [2010-04-19 00:00:00] 7 interesting insider trades
+2023-01-26 14:51:16,785 - simulator:124 - INFO - [2010-04-19 00:00:00] 1 unique tickers
+2023-01-26 14:51:16,795 - simulator:137 - INFO - [2010-04-19 00:00:00] failed to get price for LLTC
+2023-01-26 14:51:16,818 - simulator:81 - INFO - [2010-04-20 00:00:00] Current P/L: $227.6415205001831, %1.0455283041000367
+2023-01-26 14:51:16,824 - simulator:82 - INFO - [2010-04-20 00:00:00] Current holdings: [[MRK quantity:13; profit:0.93][LLY quantity:4; profit:1.02][BRE quantity:53; profit:1.0][DTE quantity:3; profit:1.04][FE quantity:6; profit:0.97][NI quantity:84; profit:1.05][PEP quantity:7; profit:1.0]]
+2023-01-26 14:51:16,858 - simulator:117 - INFO - [2010-04-20 00:00:00] 4 interesting insider trades
+2023-01-26 14:51:16,859 - simulator:124 - INFO - [2010-04-20 00:00:00] 1 unique tickers
+2023-01-26 14:51:16,872 - simulator:146 - INFO - [2010-04-20 00:00:00] buying MET for 41.84492111206055. Total: 502.13905334472656
+2023-01-26 14:51:16,891 - simulator:81 - INFO - [2010-04-21 00:00:00] Current P/L: $201.8757791519165, %1.0403751558303833
+2023-01-26 14:51:16,897 - simulator:82 - INFO - [2010-04-21 00:00:00] Current holdings: [[MRK quantity:13; profit:0.9][LLY quantity:4; profit:1.01][BRE quantity:53; profit:1.0][DTE quantity:3; profit:1.06][FE quantity:6; profit:0.97][NI quantity:84; profit:1.05][PEP quantity:7; profit:1.0][MET quantity:12; profit:0.99]]
+2023-01-26 14:51:16,900 - simulator:99 - INFO - [2010-04-21 00:00:00] TARGET REACHED Selling asset [DTE] for $119.5404281616211. Profit: 1.056646438962788. Days Held: 51
+2023-01-26 14:51:16,932 - simulator:117 - INFO - [2010-04-21 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:16,948 - simulator:81 - INFO - [2010-04-22 00:00:00] Current P/L: $180.91449451446533, %1.0361828989028932
+2023-01-26 14:51:16,954 - simulator:82 - INFO - [2010-04-22 00:00:00] Current holdings: [[MRK quantity:13; profit:0.88][LLY quantity:4; profit:0.99][BRE quantity:53; profit:1.0][FE quantity:6; profit:0.96][NI quantity:84; profit:1.05][PEP quantity:7; profit:0.98][MET quantity:12; profit:0.99]]
+2023-01-26 14:51:16,991 - simulator:117 - INFO - [2010-04-22 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:17,008 - simulator:81 - INFO - [2010-04-23 00:00:00] Current P/L: $217.2619218826294, %1.043452384376526
+2023-01-26 14:51:17,012 - simulator:82 - INFO - [2010-04-23 00:00:00] Current holdings: [[MRK quantity:13; profit:0.92][LLY quantity:4; profit:0.99][BRE quantity:53; profit:1.0][FE quantity:6; profit:0.96][NI quantity:84; profit:1.06][PEP quantity:7; profit:0.98][MET quantity:12; profit:1.0]]
+2023-01-26 14:51:17,016 - simulator:99 - INFO - [2010-04-23 00:00:00] TARGET REACHED Selling asset [NI] for $551.5284576416016. Profit: 1.0643310844001177. Days Held: 30
+2023-01-26 14:51:17,047 - simulator:117 - INFO - [2010-04-23 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:17,047 - simulator:61 - INFO - [2010-04-24 00:00:00] Skipping weekend
+2023-01-26 14:51:17,047 - simulator:61 - INFO - [2010-04-25 00:00:00] Skipping weekend
+2023-01-26 14:51:17,064 - simulator:81 - INFO - [2010-04-26 00:00:00] Current P/L: $209.245041847229, %1.0418490083694458
+2023-01-26 14:51:17,071 - simulator:82 - INFO - [2010-04-26 00:00:00] Current holdings: [[MRK quantity:13; profit:0.91][LLY quantity:4; profit:0.99][BRE quantity:53; profit:1.0][FE quantity:6; profit:0.96][PEP quantity:7; profit:0.99][MET quantity:12; profit:1.0]]
+2023-01-26 14:51:17,073 - simulator:102 - INFO - [2010-04-26 00:00:00] EXPIRED Selling asset [MRK] for $434.1602973937988. Profit: 0.9072057959642917. Days Held: 90
+2023-01-26 14:51:17,098 - simulator:117 - INFO - [2010-04-26 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:17,113 - simulator:81 - INFO - [2010-04-27 00:00:00] Current P/L: $172.2293405532837, %1.0344458681106568
+2023-01-26 14:51:17,118 - simulator:82 - INFO - [2010-04-27 00:00:00] Current holdings: [[LLY quantity:4; profit:0.98][BRE quantity:53; profit:1.0][FE quantity:6; profit:0.95][PEP quantity:7; profit:0.97][MET quantity:12; profit:0.94]]
+2023-01-26 14:51:17,158 - simulator:117 - INFO - [2010-04-27 00:00:00] 7 interesting insider trades
+2023-01-26 14:51:17,158 - simulator:124 - INFO - [2010-04-27 00:00:00] 3 unique tickers
+2023-01-26 14:51:17,168 - simulator:137 - INFO - [2010-04-27 00:00:00] failed to get price for POLGA.OC
+2023-01-26 14:51:17,177 - simulator:137 - INFO - [2010-04-27 00:00:00] failed to get price for POLGA.OB
+2023-01-26 14:51:17,187 - simulator:146 - INFO - [2010-04-27 00:00:00] buying BOH for 51.72999954223633. Total: 155.18999862670898
+2023-01-26 14:51:17,202 - simulator:81 - INFO - [2010-04-28 00:00:00] Current P/L: $175.33816242218018, %1.0350676324844361
+2023-01-26 14:51:17,207 - simulator:82 - INFO - [2010-04-28 00:00:00] Current holdings: [[LLY quantity:4; profit:0.97][BRE quantity:53; profit:1.0][FE quantity:6; profit:0.96][PEP quantity:7; profit:0.98][MET quantity:12; profit:0.94][BOH quantity:3; profit:1.0]]
+2023-01-26 14:51:17,209 - simulator:102 - INFO - [2010-04-28 00:00:00] EXPIRED Selling asset [LLY] for $139.0399932861328. Profit: 0.9723076453575721. Days Held: 90
+2023-01-26 14:51:17,232 - simulator:117 - INFO - [2010-04-28 00:00:00] 1 interesting insider trades
+2023-01-26 14:51:17,232 - simulator:124 - INFO - [2010-04-28 00:00:00] 1 unique tickers
+2023-01-26 14:51:17,250 - simulator:81 - INFO - [2010-04-29 00:00:00] Current P/L: $199.92695331573486, %1.0399853906631469
+2023-01-26 14:51:17,256 - simulator:82 - INFO - [2010-04-29 00:00:00] Current holdings: [[BRE quantity:53; profit:1.0][FE quantity:6; profit:0.96][PEP quantity:7; profit:0.99][MET quantity:12; profit:0.97][BOH quantity:3; profit:1.03]]
+2023-01-26 14:51:17,257 - simulator:102 - INFO - [2010-04-29 00:00:00] EXPIRED Selling asset [BRE] for $492.9318027496339. Profit: 1.0. Days Held: 90
+2023-01-26 14:51:17,283 - simulator:117 - INFO - [2010-04-29 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:17,295 - simulator:81 - INFO - [2010-04-30 00:00:00] Current P/L: $201.6791467666626, %1.0403358293533325
+2023-01-26 14:51:17,298 - simulator:82 - INFO - [2010-04-30 00:00:00] Current holdings: [[FE quantity:6; profit:0.97][PEP quantity:7; profit:0.99][MET quantity:12; profit:0.97][BOH quantity:3; profit:1.02]]
+2023-01-26 14:51:17,326 - simulator:117 - INFO - [2010-04-30 00:00:00] 1 interesting insider trades
+2023-01-26 14:51:17,326 - simulator:124 - INFO - [2010-04-30 00:00:00] 1 unique tickers
+2023-01-26 14:51:17,335 - simulator:146 - INFO - [2010-04-30 00:00:00] buying AME for 19.22222137451172. Total: 518.9999771118164
+2023-01-26 14:51:17,337 - simulator:61 - INFO - [2010-05-01 00:00:00] Skipping weekend
+2023-01-26 14:51:17,337 - simulator:61 - INFO - [2010-05-02 00:00:00] Skipping weekend
+2023-01-26 14:51:17,351 - simulator:81 - INFO - [2010-05-03 00:00:00] Current P/L: $216.67430973052979, %1.043334861946106
+2023-01-26 14:51:17,357 - simulator:82 - INFO - [2010-05-03 00:00:00] Current holdings: [[FE quantity:6; profit:0.97][PEP quantity:7; profit:1.0][MET quantity:12; profit:0.97][BOH quantity:3; profit:1.02][AME quantity:27; profit:1.02]]
+2023-01-26 14:51:17,388 - simulator:117 - INFO - [2010-05-03 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:17,399 - simulator:81 - INFO - [2010-05-04 00:00:00] Current P/L: $180.10444736480713, %1.0360208894729614
+2023-01-26 14:51:17,406 - simulator:82 - INFO - [2010-05-04 00:00:00] Current holdings: [[FE quantity:6; profit:0.95][PEP quantity:7; profit:0.99][MET quantity:12; profit:0.95][BOH quantity:3; profit:1.0][AME quantity:27; profit:0.99]]
+2023-01-26 14:51:17,428 - simulator:117 - INFO - [2010-05-04 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:17,440 - simulator:81 - INFO - [2010-05-05 00:00:00] Current P/L: $153.07426357269287, %1.0306148527145387
+2023-01-26 14:51:17,443 - simulator:82 - INFO - [2010-05-05 00:00:00] Current holdings: [[FE quantity:6; profit:0.92][PEP quantity:7; profit:0.99][MET quantity:12; profit:0.93][BOH quantity:3; profit:1.01][AME quantity:27; profit:0.97]]
+2023-01-26 14:51:17,466 - simulator:117 - INFO - [2010-05-05 00:00:00] 7 interesting insider trades
+2023-01-26 14:51:17,467 - simulator:124 - INFO - [2010-05-05 00:00:00] 2 unique tickers
+2023-01-26 14:51:17,477 - simulator:146 - INFO - [2010-05-05 00:00:00] buying BK for 31.18000030517578. Total: 249.44000244140625
+2023-01-26 14:51:17,487 - simulator:137 - INFO - [2010-05-05 00:00:00] failed to get price for NIHD
+2023-01-26 14:51:17,504 - simulator:81 - INFO - [2010-05-06 00:00:00] Current P/L: $100.60460186004639, %1.0201209203720092
+2023-01-26 14:51:17,509 - simulator:82 - INFO - [2010-05-06 00:00:00] Current holdings: [[FE quantity:6; profit:0.9][PEP quantity:7; profit:0.98][MET quantity:12; profit:0.9][BOH quantity:3; profit:0.99][AME quantity:27; profit:0.94][BK quantity:8; profit:0.97]]
+2023-01-26 14:51:17,538 - simulator:117 - INFO - [2010-05-06 00:00:00] 3 interesting insider trades
+2023-01-26 14:51:17,539 - simulator:124 - INFO - [2010-05-06 00:00:00] 3 unique tickers
+2023-01-26 14:51:17,546 - simulator:137 - INFO - [2010-05-06 00:00:00] failed to get price for TSO
+2023-01-26 14:51:17,556 - simulator:137 - INFO - [2010-05-06 00:00:00] failed to get price for IMN
+2023-01-26 14:51:17,565 - simulator:137 - INFO - [2010-05-06 00:00:00] failed to get price for IBKC
+2023-01-26 14:51:17,583 - simulator:81 - INFO - [2010-05-07 00:00:00] Current P/L: $76.20361423492432, %1.0152407228469849
+2023-01-26 14:51:17,590 - simulator:82 - INFO - [2010-05-07 00:00:00] Current holdings: [[FE quantity:6; profit:0.9][PEP quantity:7; profit:0.98][MET quantity:12; profit:0.87][BOH quantity:3; profit:0.98][AME quantity:27; profit:0.93][BK quantity:8; profit:0.96]]
+2023-01-26 14:51:17,618 - simulator:117 - INFO - [2010-05-07 00:00:00] 1 interesting insider trades
+2023-01-26 14:51:17,619 - simulator:124 - INFO - [2010-05-07 00:00:00] 1 unique tickers
+2023-01-26 14:51:17,626 - simulator:137 - INFO - [2010-05-07 00:00:00] failed to get price for ONNN
+2023-01-26 14:51:17,626 - simulator:61 - INFO - [2010-05-08 00:00:00] Skipping weekend
+2023-01-26 14:51:17,626 - simulator:61 - INFO - [2010-05-09 00:00:00] Skipping weekend
+2023-01-26 14:51:17,643 - simulator:81 - INFO - [2010-05-10 00:00:00] Current P/L: $176.4672384262085, %1.0352934476852418
+2023-01-26 14:51:17,648 - simulator:82 - INFO - [2010-05-10 00:00:00] Current holdings: [[FE quantity:6; profit:0.92][PEP quantity:7; profit:1.01][MET quantity:12; profit:0.94][BOH quantity:3; profit:1.01][AME quantity:27; profit:0.98][BK quantity:8; profit:1.01]]
+2023-01-26 14:51:17,679 - simulator:117 - INFO - [2010-05-10 00:00:00] 1 interesting insider trades
+2023-01-26 14:51:17,679 - simulator:124 - INFO - [2010-05-10 00:00:00] 1 unique tickers
+2023-01-26 14:51:17,690 - simulator:137 - INFO - [2010-05-10 00:00:00] failed to get price for XJT
+2023-01-26 14:51:17,704 - simulator:81 - INFO - [2010-05-11 00:00:00] Current P/L: $163.37551021575928, %1.032675102043152
+2023-01-26 14:51:17,709 - simulator:82 - INFO - [2010-05-11 00:00:00] Current holdings: [[FE quantity:6; profit:0.92][PEP quantity:7; profit:1.01][MET quantity:12; profit:0.92][BOH quantity:3; profit:1.01][AME quantity:27; profit:0.99][BK quantity:8; profit:0.99]]
+2023-01-26 14:51:17,742 - simulator:117 - INFO - [2010-05-11 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:17,760 - simulator:81 - INFO - [2010-05-12 00:00:00] Current P/L: $188.7695550918579, %1.0377539110183716
+2023-01-26 14:51:17,765 - simulator:82 - INFO - [2010-05-12 00:00:00] Current holdings: [[FE quantity:6; profit:0.94][PEP quantity:7; profit:1.01][MET quantity:12; profit:0.93][BOH quantity:3; profit:1.03][AME quantity:27; profit:1.01][BK quantity:8; profit:0.99]]
+2023-01-26 14:51:17,799 - simulator:117 - INFO - [2010-05-12 00:00:00] 3 interesting insider trades
+2023-01-26 14:51:17,799 - simulator:124 - INFO - [2010-05-12 00:00:00] 2 unique tickers
+2023-01-26 14:51:17,812 - simulator:137 - INFO - [2010-05-12 00:00:00] failed to get price for POLGA.OB
+2023-01-26 14:51:17,823 - simulator:137 - INFO - [2010-05-12 00:00:00] failed to get price for PL
+2023-01-26 14:51:17,839 - simulator:81 - INFO - [2010-05-13 00:00:00] Current P/L: $168.56425189971924, %1.0337128503799438
+2023-01-26 14:51:17,845 - simulator:82 - INFO - [2010-05-13 00:00:00] Current holdings: [[FE quantity:6; profit:0.94][PEP quantity:7; profit:1.01][MET quantity:12; profit:0.92][BOH quantity:3; profit:1.02][AME quantity:27; profit:1.0][BK quantity:8; profit:0.96]]
+2023-01-26 14:51:17,880 - simulator:117 - INFO - [2010-05-13 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:17,898 - simulator:81 - INFO - [2010-05-14 00:00:00] Current P/L: $134.47770404815674, %1.0268955408096314
+2023-01-26 14:51:17,907 - simulator:82 - INFO - [2010-05-14 00:00:00] Current holdings: [[FE quantity:6; profit:0.94][PEP quantity:7; profit:1.0][MET quantity:12; profit:0.88][BOH quantity:3; profit:0.98][AME quantity:27; profit:1.0][BK quantity:8; profit:0.95]]
+2023-01-26 14:51:17,962 - simulator:117 - INFO - [2010-05-14 00:00:00] 1 interesting insider trades
+2023-01-26 14:51:17,963 - simulator:124 - INFO - [2010-05-14 00:00:00] 1 unique tickers
+2023-01-26 14:51:17,973 - simulator:137 - INFO - [2010-05-14 00:00:00] failed to get price for NIHD
+2023-01-26 14:51:17,973 - simulator:61 - INFO - [2010-05-15 00:00:00] Skipping weekend
+2023-01-26 14:51:17,973 - simulator:61 - INFO - [2010-05-16 00:00:00] Skipping weekend
+2023-01-26 14:51:17,990 - simulator:81 - INFO - [2010-05-17 00:00:00] Current P/L: $145.26132678985596, %1.0290522653579712
+2023-01-26 14:51:17,995 - simulator:82 - INFO - [2010-05-17 00:00:00] Current holdings: [[FE quantity:6; profit:0.94][PEP quantity:7; profit:1.01][MET quantity:12; profit:0.89][BOH quantity:3; profit:0.98][AME quantity:27; profit:1.0][BK quantity:8; profit:0.96]]
+2023-01-26 14:51:18,027 - simulator:117 - INFO - [2010-05-17 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:18,042 - simulator:81 - INFO - [2010-05-18 00:00:00] Current P/L: $113.72263431549072, %1.0227445268630981
+2023-01-26 14:51:18,045 - simulator:82 - INFO - [2010-05-18 00:00:00] Current holdings: [[FE quantity:6; profit:0.92][PEP quantity:7; profit:1.01][MET quantity:12; profit:0.87][BOH quantity:3; profit:0.95][AME quantity:27; profit:0.98][BK quantity:8; profit:0.94]]
+2023-01-26 14:51:18,089 - simulator:117 - INFO - [2010-05-18 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:18,113 - simulator:81 - INFO - [2010-05-19 00:00:00] Current P/L: $87.18154430389404, %1.0174363088607787
+2023-01-26 14:51:18,117 - simulator:82 - INFO - [2010-05-19 00:00:00] Current holdings: [[FE quantity:6; profit:0.92][PEP quantity:7; profit:1.0][MET quantity:12; profit:0.86][BOH quantity:3; profit:0.94][AME quantity:27; profit:0.96][BK quantity:8; profit:0.92]]
+2023-01-26 14:51:18,155 - simulator:117 - INFO - [2010-05-19 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:18,176 - simulator:81 - INFO - [2010-05-20 00:00:00] Current P/L: $14.096234321594238, %1.002819246864319
+2023-01-26 14:51:18,183 - simulator:82 - INFO - [2010-05-20 00:00:00] Current holdings: [[FE quantity:6; profit:0.89][PEP quantity:7; profit:0.97][MET quantity:12; profit:0.81][BOH quantity:3; profit:0.9][AME quantity:27; profit:0.94][BK quantity:8; profit:0.89]]
+2023-01-26 14:51:18,188 - simulator:95 - INFO - [2010-05-20 00:00:00] STOP LOSS Selling asset [MET] for $405.1337127685547. Profit: 0.8068157815449257. Days Held: 30
+2023-01-26 14:51:18,213 - simulator:117 - INFO - [2010-05-20 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:18,228 - simulator:81 - INFO - [2010-05-21 00:00:00] Current P/L: $13.466294288635254, %1.002693258857727
+2023-01-26 14:51:18,234 - simulator:82 - INFO - [2010-05-21 00:00:00] Current holdings: [[FE quantity:6; profit:0.9][PEP quantity:7; profit:0.96][BOH quantity:3; profit:0.91][AME quantity:27; profit:0.94][BK quantity:8; profit:0.89]]
+2023-01-26 14:51:18,273 - simulator:117 - INFO - [2010-05-21 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:18,273 - simulator:61 - INFO - [2010-05-22 00:00:00] Skipping weekend
+2023-01-26 14:51:18,273 - simulator:61 - INFO - [2010-05-23 00:00:00] Skipping weekend
+2023-01-26 14:51:18,286 - simulator:81 - INFO - [2010-05-24 00:00:00] Current P/L: $3.176236152648926, %1.0006352472305298
+2023-01-26 14:51:18,292 - simulator:82 - INFO - [2010-05-24 00:00:00] Current holdings: [[FE quantity:6; profit:0.89][PEP quantity:7; profit:0.96][BOH quantity:3; profit:0.9][AME quantity:27; profit:0.94][BK quantity:8; profit:0.87]]
+2023-01-26 14:51:18,326 - simulator:117 - INFO - [2010-05-24 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:18,343 - simulator:81 - INFO - [2010-05-25 00:00:00] Current P/L: $-2.313748359680176, %0.999537250328064
+2023-01-26 14:51:18,346 - simulator:82 - INFO - [2010-05-25 00:00:00] Current holdings: [[FE quantity:6; profit:0.88][PEP quantity:7; profit:0.95][BOH quantity:3; profit:0.9][AME quantity:27; profit:0.93][BK quantity:8; profit:0.87]]
+2023-01-26 14:51:18,377 - simulator:117 - INFO - [2010-05-25 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:18,392 - simulator:81 - INFO - [2010-05-26 00:00:00] Current P/L: $-13.663743019104004, %0.9972672513961792
+2023-01-26 14:51:18,395 - simulator:82 - INFO - [2010-05-26 00:00:00] Current holdings: [[FE quantity:6; profit:0.88][PEP quantity:7; profit:0.93][BOH quantity:3; profit:0.92][AME quantity:27; profit:0.93][BK quantity:8; profit:0.88]]
+2023-01-26 14:51:18,422 - simulator:117 - INFO - [2010-05-26 00:00:00] 6 interesting insider trades
+2023-01-26 14:51:18,423 - simulator:124 - INFO - [2010-05-26 00:00:00] 1 unique tickers
+2023-01-26 14:51:18,430 - simulator:137 - INFO - [2010-05-26 00:00:00] failed to get price for URS
+2023-01-26 14:51:18,445 - simulator:81 - INFO - [2010-05-27 00:00:00] Current P/L: $27.816292762756348, %1.0055632585525514
+2023-01-26 14:51:18,448 - simulator:82 - INFO - [2010-05-27 00:00:00] Current holdings: [[FE quantity:6; profit:0.91][PEP quantity:7; profit:0.95][BOH quantity:3; profit:0.94][AME quantity:27; profit:0.96][BK quantity:8; profit:0.9]]
+2023-01-26 14:51:18,480 - simulator:117 - INFO - [2010-05-27 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:18,497 - simulator:81 - INFO - [2010-05-28 00:00:00] Current P/L: $8.866198539733887, %1.0017732397079468
+2023-01-26 14:51:18,503 - simulator:82 - INFO - [2010-05-28 00:00:00] Current holdings: [[FE quantity:6; profit:0.9][PEP quantity:7; profit:0.95][BOH quantity:3; profit:0.93][AME quantity:27; profit:0.94][BK quantity:8; profit:0.87]]
+2023-01-26 14:51:18,532 - simulator:117 - INFO - [2010-05-28 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:18,533 - simulator:61 - INFO - [2010-05-29 00:00:00] Skipping weekend
+2023-01-26 14:51:18,533 - simulator:61 - INFO - [2010-05-30 00:00:00] Skipping weekend
+2023-01-26 14:51:18,533 - simulator:71 - INFO - [2010-05-31 00:00:00] Skipping invalid trade day
+2023-01-26 14:51:18,551 - simulator:81 - INFO - [2010-06-01 00:00:00] Current P/L: $-12.13378620147705, %0.9975732427597046
+2023-01-26 14:51:18,557 - simulator:82 - INFO - [2010-06-01 00:00:00] Current holdings: [[FE quantity:6; profit:0.87][PEP quantity:7; profit:0.95][BOH quantity:3; profit:0.91][AME quantity:27; profit:0.93][BK quantity:8; profit:0.85]]
+2023-01-26 14:51:18,559 - simulator:102 - INFO - [2010-06-01 00:00:00] EXPIRED Selling asset [FE] for $204.17999267578125. Profit: 0.8743576665029182. Days Held: 90
+2023-01-26 14:51:18,565 - simulator:95 - INFO - [2010-06-01 00:00:00] STOP LOSS Selling asset [BK] for $212.0. Profit: 0.849903776158754. Days Held: 27
+2023-01-26 14:51:18,590 - simulator:117 - INFO - [2010-06-01 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:18,604 - simulator:81 - INFO - [2010-06-02 00:00:00] Current P/L: $12.086255073547363, %1.0024172510147096
+2023-01-26 14:51:18,608 - simulator:82 - INFO - [2010-06-02 00:00:00] Current holdings: [[PEP quantity:7; profit:0.96][BOH quantity:3; profit:0.93][AME quantity:27; profit:0.96]]
+2023-01-26 14:51:18,636 - simulator:117 - INFO - [2010-06-02 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:18,646 - simulator:81 - INFO - [2010-06-03 00:00:00] Current P/L: $14.876229286193848, %1.0029752458572387
+2023-01-26 14:51:18,648 - simulator:82 - INFO - [2010-06-03 00:00:00] Current holdings: [[PEP quantity:7; profit:0.96][BOH quantity:3; profit:0.93][AME quantity:27; profit:0.97]]
+2023-01-26 14:51:18,663 - simulator:117 - INFO - [2010-06-03 00:00:00] 1 interesting insider trades
+2023-01-26 14:51:18,663 - simulator:124 - INFO - [2010-06-03 00:00:00] 1 unique tickers
+2023-01-26 14:51:18,667 - simulator:137 - INFO - [2010-06-03 00:00:00] failed to get price for ESV
+2023-01-26 14:51:18,676 - simulator:81 - INFO - [2010-06-04 00:00:00] Current P/L: $-26.263792991638184, %0.9947472414016724
+2023-01-26 14:51:18,678 - simulator:82 - INFO - [2010-06-04 00:00:00] Current holdings: [[PEP quantity:7; profit:0.93][BOH quantity:3; profit:0.88][AME quantity:27; profit:0.93]]
+2023-01-26 14:51:18,699 - simulator:117 - INFO - [2010-06-04 00:00:00] 3 interesting insider trades
+2023-01-26 14:51:18,699 - simulator:124 - INFO - [2010-06-04 00:00:00] 2 unique tickers
+2023-01-26 14:51:18,710 - simulator:146 - INFO - [2010-06-04 00:00:00] buying H for 38.2599983215332. Total: 229.55998992919922
+2023-01-26 14:51:18,720 - simulator:61 - INFO - [2010-06-05 00:00:00] Skipping weekend
+2023-01-26 14:51:18,720 - simulator:61 - INFO - [2010-06-06 00:00:00] Skipping weekend
+2023-01-26 14:51:18,740 - simulator:81 - INFO - [2010-06-07 00:00:00] Current P/L: $-39.59378910064697, %0.9920812421798706
+2023-01-26 14:51:18,744 - simulator:82 - INFO - [2010-06-07 00:00:00] Current holdings: [[PEP quantity:7; profit:0.94][BOH quantity:3; profit:0.88][AME quantity:27; profit:0.91][H quantity:6; profit:0.97]]
+2023-01-26 14:51:18,764 - simulator:117 - INFO - [2010-06-07 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:18,775 - simulator:81 - INFO - [2010-06-08 00:00:00] Current P/L: $-27.093750953674316, %0.9945812498092651
+2023-01-26 14:51:18,778 - simulator:82 - INFO - [2010-06-08 00:00:00] Current holdings: [[PEP quantity:7; profit:0.95][BOH quantity:3; profit:0.89][AME quantity:27; profit:0.92][H quantity:6; profit:0.98]]
+2023-01-26 14:51:18,798 - simulator:117 - INFO - [2010-06-08 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:18,810 - simulator:81 - INFO - [2010-06-09 00:00:00] Current P/L: $-21.523756980895996, %0.9956952486038207
+2023-01-26 14:51:18,813 - simulator:82 - INFO - [2010-06-09 00:00:00] Current holdings: [[PEP quantity:7; profit:0.95][BOH quantity:3; profit:0.89][AME quantity:27; profit:0.92][H quantity:6; profit:0.99]]
+2023-01-26 14:51:18,834 - simulator:117 - INFO - [2010-06-09 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:18,846 - simulator:81 - INFO - [2010-06-10 00:00:00] Current P/L: $9.916243553161621, %1.0019832487106324
+2023-01-26 14:51:18,849 - simulator:82 - INFO - [2010-06-10 00:00:00] Current holdings: [[PEP quantity:7; profit:0.97][BOH quantity:3; profit:0.92][AME quantity:27; profit:0.95][H quantity:6; profit:1.02]]
+2023-01-26 14:51:18,874 - simulator:117 - INFO - [2010-06-10 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:18,885 - simulator:81 - INFO - [2010-06-11 00:00:00] Current P/L: $11.316248893737793, %1.0022632497787476
+2023-01-26 14:51:18,890 - simulator:82 - INFO - [2010-06-11 00:00:00] Current holdings: [[PEP quantity:7; profit:0.96][BOH quantity:3; profit:0.92][AME quantity:27; profit:0.96][H quantity:6; profit:1.01]]
+2023-01-26 14:51:18,912 - simulator:117 - INFO - [2010-06-11 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:18,913 - simulator:61 - INFO - [2010-06-12 00:00:00] Skipping weekend
+2023-01-26 14:51:18,913 - simulator:61 - INFO - [2010-06-13 00:00:00] Skipping weekend
+2023-01-26 14:51:18,925 - simulator:81 - INFO - [2010-06-14 00:00:00] Current P/L: $21.146206855773926, %1.0042292413711549
+2023-01-26 14:51:18,928 - simulator:82 - INFO - [2010-06-14 00:00:00] Current holdings: [[PEP quantity:7; profit:0.97][BOH quantity:3; profit:0.91][AME quantity:27; profit:0.96][H quantity:6; profit:1.03]]
+2023-01-26 14:51:18,947 - simulator:117 - INFO - [2010-06-14 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:18,960 - simulator:81 - INFO - [2010-06-15 00:00:00] Current P/L: $41.1862154006958, %1.0082372430801392
+2023-01-26 14:51:18,962 - simulator:82 - INFO - [2010-06-15 00:00:00] Current holdings: [[PEP quantity:7; profit:0.97][BOH quantity:3; profit:0.93][AME quantity:27; profit:0.98][H quantity:6; profit:1.06]]
+2023-01-26 14:51:18,967 - simulator:99 - INFO - [2010-06-15 00:00:00] TARGET REACHED Selling asset [H] for $244.44001007080078. Profit: 1.0648197455758333. Days Held: 11
+2023-01-26 14:51:18,983 - simulator:117 - INFO - [2010-06-15 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:18,993 - simulator:81 - INFO - [2010-06-16 00:00:00] Current P/L: $40.946248054504395, %1.0081892496109008
+2023-01-26 14:51:18,995 - simulator:82 - INFO - [2010-06-16 00:00:00] Current holdings: [[PEP quantity:7; profit:0.97][BOH quantity:3; profit:0.94][AME quantity:27; profit:0.98]]
+2023-01-26 14:51:19,014 - simulator:117 - INFO - [2010-06-16 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:19,022 - simulator:81 - INFO - [2010-06-17 00:00:00] Current P/L: $44.70626163482666, %1.0089412523269654
+2023-01-26 14:51:19,024 - simulator:82 - INFO - [2010-06-17 00:00:00] Current holdings: [[PEP quantity:7; profit:0.98][BOH quantity:3; profit:0.94][AME quantity:27; profit:0.98]]
+2023-01-26 14:51:19,043 - simulator:117 - INFO - [2010-06-17 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:19,056 - simulator:81 - INFO - [2010-06-18 00:00:00] Current P/L: $45.166239738464355, %1.009033247947693
+2023-01-26 14:51:19,061 - simulator:82 - INFO - [2010-06-18 00:00:00] Current holdings: [[PEP quantity:7; profit:0.97][BOH quantity:3; profit:0.95][AME quantity:27; profit:0.98]]
+2023-01-26 14:51:19,082 - simulator:117 - INFO - [2010-06-18 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:19,083 - simulator:61 - INFO - [2010-06-19 00:00:00] Skipping weekend
+2023-01-26 14:51:19,083 - simulator:61 - INFO - [2010-06-20 00:00:00] Skipping weekend
+2023-01-26 14:51:19,092 - simulator:81 - INFO - [2010-06-21 00:00:00] Current P/L: $46.06622791290283, %1.0092132455825806
+2023-01-26 14:51:19,095 - simulator:82 - INFO - [2010-06-21 00:00:00] Current holdings: [[PEP quantity:7; profit:0.97][BOH quantity:3; profit:0.96][AME quantity:27; profit:0.98]]
+2023-01-26 14:51:19,114 - simulator:117 - INFO - [2010-06-21 00:00:00] 1 interesting insider trades
+2023-01-26 14:51:19,115 - simulator:124 - INFO - [2010-06-21 00:00:00] 1 unique tickers
+2023-01-26 14:51:19,121 - simulator:146 - INFO - [2010-06-21 00:00:00] buying BGP for 1.2999999523162842. Total: 504.39998149871826
+2023-01-26 14:51:19,132 - simulator:81 - INFO - [2010-06-22 00:00:00] Current P/L: $32.86625385284424, %1.006573250770569
+2023-01-26 14:51:19,137 - simulator:82 - INFO - [2010-06-22 00:00:00] Current holdings: [[PEP quantity:7; profit:0.96][BOH quantity:3; profit:0.96][AME quantity:27; profit:0.97][BGP quantity:388; profit:1]]
+2023-01-26 14:51:19,160 - simulator:117 - INFO - [2010-06-22 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:19,173 - simulator:81 - INFO - [2010-06-23 00:00:00] Current P/L: $21.816261291503906, %1.0043632522583008
+2023-01-26 14:51:19,176 - simulator:82 - INFO - [2010-06-23 00:00:00] Current holdings: [[PEP quantity:7; profit:0.95][BOH quantity:3; profit:0.94][AME quantity:27; profit:0.96][BGP quantity:388; profit:0.99]]
+2023-01-26 14:51:19,196 - simulator:117 - INFO - [2010-06-23 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:19,208 - simulator:81 - INFO - [2010-06-24 00:00:00] Current P/L: $13.75622844696045, %1.0027512456893921
+2023-01-26 14:51:19,211 - simulator:82 - INFO - [2010-06-24 00:00:00] Current holdings: [[PEP quantity:7; profit:0.95][BOH quantity:3; profit:0.93][AME quantity:27; profit:0.95][BGP quantity:388; profit:1]]
+2023-01-26 14:51:19,235 - simulator:117 - INFO - [2010-06-24 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:19,251 - simulator:81 - INFO - [2010-06-25 00:00:00] Current P/L: $-12.973747253417969, %0.9974052505493164
+2023-01-26 14:51:19,258 - simulator:82 - INFO - [2010-06-25 00:00:00] Current holdings: [[PEP quantity:7; profit:0.92][BOH quantity:3; profit:0.94][AME quantity:27; profit:0.95][BGP quantity:388; profit:0.96]]
+2023-01-26 14:51:19,276 - simulator:117 - INFO - [2010-06-25 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:19,277 - simulator:61 - INFO - [2010-06-26 00:00:00] Skipping weekend
+2023-01-26 14:51:19,277 - simulator:61 - INFO - [2010-06-27 00:00:00] Skipping weekend
+2023-01-26 14:51:19,287 - simulator:81 - INFO - [2010-06-28 00:00:00] Current P/L: $0.4862689971923828, %1.0000972537994384
+2023-01-26 14:51:19,292 - simulator:82 - INFO - [2010-06-28 00:00:00] Current holdings: [[PEP quantity:7; profit:0.94][BOH quantity:3; profit:0.96][AME quantity:27; profit:0.96][BGP quantity:388; profit:0.96]]
+2023-01-26 14:51:19,314 - simulator:117 - INFO - [2010-06-28 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:19,327 - simulator:81 - INFO - [2010-06-29 00:00:00] Current P/L: $-7.383736610412598, %0.9985232526779175
+2023-01-26 14:51:19,330 - simulator:82 - INFO - [2010-06-29 00:00:00] Current holdings: [[PEP quantity:7; profit:0.93][BOH quantity:3; profit:0.94][AME quantity:27; profit:0.94][BGP quantity:388; profit:0.98]]
+2023-01-26 14:51:19,356 - simulator:117 - INFO - [2010-06-29 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:19,365 - simulator:81 - INFO - [2010-06-30 00:00:00] Current P/L: $-22.473734855651855, %0.9955052530288696
+2023-01-26 14:51:19,371 - simulator:82 - INFO - [2010-06-30 00:00:00] Current holdings: [[PEP quantity:7; profit:0.92][BOH quantity:3; profit:0.93][AME quantity:27; profit:0.93][BGP quantity:388; profit:0.97]]
+2023-01-26 14:51:19,392 - simulator:117 - INFO - [2010-06-30 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:19,405 - simulator:81 - INFO - [2010-07-01 00:00:00] Current P/L: $-18.713743209838867, %0.9962572513580322
+2023-01-26 14:51:19,408 - simulator:82 - INFO - [2010-07-01 00:00:00] Current holdings: [[PEP quantity:7; profit:0.93][BOH quantity:3; profit:0.91][AME quantity:27; profit:0.93][BGP quantity:388; profit:0.98]]
+2023-01-26 14:51:19,431 - simulator:117 - INFO - [2010-07-01 00:00:00] 1 interesting insider trades
+2023-01-26 14:51:19,431 - simulator:124 - INFO - [2010-07-01 00:00:00] 1 unique tickers
+2023-01-26 14:51:19,441 - simulator:137 - INFO - [2010-07-01 00:00:00] failed to get price for FLOW
+2023-01-26 14:51:19,449 - simulator:81 - INFO - [2010-07-02 00:00:00] Current P/L: $-3.6137685775756836, %0.9992772462844849
+2023-01-26 14:51:19,453 - simulator:82 - INFO - [2010-07-02 00:00:00] Current holdings: [[PEP quantity:7; profit:0.93][BOH quantity:3; profit:0.9][AME quantity:27; profit:0.94][BGP quantity:388; profit:1]]
+2023-01-26 14:51:19,478 - simulator:117 - INFO - [2010-07-02 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:19,478 - simulator:61 - INFO - [2010-07-03 00:00:00] Skipping weekend
+2023-01-26 14:51:19,478 - simulator:61 - INFO - [2010-07-04 00:00:00] Skipping weekend
+2023-01-26 14:51:19,478 - simulator:71 - INFO - [2010-07-05 00:00:00] Skipping invalid trade day
+2023-01-26 14:51:19,494 - simulator:81 - INFO - [2010-07-06 00:00:00] Current P/L: $-23.473722457885742, %0.9953052555084229
+2023-01-26 14:51:19,498 - simulator:82 - INFO - [2010-07-06 00:00:00] Current holdings: [[PEP quantity:7; profit:0.93][BOH quantity:3; profit:0.91][AME quantity:27; profit:0.93][BGP quantity:388; profit:0.96]]
+2023-01-26 14:51:19,500 - simulator:102 - INFO - [2010-07-06 00:00:00] EXPIRED Selling asset [PEP] for $431.47999572753906. Profit: 0.9342224348821728. Days Held: 92
+2023-01-26 14:51:19,516 - simulator:117 - INFO - [2010-07-06 00:00:00] 1 interesting insider trades
+2023-01-26 14:51:19,517 - simulator:124 - INFO - [2010-07-06 00:00:00] 1 unique tickers
+2023-01-26 14:51:19,521 - simulator:137 - INFO - [2010-07-06 00:00:00] failed to get price for STR
+2023-01-26 14:51:19,532 - simulator:81 - INFO - [2010-07-07 00:00:00] Current P/L: $-9.74375057220459, %0.998051249885559
+2023-01-26 14:51:19,539 - simulator:82 - INFO - [2010-07-07 00:00:00] Current holdings: [[BOH quantity:3; profit:0.94][AME quantity:27; profit:0.96][BGP quantity:388; profit:0.95]]
+2023-01-26 14:51:19,559 - simulator:117 - INFO - [2010-07-07 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:19,568 - simulator:81 - INFO - [2010-07-08 00:00:00] Current P/L: $-3.983710289001465, %0.9992032579421997
+2023-01-26 14:51:19,574 - simulator:82 - INFO - [2010-07-08 00:00:00] Current holdings: [[BOH quantity:3; profit:0.94][AME quantity:27; profit:0.97][BGP quantity:388; profit:0.95]]
+2023-01-26 14:51:19,596 - simulator:117 - INFO - [2010-07-08 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:19,604 - simulator:81 - INFO - [2010-07-09 00:00:00] Current P/L: $1.586252212524414, %1.0003172504425049
+2023-01-26 14:51:19,606 - simulator:82 - INFO - [2010-07-09 00:00:00] Current holdings: [[BOH quantity:3; profit:0.95][AME quantity:27; profit:0.98][BGP quantity:388; profit:0.95]]
+2023-01-26 14:51:19,622 - simulator:117 - INFO - [2010-07-09 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:19,622 - simulator:61 - INFO - [2010-07-10 00:00:00] Skipping weekend
+2023-01-26 14:51:19,622 - simulator:61 - INFO - [2010-07-11 00:00:00] Skipping weekend
+2023-01-26 14:51:19,628 - simulator:81 - INFO - [2010-07-12 00:00:00] Current P/L: $25.596251487731934, %1.0051192502975463
+2023-01-26 14:51:19,630 - simulator:82 - INFO - [2010-07-12 00:00:00] Current holdings: [[BOH quantity:3; profit:0.94][AME quantity:27; profit:0.98][BGP quantity:388; profit:1]]
+2023-01-26 14:51:19,649 - simulator:117 - INFO - [2010-07-12 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:19,661 - simulator:81 - INFO - [2010-07-13 00:00:00] Current P/L: $13.736295700073242, %1.0027472591400146
+2023-01-26 14:51:19,662 - simulator:82 - INFO - [2010-07-13 00:00:00] Current holdings: [[BOH quantity:3; profit:0.97][AME quantity:27; profit:1.0][BGP quantity:388; profit:0.95]]
+2023-01-26 14:51:19,679 - simulator:117 - INFO - [2010-07-13 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:19,691 - simulator:81 - INFO - [2010-07-14 00:00:00] Current P/L: $14.336257934570312, %1.0028672515869141
+2023-01-26 14:51:19,694 - simulator:82 - INFO - [2010-07-14 00:00:00] Current holdings: [[BOH quantity:3; profit:0.97][AME quantity:27; profit:1.0][BGP quantity:388; profit:0.95]]
+2023-01-26 14:51:19,714 - simulator:117 - INFO - [2010-07-14 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:19,724 - simulator:81 - INFO - [2010-07-15 00:00:00] Current P/L: $0.47630977630615234, %1.0000952619552612
+2023-01-26 14:51:19,726 - simulator:82 - INFO - [2010-07-15 00:00:00] Current holdings: [[BOH quantity:3; profit:0.97][AME quantity:27; profit:1.0][BGP quantity:388; profit:0.92]]
+2023-01-26 14:51:19,745 - simulator:117 - INFO - [2010-07-15 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:19,758 - simulator:81 - INFO - [2010-07-16 00:00:00] Current P/L: $-19.383732795715332, %0.996123253440857
+2023-01-26 14:51:19,761 - simulator:82 - INFO - [2010-07-16 00:00:00] Current holdings: [[BOH quantity:3; profit:0.94][AME quantity:27; profit:0.97][BGP quantity:388; profit:0.92]]
+2023-01-26 14:51:19,783 - simulator:117 - INFO - [2010-07-16 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:19,784 - simulator:61 - INFO - [2010-07-17 00:00:00] Skipping weekend
+2023-01-26 14:51:19,784 - simulator:61 - INFO - [2010-07-18 00:00:00] Skipping weekend
+2023-01-26 14:51:19,797 - simulator:81 - INFO - [2010-07-19 00:00:00] Current P/L: $1.1162633895874023, %1.0002232526779176
+2023-01-26 14:51:19,799 - simulator:82 - INFO - [2010-07-19 00:00:00] Current holdings: [[BOH quantity:3; profit:0.94][AME quantity:27; profit:0.98][BGP quantity:388; profit:0.95]]
+2023-01-26 14:51:19,815 - simulator:117 - INFO - [2010-07-19 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:19,826 - simulator:81 - INFO - [2010-07-20 00:00:00] Current P/L: $7.08627986907959, %1.001417255973816
+2023-01-26 14:51:19,828 - simulator:82 - INFO - [2010-07-20 00:00:00] Current holdings: [[BOH quantity:3; profit:0.94][AME quantity:27; profit:0.99][BGP quantity:388; profit:0.95]]
+2023-01-26 14:51:19,844 - simulator:117 - INFO - [2010-07-20 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:19,852 - simulator:81 - INFO - [2010-07-21 00:00:00] Current P/L: $18.51627826690674, %1.0037032556533814
+2023-01-26 14:51:19,857 - simulator:82 - INFO - [2010-07-21 00:00:00] Current holdings: [[BOH quantity:3; profit:0.92][AME quantity:27; profit:1.02][BGP quantity:388; profit:0.95]]
+2023-01-26 14:51:19,873 - simulator:117 - INFO - [2010-07-21 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:19,880 - simulator:81 - INFO - [2010-07-22 00:00:00] Current P/L: $55.14621829986572, %1.011029243659973
+2023-01-26 14:51:19,885 - simulator:82 - INFO - [2010-07-22 00:00:00] Current holdings: [[BOH quantity:3; profit:0.96][AME quantity:27; profit:1.03][BGP quantity:388; profit:1]]
+2023-01-26 14:51:19,907 - simulator:117 - INFO - [2010-07-22 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:19,915 - simulator:81 - INFO - [2010-07-23 00:00:00] Current P/L: $43.1162748336792, %1.0086232549667358
+2023-01-26 14:51:19,918 - simulator:82 - INFO - [2010-07-23 00:00:00] Current holdings: [[BOH quantity:3; profit:0.98][AME quantity:27; profit:1.05][BGP quantity:388; profit:0.95]]
+2023-01-26 14:51:19,938 - simulator:117 - INFO - [2010-07-23 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:19,939 - simulator:61 - INFO - [2010-07-24 00:00:00] Skipping weekend
+2023-01-26 14:51:19,939 - simulator:61 - INFO - [2010-07-25 00:00:00] Skipping weekend
+2023-01-26 14:51:19,946 - simulator:81 - INFO - [2010-07-26 00:00:00] Current P/L: $67.33628177642822, %1.0134672563552856
+2023-01-26 14:51:19,948 - simulator:82 - INFO - [2010-07-26 00:00:00] Current holdings: [[BOH quantity:3; profit:0.97][AME quantity:27; profit:1.07][BGP quantity:388; profit:0.98]]
+2023-01-26 14:51:19,950 - simulator:102 - INFO - [2010-07-26 00:00:00] EXPIRED Selling asset [BOH] for $150.87000274658203. Profit: 0.9721631811434048. Days Held: 90
+2023-01-26 14:51:19,956 - simulator:99 - INFO - [2010-07-26 00:00:00] TARGET REACHED Selling asset [AME] for $553.2000217437744. Profit: 1.0658960426593425. Days Held: 87
+2023-01-26 14:51:19,965 - simulator:117 - INFO - [2010-07-26 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:19,968 - simulator:81 - INFO - [2010-07-27 00:00:00] Current P/L: $51.81629657745361, %1.0103632593154908
+2023-01-26 14:51:19,971 - simulator:82 - INFO - [2010-07-27 00:00:00] Current holdings: [[BGP quantity:388; profit:0.95]]
+2023-01-26 14:51:19,981 - simulator:117 - INFO - [2010-07-27 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:19,983 - simulator:81 - INFO - [2010-07-28 00:00:00] Current P/L: $75.09627437591553, %1.015019254875183
+2023-01-26 14:51:19,984 - simulator:82 - INFO - [2010-07-28 00:00:00] Current holdings: [[BGP quantity:388; profit:1]]
+2023-01-26 14:51:19,995 - simulator:117 - INFO - [2010-07-28 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:19,998 - simulator:81 - INFO - [2010-07-29 00:00:00] Current P/L: $75.09627437591553, %1.015019254875183
+2023-01-26 14:51:20,000 - simulator:82 - INFO - [2010-07-29 00:00:00] Current holdings: [[BGP quantity:388; profit:1]]
+2023-01-26 14:51:20,012 - simulator:117 - INFO - [2010-07-29 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:20,014 - simulator:81 - INFO - [2010-07-30 00:00:00] Current P/L: $75.09627437591553, %1.015019254875183
+2023-01-26 14:51:20,016 - simulator:82 - INFO - [2010-07-30 00:00:00] Current holdings: [[BGP quantity:388; profit:1]]
+2023-01-26 14:51:20,027 - simulator:117 - INFO - [2010-07-30 00:00:00] 1 interesting insider trades
+2023-01-26 14:51:20,027 - simulator:124 - INFO - [2010-07-30 00:00:00] 1 unique tickers
+2023-01-26 14:51:20,029 - simulator:61 - INFO - [2010-07-31 00:00:00] Skipping weekend
+2023-01-26 14:51:20,030 - simulator:61 - INFO - [2010-08-01 00:00:00] Skipping weekend
+2023-01-26 14:51:20,034 - simulator:81 - INFO - [2010-08-02 00:00:00] Current P/L: $51.81629657745361, %1.0103632593154908
+2023-01-26 14:51:20,038 - simulator:82 - INFO - [2010-08-02 00:00:00] Current holdings: [[BGP quantity:388; profit:0.95]]
+2023-01-26 14:51:20,051 - simulator:117 - INFO - [2010-08-02 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:20,060 - simulator:81 - INFO - [2010-08-03 00:00:00] Current P/L: $44.05630397796631, %1.0088112607955932
+2023-01-26 14:51:20,062 - simulator:82 - INFO - [2010-08-03 00:00:00] Current holdings: [[BGP quantity:388; profit:0.94]]
+2023-01-26 14:51:20,076 - simulator:117 - INFO - [2010-08-03 00:00:00] 2 interesting insider trades
+2023-01-26 14:51:20,077 - simulator:124 - INFO - [2010-08-03 00:00:00] 1 unique tickers
+2023-01-26 14:51:20,079 - simulator:137 - INFO - [2010-08-03 00:00:00] failed to get price for DWA
+2023-01-26 14:51:20,082 - simulator:81 - INFO - [2010-08-04 00:00:00] Current P/L: $36.296311378479004, %1.0072592622756957
+2023-01-26 14:51:20,083 - simulator:82 - INFO - [2010-08-04 00:00:00] Current holdings: [[BGP quantity:388; profit:0.92]]
+2023-01-26 14:51:20,095 - simulator:117 - INFO - [2010-08-04 00:00:00] 1 interesting insider trades
+2023-01-26 14:51:20,095 - simulator:124 - INFO - [2010-08-04 00:00:00] 1 unique tickers
+2023-01-26 14:51:20,100 - simulator:146 - INFO - [2010-08-04 00:00:00] buying NOC for 53.77632141113281. Total: 483.9868927001953
+2023-01-26 14:51:20,111 - simulator:81 - INFO - [2010-08-05 00:00:00] Current P/L: $75.01494121551514, %1.015002988243103
+2023-01-26 14:51:20,113 - simulator:82 - INFO - [2010-08-05 00:00:00] Current holdings: [[NOC quantity:9; profit:1.0][BGP quantity:388; profit:1]]
+2023-01-26 14:51:20,131 - simulator:117 - INFO - [2010-08-05 00:00:00] 3 interesting insider trades
+2023-01-26 14:51:20,131 - simulator:124 - INFO - [2010-08-05 00:00:00] 1 unique tickers
+2023-01-26 14:51:20,134 - simulator:137 - INFO - [2010-08-05 00:00:00] failed to get price for WIN
+2023-01-26 14:51:20,145 - simulator:81 - INFO - [2010-08-06 00:00:00] Current P/L: $36.400747299194336, %1.007280149459839
+2023-01-26 14:51:20,147 - simulator:82 - INFO - [2010-08-06 00:00:00] Current holdings: [[NOC quantity:9; profit:1.01][BGP quantity:388; profit:0.92]]
+2023-01-26 14:51:20,166 - simulator:117 - INFO - [2010-08-06 00:00:00] 2 interesting insider trades
+2023-01-26 14:51:20,166 - simulator:124 - INFO - [2010-08-06 00:00:00] 2 unique tickers
+2023-01-26 14:51:20,175 - simulator:137 - INFO - [2010-08-06 00:00:00] failed to get price for MNRK
+2023-01-26 14:51:20,175 - simulator:61 - INFO - [2010-08-07 00:00:00] Skipping weekend
+2023-01-26 14:51:20,175 - simulator:61 - INFO - [2010-08-08 00:00:00] Skipping weekend
+2023-01-26 14:51:20,180 - simulator:81 - INFO - [2010-08-09 00:00:00] Current P/L: $21.612542629241943, %1.0043225085258485
+2023-01-26 14:51:20,182 - simulator:82 - INFO - [2010-08-09 00:00:00] Current holdings: [[NOC quantity:9; profit:1.01][BGP quantity:388; profit:0.88]]
+2023-01-26 14:51:20,194 - simulator:117 - INFO - [2010-08-09 00:00:00] 2 interesting insider trades
+2023-01-26 14:51:20,194 - simulator:124 - INFO - [2010-08-09 00:00:00] 1 unique tickers
+2023-01-26 14:51:20,197 - simulator:137 - INFO - [2010-08-09 00:00:00] failed to get price for ONNN
+2023-01-26 14:51:20,205 - simulator:81 - INFO - [2010-08-10 00:00:00] Current P/L: $13.887609004974365, %1.0027775218009949
+2023-01-26 14:51:20,207 - simulator:82 - INFO - [2010-08-10 00:00:00] Current holdings: [[NOC quantity:9; profit:0.99][BGP quantity:388; profit:0.88]]
+2023-01-26 14:51:20,223 - simulator:117 - INFO - [2010-08-10 00:00:00] 5 interesting insider trades
+2023-01-26 14:51:20,223 - simulator:124 - INFO - [2010-08-10 00:00:00] 2 unique tickers
+2023-01-26 14:51:20,234 - simulator:146 - INFO - [2010-08-10 00:00:00] buying MCHP for 15.199999809265137. Total: 243.1999969482422
+2023-01-26 14:51:20,251 - simulator:81 - INFO - [2010-08-11 00:00:00] Current P/L: $-20.88428544998169, %0.9958231429100036
+2023-01-26 14:51:20,258 - simulator:82 - INFO - [2010-08-11 00:00:00] Current holdings: [[NOC quantity:9; profit:0.96][BGP quantity:388; profit:0.87][MCHP quantity:16; profit:0.96]]
+2023-01-26 14:51:20,277 - simulator:117 - INFO - [2010-08-11 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:20,284 - simulator:81 - INFO - [2010-08-12 00:00:00] Current P/L: $-34.69688653945923, %0.9930606226921082
+2023-01-26 14:51:20,288 - simulator:82 - INFO - [2010-08-12 00:00:00] Current holdings: [[NOC quantity:9; profit:0.95][BGP quantity:388; profit:0.85][MCHP quantity:16; profit:0.95]]
+2023-01-26 14:51:20,306 - simulator:117 - INFO - [2010-08-12 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:20,315 - simulator:81 - INFO - [2010-08-13 00:00:00] Current P/L: $-27.891628742218018, %0.9944216742515564
+2023-01-26 14:51:20,320 - simulator:82 - INFO - [2010-08-13 00:00:00] Current holdings: [[NOC quantity:9; profit:0.95][BGP quantity:388; profit:0.87][MCHP quantity:16; profit:0.95]]
+2023-01-26 14:51:20,339 - simulator:117 - INFO - [2010-08-13 00:00:00] 3 interesting insider trades
+2023-01-26 14:51:20,340 - simulator:124 - INFO - [2010-08-13 00:00:00] 1 unique tickers
+2023-01-26 14:51:20,344 - simulator:137 - INFO - [2010-08-13 00:00:00] failed to get price for CRN
+2023-01-26 14:51:20,344 - simulator:61 - INFO - [2010-08-14 00:00:00] Skipping weekend
+2023-01-26 14:51:20,344 - simulator:61 - INFO - [2010-08-15 00:00:00] Skipping weekend
+2023-01-26 14:51:20,352 - simulator:81 - INFO - [2010-08-16 00:00:00] Current P/L: $-26.05634069442749, %0.9947887318611145
+2023-01-26 14:51:20,356 - simulator:82 - INFO - [2010-08-16 00:00:00] Current holdings: [[NOC quantity:9; profit:0.94][BGP quantity:388; profit:0.88][MCHP quantity:16; profit:0.95]]
+2023-01-26 14:51:20,375 - simulator:117 - INFO - [2010-08-16 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:20,384 - simulator:81 - INFO - [2010-08-17 00:00:00] Current P/L: $-21.326724529266357, %0.9957346550941467
+2023-01-26 14:51:20,388 - simulator:82 - INFO - [2010-08-17 00:00:00] Current holdings: [[NOC quantity:9; profit:0.97][BGP quantity:388; profit:0.86][MCHP quantity:16; profit:0.96]]
+2023-01-26 14:51:20,405 - simulator:117 - INFO - [2010-08-17 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:20,412 - simulator:81 - INFO - [2010-08-18 00:00:00] Current P/L: $8.686628818511963, %1.0017373257637023
+2023-01-26 14:51:20,416 - simulator:82 - INFO - [2010-08-18 00:00:00] Current holdings: [[NOC quantity:9; profit:0.98][BGP quantity:388; profit:0.91][MCHP quantity:16; profit:0.96]]
+2023-01-26 14:51:20,434 - simulator:117 - INFO - [2010-08-18 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:20,443 - simulator:81 - INFO - [2010-08-19 00:00:00] Current P/L: $-12.347209453582764, %0.9975305581092835
+2023-01-26 14:51:20,445 - simulator:82 - INFO - [2010-08-19 00:00:00] Current holdings: [[NOC quantity:9; profit:0.96][BGP quantity:388; profit:0.89][MCHP quantity:16; profit:0.95]]
+2023-01-26 14:51:20,461 - simulator:117 - INFO - [2010-08-19 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:20,470 - simulator:81 - INFO - [2010-08-20 00:00:00] Current P/L: $43.293532371520996, %1.0086587064743042
+2023-01-26 14:51:20,475 - simulator:82 - INFO - [2010-08-20 00:00:00] Current holdings: [[NOC quantity:9; profit:0.96][BGP quantity:388; profit:1][MCHP quantity:16; profit:0.94]]
+2023-01-26 14:51:20,496 - simulator:117 - INFO - [2010-08-20 00:00:00] 4 interesting insider trades
+2023-01-26 14:51:20,496 - simulator:124 - INFO - [2010-08-20 00:00:00] 1 unique tickers
+2023-01-26 14:51:20,502 - simulator:146 - INFO - [2010-08-20 00:00:00] buying CLX for 64.41999816894531. Total: 450.9399871826172
+2023-01-26 14:51:20,503 - simulator:61 - INFO - [2010-08-21 00:00:00] Skipping weekend
+2023-01-26 14:51:20,504 - simulator:61 - INFO - [2010-08-22 00:00:00] Skipping weekend
+2023-01-26 14:51:20,515 - simulator:81 - INFO - [2010-08-23 00:00:00] Current P/L: $-4.543440818786621, %0.9990913118362427
+2023-01-26 14:51:20,517 - simulator:82 - INFO - [2010-08-23 00:00:00] Current holdings: [[NOC quantity:9; profit:0.95][BGP quantity:388; profit:0.92][MCHP quantity:16; profit:0.94][CLX quantity:7; profit:1.0]]
+2023-01-26 14:51:20,540 - simulator:117 - INFO - [2010-08-23 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:20,550 - simulator:81 - INFO - [2010-08-24 00:00:00] Current P/L: $-26.443374156951904, %0.9947113251686096
+2023-01-26 14:51:20,557 - simulator:82 - INFO - [2010-08-24 00:00:00] Current holdings: [[NOC quantity:9; profit:0.93][BGP quantity:388; profit:0.89][MCHP quantity:16; profit:0.94][CLX quantity:7; profit:1.0]]
+2023-01-26 14:51:20,576 - simulator:117 - INFO - [2010-08-24 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:20,592 - simulator:81 - INFO - [2010-08-25 00:00:00] Current P/L: $-47.2472939491272, %0.9905505412101746
+2023-01-26 14:51:20,596 - simulator:82 - INFO - [2010-08-25 00:00:00] Current holdings: [[NOC quantity:9; profit:0.93][BGP quantity:388; profit:0.85][MCHP quantity:16; profit:0.94][CLX quantity:7; profit:1.0]]
+2023-01-26 14:51:20,624 - simulator:117 - INFO - [2010-08-25 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:20,642 - simulator:81 - INFO - [2010-08-26 00:00:00] Current P/L: $15.761950492858887, %1.0031523900985717
+2023-01-26 14:51:20,645 - simulator:82 - INFO - [2010-08-26 00:00:00] Current holdings: [[NOC quantity:9; profit:0.92][BGP quantity:388; profit:1][MCHP quantity:16; profit:0.93][CLX quantity:7; profit:1.0]]
+2023-01-26 14:51:20,673 - simulator:117 - INFO - [2010-08-26 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:20,683 - simulator:81 - INFO - [2010-08-27 00:00:00] Current P/L: $-35.334980487823486, %0.9929330039024353
+2023-01-26 14:51:20,689 - simulator:82 - INFO - [2010-08-27 00:00:00] Current holdings: [[NOC quantity:9; profit:0.93][BGP quantity:388; profit:0.87][MCHP quantity:16; profit:0.94][CLX quantity:7; profit:1.0]]
+2023-01-26 14:51:20,710 - simulator:117 - INFO - [2010-08-27 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:20,710 - simulator:61 - INFO - [2010-08-28 00:00:00] Skipping weekend
+2023-01-26 14:51:20,710 - simulator:61 - INFO - [2010-08-29 00:00:00] Skipping weekend
+2023-01-26 14:51:20,720 - simulator:81 - INFO - [2010-08-30 00:00:00] Current P/L: $-51.95670747756958, %0.9896086585044861
+2023-01-26 14:51:20,725 - simulator:82 - INFO - [2010-08-30 00:00:00] Current holdings: [[NOC quantity:9; profit:0.91][BGP quantity:388; profit:0.87][MCHP quantity:16; profit:0.93][CLX quantity:7; profit:1.0]]
+2023-01-26 14:51:20,746 - simulator:117 - INFO - [2010-08-30 00:00:00] 1 interesting insider trades
+2023-01-26 14:51:20,746 - simulator:124 - INFO - [2010-08-30 00:00:00] 1 unique tickers
+2023-01-26 14:51:20,752 - simulator:137 - INFO - [2010-08-30 00:00:00] failed to get price for SLE
+2023-01-26 14:51:20,764 - simulator:81 - INFO - [2010-08-31 00:00:00] Current P/L: $12.6261625289917, %1.0025252325057983
+2023-01-26 14:51:20,773 - simulator:82 - INFO - [2010-08-31 00:00:00] Current holdings: [[NOC quantity:9; profit:0.91][BGP quantity:388; profit:1][MCHP quantity:16; profit:0.91][CLX quantity:7; profit:1.01]]
+2023-01-26 14:51:20,799 - simulator:117 - INFO - [2010-08-31 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:20,813 - simulator:81 - INFO - [2010-09-01 00:00:00] Current P/L: $-1.2415714263916016, %0.9997516857147217
+2023-01-26 14:51:20,817 - simulator:82 - INFO - [2010-09-01 00:00:00] Current holdings: [[NOC quantity:9; profit:0.95][BGP quantity:388; profit:0.92][MCHP quantity:16; profit:0.93][CLX quantity:7; profit:1.01]]
+2023-01-26 14:51:20,845 - simulator:117 - INFO - [2010-09-01 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:20,856 - simulator:81 - INFO - [2010-09-02 00:00:00] Current P/L: $20.343002319335938, %1.0040686004638673
+2023-01-26 14:51:20,858 - simulator:82 - INFO - [2010-09-02 00:00:00] Current holdings: [[NOC quantity:9; profit:0.97][BGP quantity:388; profit:0.93][MCHP quantity:16; profit:0.94][CLX quantity:7; profit:1.02]]
+2023-01-26 14:51:20,876 - simulator:117 - INFO - [2010-09-02 00:00:00] 1 interesting insider trades
+2023-01-26 14:51:20,876 - simulator:124 - INFO - [2010-09-02 00:00:00] 1 unique tickers
+2023-01-26 14:51:20,883 - simulator:146 - INFO - [2010-09-02 00:00:00] buying ACF for 13.25. Total: 490.25
+2023-01-26 14:51:20,898 - simulator:81 - INFO - [2010-09-03 00:00:00] Current P/L: $61.69278621673584, %1.0123385572433472
+2023-01-26 14:51:20,902 - simulator:82 - INFO - [2010-09-03 00:00:00] Current holdings: [[NOC quantity:9; profit:0.97][BGP quantity:388; profit:0.94][MCHP quantity:16; profit:0.97][CLX quantity:7; profit:1.03][ACF quantity:37; profit:1.06]]
+2023-01-26 14:51:20,907 - simulator:99 - INFO - [2010-09-03 00:00:00] TARGET REACHED Selling asset [ACF] for $518.0. Profit: 1.0566037735849056. Days Held: 1
+2023-01-26 14:51:20,936 - simulator:117 - INFO - [2010-09-03 00:00:00] 1 interesting insider trades
+2023-01-26 14:51:20,937 - simulator:124 - INFO - [2010-09-03 00:00:00] 1 unique tickers
+2023-01-26 14:51:20,952 - simulator:146 - INFO - [2010-09-03 00:00:00] buying GGC for 5.715000152587891. Total: 502.9200134277344
+2023-01-26 14:51:20,954 - simulator:61 - INFO - [2010-09-04 00:00:00] Skipping weekend
+2023-01-26 14:51:20,954 - simulator:61 - INFO - [2010-09-05 00:00:00] Skipping weekend
+2023-01-26 14:51:20,954 - simulator:71 - INFO - [2010-09-06 00:00:00] Skipping invalid trade day
+2023-01-26 14:51:20,981 - simulator:81 - INFO - [2010-09-07 00:00:00] Current P/L: $56.574405670166016, %1.0113148811340331
+2023-01-26 14:51:20,988 - simulator:82 - INFO - [2010-09-07 00:00:00] Current holdings: [[NOC quantity:9; profit:0.95][BGP quantity:388; profit:0.96][MCHP quantity:16; profit:0.94][CLX quantity:7; profit:1.03][GGC quantity:88; profit:1.0]]
+2023-01-26 14:51:21,022 - simulator:117 - INFO - [2010-09-07 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:21,038 - simulator:81 - INFO - [2010-09-08 00:00:00] Current P/L: $558.5452032089233, %1.1117090406417847
+2023-01-26 14:51:21,044 - simulator:82 - INFO - [2010-09-08 00:00:00] Current holdings: [[NOC quantity:9; profit:0.96][BGP quantity:388; profit:0.94][MCHP quantity:16; profit:0.94][CLX quantity:7; profit:1.03][GGC quantity:88; profit:2.01]]
+2023-01-26 14:51:21,049 - simulator:99 - INFO - [2010-09-08 00:00:00] TARGET REACHED Selling asset [GGC] for $1012.0. Profit: 2.0122484152152684. Days Held: 5
+2023-01-26 14:51:21,073 - simulator:117 - INFO - [2010-09-08 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:21,084 - simulator:81 - INFO - [2010-09-09 00:00:00] Current P/L: $575.1167221069336, %1.1150233444213866
+2023-01-26 14:51:21,090 - simulator:82 - INFO - [2010-09-09 00:00:00] Current holdings: [[NOC quantity:9; profit:0.96][BGP quantity:388; profit:0.96][MCHP quantity:16; profit:0.96][CLX quantity:7; profit:1.03]]
+2023-01-26 14:51:21,113 - simulator:117 - INFO - [2010-09-09 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:21,126 - simulator:81 - INFO - [2010-09-10 00:00:00] Current P/L: $599.502387046814, %1.1199004774093628
+2023-01-26 14:51:21,130 - simulator:82 - INFO - [2010-09-10 00:00:00] Current holdings: [[NOC quantity:9; profit:0.99][BGP quantity:388; profit:1][MCHP quantity:16; profit:0.92][CLX quantity:7; profit:1.03]]
+2023-01-26 14:51:21,158 - simulator:117 - INFO - [2010-09-10 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:21,159 - simulator:61 - INFO - [2010-09-11 00:00:00] Skipping weekend
+2023-01-26 14:51:21,159 - simulator:61 - INFO - [2010-09-12 00:00:00] Skipping weekend
+2023-01-26 14:51:21,173 - simulator:81 - INFO - [2010-09-13 00:00:00] Current P/L: $586.7029151916504, %1.11734058303833
+2023-01-26 14:51:21,176 - simulator:82 - INFO - [2010-09-13 00:00:00] Current holdings: [[NOC quantity:9; profit:0.99][BGP quantity:388; profit:0.96][MCHP quantity:16; profit:0.95][CLX quantity:7; profit:1.03]]
+2023-01-26 14:51:21,197 - simulator:117 - INFO - [2010-09-13 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:21,208 - simulator:81 - INFO - [2010-09-14 00:00:00] Current P/L: $608.2711172103882, %1.1216542234420777
+2023-01-26 14:51:21,211 - simulator:82 - INFO - [2010-09-14 00:00:00] Current holdings: [[NOC quantity:9; profit:0.98][BGP quantity:388; profit:1.0][MCHP quantity:16; profit:0.97][CLX quantity:7; profit:1.03]]
+2023-01-26 14:51:21,230 - simulator:117 - INFO - [2010-09-14 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:21,241 - simulator:81 - INFO - [2010-09-15 00:00:00] Current P/L: $607.525107383728, %1.1215050214767457
+2023-01-26 14:51:21,244 - simulator:82 - INFO - [2010-09-15 00:00:00] Current holdings: [[NOC quantity:9; profit:0.97][BGP quantity:388; profit:1.0][MCHP quantity:16; profit:0.96][CLX quantity:7; profit:1.04]]
+2023-01-26 14:51:21,271 - simulator:117 - INFO - [2010-09-15 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:21,283 - simulator:81 - INFO - [2010-09-16 00:00:00] Current P/L: $606.6061582565308, %1.1213212316513061
+2023-01-26 14:51:21,286 - simulator:82 - INFO - [2010-09-16 00:00:00] Current holdings: [[NOC quantity:9; profit:0.97][BGP quantity:388; profit:1][MCHP quantity:16; profit:0.97][CLX quantity:7; profit:1.04]]
+2023-01-26 14:51:21,310 - simulator:117 - INFO - [2010-09-16 00:00:00] 1 interesting insider trades
+2023-01-26 14:51:21,311 - simulator:124 - INFO - [2010-09-16 00:00:00] 1 unique tickers
+2023-01-26 14:51:21,317 - simulator:137 - INFO - [2010-09-16 00:00:00] failed to get price for IDSA
+2023-01-26 14:51:21,329 - simulator:81 - INFO - [2010-09-17 00:00:00] Current P/L: $617.1360578536987, %1.1234272115707398
+2023-01-26 14:51:21,334 - simulator:82 - INFO - [2010-09-17 00:00:00] Current holdings: [[NOC quantity:9; profit:0.99][BGP quantity:388; profit:1][MCHP quantity:16; profit:0.98][CLX quantity:7; profit:1.03]]
+2023-01-26 14:51:21,361 - simulator:117 - INFO - [2010-09-17 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:21,361 - simulator:61 - INFO - [2010-09-18 00:00:00] Skipping weekend
+2023-01-26 14:51:21,361 - simulator:61 - INFO - [2010-09-19 00:00:00] Skipping weekend
+2023-01-26 14:51:21,373 - simulator:81 - INFO - [2010-09-20 00:00:00] Current P/L: $631.3665084838867, %1.1262733016967774
+2023-01-26 14:51:21,376 - simulator:82 - INFO - [2010-09-20 00:00:00] Current holdings: [[NOC quantity:9; profit:1.0][BGP quantity:388; profit:0.99][MCHP quantity:16; profit:1.0][CLX quantity:7; profit:1.05]]
+2023-01-26 14:51:21,378 - simulator:102 - INFO - [2010-09-20 00:00:00] EXPIRED Selling asset [BGP] for $500.5199851989745. Profit: 0.9923076993614965. Days Held: 91
+2023-01-26 14:51:21,394 - simulator:117 - INFO - [2010-09-20 00:00:00] 1 interesting insider trades
+2023-01-26 14:51:21,394 - simulator:124 - INFO - [2010-09-20 00:00:00] 1 unique tickers
+2023-01-26 14:51:21,399 - simulator:137 - INFO - [2010-09-20 00:00:00] failed to get price for SVNT
+2023-01-26 14:51:21,407 - simulator:81 - INFO - [2010-09-21 00:00:00] Current P/L: $622.874153137207, %1.1245748306274415
+2023-01-26 14:51:21,410 - simulator:82 - INFO - [2010-09-21 00:00:00] Current holdings: [[NOC quantity:9; profit:1.0][MCHP quantity:16; profit:0.99][CLX quantity:7; profit:1.04]]
+2023-01-26 14:51:21,430 - simulator:117 - INFO - [2010-09-21 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:21,439 - simulator:81 - INFO - [2010-09-22 00:00:00] Current P/L: $610.7970962524414, %1.1221594192504882
+2023-01-26 14:51:21,441 - simulator:82 - INFO - [2010-09-22 00:00:00] Current holdings: [[NOC quantity:9; profit:0.99][MCHP quantity:16; profit:0.97][CLX quantity:7; profit:1.03]]
+2023-01-26 14:51:21,457 - simulator:117 - INFO - [2010-09-22 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:21,467 - simulator:81 - INFO - [2010-09-23 00:00:00] Current P/L: $607.8344535827637, %1.1215668907165528
+2023-01-26 14:51:21,473 - simulator:82 - INFO - [2010-09-23 00:00:00] Current holdings: [[NOC quantity:9; profit:0.99][MCHP quantity:16; profit:0.97][CLX quantity:7; profit:1.02]]
+2023-01-26 14:51:21,491 - simulator:117 - INFO - [2010-09-23 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:21,498 - simulator:81 - INFO - [2010-09-24 00:00:00] Current P/L: $629.1227951049805, %1.125824559020996
+2023-01-26 14:51:21,501 - simulator:82 - INFO - [2010-09-24 00:00:00] Current holdings: [[NOC quantity:9; profit:1.01][MCHP quantity:16; profit:1.01][CLX quantity:7; profit:1.03]]
+2023-01-26 14:51:21,522 - simulator:117 - INFO - [2010-09-24 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:21,522 - simulator:61 - INFO - [2010-09-25 00:00:00] Skipping weekend
+2023-01-26 14:51:21,522 - simulator:61 - INFO - [2010-09-26 00:00:00] Skipping weekend
+2023-01-26 14:51:21,530 - simulator:81 - INFO - [2010-09-27 00:00:00] Current P/L: $630.3648796081543, %1.1260729759216308
+2023-01-26 14:51:21,532 - simulator:82 - INFO - [2010-09-27 00:00:00] Current holdings: [[NOC quantity:9; profit:1.01][MCHP quantity:16; profit:1.01][CLX quantity:7; profit:1.03]]
+2023-01-26 14:51:21,549 - simulator:117 - INFO - [2010-09-27 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:21,558 - simulator:81 - INFO - [2010-09-28 00:00:00] Current P/L: $638.9477806091309, %1.127789556121826
+2023-01-26 14:51:21,560 - simulator:82 - INFO - [2010-09-28 00:00:00] Current holdings: [[NOC quantity:9; profit:1.02][MCHP quantity:16; profit:1.03][CLX quantity:7; profit:1.03]]
+2023-01-26 14:51:21,579 - simulator:117 - INFO - [2010-09-28 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:21,588 - simulator:81 - INFO - [2010-09-29 00:00:00] Current P/L: $640.6356887817383, %1.1281271377563478
+2023-01-26 14:51:21,590 - simulator:82 - INFO - [2010-09-29 00:00:00] Current holdings: [[NOC quantity:9; profit:1.01][MCHP quantity:16; profit:1.04][CLX quantity:7; profit:1.04]]
+2023-01-26 14:51:21,608 - simulator:117 - INFO - [2010-09-29 00:00:00] 1 interesting insider trades
+2023-01-26 14:51:21,609 - simulator:124 - INFO - [2010-09-29 00:00:00] 1 unique tickers
+2023-01-26 14:51:21,614 - simulator:137 - INFO - [2010-09-29 00:00:00] failed to get price for CBB
+2023-01-26 14:51:21,625 - simulator:81 - INFO - [2010-09-30 00:00:00] Current P/L: $641.8522567749023, %1.1283704513549804
+2023-01-26 14:51:21,627 - simulator:82 - INFO - [2010-09-30 00:00:00] Current holdings: [[NOC quantity:9; profit:1.02][MCHP quantity:16; profit:1.03][CLX quantity:7; profit:1.04]]
+2023-01-26 14:51:21,645 - simulator:117 - INFO - [2010-09-30 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:21,655 - simulator:81 - INFO - [2010-10-01 00:00:00] Current P/L: $640.7727890014648, %1.128154557800293
+2023-01-26 14:51:21,657 - simulator:82 - INFO - [2010-10-01 00:00:00] Current holdings: [[NOC quantity:9; profit:1.01][MCHP quantity:16; profit:1.03][CLX quantity:7; profit:1.04]]
+2023-01-26 14:51:21,677 - simulator:117 - INFO - [2010-10-01 00:00:00] 1 interesting insider trades
+2023-01-26 14:51:21,678 - simulator:124 - INFO - [2010-10-01 00:00:00] 1 unique tickers
+2023-01-26 14:51:21,685 - simulator:146 - INFO - [2010-10-01 00:00:00] buying ACF for 16.25. Total: 552.5
+2023-01-26 14:51:21,687 - simulator:61 - INFO - [2010-10-02 00:00:00] Skipping weekend
+2023-01-26 14:51:21,687 - simulator:61 - INFO - [2010-10-03 00:00:00] Skipping weekend
+2023-01-26 14:51:21,704 - simulator:81 - INFO - [2010-10-04 00:00:00] Current P/L: $643.8938255310059, %1.1287787651062011
+2023-01-26 14:51:21,709 - simulator:82 - INFO - [2010-10-04 00:00:00] Current holdings: [[NOC quantity:9; profit:1.01][MCHP quantity:16; profit:1.03][CLX quantity:7; profit:1.03][ACF quantity:34; profit:1.02]]
+2023-01-26 14:51:21,729 - simulator:117 - INFO - [2010-10-04 00:00:00] 2 interesting insider trades
+2023-01-26 14:51:21,729 - simulator:124 - INFO - [2010-10-04 00:00:00] 1 unique tickers
+2023-01-26 14:51:21,737 - simulator:137 - INFO - [2010-10-04 00:00:00] failed to get price for LBTY
+2023-01-26 14:51:21,748 - simulator:81 - INFO - [2010-10-05 00:00:00] Current P/L: $652.6689872741699, %1.130533797454834
+2023-01-26 14:51:21,754 - simulator:82 - INFO - [2010-10-05 00:00:00] Current holdings: [[NOC quantity:9; profit:1.04][MCHP quantity:16; profit:1.03][CLX quantity:7; profit:1.04][ACF quantity:34; profit:1.0]]
+2023-01-26 14:51:21,780 - simulator:117 - INFO - [2010-10-05 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:21,790 - simulator:81 - INFO - [2010-10-06 00:00:00] Current P/L: $686.1928863525391, %1.1372385772705078
+2023-01-26 14:51:21,793 - simulator:82 - INFO - [2010-10-06 00:00:00] Current holdings: [[NOC quantity:9; profit:1.04][MCHP quantity:16; profit:1.02][CLX quantity:7; profit:1.04][ACF quantity:34; profit:1.06]]
+2023-01-26 14:51:21,798 - simulator:99 - INFO - [2010-10-06 00:00:00] TARGET REACHED Selling asset [ACF] for $586.5. Profit: 1.0615384615384615. Days Held: 5
+2023-01-26 14:51:21,828 - simulator:117 - INFO - [2010-10-06 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:21,842 - simulator:81 - INFO - [2010-10-07 00:00:00] Current P/L: $686.2708015441895, %1.137254160308838
+2023-01-26 14:51:21,846 - simulator:82 - INFO - [2010-10-07 00:00:00] Current holdings: [[NOC quantity:9; profit:1.04][MCHP quantity:16; profit:1.01][CLX quantity:7; profit:1.04]]
+2023-01-26 14:51:21,892 - simulator:117 - INFO - [2010-10-07 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:21,916 - simulator:81 - INFO - [2010-10-08 00:00:00] Current P/L: $695.2405242919922, %1.1390481048583985
+2023-01-26 14:51:21,922 - simulator:82 - INFO - [2010-10-08 00:00:00] Current holdings: [[NOC quantity:9; profit:1.05][MCHP quantity:16; profit:1.02][CLX quantity:7; profit:1.06]]
+2023-01-26 14:51:21,929 - simulator:99 - INFO - [2010-10-08 00:00:00] TARGET REACHED Selling asset [CLX] for $477.05001068115234. Profit: 1.0579013266525006. Days Held: 49
+2023-01-26 14:51:21,952 - simulator:117 - INFO - [2010-10-08 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:21,953 - simulator:61 - INFO - [2010-10-09 00:00:00] Skipping weekend
+2023-01-26 14:51:21,953 - simulator:61 - INFO - [2010-10-10 00:00:00] Skipping weekend
+2023-01-26 14:51:21,960 - simulator:81 - INFO - [2010-10-11 00:00:00] Current P/L: $693.8437156677246, %1.138768743133545
+2023-01-26 14:51:21,961 - simulator:82 - INFO - [2010-10-11 00:00:00] Current holdings: [[NOC quantity:9; profit:1.04][MCHP quantity:16; profit:1.02]]
+2023-01-26 14:51:21,975 - simulator:117 - INFO - [2010-10-11 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:21,981 - simulator:81 - INFO - [2010-10-12 00:00:00] Current P/L: $692.3708305358887, %1.1384741661071778
+2023-01-26 14:51:21,983 - simulator:82 - INFO - [2010-10-12 00:00:00] Current holdings: [[NOC quantity:9; profit:1.04][MCHP quantity:16; profit:1.02]]
+2023-01-26 14:51:22,008 - simulator:117 - INFO - [2010-10-12 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:22,021 - simulator:81 - INFO - [2010-10-13 00:00:00] Current P/L: $690.4273643493652, %1.138085472869873
+2023-01-26 14:51:22,025 - simulator:82 - INFO - [2010-10-13 00:00:00] Current holdings: [[NOC quantity:9; profit:1.04][MCHP quantity:16; profit:1.0]]
+2023-01-26 14:51:22,042 - simulator:117 - INFO - [2010-10-13 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:22,048 - simulator:81 - INFO - [2010-10-14 00:00:00] Current P/L: $687.4200210571289, %1.1374840042114258
+2023-01-26 14:51:22,049 - simulator:82 - INFO - [2010-10-14 00:00:00] Current holdings: [[NOC quantity:9; profit:1.04][MCHP quantity:16; profit:1.0]]
+2023-01-26 14:51:22,061 - simulator:117 - INFO - [2010-10-14 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:22,067 - simulator:81 - INFO - [2010-10-15 00:00:00] Current P/L: $692.0652923583984, %1.1384130584716796
+2023-01-26 14:51:22,070 - simulator:82 - INFO - [2010-10-15 00:00:00] Current holdings: [[NOC quantity:9; profit:1.04][MCHP quantity:16; profit:1.02]]
+2023-01-26 14:51:22,085 - simulator:117 - INFO - [2010-10-15 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:22,086 - simulator:61 - INFO - [2010-10-16 00:00:00] Skipping weekend
+2023-01-26 14:51:22,086 - simulator:61 - INFO - [2010-10-17 00:00:00] Skipping weekend
+2023-01-26 14:51:22,095 - simulator:81 - INFO - [2010-10-18 00:00:00] Current P/L: $689.072437286377, %1.1378144874572753
+2023-01-26 14:51:22,098 - simulator:82 - INFO - [2010-10-18 00:00:00] Current holdings: [[NOC quantity:9; profit:1.04][MCHP quantity:16; profit:1.02]]
+2023-01-26 14:51:22,123 - simulator:117 - INFO - [2010-10-18 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:22,135 - simulator:81 - INFO - [2010-10-19 00:00:00] Current P/L: $676.8359222412109, %1.1353671844482423
+2023-01-26 14:51:22,138 - simulator:82 - INFO - [2010-10-19 00:00:00] Current holdings: [[NOC quantity:9; profit:1.02][MCHP quantity:16; profit:1.01]]
+2023-01-26 14:51:22,156 - simulator:117 - INFO - [2010-10-19 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:22,161 - simulator:81 - INFO - [2010-10-20 00:00:00] Current P/L: $684.1306076049805, %1.136826121520996
+2023-01-26 14:51:22,163 - simulator:82 - INFO - [2010-10-20 00:00:00] Current holdings: [[NOC quantity:9; profit:1.03][MCHP quantity:16; profit:1.01]]
+2023-01-26 14:51:22,178 - simulator:117 - INFO - [2010-10-20 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:22,185 - simulator:81 - INFO - [2010-10-21 00:00:00] Current P/L: $688.285572052002, %1.1376571144104004
+2023-01-26 14:51:22,189 - simulator:82 - INFO - [2010-10-21 00:00:00] Current holdings: [[NOC quantity:9; profit:1.04][MCHP quantity:16; profit:1.01]]
+2023-01-26 14:51:22,204 - simulator:117 - INFO - [2010-10-21 00:00:00] 9 interesting insider trades
+2023-01-26 14:51:22,205 - simulator:124 - INFO - [2010-10-21 00:00:00] 1 unique tickers
+2023-01-26 14:51:22,213 - simulator:81 - INFO - [2010-10-22 00:00:00] Current P/L: $695.109260559082, %1.1390218521118165
+2023-01-26 14:51:22,215 - simulator:82 - INFO - [2010-10-22 00:00:00] Current holdings: [[NOC quantity:9; profit:1.04][MCHP quantity:16; profit:1.03]]
+2023-01-26 14:51:22,229 - simulator:117 - INFO - [2010-10-22 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:22,229 - simulator:61 - INFO - [2010-10-23 00:00:00] Skipping weekend
+2023-01-26 14:51:22,229 - simulator:61 - INFO - [2010-10-24 00:00:00] Skipping weekend
+2023-01-26 14:51:22,235 - simulator:81 - INFO - [2010-10-25 00:00:00] Current P/L: $688.4190635681152, %1.137683812713623
+2023-01-26 14:51:22,239 - simulator:82 - INFO - [2010-10-25 00:00:00] Current holdings: [[NOC quantity:9; profit:1.02][MCHP quantity:16; profit:1.04]]
+2023-01-26 14:51:22,252 - simulator:117 - INFO - [2010-10-25 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:22,259 - simulator:81 - INFO - [2010-10-26 00:00:00] Current P/L: $691.2769317626953, %1.138255386352539
+2023-01-26 14:51:22,261 - simulator:82 - INFO - [2010-10-26 00:00:00] Current holdings: [[NOC quantity:9; profit:1.03][MCHP quantity:16; profit:1.03]]
+2023-01-26 14:51:22,277 - simulator:117 - INFO - [2010-10-26 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:22,286 - simulator:81 - INFO - [2010-10-27 00:00:00] Current P/L: $697.3608589172363, %1.1394721717834473
+2023-01-26 14:51:22,288 - simulator:82 - INFO - [2010-10-27 00:00:00] Current holdings: [[NOC quantity:9; profit:1.03][MCHP quantity:16; profit:1.06]]
+2023-01-26 14:51:22,290 - simulator:99 - INFO - [2010-10-27 00:00:00] TARGET REACHED Selling asset [MCHP] for $257.2799987792969. Profit: 1.0578947450975964. Days Held: 78
+2023-01-26 14:51:22,300 - simulator:117 - INFO - [2010-10-27 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:22,306 - simulator:81 - INFO - [2010-10-28 00:00:00] Current P/L: $704.3539657592773, %1.1408707931518556
+2023-01-26 14:51:22,307 - simulator:82 - INFO - [2010-10-28 00:00:00] Current holdings: [[NOC quantity:9; profit:1.05]]
+2023-01-26 14:51:22,313 - simulator:117 - INFO - [2010-10-28 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:22,317 - simulator:81 - INFO - [2010-10-29 00:00:00] Current P/L: $712.3228302001953, %1.142464566040039
+2023-01-26 14:51:22,320 - simulator:82 - INFO - [2010-10-29 00:00:00] Current holdings: [[NOC quantity:9; profit:1.06]]
+2023-01-26 14:51:22,324 - simulator:99 - INFO - [2010-10-29 00:00:00] TARGET REACHED Selling asset [NOC] for $514.0734329223633. Profit: 1.0621639566607128. Days Held: 86
+2023-01-26 14:51:22,329 - simulator:117 - INFO - [2010-10-29 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:22,329 - simulator:61 - INFO - [2010-10-30 00:00:00] Skipping weekend
+2023-01-26 14:51:22,329 - simulator:61 - INFO - [2010-10-31 00:00:00] Skipping weekend
+2023-01-26 14:51:22,330 - simulator:81 - INFO - [2010-11-01 00:00:00] Current P/L: $712.3228302001953, %1.142464566040039
+2023-01-26 14:51:22,330 - simulator:82 - INFO - [2010-11-01 00:00:00] Current holdings: []
+2023-01-26 14:51:22,335 - simulator:117 - INFO - [2010-11-01 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:22,337 - simulator:81 - INFO - [2010-11-02 00:00:00] Current P/L: $712.3228302001953, %1.142464566040039
+2023-01-26 14:51:22,338 - simulator:82 - INFO - [2010-11-02 00:00:00] Current holdings: []
+2023-01-26 14:51:22,343 - simulator:117 - INFO - [2010-11-02 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:22,344 - simulator:81 - INFO - [2010-11-03 00:00:00] Current P/L: $712.3228302001953, %1.142464566040039
+2023-01-26 14:51:22,344 - simulator:82 - INFO - [2010-11-03 00:00:00] Current holdings: []
+2023-01-26 14:51:22,347 - simulator:117 - INFO - [2010-11-03 00:00:00] 2 interesting insider trades
+2023-01-26 14:51:22,348 - simulator:124 - INFO - [2010-11-03 00:00:00] 1 unique tickers
+2023-01-26 14:51:22,350 - simulator:146 - INFO - [2010-11-03 00:00:00] buying BEN for 39.856666564941406. Total: 557.9933319091797
+2023-01-26 14:51:22,357 - simulator:81 - INFO - [2010-11-04 00:00:00] Current P/L: $724.4095153808594, %1.1448819030761719
+2023-01-26 14:51:22,358 - simulator:82 - INFO - [2010-11-04 00:00:00] Current holdings: [[BEN quantity:14; profit:1.02]]
+2023-01-26 14:51:22,365 - simulator:117 - INFO - [2010-11-04 00:00:00] 3 interesting insider trades
+2023-01-26 14:51:22,366 - simulator:124 - INFO - [2010-11-04 00:00:00] 1 unique tickers
+2023-01-26 14:51:22,370 - simulator:146 - INFO - [2010-11-04 00:00:00] buying BEN for 40.720001220703125. Total: 570.0800170898438
+2023-01-26 14:51:22,377 - simulator:81 - INFO - [2010-11-05 00:00:00] Current P/L: $747.0894470214844, %1.1494178894042968
+2023-01-26 14:51:22,379 - simulator:82 - INFO - [2010-11-05 00:00:00] Current holdings: [[BEN quantity:14; profit:1.04][BEN quantity:14; profit:1.02]]
+2023-01-26 14:51:22,392 - simulator:117 - INFO - [2010-11-05 00:00:00] 5 interesting insider trades
+2023-01-26 14:51:22,392 - simulator:124 - INFO - [2010-11-05 00:00:00] 3 unique tickers
+2023-01-26 14:51:22,395 - simulator:137 - INFO - [2010-11-05 00:00:00] failed to get price for ONNN
+2023-01-26 14:51:22,398 - simulator:137 - INFO - [2010-11-05 00:00:00] failed to get price for GPOR
+2023-01-26 14:51:22,405 - simulator:61 - INFO - [2010-11-06 00:00:00] Skipping weekend
+2023-01-26 14:51:22,405 - simulator:61 - INFO - [2010-11-07 00:00:00] Skipping weekend
+2023-01-26 14:51:22,410 - simulator:81 - INFO - [2010-11-08 00:00:00] Current P/L: $722.1694641113281, %1.1444338928222657
+2023-01-26 14:51:22,411 - simulator:82 - INFO - [2010-11-08 00:00:00] Current holdings: [[BEN quantity:14; profit:1.02][BEN quantity:14; profit:1.0]]
+2023-01-26 14:51:22,425 - simulator:117 - INFO - [2010-11-08 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:22,431 - simulator:81 - INFO - [2010-11-09 00:00:00] Current P/L: $718.2494812011719, %1.1436498962402344
+2023-01-26 14:51:22,432 - simulator:82 - INFO - [2010-11-09 00:00:00] Current holdings: [[BEN quantity:14; profit:1.02][BEN quantity:14; profit:0.99]]
+2023-01-26 14:51:22,448 - simulator:117 - INFO - [2010-11-09 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:22,455 - simulator:81 - INFO - [2010-11-10 00:00:00] Current P/L: $705.5561065673828, %1.1411112213134766
+2023-01-26 14:51:22,457 - simulator:82 - INFO - [2010-11-10 00:00:00] Current holdings: [[BEN quantity:14; profit:1.0][BEN quantity:14; profit:0.98]]
+2023-01-26 14:51:22,471 - simulator:117 - INFO - [2010-11-10 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:22,478 - simulator:81 - INFO - [2010-11-11 00:00:00] Current P/L: $708.1694641113281, %1.1416338928222656
+2023-01-26 14:51:22,479 - simulator:82 - INFO - [2010-11-11 00:00:00] Current holdings: [[BEN quantity:14; profit:1.01][BEN quantity:14; profit:0.99]]
+2023-01-26 14:51:22,494 - simulator:117 - INFO - [2010-11-11 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:22,503 - simulator:81 - INFO - [2010-11-12 00:00:00] Current P/L: $688.6627960205078, %1.1377325592041017
+2023-01-26 14:51:22,505 - simulator:82 - INFO - [2010-11-12 00:00:00] Current holdings: [[BEN quantity:14; profit:0.99][BEN quantity:14; profit:0.97]]
+2023-01-26 14:51:22,519 - simulator:117 - INFO - [2010-11-12 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:22,520 - simulator:61 - INFO - [2010-11-13 00:00:00] Skipping weekend
+2023-01-26 14:51:22,520 - simulator:61 - INFO - [2010-11-14 00:00:00] Skipping weekend
+2023-01-26 14:51:22,527 - simulator:81 - INFO - [2010-11-15 00:00:00] Current P/L: $690.5294342041016, %1.1381058868408203
+2023-01-26 14:51:22,529 - simulator:82 - INFO - [2010-11-15 00:00:00] Current holdings: [[BEN quantity:14; profit:0.99][BEN quantity:14; profit:0.97]]
+2023-01-26 14:51:22,543 - simulator:117 - INFO - [2010-11-15 00:00:00] 5 interesting insider trades
+2023-01-26 14:51:22,543 - simulator:124 - INFO - [2010-11-15 00:00:00] 2 unique tickers
+2023-01-26 14:51:22,546 - simulator:146 - INFO - [2010-11-15 00:00:00] buying NOC for 56.929534912109375. Total: 227.7181396484375
+2023-01-26 14:51:22,552 - simulator:137 - INFO - [2010-11-15 00:00:00] failed to get price for NONE
+2023-01-26 14:51:22,561 - simulator:81 - INFO - [2010-11-16 00:00:00] Current P/L: $647.0379028320312, %1.1294075805664063
+2023-01-26 14:51:22,564 - simulator:82 - INFO - [2010-11-16 00:00:00] Current holdings: [[NOC quantity:4; profit:0.98][BEN quantity:14; profit:0.96][BEN quantity:14; profit:0.94]]
+2023-01-26 14:51:22,582 - simulator:117 - INFO - [2010-11-16 00:00:00] 3 interesting insider trades
+2023-01-26 14:51:22,583 - simulator:124 - INFO - [2010-11-16 00:00:00] 2 unique tickers
+2023-01-26 14:51:22,591 - simulator:137 - INFO - [2010-11-16 00:00:00] failed to get price for AGII
+2023-01-26 14:51:22,596 - simulator:146 - INFO - [2010-11-16 00:00:00] buying SANM for 10.899999618530272. Total: 272.4999904632568
+2023-01-26 14:51:22,607 - simulator:81 - INFO - [2010-11-17 00:00:00] Current P/L: $660.74671459198, %1.132149342918396
+2023-01-26 14:51:22,610 - simulator:82 - INFO - [2010-11-17 00:00:00] Current holdings: [[NOC quantity:4; profit:0.98][BEN quantity:14; profit:0.97][BEN quantity:14; profit:0.95][SANM quantity:25; profit:1.01]]
+2023-01-26 14:51:22,628 - simulator:117 - INFO - [2010-11-17 00:00:00] 5 interesting insider trades
+2023-01-26 14:51:22,628 - simulator:124 - INFO - [2010-11-17 00:00:00] 2 unique tickers
+2023-01-26 14:51:22,637 - simulator:146 - INFO - [2010-11-17 00:00:00] buying JEF for 22.78411674499512. Total: 273.40940093994146
+2023-01-26 14:51:22,645 - simulator:137 - INFO - [2010-11-17 00:00:00] failed to get price for UBI
+2023-01-26 14:51:22,659 - simulator:81 - INFO - [2010-11-18 00:00:00] Current P/L: $688.3977699279785, %1.1376795539855957
+2023-01-26 14:51:22,663 - simulator:82 - INFO - [2010-11-18 00:00:00] Current holdings: [[NOC quantity:4; profit:1.0][BEN quantity:14; profit:0.98][BEN quantity:14; profit:0.96][SANM quantity:25; profit:1.02][JEF quantity:12; profit:1.02]]
+2023-01-26 14:51:22,696 - simulator:117 - INFO - [2010-11-18 00:00:00] 4 interesting insider trades
+2023-01-26 14:51:22,696 - simulator:124 - INFO - [2010-11-18 00:00:00] 1 unique tickers
+2023-01-26 14:51:22,705 - simulator:137 - INFO - [2010-11-18 00:00:00] failed to get price for NU
+2023-01-26 14:51:22,722 - simulator:81 - INFO - [2010-11-19 00:00:00] Current P/L: $683.1181354522705, %1.1366236270904542
+2023-01-26 14:51:22,725 - simulator:82 - INFO - [2010-11-19 00:00:00] Current holdings: [[NOC quantity:4; profit:1.0][BEN quantity:14; profit:0.97][BEN quantity:14; profit:0.95][SANM quantity:25; profit:1.02][JEF quantity:12; profit:1.03]]
+2023-01-26 14:51:22,753 - simulator:117 - INFO - [2010-11-19 00:00:00] 3 interesting insider trades
+2023-01-26 14:51:22,754 - simulator:124 - INFO - [2010-11-19 00:00:00] 1 unique tickers
+2023-01-26 14:51:22,761 - simulator:146 - INFO - [2010-11-19 00:00:00] buying A for 26.080114364624023. Total: 547.6824016571045
+2023-01-26 14:51:22,762 - simulator:61 - INFO - [2010-11-20 00:00:00] Skipping weekend
+2023-01-26 14:51:22,762 - simulator:61 - INFO - [2010-11-21 00:00:00] Skipping weekend
+2023-01-26 14:51:22,777 - simulator:81 - INFO - [2010-11-22 00:00:00] Current P/L: $672.8095264434814, %1.1345619052886964
+2023-01-26 14:51:22,782 - simulator:82 - INFO - [2010-11-22 00:00:00] Current holdings: [[NOC quantity:4; profit:0.99][BEN quantity:14; profit:0.97][BEN quantity:14; profit:0.95][SANM quantity:25; profit:1.02][JEF quantity:12; profit:1.03][A quantity:21; profit:1.0]]
+2023-01-26 14:51:22,814 - simulator:117 - INFO - [2010-11-22 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:22,830 - simulator:81 - INFO - [2010-11-23 00:00:00] Current P/L: $616.1559534072876, %1.1232311906814576
+2023-01-26 14:51:22,834 - simulator:82 - INFO - [2010-11-23 00:00:00] Current holdings: [[NOC quantity:4; profit:0.97][BEN quantity:14; profit:0.94][BEN quantity:14; profit:0.92][SANM quantity:25; profit:1.0][JEF quantity:12; profit:1.0][A quantity:21; profit:0.97]]
+2023-01-26 14:51:22,864 - simulator:117 - INFO - [2010-11-23 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:22,878 - simulator:81 - INFO - [2010-11-24 00:00:00] Current P/L: $675.5378561019897, %1.135107571220398
+2023-01-26 14:51:22,882 - simulator:82 - INFO - [2010-11-24 00:00:00] Current holdings: [[NOC quantity:4; profit:0.99][BEN quantity:14; profit:0.97][BEN quantity:14; profit:0.95][SANM quantity:25; profit:1.02][JEF quantity:12; profit:1.03][A quantity:21; profit:1.0]]
+2023-01-26 14:51:22,929 - simulator:117 - INFO - [2010-11-24 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:22,929 - simulator:71 - INFO - [2010-11-25 00:00:00] Skipping invalid trade day
+2023-01-26 14:51:22,954 - simulator:81 - INFO - [2010-11-26 00:00:00] Current P/L: $644.7065801620483, %1.1289413160324098
+2023-01-26 14:51:22,960 - simulator:82 - INFO - [2010-11-26 00:00:00] Current holdings: [[NOC quantity:4; profit:0.98][BEN quantity:14; profit:0.95][BEN quantity:14; profit:0.93][SANM quantity:25; profit:1.0][JEF quantity:12; profit:1.01][A quantity:21; profit:1.0]]
+2023-01-26 14:51:22,994 - simulator:117 - INFO - [2010-11-26 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:22,994 - simulator:61 - INFO - [2010-11-27 00:00:00] Skipping weekend
+2023-01-26 14:51:22,994 - simulator:61 - INFO - [2010-11-28 00:00:00] Skipping weekend
+2023-01-26 14:51:23,011 - simulator:81 - INFO - [2010-11-29 00:00:00] Current P/L: $633.0235509872437, %1.1266047101974488
+2023-01-26 14:51:23,015 - simulator:82 - INFO - [2010-11-29 00:00:00] Current holdings: [[NOC quantity:4; profit:0.97][BEN quantity:14; profit:0.96][BEN quantity:14; profit:0.94][SANM quantity:25; profit:0.99][JEF quantity:12; profit:1.0][A quantity:21; profit:0.98]]
+2023-01-26 14:51:23,042 - simulator:117 - INFO - [2010-11-29 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:23,058 - simulator:81 - INFO - [2010-11-30 00:00:00] Current P/L: $609.5192403793335, %1.1219038480758667
+2023-01-26 14:51:23,061 - simulator:82 - INFO - [2010-11-30 00:00:00] Current holdings: [[NOC quantity:4; profit:0.98][BEN quantity:14; profit:0.95][BEN quantity:14; profit:0.93][SANM quantity:25; profit:0.96][JEF quantity:12; profit:0.99][A quantity:21; profit:0.96]]
+2023-01-26 14:51:23,095 - simulator:117 - INFO - [2010-11-30 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:23,109 - simulator:81 - INFO - [2010-12-01 00:00:00] Current P/L: $688.0725479125977, %1.1376145095825196
+2023-01-26 14:51:23,113 - simulator:82 - INFO - [2010-12-01 00:00:00] Current holdings: [[NOC quantity:4; profit:1.01][BEN quantity:14; profit:0.98][BEN quantity:14; profit:0.96][SANM quantity:25; profit:1.01][JEF quantity:12; profit:1.03][A quantity:21; profit:0.99]]
+2023-01-26 14:51:23,143 - simulator:117 - INFO - [2010-12-01 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:23,160 - simulator:81 - INFO - [2010-12-02 00:00:00] Current P/L: $731.5948734283447, %1.146318974685669
+2023-01-26 14:51:23,165 - simulator:82 - INFO - [2010-12-02 00:00:00] Current holdings: [[NOC quantity:4; profit:1.02][BEN quantity:14; profit:1.0][BEN quantity:14; profit:0.98][SANM quantity:25; profit:1.02][JEF quantity:12; profit:1.05][A quantity:21; profit:1.01]]
+2023-01-26 14:51:23,198 - simulator:117 - INFO - [2010-12-02 00:00:00] 2 interesting insider trades
+2023-01-26 14:51:23,198 - simulator:124 - INFO - [2010-12-02 00:00:00] 2 unique tickers
+2023-01-26 14:51:23,229 - simulator:81 - INFO - [2010-12-03 00:00:00] Current P/L: $739.5040950775146, %1.147900819015503
+2023-01-26 14:51:23,234 - simulator:82 - INFO - [2010-12-03 00:00:00] Current holdings: [[NOC quantity:4; profit:1.0][BEN quantity:14; profit:1.0][BEN quantity:14; profit:0.98][SANM quantity:25; profit:1.03][JEF quantity:12; profit:1.04][A quantity:21; profit:1.03]]
+2023-01-26 14:51:23,266 - simulator:117 - INFO - [2010-12-03 00:00:00] 5 interesting insider trades
+2023-01-26 14:51:23,266 - simulator:124 - INFO - [2010-12-03 00:00:00] 1 unique tickers
+2023-01-26 14:51:23,274 - simulator:61 - INFO - [2010-12-04 00:00:00] Skipping weekend
+2023-01-26 14:51:23,275 - simulator:61 - INFO - [2010-12-05 00:00:00] Skipping weekend
+2023-01-26 14:51:23,293 - simulator:81 - INFO - [2010-12-06 00:00:00] Current P/L: $732.5597686767578, %1.1465119537353516
+2023-01-26 14:51:23,297 - simulator:82 - INFO - [2010-12-06 00:00:00] Current holdings: [[NOC quantity:4; profit:1.01][BEN quantity:14; profit:1.0][BEN quantity:14; profit:0.98][SANM quantity:25; profit:1.03][JEF quantity:12; profit:1.05][A quantity:21; profit:1.02]]
+2023-01-26 14:51:23,303 - simulator:99 - INFO - [2010-12-06 00:00:00] TARGET REACHED Selling asset [JEF] for $288.05259704589844. Profit: 1.0535577637623865. Days Held: 19
+2023-01-26 14:51:23,327 - simulator:117 - INFO - [2010-12-06 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:23,342 - simulator:81 - INFO - [2010-12-07 00:00:00] Current P/L: $742.7778968811035, %1.1485555793762208
+2023-01-26 14:51:23,346 - simulator:82 - INFO - [2010-12-07 00:00:00] Current holdings: [[NOC quantity:4; profit:1.02][BEN quantity:14; profit:0.99][BEN quantity:14; profit:0.97][SANM quantity:25; profit:1.05][A quantity:21; profit:1.03]]
+2023-01-26 14:51:23,373 - simulator:117 - INFO - [2010-12-07 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:23,383 - simulator:81 - INFO - [2010-12-08 00:00:00] Current P/L: $743.2173337936401, %1.148643466758728
+2023-01-26 14:51:23,390 - simulator:82 - INFO - [2010-12-08 00:00:00] Current holdings: [[NOC quantity:4; profit:1.02][BEN quantity:14; profit:0.99][BEN quantity:14; profit:0.97][SANM quantity:25; profit:1.04][A quantity:21; profit:1.03]]
+2023-01-26 14:51:23,412 - simulator:117 - INFO - [2010-12-08 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:23,441 - simulator:81 - INFO - [2010-12-09 00:00:00] Current P/L: $728.0519313812256, %1.145610386276245
+2023-01-26 14:51:23,445 - simulator:82 - INFO - [2010-12-09 00:00:00] Current holdings: [[NOC quantity:4; profit:1.01][BEN quantity:14; profit:0.98][BEN quantity:14; profit:0.96][SANM quantity:25; profit:1.03][A quantity:21; profit:1.04]]
+2023-01-26 14:51:23,479 - simulator:117 - INFO - [2010-12-09 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:23,503 - simulator:81 - INFO - [2010-12-10 00:00:00] Current P/L: $748.1867113113403, %1.149637342262268
+2023-01-26 14:51:23,512 - simulator:82 - INFO - [2010-12-10 00:00:00] Current holdings: [[NOC quantity:4; profit:1.02][BEN quantity:14; profit:0.99][BEN quantity:14; profit:0.97][SANM quantity:25; profit:1.04][A quantity:21; profit:1.06]]
+2023-01-26 14:51:23,520 - simulator:99 - INFO - [2010-12-10 00:00:00] TARGET REACHED Selling asset [A] for $578.9270153045654. Profit: 1.0570487814706573. Days Held: 21
+2023-01-26 14:51:23,545 - simulator:117 - INFO - [2010-12-10 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:23,546 - simulator:61 - INFO - [2010-12-11 00:00:00] Skipping weekend
+2023-01-26 14:51:23,546 - simulator:61 - INFO - [2010-12-12 00:00:00] Skipping weekend
+2023-01-26 14:51:23,556 - simulator:81 - INFO - [2010-12-13 00:00:00] Current P/L: $733.5418062210083, %1.1467083612442017
+2023-01-26 14:51:23,560 - simulator:82 - INFO - [2010-12-13 00:00:00] Current holdings: [[NOC quantity:4; profit:1.02][BEN quantity:14; profit:0.98][BEN quantity:14; profit:0.96][SANM quantity:25; profit:1.01]]
+2023-01-26 14:51:23,591 - simulator:117 - INFO - [2010-12-13 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:23,602 - simulator:81 - INFO - [2010-12-14 00:00:00] Current P/L: $724.3043794631958, %1.144860875892639
+2023-01-26 14:51:23,605 - simulator:82 - INFO - [2010-12-14 00:00:00] Current holdings: [[NOC quantity:4; profit:1.03][BEN quantity:14; profit:0.97][BEN quantity:14; profit:0.95][SANM quantity:25; profit:1.0]]
+2023-01-26 14:51:23,640 - simulator:117 - INFO - [2010-12-14 00:00:00] 2 interesting insider trades
+2023-01-26 14:51:23,640 - simulator:124 - INFO - [2010-12-14 00:00:00] 1 unique tickers
+2023-01-26 14:51:23,659 - simulator:81 - INFO - [2010-12-15 00:00:00] Current P/L: $727.9149560928345, %1.1455829912185669
+2023-01-26 14:51:23,664 - simulator:82 - INFO - [2010-12-15 00:00:00] Current holdings: [[NOC quantity:4; profit:1.01][BEN quantity:14; profit:0.98][BEN quantity:14; profit:0.96][SANM quantity:25; profit:1.02]]
+2023-01-26 14:51:23,694 - simulator:117 - INFO - [2010-12-15 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:23,707 - simulator:81 - INFO - [2010-12-16 00:00:00] Current P/L: $726.3351707458496, %1.14526703414917
+2023-01-26 14:51:23,709 - simulator:82 - INFO - [2010-12-16 00:00:00] Current holdings: [[NOC quantity:4; profit:1.02][BEN quantity:14; profit:0.97][BEN quantity:14; profit:0.95][SANM quantity:25; profit:1.02]]
+2023-01-26 14:51:23,729 - simulator:117 - INFO - [2010-12-16 00:00:00] 13 interesting insider trades
+2023-01-26 14:51:23,729 - simulator:124 - INFO - [2010-12-16 00:00:00] 3 unique tickers
+2023-01-26 14:51:23,738 - simulator:146 - INFO - [2010-12-16 00:00:00] buying CNC for 6.272500038146973. Total: 188.17500114440918
+2023-01-26 14:51:23,770 - simulator:81 - INFO - [2010-12-17 00:00:00] Current P/L: $711.8238563537598, %1.1423647712707519
+2023-01-26 14:51:23,774 - simulator:82 - INFO - [2010-12-17 00:00:00] Current holdings: [[NOC quantity:4; profit:1.02][BEN quantity:14; profit:0.96][BEN quantity:14; profit:0.94][SANM quantity:25; profit:1.02][CNC quantity:30; profit:1.01]]
+2023-01-26 14:51:23,798 - simulator:117 - INFO - [2010-12-17 00:00:00] 5 interesting insider trades
+2023-01-26 14:51:23,798 - simulator:124 - INFO - [2010-12-17 00:00:00] 2 unique tickers
+2023-01-26 14:51:23,806 - simulator:137 - INFO - [2010-12-17 00:00:00] failed to get price for BEAV
+2023-01-26 14:51:23,811 - simulator:137 - INFO - [2010-12-17 00:00:00] failed to get price for PNY
+2023-01-26 14:51:23,811 - simulator:61 - INFO - [2010-12-18 00:00:00] Skipping weekend
+2023-01-26 14:51:23,811 - simulator:61 - INFO - [2010-12-19 00:00:00] Skipping weekend
+2023-01-26 14:51:23,824 - simulator:81 - INFO - [2010-12-20 00:00:00] Current P/L: $687.7376136779785, %1.1375475227355958
+2023-01-26 14:51:23,827 - simulator:82 - INFO - [2010-12-20 00:00:00] Current holdings: [[NOC quantity:4; profit:1.02][BEN quantity:14; profit:0.93][BEN quantity:14; profit:0.91][SANM quantity:25; profit:1.02][CNC quantity:30; profit:1.03]]
+2023-01-26 14:51:23,849 - simulator:117 - INFO - [2010-12-20 00:00:00] 5 interesting insider trades
+2023-01-26 14:51:23,850 - simulator:124 - INFO - [2010-12-20 00:00:00] 1 unique tickers
+2023-01-26 14:51:23,859 - simulator:137 - INFO - [2010-12-20 00:00:00] failed to get price for STI
+2023-01-26 14:51:23,872 - simulator:81 - INFO - [2010-12-21 00:00:00] Current P/L: $710.0221433639526, %1.1420044286727906
+2023-01-26 14:51:23,876 - simulator:82 - INFO - [2010-12-21 00:00:00] Current holdings: [[NOC quantity:4; profit:1.02][BEN quantity:14; profit:0.94][BEN quantity:14; profit:0.92][SANM quantity:25; profit:1.08][CNC quantity:30; profit:1.04]]
+2023-01-26 14:51:23,879 - simulator:99 - INFO - [2010-12-21 00:00:00] TARGET REACHED Selling asset [SANM] for $295.2500104904175. Profit: 1.083486314948067. Days Held: 35
+2023-01-26 14:51:23,899 - simulator:117 - INFO - [2010-12-21 00:00:00] 1 interesting insider trades
+2023-01-26 14:51:23,900 - simulator:124 - INFO - [2010-12-21 00:00:00] 1 unique tickers
+2023-01-26 14:51:23,923 - simulator:81 - INFO - [2010-12-22 00:00:00] Current P/L: $694.3606338500977, %1.1388721267700195
+2023-01-26 14:51:23,927 - simulator:82 - INFO - [2010-12-22 00:00:00] Current holdings: [[NOC quantity:4; profit:1.03][BEN quantity:14; profit:0.92][BEN quantity:14; profit:0.9][CNC quantity:30; profit:1.04]]
+2023-01-26 14:51:23,958 - simulator:117 - INFO - [2010-12-22 00:00:00] 4 interesting insider trades
+2023-01-26 14:51:23,958 - simulator:124 - INFO - [2010-12-22 00:00:00] 2 unique tickers
+2023-01-26 14:51:23,981 - simulator:81 - INFO - [2010-12-23 00:00:00] Current P/L: $680.0721979141235, %1.1360144395828247
+2023-01-26 14:51:23,988 - simulator:82 - INFO - [2010-12-23 00:00:00] Current holdings: [[NOC quantity:4; profit:1.03][BEN quantity:14; profit:0.91][BEN quantity:14; profit:0.89][CNC quantity:30; profit:1.04]]
+2023-01-26 14:51:24,008 - simulator:117 - INFO - [2010-12-23 00:00:00] 5 interesting insider trades
+2023-01-26 14:51:24,009 - simulator:124 - INFO - [2010-12-23 00:00:00] 2 unique tickers
+2023-01-26 14:51:24,018 - simulator:146 - INFO - [2010-12-23 00:00:00] buying CNC for 6.512499809265137. Total: 280.0374917984009
+2023-01-26 14:51:24,027 - simulator:71 - INFO - [2010-12-24 00:00:00] Skipping invalid trade day
+2023-01-26 14:51:24,027 - simulator:61 - INFO - [2010-12-25 00:00:00] Skipping weekend
+2023-01-26 14:51:24,027 - simulator:61 - INFO - [2010-12-26 00:00:00] Skipping weekend
+2023-01-26 14:51:24,041 - simulator:81 - INFO - [2010-12-27 00:00:00] Current P/L: $694.5365033149719, %1.1389073006629944
+2023-01-26 14:51:24,044 - simulator:82 - INFO - [2010-12-27 00:00:00] Current holdings: [[NOC quantity:4; profit:1.03][BEN quantity:14; profit:0.92][BEN quantity:14; profit:0.9][CNC quantity:30; profit:1.04][CNC quantity:43; profit:1.0]]
+2023-01-26 14:51:24,073 - simulator:117 - INFO - [2010-12-27 00:00:00] 1 interesting insider trades
+2023-01-26 14:51:24,073 - simulator:124 - INFO - [2010-12-27 00:00:00] 1 unique tickers
+2023-01-26 14:51:24,079 - simulator:137 - INFO - [2010-12-27 00:00:00] failed to get price for QRE
+2023-01-26 14:51:24,094 - simulator:81 - INFO - [2010-12-28 00:00:00] Current P/L: $692.8800497055054, %1.138576009941101
+2023-01-26 14:51:24,098 - simulator:82 - INFO - [2010-12-28 00:00:00] Current holdings: [[NOC quantity:4; profit:1.03][BEN quantity:14; profit:0.92][BEN quantity:14; profit:0.9][CNC quantity:30; profit:1.03][CNC quantity:43; profit:0.99]]
+2023-01-26 14:51:24,126 - simulator:117 - INFO - [2010-12-28 00:00:00] 0 interesting insider trades
+2023-01-26 14:51:24,138 - simulator:81 - INFO - [2010-12-29 00:00:00] Current P/L: $699.2838616371155, %1.139856772327423
+2023-01-26 14:51:24,141 - simulator:82 - INFO - [2010-12-29 00:00:00] Current holdings: [[NOC quantity:4; profit:1.03][BEN quantity:14; profit:0.92][BEN quantity:14; profit:0.9][CNC quantity:30; profit:1.05][CNC quantity:43; profit:1.01]]
+2023-01-26 14:51:24,164 - simulator:117 - INFO - [2010-12-29 00:00:00] 1 interesting insider trades
+2023-01-26 14:51:24,164 - simulator:124 - INFO - [2010-12-29 00:00:00] 1 unique tickers
+2023-01-26 14:51:24,172 - simulator:137 - INFO - [2010-12-29 00:00:00] failed to get price for LLEN
+2023-01-26 14:51:24,186 - simulator:81 - INFO - [2010-12-30 00:00:00] Current P/L: $690.5661177635193, %1.1381132235527038
+2023-01-26 14:51:24,190 - simulator:82 - INFO - [2010-12-30 00:00:00] Current holdings: [[NOC quantity:4; profit:1.02][BEN quantity:14; profit:0.92][BEN quantity:14; profit:0.9][CNC quantity:30; profit:1.03][CNC quantity:43; profit:0.99]]
+2023-01-26 14:51:24,220 - simulator:117 - INFO - [2010-12-30 00:00:00] 0 interesting insider trades

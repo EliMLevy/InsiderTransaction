@@ -1,0 +1,34 @@
+{
+    "start_date": "2008-01-01",
+    "end_date": "2010-12-31",
+    "transaction_files": [
+        "./data/2008q1/",
+        "./data/2008q2/",
+        "./data/2008q3/",
+        "./data/2008q4/",
+        "./data/2009q1/",
+        "./data/2009q2/",
+        "./data/2009q3/",
+        "./data/2009q4/",
+        "./data/2010q1/",
+        "./data/2010q2/",
+        "./data/2010q3/",
+        "./data/2010q4/"
+    ],
+    "filtered_transactions_output_file": "./data/all_trades2008To2010.csv",
+    "already_computed": true,
+    "minimum_transaction_value": 500000,
+    "cached_ticker_data_dir": "./cached_ticker_data/2008To2010",
+    "prev_cached_ticker_data_dirs": [
+        "./cached_ticker_data/2008",
+        "./cached_ticker_data/2009",
+        "./cached_ticker_data/2010"
+    ],
+    "fragment_size": 0.1,
+    "loss_stop": 0.85,
+    "profit_target": 1.05,
+    "expiration": 90,
+    "starting_cash": 5000,
+    "simlation_output_file": "./output/PortfolioProfit_2008To2010.csv",
+    "simlation_output_graph": "./output/PortfolioProfit_2008To2010.png"
+}

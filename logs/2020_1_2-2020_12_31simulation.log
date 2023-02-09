@@ -1,0 +1,170 @@
+2023-02-08 15:18:42,573 - simulator:81 - INFO - [2020-01-02 00:00:00] Current P/L: $0, %1.0
+2023-02-08 15:18:42,574 - simulator:82 - INFO - [2020-01-02 00:00:00] Current holdings: []
+2023-02-08 15:18:42,580 - simulator:117 - INFO - [2020-01-02 00:00:00] 2 interesting insider trades
+2023-02-08 15:18:42,580 - simulator:124 - INFO - [2020-01-02 00:00:00] 1 unique tickers
+2023-02-08 15:18:42,583 - simulator:146 - INFO - [2020-01-02 00:00:00] buying HPP for 36.99. Total: 480.87
+2023-02-08 15:18:42,589 - simulator:81 - INFO - [2020-01-03 00:00:00] Current P/L: $1.5600000000004002, %1.000312
+2023-02-08 15:18:42,592 - simulator:82 - INFO - [2020-01-03 00:00:00] Current holdings: [[HPP quantity:13; profit:1.0]]
+2023-02-08 15:18:42,603 - simulator:117 - INFO - [2020-01-03 00:00:00] 3 interesting insider trades
+2023-02-08 15:18:42,603 - simulator:124 - INFO - [2020-01-03 00:00:00] 2 unique tickers
+2023-02-08 15:18:42,612 - simulator:146 - INFO - [2020-01-03 00:00:00] buying HTA for 29.96. Total: 239.68
+2023-02-08 15:18:42,613 - simulator:61 - INFO - [2020-01-04 00:00:00] Skipping weekend
+2023-02-08 15:18:42,613 - simulator:61 - INFO - [2020-01-05 00:00:00] Skipping weekend
+2023-02-08 15:18:42,618 - simulator:81 - INFO - [2020-01-06 00:00:00] Current P/L: $1.4399999999995998, %1.0002879999999998
+2023-02-08 15:18:42,620 - simulator:82 - INFO - [2020-01-06 00:00:00] Current holdings: [[HPP quantity:13; profit:1.0][HTA quantity:8; profit:1.0]]
+2023-02-08 15:18:42,637 - simulator:117 - INFO - [2020-01-06 00:00:00] 5 interesting insider trades
+2023-02-08 15:18:42,639 - simulator:124 - INFO - [2020-01-06 00:00:00] 2 unique tickers
+2023-02-08 15:18:42,650 - simulator:146 - INFO - [2020-01-06 00:00:00] buying ASGN for 70.27. Total: 210.81
+2023-02-08 15:18:42,662 - simulator:81 - INFO - [2020-01-07 00:00:00] Current P/L: $-16.480000000000473, %0.9967039999999999
+2023-02-08 15:18:42,664 - simulator:82 - INFO - [2020-01-07 00:00:00] Current holdings: [[HPP quantity:13; profit:0.98][HTA quantity:8; profit:0.99][ASGN quantity:3; profit:0.99]]
+2023-02-08 15:18:42,682 - simulator:117 - INFO - [2020-01-07 00:00:00] 2 interesting insider trades
+2023-02-08 15:18:42,682 - simulator:124 - INFO - [2020-01-07 00:00:00] 2 unique tickers
+2023-02-08 15:18:42,695 - simulator:146 - INFO - [2020-01-07 00:00:00] buying SGMD for 0.0108000002801418. Total: 249.16680646315146
+2023-02-08 15:18:42,709 - simulator:81 - INFO - [2020-01-08 00:00:00] Current P/L: $-14.260000000000218, %0.9971479999999999
+2023-02-08 15:18:42,712 - simulator:82 - INFO - [2020-01-08 00:00:00] Current holdings: [[HPP quantity:13; profit:0.98][HTA quantity:8; profit:0.99][ASGN quantity:3; profit:1.0][SGMD quantity:23071; profit:1.0]]
+2023-02-08 15:18:42,734 - simulator:117 - INFO - [2020-01-08 00:00:00] 4 interesting insider trades
+2023-02-08 15:18:42,734 - simulator:124 - INFO - [2020-01-08 00:00:00] 3 unique tickers
+2023-02-08 15:18:42,746 - simulator:146 - INFO - [2020-01-08 00:00:00] buying LXP for 10.51. Total: 157.65
+2023-02-08 15:18:42,759 - simulator:146 - INFO - [2020-01-08 00:00:00] buying WRI for 30.23. Total: 151.15
+2023-02-08 15:18:42,793 - simulator:81 - INFO - [2020-01-09 00:00:00] Current P/L: $-19.797096080855226, %0.996040580783829
+2023-02-08 15:18:42,798 - simulator:82 - INFO - [2020-01-09 00:00:00] Current holdings: [[HPP quantity:13; profit:0.97][HTA quantity:8; profit:1.0][ASGN quantity:3; profit:1.01][SGMD quantity:23071; profit:0.99][LXP quantity:15; profit:1.0][WRI quantity:5; profit:0.98]]
+2023-02-08 15:18:42,833 - simulator:117 - INFO - [2020-01-09 00:00:00] 0 interesting insider trades
+2023-02-08 15:18:42,849 - simulator:81 - INFO - [2020-01-10 00:00:00] Current P/L: $-9.172903919146847, %0.9981654192161706
+2023-02-08 15:18:42,854 - simulator:82 - INFO - [2020-01-10 00:00:00] Current holdings: [[HPP quantity:13; profit:0.97][HTA quantity:8; profit:1.01][ASGN quantity:3; profit:1.0][SGMD quantity:23071; profit:1.01][LXP quantity:15; profit:1.02][WRI quantity:5; profit:1.0]]
+2023-02-08 15:18:42,892 - simulator:117 - INFO - [2020-01-10 00:00:00] 0 interesting insider trades
+2023-02-08 15:18:42,893 - simulator:61 - INFO - [2020-01-11 00:00:00] Skipping weekend
+2023-02-08 15:18:42,893 - simulator:61 - INFO - [2020-01-12 00:00:00] Skipping weekend
+2023-02-08 15:18:42,911 - simulator:81 - INFO - [2020-01-13 00:00:00] Current P/L: $6.3225979716689835, %1.0012645195943337
+2023-02-08 15:18:42,917 - simulator:82 - INFO - [2020-01-13 00:00:00] Current holdings: [[HPP quantity:13; profit:0.97][HTA quantity:8; profit:1.02][ASGN quantity:3; profit:1.0][SGMD quantity:23071; profit:1.06][LXP quantity:15; profit:1.02][WRI quantity:5; profit:1.0]]
+2023-02-08 15:18:42,982 - simulator:117 - INFO - [2020-01-13 00:00:00] 2 interesting insider trades
+2023-02-08 15:18:42,983 - simulator:124 - INFO - [2020-01-13 00:00:00] 1 unique tickers
+2023-02-08 15:18:42,998 - simulator:146 - INFO - [2020-01-13 00:00:00] buying HTGC for 14.149999618530272. Total: 495.2499866485595
+2023-02-08 15:18:43,023 - simulator:81 - INFO - [2020-01-14 00:00:00] Current P/L: $8.589691382236197, %1.0017179382764472
+2023-02-08 15:18:43,032 - simulator:82 - INFO - [2020-01-14 00:00:00] Current holdings: [[HPP quantity:13; profit:0.97][HTA quantity:8; profit:1.01][ASGN quantity:3; profit:1.0][SGMD quantity:23071; profit:1.06][LXP quantity:15; profit:1.01][WRI quantity:5; profit:1.01][HTGC quantity:35; profit:1.01]]
+2023-02-08 15:18:43,103 - simulator:117 - INFO - [2020-01-14 00:00:00] 0 interesting insider trades
+2023-02-08 15:18:43,121 - simulator:81 - INFO - [2020-01-15 00:00:00] Current P/L: $25.31261666368573, %1.005062523332737
+2023-02-08 15:18:43,126 - simulator:82 - INFO - [2020-01-15 00:00:00] Current holdings: [[HPP quantity:13; profit:0.98][HTA quantity:8; profit:1.03][ASGN quantity:3; profit:1.0][SGMD quantity:23071; profit:1.06][LXP quantity:15; profit:1.03][WRI quantity:5; profit:1.02][HTGC quantity:35; profit:1.01]]
+2023-02-08 15:18:43,163 - simulator:117 - INFO - [2020-01-15 00:00:00] 5 interesting insider trades
+2023-02-08 15:18:43,163 - simulator:124 - INFO - [2020-01-15 00:00:00] 3 unique tickers
+2023-02-08 15:18:43,207 - simulator:81 - INFO - [2020-01-16 00:00:00] Current P/L: $34.24551123682431, %1.006849102247365
+2023-02-08 15:18:43,212 - simulator:82 - INFO - [2020-01-16 00:00:00] Current holdings: [[HPP quantity:13; profit:0.99][HTA quantity:8; profit:1.04][ASGN quantity:3; profit:1.0][SGMD quantity:23071; profit:1.05][LXP quantity:15; profit:1.04][WRI quantity:5; profit:1.02][HTGC quantity:35; profit:1.02]]
+2023-02-08 15:18:43,250 - simulator:117 - INFO - [2020-01-16 00:00:00] 1 interesting insider trades
+2023-02-08 15:18:43,251 - simulator:124 - INFO - [2020-01-16 00:00:00] 1 unique tickers
+2023-02-08 15:18:43,284 - simulator:81 - INFO - [2020-01-17 00:00:00] Current P/L: $27.980008010864367, %1.0055960016021728
+2023-02-08 15:18:43,294 - simulator:82 - INFO - [2020-01-17 00:00:00] Current holdings: [[HPP quantity:13; profit:1.0][HTA quantity:8; profit:1.04][ASGN quantity:3; profit:1.0][SGMD quantity:23071; profit:1.0][LXP quantity:15; profit:1.04][WRI quantity:5; profit:1.02][HTGC quantity:35; profit:1.02]]
+2023-02-08 15:18:43,330 - simulator:117 - INFO - [2020-01-17 00:00:00] 0 interesting insider trades
+2023-02-08 15:18:43,330 - simulator:61 - INFO - [2020-01-18 00:00:00] Skipping weekend
+2023-02-08 15:18:43,330 - simulator:61 - INFO - [2020-01-19 00:00:00] Skipping weekend
+2023-02-08 15:18:51,743 - simulator:81 - INFO - [2020-01-20 00:00:00] Current P/L: $0.0, %1.0
+2023-02-08 15:18:51,750 - simulator:82 - INFO - [2020-01-20 00:00:00] Current holdings: [[HPP quantity:13; profit:1][HTA quantity:8; profit:1][ASGN quantity:3; profit:1][SGMD quantity:23071; profit:1][LXP quantity:15; profit:1][WRI quantity:5; profit:1][HTGC quantity:35; profit:1]]
+2023-02-08 15:18:51,781 - simulator:117 - INFO - [2020-01-20 00:00:00] 0 interesting insider trades
+2023-02-08 15:18:51,800 - simulator:81 - INFO - [2020-01-21 00:00:00] Current P/L: $35.820017356872995, %1.0071640034713747
+2023-02-08 15:18:51,807 - simulator:82 - INFO - [2020-01-21 00:00:00] Current holdings: [[HPP quantity:13; profit:1.01][HTA quantity:8; profit:1.06][ASGN quantity:3; profit:0.99][SGMD quantity:23071; profit:1][LXP quantity:15; profit:1.04][WRI quantity:5; profit:1.03][HTGC quantity:35; profit:1.02]]
+2023-02-08 15:18:51,850 - simulator:117 - INFO - [2020-01-21 00:00:00] 9 interesting insider trades
+2023-02-08 15:18:51,850 - simulator:124 - INFO - [2020-01-21 00:00:00] 1 unique tickers
+2023-02-08 15:18:51,884 - simulator:81 - INFO - [2020-01-22 00:00:00] Current P/L: $32.26000667572043, %1.0064520013351441
+2023-02-08 15:18:51,891 - simulator:82 - INFO - [2020-01-22 00:00:00] Current holdings: [[HPP quantity:13; profit:1.0][HTA quantity:8; profit:1.05][ASGN quantity:3; profit:0.99][SGMD quantity:23071; profit:1][LXP quantity:15; profit:1.03][WRI quantity:5; profit:1.03][HTGC quantity:35; profit:1.02]]
+2023-02-08 15:18:51,959 - simulator:117 - INFO - [2020-01-22 00:00:00] 1 interesting insider trades
+2023-02-08 15:18:51,959 - simulator:124 - INFO - [2020-01-22 00:00:00] 1 unique tickers
+2023-02-08 15:18:51,973 - simulator:146 - INFO - [2020-01-22 00:00:00] buying CSX for 24.8700008392334. Total: 497.40001678466797
+2023-02-08 15:18:52,019 - simulator:81 - INFO - [2020-01-23 00:00:00] Current P/L: $51.513322525024705, %1.0103026645050048
+2023-02-08 15:18:52,036 - simulator:82 - INFO - [2020-01-23 00:00:00] Current holdings: [[HPP quantity:13; profit:1.0][HTA quantity:8; profit:1.06][ASGN quantity:3; profit:0.99][SGMD quantity:23071; profit:1][LXP quantity:15; profit:1.05][WRI quantity:5; profit:1.02][HTGC quantity:35; profit:1.02][CSX quantity:20; profit:1.03]]
+2023-02-08 15:18:52,131 - simulator:117 - INFO - [2020-01-23 00:00:00] 1 interesting insider trades
+2023-02-08 15:18:52,132 - simulator:124 - INFO - [2020-01-23 00:00:00] 1 unique tickers
+2023-02-08 15:18:52,221 - simulator:81 - INFO - [2020-01-24 00:00:00] Current P/L: $42.50335170745893, %1.0085006703414918
+2023-02-08 15:18:52,244 - simulator:82 - INFO - [2020-01-24 00:00:00] Current holdings: [[HPP quantity:13; profit:1.0][HTA quantity:8; profit:1.07][ASGN quantity:3; profit:0.99][SGMD quantity:23071; profit:1][LXP quantity:15; profit:1.04][WRI quantity:5; profit:1.02][HTGC quantity:35; profit:1.02][CSX quantity:20; profit:1.03]]
+2023-02-08 15:18:52,352 - simulator:117 - INFO - [2020-01-24 00:00:00] 2 interesting insider trades
+2023-02-08 15:18:52,353 - simulator:124 - INFO - [2020-01-24 00:00:00] 2 unique tickers
+2023-02-08 15:18:52,404 - simulator:146 - INFO - [2020-01-24 00:00:00] buying JCI for 41.34999847412109. Total: 248.0999908447265
+2023-02-08 15:18:52,406 - simulator:61 - INFO - [2020-01-25 00:00:00] Skipping weekend
+2023-02-08 15:18:52,406 - simulator:61 - INFO - [2020-01-26 00:00:00] Skipping weekend
+2023-02-08 15:18:52,455 - simulator:81 - INFO - [2020-01-27 00:00:00] Current P/L: $17.193335685729835, %1.003438667137146
+2023-02-08 15:18:52,475 - simulator:82 - INFO - [2020-01-27 00:00:00] Current holdings: [[HPP quantity:13; profit:0.98][HTA quantity:8; profit:1.07][ASGN quantity:3; profit:0.98][SGMD quantity:23071; profit:1][LXP quantity:15; profit:1.04][WRI quantity:5; profit:1.01][HTGC quantity:35; profit:1.01][CSX quantity:20; profit:1.01][JCI quantity:6; profit:0.97]]
+2023-02-08 15:18:52,570 - simulator:117 - INFO - [2020-01-27 00:00:00] 6 interesting insider trades
+2023-02-08 15:18:52,570 - simulator:124 - INFO - [2020-01-27 00:00:00] 3 unique tickers
+2023-02-08 15:18:52,606 - simulator:146 - INFO - [2020-01-27 00:00:00] buying CNC for 63.41999816894531. Total: 126.83999633789062
+2023-02-08 15:18:52,638 - simulator:146 - INFO - [2020-01-27 00:00:00] buying YUM for 104.39. Total: 104.39
+2023-02-08 15:18:52,660 - simulator:146 - INFO - [2020-01-27 00:00:00] buying ALLY for 31.36. Total: 156.8
+2023-02-08 15:18:52,694 - simulator:81 - INFO - [2020-01-28 00:00:00] Current P/L: $47.04336112976125, %1.0094086722259523
+2023-02-08 15:18:52,704 - simulator:82 - INFO - [2020-01-28 00:00:00] Current holdings: [[HPP quantity:13; profit:0.98][HTA quantity:8; profit:1.08][ASGN quantity:3; profit:1.0][SGMD quantity:23071; profit:1][LXP quantity:15; profit:1.07][WRI quantity:5; profit:1.01][HTGC quantity:35; profit:1.03][CSX quantity:20; profit:1.02][JCI quantity:6; profit:0.99][CNC quantity:2; profit:1.03][YUM quantity:1; profit:1.0][ALLY quantity:5; profit:1.01]]
+2023-02-08 15:18:52,771 - simulator:117 - INFO - [2020-01-28 00:00:00] 2 interesting insider trades
+2023-02-08 15:18:52,772 - simulator:124 - INFO - [2020-01-28 00:00:00] 1 unique tickers
+2023-02-08 15:18:52,828 - simulator:81 - INFO - [2020-01-29 00:00:00] Current P/L: $56.39664447784435, %1.0112793288955688
+2023-02-08 15:18:52,838 - simulator:82 - INFO - [2020-01-29 00:00:00] Current holdings: [[HPP quantity:13; profit:0.98][HTA quantity:8; profit:1.07][ASGN quantity:3; profit:0.99][SGMD quantity:23071; profit:1][LXP quantity:15; profit:1.06][WRI quantity:5; profit:1.0][HTGC quantity:35; profit:1.04][CSX quantity:20; profit:1.04][JCI quantity:6; profit:0.98][CNC quantity:2; profit:1.03][YUM quantity:1; profit:1.02][ALLY quantity:5; profit:1.03]]
+2023-02-08 15:18:52,912 - simulator:117 - INFO - [2020-01-29 00:00:00] 4 interesting insider trades
+2023-02-08 15:18:52,912 - simulator:124 - INFO - [2020-01-29 00:00:00] 2 unique tickers
+2023-02-08 15:18:53,063 - simulator:81 - INFO - [2020-01-30 00:00:00] Current P/L: $56.89333877563513, %1.011378667755127
+2023-02-08 15:18:53,081 - simulator:82 - INFO - [2020-01-30 00:00:00] Current holdings: [[HPP quantity:13; profit:0.99][HTA quantity:8; profit:1.07][ASGN quantity:3; profit:0.99][SGMD quantity:23071; profit:1][LXP quantity:15; profit:1.07][WRI quantity:5; profit:0.96][HTGC quantity:35; profit:1.03][CSX quantity:20; profit:1.04][JCI quantity:6; profit:0.98][CNC quantity:2; profit:1.0][YUM quantity:1; profit:1.02][ALLY quantity:5; profit:1.03]]
+2023-02-08 15:18:53,216 - simulator:117 - INFO - [2020-01-30 00:00:00] 19 interesting insider trades
+2023-02-08 15:18:53,216 - simulator:124 - INFO - [2020-01-30 00:00:00] 3 unique tickers
+2023-02-08 15:18:53,384 - simulator:81 - INFO - [2020-01-31 00:00:00] Current P/L: $15.863345718384153, %1.0031726691436769
+2023-02-08 15:18:53,398 - simulator:82 - INFO - [2020-01-31 00:00:00] Current holdings: [[HPP quantity:13; profit:0.98][HTA quantity:8; profit:1.07][ASGN quantity:3; profit:0.96][SGMD quantity:23071; profit:1][LXP quantity:15; profit:1.05][WRI quantity:5; profit:0.96][HTGC quantity:35; profit:1.02][CSX quantity:20; profit:1.02][JCI quantity:6; profit:0.95][CNC quantity:2; profit:0.99][YUM quantity:1; profit:1.01][ALLY quantity:5; profit:1.02]]
+2023-02-08 15:18:53,456 - simulator:117 - INFO - [2020-01-31 00:00:00] 3 interesting insider trades
+2023-02-08 15:18:53,456 - simulator:124 - INFO - [2020-01-31 00:00:00] 1 unique tickers
+2023-02-08 15:18:53,478 - simulator:146 - INFO - [2020-01-31 00:00:00] buying URI for 135.69. Total: 407.07
+2023-02-08 15:18:53,479 - simulator:61 - INFO - [2020-02-01 00:00:00] Skipping weekend
+2023-02-08 15:18:53,479 - simulator:61 - INFO - [2020-02-02 00:00:00] Skipping weekend
+2023-02-08 15:18:53,537 - simulator:81 - INFO - [2020-02-03 00:00:00] Current P/L: $47.27003227233854, %1.0094540064544677
+2023-02-08 15:18:53,561 - simulator:82 - INFO - [2020-02-03 00:00:00] Current holdings: [[HPP quantity:13; profit:0.99][HTA quantity:8; profit:1.08][ASGN quantity:3; profit:0.98][SGMD quantity:23071; profit:1][LXP quantity:15; profit:1.06][WRI quantity:5; profit:0.97][HTGC quantity:35; profit:1.02][CSX quantity:20; profit:1.03][JCI quantity:6; profit:0.95][CNC quantity:2; profit:0.99][YUM quantity:1; profit:1.02][ALLY quantity:5; profit:1.02][URI quantity:3; profit:1.03]]
+2023-02-08 15:18:53,673 - simulator:117 - INFO - [2020-02-03 00:00:00] 4 interesting insider trades
+2023-02-08 15:18:53,674 - simulator:124 - INFO - [2020-02-03 00:00:00] 2 unique tickers
+2023-02-08 15:18:53,713 - simulator:146 - INFO - [2020-02-03 00:00:00] buying ONB for 17.99. Total: 251.85999999999999
+2023-02-08 15:18:53,755 - simulator:81 - INFO - [2020-02-04 00:00:00] Current P/L: $96.02667819976887, %1.0192053356399537
+2023-02-08 15:18:53,767 - simulator:82 - INFO - [2020-02-04 00:00:00] Current holdings: [[HPP quantity:13; profit:1.01][HTA quantity:8; profit:1.08][ASGN quantity:3; profit:1.0][SGMD quantity:23071; profit:1][LXP quantity:15; profit:1.07][WRI quantity:5; profit:0.98][HTGC quantity:35; profit:1.03][CSX quantity:20; profit:1.04][JCI quantity:6; profit:0.95][CNC quantity:2; profit:0.98][YUM quantity:1; profit:1.02][ALLY quantity:5; profit:1.03][URI quantity:3; profit:1.09][ONB quantity:14; profit:1.0]]
+2023-02-08 15:18:53,850 - simulator:117 - INFO - [2020-02-04 00:00:00] 3 interesting insider trades
+2023-02-08 15:18:53,850 - simulator:124 - INFO - [2020-02-04 00:00:00] 3 unique tickers
+2023-02-08 15:18:53,894 - simulator:146 - INFO - [2020-02-04 00:00:00] buying OSUR for 7.03. Total: 168.72
+2023-02-08 15:18:53,995 - simulator:81 - INFO - [2020-02-05 00:00:00] Current P/L: $138.13337291717562, %1.027626674583435
+2023-02-08 15:18:54,019 - simulator:82 - INFO - [2020-02-05 00:00:00] Current holdings: [[HPP quantity:13; profit:1.0][HTA quantity:8; profit:1.06][ASGN quantity:3; profit:1.02][SGMD quantity:23071; profit:1][LXP quantity:15; profit:1.06][WRI quantity:5; profit:1.0][HTGC quantity:35; profit:1.04][CSX quantity:20; profit:1.05][JCI quantity:6; profit:0.96][CNC quantity:2; profit:1.04][YUM quantity:1; profit:1.02][ALLY quantity:5; profit:1.05][URI quantity:3; profit:1.14][ONB quantity:14; profit:1.02][OSUR quantity:24; profit:0.98]]
+2023-02-08 15:18:54,038 - simulator:99 - INFO - [2020-02-05 00:00:00] TARGET REACHED Selling asset [URI] for $463.14. Profit: 1.137740437762547. Days Held: 5
+2023-02-08 15:18:54,170 - simulator:117 - INFO - [2020-02-05 00:00:00] 6 interesting insider trades
+2023-02-08 15:18:54,171 - simulator:124 - INFO - [2020-02-05 00:00:00] 2 unique tickers
+2023-02-08 15:18:54,235 - simulator:146 - INFO - [2020-02-05 00:00:00] buying WK for 46.02999877929688. Total: 230.1499938964844
+2023-02-08 15:18:54,272 - simulator:81 - INFO - [2020-02-06 00:00:00] Current P/L: $135.9333441925046, %1.027186668838501
+2023-02-08 15:18:54,284 - simulator:82 - INFO - [2020-02-06 00:00:00] Current holdings: [[HPP quantity:13; profit:1.01][HTA quantity:8; profit:1.07][ASGN quantity:3; profit:0.99][SGMD quantity:23071; profit:1][LXP quantity:15; profit:1.06][WRI quantity:5; profit:1.0][HTGC quantity:35; profit:1.06][CSX quantity:20; profit:1.05][JCI quantity:6; profit:0.97][CNC quantity:2; profit:1.01][YUM quantity:1; profit:0.99][ALLY quantity:5; profit:1.04][ONB quantity:14; profit:1.02][OSUR quantity:24; profit:0.97][WK quantity:5; profit:1.01]]
+2023-02-08 15:18:54,377 - simulator:117 - INFO - [2020-02-06 00:00:00] 10 interesting insider trades
+2023-02-08 15:18:54,377 - simulator:124 - INFO - [2020-02-06 00:00:00] 3 unique tickers
+2023-02-08 15:18:54,498 - simulator:81 - INFO - [2020-02-07 00:00:00] Current P/L: $120.79337093353297, %1.0241586741867066
+2023-02-08 15:18:54,509 - simulator:82 - INFO - [2020-02-07 00:00:00] Current holdings: [[HPP quantity:13; profit:1.0][HTA quantity:8; profit:1.07][ASGN quantity:3; profit:0.97][SGMD quantity:23071; profit:1][LXP quantity:15; profit:1.05][WRI quantity:5; profit:0.99][HTGC quantity:35; profit:1.06][CSX quantity:20; profit:1.04][JCI quantity:6; profit:0.96][CNC quantity:2; profit:1.0][YUM quantity:1; profit:0.98][ALLY quantity:5; profit:1.04][ONB quantity:14; profit:1.01][OSUR quantity:24; profit:0.94][WK quantity:5; profit:1.02]]
+2023-02-08 15:18:54,582 - simulator:117 - INFO - [2020-02-07 00:00:00] 9 interesting insider trades
+2023-02-08 15:18:54,582 - simulator:124 - INFO - [2020-02-07 00:00:00] 3 unique tickers
+2023-02-08 15:18:54,611 - simulator:146 - INFO - [2020-02-07 00:00:00] buying WWW for 31.739999771118164. Total: 158.69999885559082
+2023-02-08 15:18:54,635 - simulator:146 - INFO - [2020-02-07 00:00:00] buying APO for 47.36000061035156. Total: 142.0800018310547
+2023-02-08 15:18:54,665 - simulator:146 - INFO - [2020-02-07 00:00:00] buying CW for 147.32000732421875. Total: 147.32000732421875
+2023-02-08 15:18:54,666 - simulator:61 - INFO - [2020-02-08 00:00:00] Skipping weekend
+2023-02-08 15:18:54,666 - simulator:61 - INFO - [2020-02-09 00:00:00] Skipping weekend
+2023-02-08 15:18:54,720 - simulator:81 - INFO - [2020-02-10 00:00:00] Current P/L: $147.07666416168286, %1.0294153328323365
+2023-02-08 15:18:54,734 - simulator:82 - INFO - [2020-02-10 00:00:00] Current holdings: [[HPP quantity:13; profit:1.02][HTA quantity:8; profit:1.08][ASGN quantity:3; profit:0.97][SGMD quantity:23071; profit:1][LXP quantity:15; profit:1.07][WRI quantity:5; profit:1.01][HTGC quantity:35; profit:1.07][CSX quantity:20; profit:1.06][JCI quantity:6; profit:0.98][CNC quantity:2; profit:0.99][YUM quantity:1; profit:0.99][ALLY quantity:5; profit:1.04][ONB quantity:14; profit:1.01][OSUR quantity:24; profit:0.95][WK quantity:5; profit:1.02][WWW quantity:5; profit:0.99][APO quantity:3; profit:0.98][CW quantity:1; profit:1.0]]
+2023-02-08 15:18:54,826 - simulator:117 - INFO - [2020-02-10 00:00:00] 15 interesting insider trades
+2023-02-08 15:18:54,826 - simulator:124 - INFO - [2020-02-10 00:00:00] 2 unique tickers
+2023-02-08 15:18:54,879 - simulator:146 - INFO - [2020-02-10 00:00:00] buying YUM for 102.87. Total: 205.74
+2023-02-08 15:18:54,985 - simulator:81 - INFO - [2020-02-11 00:00:00] Current P/L: $156.04662948608438, %1.0312093258972168
+2023-02-08 15:18:55,021 - simulator:82 - INFO - [2020-02-11 00:00:00] Current holdings: [[HPP quantity:13; profit:1.02][HTA quantity:8; profit:1.08][ASGN quantity:3; profit:0.97][SGMD quantity:23071; profit:1][LXP quantity:15; profit:1.06][WRI quantity:5; profit:1.0][HTGC quantity:35; profit:1.07][CSX quantity:20; profit:1.05][JCI quantity:6; profit:0.99][CNC quantity:2; profit:1.0][YUM quantity:1; profit:1.0][YUM quantity:2; profit:1.01][ALLY quantity:5; profit:1.05][ONB quantity:14; profit:1.01][OSUR quantity:24; profit:0.97][WK quantity:5; profit:1.01][WWW quantity:5; profit:0.99][APO quantity:3; profit:0.99][CW quantity:1; profit:1.01]]
+2023-02-08 15:18:55,232 - simulator:117 - INFO - [2020-02-11 00:00:00] 7 interesting insider trades
+2023-02-08 15:18:55,233 - simulator:124 - INFO - [2020-02-11 00:00:00] 1 unique tickers
+2023-02-08 15:18:55,345 - simulator:81 - INFO - [2020-02-12 00:00:00] Current P/L: $182.09338542938258, %1.0364186770858765
+2023-02-08 15:18:55,359 - simulator:82 - INFO - [2020-02-12 00:00:00] Current holdings: [[HPP quantity:13; profit:1.03][HTA quantity:8; profit:1.08][ASGN quantity:3; profit:0.97][SGMD quantity:23071; profit:1][LXP quantity:15; profit:1.07][WRI quantity:5; profit:1.0][HTGC quantity:35; profit:1.07][CSX quantity:20; profit:1.07][JCI quantity:6; profit:1.01][CNC quantity:2; profit:1.05][YUM quantity:1; profit:1.01][YUM quantity:2; profit:1.02][ALLY quantity:5; profit:1.05][ONB quantity:14; profit:1.01][OSUR quantity:24; profit:0.96][WK quantity:5; profit:1.01][WWW quantity:5; profit:1.02][APO quantity:3; profit:0.98][CW quantity:1; profit:1.01]]
+2023-02-08 15:18:55,447 - simulator:117 - INFO - [2020-02-12 00:00:00] 8 interesting insider trades
+2023-02-08 15:18:55,447 - simulator:124 - INFO - [2020-02-12 00:00:00] 3 unique tickers
+2023-02-08 15:18:55,525 - simulator:146 - INFO - [2020-02-12 00:00:00] buying UTX for 155.18. Total: 155.18
+2023-02-08 15:18:55,582 - simulator:81 - INFO - [2020-02-13 00:00:00] Current P/L: $179.9066688537614, %1.0359813337707522
+2023-02-08 15:18:55,597 - simulator:82 - INFO - [2020-02-13 00:00:00] Current holdings: [[HPP quantity:13; profit:1.03][HTA quantity:8; profit:1.09][ASGN quantity:3; profit:0.92][SGMD quantity:23071; profit:1][LXP quantity:15; profit:1.08][WRI quantity:5; profit:1.0][HTGC quantity:35; profit:1.08][CSX quantity:20; profit:1.07][JCI quantity:6; profit:0.99][CNC quantity:2; profit:1.04][YUM quantity:1; profit:1.01][YUM quantity:2; profit:1.02][ALLY quantity:5; profit:1.05][ONB quantity:14; profit:1.02][OSUR quantity:24; profit:0.96][WK quantity:5; profit:1.02][WWW quantity:5; profit:1.01][APO quantity:3; profit:0.97][CW quantity:1; profit:1.01][UTX quantity:1; profit:0.99]]
+2023-02-08 15:18:55,710 - simulator:117 - INFO - [2020-02-13 00:00:00] 24 interesting insider trades
+2023-02-08 15:18:55,710 - simulator:124 - INFO - [2020-02-13 00:00:00] 4 unique tickers
+2023-02-08 15:18:55,790 - simulator:146 - INFO - [2020-02-13 00:00:00] buying NNN for 56.2599983215332. Total: 112.5199966430664
+2023-02-08 15:18:55,868 - simulator:81 - INFO - [2020-02-14 00:00:00] Current P/L: $196.06002624511802, %1.0392120052490237
+2023-02-08 15:18:55,884 - simulator:82 - INFO - [2020-02-14 00:00:00] Current holdings: [[HPP quantity:13; profit:1.05][HTA quantity:8; profit:1.12][ASGN quantity:3; profit:0.9][SGMD quantity:23071; profit:1][LXP quantity:15; profit:1.1][WRI quantity:5; profit:1.01][HTGC quantity:35; profit:1.08][CSX quantity:20; profit:1.07][JCI quantity:6; profit:1.01][CNC quantity:2; profit:1.02][YUM quantity:1; profit:1.01][YUM quantity:2; profit:1.02][ALLY quantity:5; profit:1.05][ONB quantity:14; profit:1.02][OSUR quantity:24; profit:0.97][WK quantity:5; profit:1.03][WWW quantity:5; profit:1.0][APO quantity:3; profit:0.97][CW quantity:1; profit:0.99][UTX quantity:1; profit:0.99][NNN quantity:2; profit:1.01]]
+2023-02-08 15:18:55,894 - simulator:99 - INFO - [2020-02-14 00:00:00] TARGET REACHED Selling asset [HTA] for $268.08. Profit: 1.1184913217623498. Days Held: 42
+2023-02-08 15:18:55,897 - simulator:95 - INFO - [2020-02-14 00:00:00] STOP LOSS Selling asset [ASGN] for $189.06. Profit: 0.8968265262558703. Days Held: 39
+2023-02-08 15:18:55,986 - simulator:117 - INFO - [2020-02-14 00:00:00] 5 interesting insider trades
+2023-02-08 15:18:55,987 - simulator:124 - INFO - [2020-02-14 00:00:00] 2 unique tickers
+2023-02-08 15:18:56,064 - simulator:61 - INFO - [2020-02-15 00:00:00] Skipping weekend
+2023-02-08 15:18:56,065 - simulator:61 - INFO - [2020-02-16 00:00:00] Skipping weekend
+2023-02-08 15:18:57,416 - simulator:71 - INFO - [2020-02-17 00:00:00] Skipping invalid trade day True True
+2023-02-08 15:18:57,477 - simulator:81 - INFO - [2020-02-18 00:00:00] Current P/L: $181.74664546966596, %1.0363493290939332
+2023-02-08 15:18:57,491 - simulator:82 - INFO - [2020-02-18 00:00:00] Current holdings: [[HPP quantity:13; profit:1.04][SGMD quantity:23071; profit:1][LXP quantity:15; profit:1.1][WRI quantity:5; profit:1.02][HTGC quantity:35; profit:1.08][CSX quantity:20; profit:1.07][JCI quantity:6; profit:1.02][CNC quantity:2; profit:1.05][YUM quantity:1; profit:1.0][YUM quantity:2; profit:1.01][ALLY quantity:5; profit:1.02][ONB quantity:14; profit:1.01][OSUR quantity:24; profit:0.93][WK quantity:5; profit:1.04][WWW quantity:5; profit:1.0][APO quantity:3; profit:0.96][CW quantity:1; profit:0.99][UTX quantity:1; profit:0.97][NNN quantity:2; profit:1.02]]
+2023-02-08 15:18:57,494 - simulator:99 - INFO - [2020-02-18 00:00:00] TARGET REACHED Selling asset [LXP] for $173.7. Profit: 1.1018078020932445. Days Held: 41
+2023-02-08 15:18:57,580 - simulator:117 - INFO - [2020-02-18 00:00:00] 27 interesting insider trades
+2023-02-08 15:18:57,581 - simulator:124 - INFO - [2020-02-18 00:00:00] 8 unique tickers
+2023-02-08 15:18:59,034 - simulator:146 - INFO - [2020-02-18 00:00:00] buying SNV for 35.75. Total: 35.75
+2023-02-08 15:19:00,136 - simulator:146 - INFO - [2020-02-18 00:00:00] buying COT for 15.49. Total: 61.96

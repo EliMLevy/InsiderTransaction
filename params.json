@@ -1,0 +1,24 @@
+{
+    "start_date": "2020-01-02",
+    "end_date": "2020-12-31",
+    "transaction_files": [
+        "./data/2020Q1/",
+        "./data/2020Q2/",
+        "./data/2020Q3/",
+        "./data/2020Q4/"
+    ],
+    "filtered_transactions_output_file": "./data/all_trades2020.csv",
+    "already_computed": false,
+    "minimum_transaction_value": 500000,
+    "cached_ticker_data_dir": "./cached_ticker_data/2020",
+    "prev_cached_ticker_data_dirs": [
+        "./cached_ticker_data/2020"
+    ],
+    "fragment_size": 0.1,
+    "loss_stop": 0.90,
+    "profit_target": 1.10,
+    "expiration": 90,
+    "starting_cash": 5000,
+    "simlation_output_file": "./output/PortfolioProfit_2020.csv",
+    "simlation_output_graph": "./output/PortfolioProfit_2020.png"
+}

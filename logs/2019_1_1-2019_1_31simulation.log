@@ -1,0 +1,92 @@
+2023-02-08 14:47:35,100 - simulator:71 - INFO - [2019-01-01 00:00:00] Skipping invalid trade day False True
+2023-02-08 14:47:35,102 - simulator:81 - INFO - [2019-01-02 00:00:00] Current P/L: $0, %1.0
+2023-02-08 14:47:35,102 - simulator:82 - INFO - [2019-01-02 00:00:00] Current holdings: []
+2023-02-08 14:47:35,109 - simulator:117 - INFO - [2019-01-02 00:00:00] 0 interesting insider trades
+2023-02-08 14:47:35,110 - simulator:81 - INFO - [2019-01-03 00:00:00] Current P/L: $0, %1.0
+2023-02-08 14:47:35,110 - simulator:82 - INFO - [2019-01-03 00:00:00] Current holdings: []
+2023-02-08 14:47:35,118 - simulator:117 - INFO - [2019-01-03 00:00:00] 7 interesting insider trades
+2023-02-08 14:47:35,119 - simulator:124 - INFO - [2019-01-03 00:00:00] 4 unique tickers
+2023-02-08 14:47:35,122 - simulator:146 - INFO - [2019-01-03 00:00:00] buying WDR for 17.79. Total: 124.53
+2023-02-08 14:47:35,130 - simulator:146 - INFO - [2019-01-03 00:00:00] buying CRSP for 28.02. Total: 112.08
+2023-02-08 14:47:35,141 - simulator:146 - INFO - [2019-01-03 00:00:00] buying HTA for 25.11. Total: 100.44
+2023-02-08 14:47:35,155 - simulator:81 - INFO - [2019-01-04 00:00:00] Current P/L: $10.710000000000946, %1.002142
+2023-02-08 14:47:35,159 - simulator:82 - INFO - [2019-01-04 00:00:00] Current holdings: [[WDR quantity:7; profit:1.01][CRSP quantity:4; profit:1.08][HTA quantity:4; profit:1.01]]
+2023-02-08 14:47:35,164 - simulator:99 - INFO - [2019-01-04 00:00:00] TARGET REACHED Selling asset [CRSP] for $121.08. Profit: 1.0802997858672376. Days Held: 1
+2023-02-08 14:47:35,180 - simulator:117 - INFO - [2019-01-04 00:00:00] 3 interesting insider trades
+2023-02-08 14:47:35,181 - simulator:124 - INFO - [2019-01-04 00:00:00] 2 unique tickers
+2023-02-08 14:47:41,937 - simulator:61 - INFO - [2019-01-05 00:00:00] Skipping weekend
+2023-02-08 14:47:41,937 - simulator:61 - INFO - [2019-01-06 00:00:00] Skipping weekend
+2023-02-08 14:47:41,947 - simulator:81 - INFO - [2019-01-07 00:00:00] Current P/L: $11.400000000000546, %1.00228
+2023-02-08 14:47:41,949 - simulator:82 - INFO - [2019-01-07 00:00:00] Current holdings: [[WDR quantity:7; profit:1.0][HTA quantity:4; profit:1.02]]
+2023-02-08 14:47:41,966 - simulator:117 - INFO - [2019-01-07 00:00:00] 1 interesting insider trades
+2023-02-08 14:47:41,967 - simulator:124 - INFO - [2019-01-07 00:00:00] 1 unique tickers
+2023-02-08 14:47:45,293 - simulator:81 - INFO - [2019-01-08 00:00:00] Current P/L: $12.920000000000982, %1.0025840000000001
+2023-02-08 14:47:45,295 - simulator:82 - INFO - [2019-01-08 00:00:00] Current holdings: [[WDR quantity:7; profit:1.0][HTA quantity:4; profit:1.04]]
+2023-02-08 14:47:45,320 - simulator:117 - INFO - [2019-01-08 00:00:00] 0 interesting insider trades
+2023-02-08 14:47:45,328 - simulator:81 - INFO - [2019-01-09 00:00:00] Current P/L: $12.00000000000091, %1.0024000000000002
+2023-02-08 14:47:45,330 - simulator:82 - INFO - [2019-01-09 00:00:00] Current holdings: [[WDR quantity:7; profit:1.0][HTA quantity:4; profit:1.03]]
+2023-02-08 14:47:45,346 - simulator:117 - INFO - [2019-01-09 00:00:00] 0 interesting insider trades
+2023-02-08 14:47:45,358 - simulator:81 - INFO - [2019-01-10 00:00:00] Current P/L: $13.180000000000291, %1.002636
+2023-02-08 14:47:45,361 - simulator:82 - INFO - [2019-01-10 00:00:00] Current holdings: [[WDR quantity:7; profit:1.0][HTA quantity:4; profit:1.04]]
+2023-02-08 14:47:45,377 - simulator:117 - INFO - [2019-01-10 00:00:00] 0 interesting insider trades
+2023-02-08 14:47:45,387 - simulator:81 - INFO - [2019-01-11 00:00:00] Current P/L: $8.340000000001055, %1.0016680000000002
+2023-02-08 14:47:45,389 - simulator:82 - INFO - [2019-01-11 00:00:00] Current holdings: [[WDR quantity:7; profit:0.95][HTA quantity:4; profit:1.05]]
+2023-02-08 14:47:45,391 - simulator:99 - INFO - [2019-01-11 00:00:00] TARGET REACHED Selling asset [HTA] for $105.52. Profit: 1.0505774591796098. Days Held: 8
+2023-02-08 14:47:45,404 - simulator:117 - INFO - [2019-01-11 00:00:00] 0 interesting insider trades
+2023-02-08 14:47:45,404 - simulator:61 - INFO - [2019-01-12 00:00:00] Skipping weekend
+2023-02-08 14:47:45,404 - simulator:61 - INFO - [2019-01-13 00:00:00] Skipping weekend
+2023-02-08 14:47:45,408 - simulator:81 - INFO - [2019-01-14 00:00:00] Current P/L: $6.800000000001091, %1.0013600000000002
+2023-02-08 14:47:45,409 - simulator:82 - INFO - [2019-01-14 00:00:00] Current holdings: [[WDR quantity:7; profit:0.94]]
+2023-02-08 14:47:45,424 - simulator:117 - INFO - [2019-01-14 00:00:00] 0 interesting insider trades
+2023-02-08 14:47:45,427 - simulator:81 - INFO - [2019-01-15 00:00:00] Current P/L: $9.81000000000131, %1.0019620000000002
+2023-02-08 14:47:45,428 - simulator:82 - INFO - [2019-01-15 00:00:00] Current holdings: [[WDR quantity:7; profit:0.97]]
+2023-02-08 14:47:45,442 - simulator:117 - INFO - [2019-01-15 00:00:00] 2 interesting insider trades
+2023-02-08 14:47:45,442 - simulator:124 - INFO - [2019-01-15 00:00:00] 1 unique tickers
+2023-02-08 14:47:48,955 - simulator:81 - INFO - [2019-01-16 00:00:00] Current P/L: $12.6800000000012, %1.0025360000000003
+2023-02-08 14:47:48,956 - simulator:82 - INFO - [2019-01-16 00:00:00] Current holdings: [[WDR quantity:7; profit:0.99]]
+2023-02-08 14:47:48,965 - simulator:117 - INFO - [2019-01-16 00:00:00] 0 interesting insider trades
+2023-02-08 14:47:48,969 - simulator:81 - INFO - [2019-01-17 00:00:00] Current P/L: $12.1200000000008, %1.0024240000000002
+2023-02-08 14:47:48,972 - simulator:82 - INFO - [2019-01-17 00:00:00] Current holdings: [[WDR quantity:7; profit:0.98]]
+2023-02-08 14:47:48,983 - simulator:117 - INFO - [2019-01-17 00:00:00] 2 interesting insider trades
+2023-02-08 14:47:48,983 - simulator:124 - INFO - [2019-01-17 00:00:00] 2 unique tickers
+2023-02-08 14:47:55,598 - simulator:81 - INFO - [2019-01-18 00:00:00] Current P/L: $14.50000000000091, %1.0029000000000001
+2023-02-08 14:47:55,599 - simulator:82 - INFO - [2019-01-18 00:00:00] Current holdings: [[WDR quantity:7; profit:1.0]]
+2023-02-08 14:47:55,609 - simulator:117 - INFO - [2019-01-18 00:00:00] 0 interesting insider trades
+2023-02-08 14:47:55,609 - simulator:61 - INFO - [2019-01-19 00:00:00] Skipping weekend
+2023-02-08 14:47:55,609 - simulator:61 - INFO - [2019-01-20 00:00:00] Skipping weekend
+2023-02-08 14:47:59,042 - simulator:71 - INFO - [2019-01-21 00:00:00] Skipping invalid trade day True True
+2023-02-08 14:47:59,045 - simulator:81 - INFO - [2019-01-22 00:00:00] Current P/L: $12.190000000001419, %1.0024380000000004
+2023-02-08 14:47:59,047 - simulator:82 - INFO - [2019-01-22 00:00:00] Current holdings: [[WDR quantity:7; profit:0.98]]
+2023-02-08 14:47:59,058 - simulator:117 - INFO - [2019-01-22 00:00:00] 11 interesting insider trades
+2023-02-08 14:47:59,060 - simulator:124 - INFO - [2019-01-22 00:00:00] 2 unique tickers
+2023-02-08 14:48:05,736 - simulator:81 - INFO - [2019-01-23 00:00:00] Current P/L: $11.210000000000946, %1.0022420000000003
+2023-02-08 14:48:05,738 - simulator:82 - INFO - [2019-01-23 00:00:00] Current holdings: [[WDR quantity:7; profit:0.98]]
+2023-02-08 14:48:05,753 - simulator:117 - INFO - [2019-01-23 00:00:00] 3 interesting insider trades
+2023-02-08 14:48:05,754 - simulator:124 - INFO - [2019-01-23 00:00:00] 3 unique tickers
+2023-02-08 14:48:15,833 - simulator:81 - INFO - [2019-01-24 00:00:00] Current P/L: $11.56000000000131, %1.0023120000000003
+2023-02-08 14:48:15,835 - simulator:82 - INFO - [2019-01-24 00:00:00] Current holdings: [[WDR quantity:7; profit:0.98]]
+2023-02-08 14:48:15,849 - simulator:117 - INFO - [2019-01-24 00:00:00] 12 interesting insider trades
+2023-02-08 14:48:15,852 - simulator:124 - INFO - [2019-01-24 00:00:00] 5 unique tickers
+2023-02-08 14:48:22,409 - simulator:146 - INFO - [2019-01-24 00:00:00] buying TCF for 21.49. Total: 85.96
+2023-02-08 14:48:29,057 - simulator:146 - INFO - [2019-01-24 00:00:00] buying UUUU for 2.72. Total: 97.92
+2023-02-08 14:48:29,070 - simulator:81 - INFO - [2019-01-25 00:00:00] Current P/L: $19.88000000000102, %1.0039760000000002
+2023-02-08 14:48:29,072 - simulator:82 - INFO - [2019-01-25 00:00:00] Current holdings: [[WDR quantity:7; profit:0.99][TCF quantity:4; profit:1.0][UUUU quantity:36; profit:1.07]]
+2023-02-08 14:48:29,075 - simulator:99 - INFO - [2019-01-25 00:00:00] TARGET REACHED Selling asset [UUUU] for $104.76. Profit: 1.0698529411764706. Days Held: 1
+2023-02-08 14:48:29,094 - simulator:117 - INFO - [2019-01-25 00:00:00] 0 interesting insider trades
+2023-02-08 14:48:29,094 - simulator:61 - INFO - [2019-01-26 00:00:00] Skipping weekend
+2023-02-08 14:48:29,094 - simulator:61 - INFO - [2019-01-27 00:00:00] Skipping weekend
+2023-02-08 14:48:29,103 - simulator:81 - INFO - [2019-01-28 00:00:00] Current P/L: $24.090000000001055, %1.0048180000000002
+2023-02-08 14:48:29,106 - simulator:82 - INFO - [2019-01-28 00:00:00] Current holdings: [[WDR quantity:7; profit:0.99][TCF quantity:4; profit:1.06]]
+2023-02-08 14:48:29,111 - simulator:99 - INFO - [2019-01-28 00:00:00] TARGET REACHED Selling asset [TCF] for $90.88. Profit: 1.0572359236854352. Days Held: 4
+2023-02-08 14:48:29,122 - simulator:117 - INFO - [2019-01-28 00:00:00] 2 interesting insider trades
+2023-02-08 14:48:29,122 - simulator:124 - INFO - [2019-01-28 00:00:00] 1 unique tickers
+2023-02-08 14:48:32,465 - simulator:146 - INFO - [2019-01-28 00:00:00] buying YUM for 92.59. Total: 462.95000000000005
+2023-02-08 14:48:32,477 - simulator:81 - INFO - [2019-01-29 00:00:00] Current P/L: $22.460000000001855, %1.0044920000000004
+2023-02-08 14:48:32,478 - simulator:82 - INFO - [2019-01-29 00:00:00] Current holdings: [[WDR quantity:7; profit:0.97][YUM quantity:5; profit:1.0]]
+2023-02-08 14:48:32,500 - simulator:117 - INFO - [2019-01-29 00:00:00] 14 interesting insider trades
+2023-02-08 14:48:32,500 - simulator:124 - INFO - [2019-01-29 00:00:00] 3 unique tickers
+2023-02-08 14:48:35,869 - simulator:146 - INFO - [2019-01-29 00:00:00] buying GPMT for 19.31. Total: 154.48
+2023-02-08 14:48:42,663 - simulator:81 - INFO - [2019-01-30 00:00:00] Current P/L: $23.980000000001382, %1.0047960000000002
+2023-02-08 14:48:42,666 - simulator:82 - INFO - [2019-01-30 00:00:00] Current holdings: [[WDR quantity:7; profit:0.95][YUM quantity:5; profit:1.01][GPMT quantity:8; profit:1.0]]
+2023-02-08 14:48:42,684 - simulator:117 - INFO - [2019-01-30 00:00:00] 4 interesting insider trades
+2023-02-08 14:48:42,684 - simulator:124 - INFO - [2019-01-30 00:00:00] 1 unique tickers

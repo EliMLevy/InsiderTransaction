@@ -1,0 +1,44 @@
+Streamline dataset download and extraction
+- Auto download from EDGAR
+- Auto unzip to correct directory.
+-------
+- Manually download zip files and move them into an extraction directory
+- script will unzip every file in extraction dir into a dir for each zipfile
+- Print out a json string of the filenames to be used in the main script
+
+
+*****DONE***********
+
+Streamline parameter construction
+- There should be one file for the parameters 
+- threshold, stop loss, expiration, etc.
+- Start and end date
+- important source files
+---------
+- The parameters will exist in a JSON file
+- The main script will begin by reading the parameters
+- Parameters: start_date, end_date, transaction_files, minimum_transaction_value,
+filtered_transactions_output_file, cached_ticker_data_dir, valid_trade_days_file,
+fragment_size (0<x<1), loss_stop (0<x<1), profit_target (1<x), expiration, 
+starting_cash, simlation_output_file (csv), simlation_output_graph (png)
+
+Output CSV and graph
+- add graph construction to pipeline
+
+
+
+-------------
+WORKFLOW:
+- Download datasets from EDGAR and place them in extraction dir
+- run the extraction script and copy the output dirs to the params file
+- In price_lookup script, set the start date and output dir 
+- run the price_lookup to get valid trade days
+- use the path to the outputted file in "valid trade_days" param
+- Set all other params
+
+
+
+-------------------
+Multi year simulation
+- Pass in all the directories for the EDGAR datasets
+- pre load all years for the valid trades ticker by manually running the price lookup script for each year (unless its already computed)

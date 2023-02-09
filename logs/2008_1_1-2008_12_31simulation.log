@@ -1,0 +1,1381 @@
+2023-01-24 14:24:51,348 - simulator:72 - INFO - [2008-01-01 00:00:00] Skipping invalid trade day
+2023-01-24 14:24:51,349 - simulator:76 - INFO - [2008-01-02 00:00:00] found in trade days 253. True. False. 144.92999267578125
+2023-01-24 14:24:51,350 - simulator:82 - INFO - [2008-01-02 00:00:00] Current P/L: $0, %1.0
+2023-01-24 14:24:51,351 - simulator:83 - INFO - [2008-01-02 00:00:00] Current holdings: []
+2023-01-24 14:24:51,354 - simulator:118 - INFO - [2008-01-02 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:51,355 - simulator:76 - INFO - [2008-01-03 00:00:00] found in trade days 253. True. False. 144.86000061035156
+2023-01-24 14:24:51,356 - simulator:82 - INFO - [2008-01-03 00:00:00] Current P/L: $0, %1.0
+2023-01-24 14:24:51,356 - simulator:83 - INFO - [2008-01-03 00:00:00] Current holdings: []
+2023-01-24 14:24:51,362 - simulator:118 - INFO - [2008-01-03 00:00:00] 5 interesting insider trades
+2023-01-24 14:24:51,362 - simulator:125 - INFO - [2008-01-03 00:00:00] 3 unique tickers
+2023-01-24 14:24:51,365 - simulator:147 - INFO - [2008-01-03 00:00:00] buying HST for 16.348506927490234. Total: 163.48506927490234
+2023-01-24 14:24:51,369 - simulator:147 - INFO - [2008-01-03 00:00:00] buying ROCK for 14.9399995803833. Total: 164.3399953842163
+2023-01-24 14:24:51,370 - simulator:76 - INFO - [2008-01-04 00:00:00] found in trade days 253. True. False. 141.30999755859375
+2023-01-24 14:24:51,376 - simulator:82 - INFO - [2008-01-04 00:00:00] Current P/L: $-20.809489250183105, %0.9958381021499634
+2023-01-24 14:24:51,379 - simulator:83 - INFO - [2008-01-04 00:00:00] Current holdings: [[HST quantity:10; profit:0.96][ROCK quantity:11; profit:0.91]]
+2023-01-24 14:24:51,395 - simulator:118 - INFO - [2008-01-04 00:00:00] 4 interesting insider trades
+2023-01-24 14:24:51,397 - simulator:125 - INFO - [2008-01-04 00:00:00] 1 unique tickers
+2023-01-24 14:24:51,401 - simulator:138 - INFO - [2008-01-04 00:00:00] failed to get price for ATMI
+2023-01-24 14:24:51,401 - simulator:62 - INFO - [2008-01-05 00:00:00] Skipping weekend
+2023-01-24 14:24:51,401 - simulator:62 - INFO - [2008-01-06 00:00:00] Skipping weekend
+2023-01-24 14:24:51,403 - simulator:76 - INFO - [2008-01-07 00:00:00] found in trade days 253. True. False. 141.19000244140625
+2023-01-24 14:24:51,407 - simulator:82 - INFO - [2008-01-07 00:00:00] Current P/L: $-24.78161334991455, %0.9950436773300171
+2023-01-24 14:24:51,408 - simulator:83 - INFO - [2008-01-07 00:00:00] Current holdings: [[HST quantity:10; profit:0.96][ROCK quantity:11; profit:0.89]]
+2023-01-24 14:24:51,421 - simulator:118 - INFO - [2008-01-07 00:00:00] 1 interesting insider trades
+2023-01-24 14:24:51,422 - simulator:125 - INFO - [2008-01-07 00:00:00] 1 unique tickers
+2023-01-24 14:24:51,425 - simulator:76 - INFO - [2008-01-08 00:00:00] found in trade days 253. True. False. 138.91000366210938
+2023-01-24 14:24:51,432 - simulator:82 - INFO - [2008-01-08 00:00:00] Current P/L: $-36.47214889526367, %0.9927055702209473
+2023-01-24 14:24:51,433 - simulator:83 - INFO - [2008-01-08 00:00:00] Current holdings: [[HST quantity:10; profit:0.93][ROCK quantity:11; profit:0.85]]
+2023-01-24 14:24:51,435 - simulator:96 - INFO - [2008-01-08 00:00:00] STOP LOSS Selling asset [ROCK] for $138.9300012588501. Profit: 0.8453815575085099. Days Held: 5
+2023-01-24 14:24:51,442 - simulator:118 - INFO - [2008-01-08 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:51,443 - simulator:76 - INFO - [2008-01-09 00:00:00] found in trade days 253. True. False. 140.3699951171875
+2023-01-24 14:24:51,448 - simulator:82 - INFO - [2008-01-09 00:00:00] Current P/L: $-29.2279052734375, %0.9941544189453125
+2023-01-24 14:24:51,449 - simulator:83 - INFO - [2008-01-09 00:00:00] Current holdings: [[HST quantity:10; profit:0.98]]
+2023-01-24 14:24:51,455 - simulator:118 - INFO - [2008-01-09 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:51,456 - simulator:76 - INFO - [2008-01-10 00:00:00] found in trade days 253. True. False. 141.2899932861328
+2023-01-24 14:24:51,459 - simulator:82 - INFO - [2008-01-10 00:00:00] Current P/L: $-22.864713668823242, %0.9954270572662354
+2023-01-24 14:24:51,463 - simulator:83 - INFO - [2008-01-10 00:00:00] Current holdings: [[HST quantity:10; profit:1.02]]
+2023-01-24 14:24:51,470 - simulator:118 - INFO - [2008-01-10 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:51,471 - simulator:76 - INFO - [2008-01-11 00:00:00] found in trade days 253. True. False. 140.14999389648438
+2023-01-24 14:24:51,473 - simulator:82 - INFO - [2008-01-11 00:00:00] Current P/L: $-25.605783462524414, %0.9948788433074951
+2023-01-24 14:24:51,475 - simulator:83 - INFO - [2008-01-11 00:00:00] Current holdings: [[HST quantity:10; profit:1.0]]
+2023-01-24 14:24:51,490 - simulator:118 - INFO - [2008-01-11 00:00:00] 3 interesting insider trades
+2023-01-24 14:24:51,491 - simulator:125 - INFO - [2008-01-11 00:00:00] 2 unique tickers
+2023-01-24 14:24:51,497 - simulator:62 - INFO - [2008-01-12 00:00:00] Skipping weekend
+2023-01-24 14:24:51,497 - simulator:62 - INFO - [2008-01-13 00:00:00] Skipping weekend
+2023-01-24 14:24:51,498 - simulator:76 - INFO - [2008-01-14 00:00:00] found in trade days 253. True. False. 141.27999877929688
+2023-01-24 14:24:51,501 - simulator:82 - INFO - [2008-01-14 00:00:00] Current P/L: $-24.137353897094727, %0.9951725292205811
+2023-01-24 14:24:51,502 - simulator:83 - INFO - [2008-01-14 00:00:00] Current holdings: [[HST quantity:10; profit:1.01]]
+2023-01-24 14:24:51,508 - simulator:118 - INFO - [2008-01-14 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:51,509 - simulator:76 - INFO - [2008-01-15 00:00:00] found in trade days 253. True. False. 138.1699981689453
+2023-01-24 14:24:51,514 - simulator:82 - INFO - [2008-01-15 00:00:00] Current P/L: $-31.283702850341797, %0.9937432594299317
+2023-01-24 14:24:51,516 - simulator:83 - INFO - [2008-01-15 00:00:00] Current holdings: [[HST quantity:10; profit:0.96]]
+2023-01-24 14:24:51,525 - simulator:118 - INFO - [2008-01-15 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:51,527 - simulator:76 - INFO - [2008-01-16 00:00:00] found in trade days 253. True. False. 136.97999572753906
+2023-01-24 14:24:51,534 - simulator:82 - INFO - [2008-01-16 00:00:00] Current P/L: $-29.032115936279297, %0.9941935768127441
+2023-01-24 14:24:51,535 - simulator:83 - INFO - [2008-01-16 00:00:00] Current holdings: [[HST quantity:10; profit:0.98]]
+2023-01-24 14:24:51,542 - simulator:118 - INFO - [2008-01-16 00:00:00] 2 interesting insider trades
+2023-01-24 14:24:51,542 - simulator:125 - INFO - [2008-01-16 00:00:00] 1 unique tickers
+2023-01-24 14:24:51,548 - simulator:147 - INFO - [2008-01-16 00:00:00] buying NOC for 72.26193237304688. Total: 433.57159423828125
+2023-01-24 14:24:51,550 - simulator:76 - INFO - [2008-01-17 00:00:00] found in trade days 253. True. False. 133.42999267578125
+2023-01-24 14:24:51,555 - simulator:82 - INFO - [2008-01-17 00:00:00] Current P/L: $-41.58102798461914, %0.9916837944030762
+2023-01-24 14:24:51,557 - simulator:83 - INFO - [2008-01-17 00:00:00] Current holdings: [[HST quantity:10; profit:0.95][NOC quantity:6; profit:0.98]]
+2023-01-24 14:24:51,572 - simulator:118 - INFO - [2008-01-17 00:00:00] 2 interesting insider trades
+2023-01-24 14:24:51,572 - simulator:125 - INFO - [2008-01-17 00:00:00] 1 unique tickers
+2023-01-24 14:24:51,574 - simulator:138 - INFO - [2008-01-17 00:00:00] failed to get price for CNB
+2023-01-24 14:24:51,577 - simulator:76 - INFO - [2008-01-18 00:00:00] found in trade days 253. True. False. 132.05999755859375
+2023-01-24 14:24:51,586 - simulator:82 - INFO - [2008-01-18 00:00:00] Current P/L: $-44.07210922241211, %0.9911855781555176
+2023-01-24 14:24:51,588 - simulator:83 - INFO - [2008-01-18 00:00:00] Current holdings: [[HST quantity:10; profit:0.93][NOC quantity:6; profit:0.98]]
+2023-01-24 14:24:51,602 - simulator:118 - INFO - [2008-01-18 00:00:00] 1 interesting insider trades
+2023-01-24 14:24:51,602 - simulator:125 - INFO - [2008-01-18 00:00:00] 1 unique tickers
+2023-01-24 14:24:51,605 - simulator:147 - INFO - [2008-01-18 00:00:00] buying USB for 30.190000534057617. Total: 483.0400085449219
+2023-01-24 14:24:51,606 - simulator:62 - INFO - [2008-01-19 00:00:00] Skipping weekend
+2023-01-24 14:24:51,606 - simulator:62 - INFO - [2008-01-20 00:00:00] Skipping weekend
+2023-01-24 14:24:51,606 - simulator:72 - INFO - [2008-01-21 00:00:00] Skipping invalid trade day
+2023-01-24 14:24:51,607 - simulator:76 - INFO - [2008-01-22 00:00:00] found in trade days 253. True. False. 130.72000122070312
+2023-01-24 14:24:51,616 - simulator:82 - INFO - [2008-01-22 00:00:00] Current P/L: $-33.520463943481445, %0.9932959072113037
+2023-01-24 14:24:51,618 - simulator:83 - INFO - [2008-01-22 00:00:00] Current holdings: [[HST quantity:10; profit:0.96][NOC quantity:6; profit:0.98][USB quantity:16; profit:1.02]]
+2023-01-24 14:24:51,638 - simulator:118 - INFO - [2008-01-22 00:00:00] 15 interesting insider trades
+2023-01-24 14:24:51,639 - simulator:125 - INFO - [2008-01-22 00:00:00] 1 unique tickers
+2023-01-24 14:24:51,648 - simulator:76 - INFO - [2008-01-23 00:00:00] found in trade days 253. True. False. 133.86000061035156
+2023-01-24 14:24:51,654 - simulator:82 - INFO - [2008-01-23 00:00:00] Current P/L: $12.701723098754883, %1.002540344619751
+2023-01-24 14:24:51,655 - simulator:83 - INFO - [2008-01-23 00:00:00] Current holdings: [[HST quantity:10; profit:1.04][NOC quantity:6; profit:0.98][USB quantity:16; profit:1.08]]
+2023-01-24 14:24:51,658 - simulator:100 - INFO - [2008-01-23 00:00:00] TARGET REACHED Selling asset [USB] for $523.2000122070312. Profit: 1.0831401187307128. Days Held: 5
+2023-01-24 14:24:51,675 - simulator:118 - INFO - [2008-01-23 00:00:00] 1 interesting insider trades
+2023-01-24 14:24:51,675 - simulator:125 - INFO - [2008-01-23 00:00:00] 1 unique tickers
+2023-01-24 14:24:51,683 - simulator:76 - INFO - [2008-01-24 00:00:00] found in trade days 253. True. False. 134.99000549316406
+2023-01-24 14:24:51,687 - simulator:82 - INFO - [2008-01-24 00:00:00] Current P/L: $4.015405654907227, %1.0008030811309814
+2023-01-24 14:24:51,688 - simulator:83 - INFO - [2008-01-24 00:00:00] Current holdings: [[HST quantity:10; profit:1.02][NOC quantity:6; profit:0.97]]
+2023-01-24 14:24:51,700 - simulator:118 - INFO - [2008-01-24 00:00:00] 2 interesting insider trades
+2023-01-24 14:24:51,701 - simulator:125 - INFO - [2008-01-24 00:00:00] 1 unique tickers
+2023-01-24 14:24:51,703 - simulator:138 - INFO - [2008-01-24 00:00:00] failed to get price for RGA
+2023-01-24 14:24:51,704 - simulator:76 - INFO - [2008-01-25 00:00:00] found in trade days 253. True. False. 133.0399932861328
+2023-01-24 14:24:51,709 - simulator:82 - INFO - [2008-01-25 00:00:00] Current P/L: $-0.89044189453125, %0.9998219116210938
+2023-01-24 14:24:51,713 - simulator:83 - INFO - [2008-01-25 00:00:00] Current holdings: [[HST quantity:10; profit:0.97][NOC quantity:6; profit:0.98]]
+2023-01-24 14:24:51,724 - simulator:118 - INFO - [2008-01-25 00:00:00] 1 interesting insider trades
+2023-01-24 14:24:51,724 - simulator:125 - INFO - [2008-01-25 00:00:00] 1 unique tickers
+2023-01-24 14:24:51,730 - simulator:138 - INFO - [2008-01-25 00:00:00] failed to get price for BHI
+2023-01-24 14:24:51,730 - simulator:62 - INFO - [2008-01-26 00:00:00] Skipping weekend
+2023-01-24 14:24:51,730 - simulator:62 - INFO - [2008-01-27 00:00:00] Skipping weekend
+2023-01-24 14:24:51,731 - simulator:76 - INFO - [2008-01-28 00:00:00] found in trade days 253. True. False. 135.24000549316406
+2023-01-24 14:24:51,736 - simulator:82 - INFO - [2008-01-28 00:00:00] Current P/L: $6.915349960327148, %1.0013830699920654
+2023-01-24 14:24:51,737 - simulator:83 - INFO - [2008-01-28 00:00:00] Current holdings: [[HST quantity:10; profit:1.01][NOC quantity:6; profit:0.98]]
+2023-01-24 14:24:51,754 - simulator:118 - INFO - [2008-01-28 00:00:00] 2 interesting insider trades
+2023-01-24 14:24:51,754 - simulator:125 - INFO - [2008-01-28 00:00:00] 1 unique tickers
+2023-01-24 14:24:51,757 - simulator:138 - INFO - [2008-01-28 00:00:00] failed to get price for POM
+2023-01-24 14:24:51,759 - simulator:76 - INFO - [2008-01-29 00:00:00] found in trade days 253. True. False. 135.91000366210938
+2023-01-24 14:24:51,768 - simulator:82 - INFO - [2008-01-29 00:00:00] Current P/L: $11.446348190307617, %1.0022892696380614
+2023-01-24 14:24:51,769 - simulator:83 - INFO - [2008-01-29 00:00:00] Current holdings: [[HST quantity:10; profit:1.01][NOC quantity:6; profit:0.99]]
+2023-01-24 14:24:51,784 - simulator:118 - INFO - [2008-01-29 00:00:00] 21 interesting insider trades
+2023-01-24 14:24:51,785 - simulator:125 - INFO - [2008-01-29 00:00:00] 3 unique tickers
+2023-01-24 14:24:51,791 - simulator:147 - INFO - [2008-01-29 00:00:00] buying CSX for 5.301111221313477. Total: 164.33444786071777
+2023-01-24 14:24:51,800 - simulator:76 - INFO - [2008-01-30 00:00:00] found in trade days 253. True. False. 134.91000366210938
+2023-01-24 14:24:51,806 - simulator:82 - INFO - [2008-01-30 00:00:00] Current P/L: $17.16373300552368, %1.0034327466011048
+2023-01-24 14:24:51,807 - simulator:83 - INFO - [2008-01-30 00:00:00] Current holdings: [[HST quantity:10; profit:0.98][NOC quantity:6; profit:1.01][CSX quantity:31; profit:1.0]]
+2023-01-24 14:24:51,831 - simulator:118 - INFO - [2008-01-30 00:00:00] 7 interesting insider trades
+2023-01-24 14:24:51,832 - simulator:125 - INFO - [2008-01-30 00:00:00] 2 unique tickers
+2023-01-24 14:24:51,835 - simulator:138 - INFO - [2008-01-30 00:00:00] failed to get price for HET
+2023-01-24 14:24:51,839 - simulator:147 - INFO - [2008-01-30 00:00:00] buying ABK for 1.0110100507736206. Total: 250.7304925918579
+2023-01-24 14:24:51,841 - simulator:76 - INFO - [2008-01-31 00:00:00] found in trade days 253. True. False. 137.3699951171875
+2023-01-24 14:24:51,855 - simulator:82 - INFO - [2008-01-31 00:00:00] Current P/L: $14.26598834991455, %1.0028531976699828
+2023-01-24 14:24:51,858 - simulator:83 - INFO - [2008-01-31 00:00:00] Current holdings: [[HST quantity:10; profit:1.0][NOC quantity:6; profit:0.99][CSX quantity:31; profit:1.02][ABK quantity:248; profit:1.0]]
+2023-01-24 14:24:51,878 - simulator:118 - INFO - [2008-01-31 00:00:00] 5 interesting insider trades
+2023-01-24 14:24:51,879 - simulator:125 - INFO - [2008-01-31 00:00:00] 2 unique tickers
+2023-01-24 14:24:51,891 - simulator:147 - INFO - [2008-01-31 00:00:00] buying ABK for 1.0110100507736206. Total: 249.7194825410843
+2023-01-24 14:24:51,892 - simulator:76 - INFO - [2008-02-01 00:00:00] found in trade days 253. True. False. 139.5800018310547
+2023-01-24 14:24:51,903 - simulator:82 - INFO - [2008-02-01 00:00:00] Current P/L: $30.78507709503174, %1.0061570154190063
+2023-01-24 14:24:51,906 - simulator:83 - INFO - [2008-02-01 00:00:00] Current holdings: [[HST quantity:10; profit:1.03][NOC quantity:6; profit:1.01][CSX quantity:31; profit:1.05][ABK quantity:248; profit:1.0][ABK quantity:247; profit:1.0]]
+2023-01-24 14:24:51,935 - simulator:118 - INFO - [2008-02-01 00:00:00] 2 interesting insider trades
+2023-01-24 14:24:51,936 - simulator:125 - INFO - [2008-02-01 00:00:00] 1 unique tickers
+2023-01-24 14:24:51,941 - simulator:138 - INFO - [2008-02-01 00:00:00] failed to get price for TSO
+2023-01-24 14:24:51,941 - simulator:62 - INFO - [2008-02-02 00:00:00] Skipping weekend
+2023-01-24 14:24:51,941 - simulator:62 - INFO - [2008-02-03 00:00:00] Skipping weekend
+2023-01-24 14:24:51,943 - simulator:76 - INFO - [2008-02-04 00:00:00] found in trade days 253. True. False. 137.82000732421875
+2023-01-24 14:24:51,955 - simulator:82 - INFO - [2008-02-04 00:00:00] Current P/L: $30.21317481994629, %1.0060426349639893
+2023-01-24 14:24:51,958 - simulator:83 - INFO - [2008-02-04 00:00:00] Current holdings: [[HST quantity:10; profit:1.03][NOC quantity:6; profit:1.01][CSX quantity:31; profit:1.03][ABK quantity:248; profit:1.0][ABK quantity:247; profit:1.0]]
+2023-01-24 14:24:51,988 - simulator:118 - INFO - [2008-02-04 00:00:00] 3 interesting insider trades
+2023-01-24 14:24:51,988 - simulator:125 - INFO - [2008-02-04 00:00:00] 1 unique tickers
+2023-01-24 14:24:51,994 - simulator:138 - INFO - [2008-02-04 00:00:00] failed to get price for NITE
+2023-01-24 14:24:51,997 - simulator:76 - INFO - [2008-02-05 00:00:00] found in trade days 253. True. False. 134.1300048828125
+2023-01-24 14:24:52,009 - simulator:82 - INFO - [2008-02-05 00:00:00] Current P/L: $10.711404800415039, %1.002142280960083
+2023-01-24 14:24:52,016 - simulator:83 - INFO - [2008-02-05 00:00:00] Current holdings: [[HST quantity:10; profit:1.02][NOC quantity:6; profit:0.99][CSX quantity:31; profit:0.99][ABK quantity:248; profit:1.0][ABK quantity:247; profit:1.0]]
+2023-01-24 14:24:52,042 - simulator:118 - INFO - [2008-02-05 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:52,044 - simulator:76 - INFO - [2008-02-06 00:00:00] found in trade days 253. True. False. 133.0500030517578
+2023-01-24 14:24:52,056 - simulator:82 - INFO - [2008-02-06 00:00:00] Current P/L: $2.685000419616699, %1.0005370000839233
+2023-01-24 14:24:52,059 - simulator:83 - INFO - [2008-02-06 00:00:00] Current holdings: [[HST quantity:10; profit:1.0][NOC quantity:6; profit:0.97][CSX quantity:31; profit:1.0][ABK quantity:248; profit:1.0][ABK quantity:247; profit:1.0]]
+2023-01-24 14:24:52,082 - simulator:118 - INFO - [2008-02-06 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:52,083 - simulator:76 - INFO - [2008-02-07 00:00:00] found in trade days 253. True. False. 133.92999267578125
+2023-01-24 14:24:52,099 - simulator:82 - INFO - [2008-02-07 00:00:00] Current P/L: $7.378538489341736, %1.0014757076978684
+2023-01-24 14:24:52,102 - simulator:83 - INFO - [2008-02-07 00:00:00] Current holdings: [[HST quantity:10; profit:1.04][NOC quantity:6; profit:0.99][CSX quantity:31; profit:0.99][ABK quantity:248; profit:0.98][ABK quantity:247; profit:0.98]]
+2023-01-24 14:24:52,124 - simulator:118 - INFO - [2008-02-07 00:00:00] 2 interesting insider trades
+2023-01-24 14:24:52,124 - simulator:125 - INFO - [2008-02-07 00:00:00] 1 unique tickers
+2023-01-24 14:24:52,134 - simulator:147 - INFO - [2008-02-07 00:00:00] buying VFC for 18.818267822265625. Total: 489.27496337890625
+2023-01-24 14:24:52,135 - simulator:76 - INFO - [2008-02-08 00:00:00] found in trade days 253. True. False. 133.07000732421875
+2023-01-24 14:24:52,149 - simulator:82 - INFO - [2008-02-08 00:00:00] Current P/L: $2.9372881650924683, %1.0005874576330185
+2023-01-24 14:24:52,152 - simulator:83 - INFO - [2008-02-08 00:00:00] Current holdings: [[HST quantity:10; profit:1.01][NOC quantity:6; profit:0.99][CSX quantity:31; profit:1.01][ABK quantity:248; profit:0.98][ABK quantity:247; profit:0.98][VFC quantity:26; profit:1.0]]
+2023-01-24 14:24:52,175 - simulator:118 - INFO - [2008-02-08 00:00:00] 6 interesting insider trades
+2023-01-24 14:24:52,175 - simulator:125 - INFO - [2008-02-08 00:00:00] 2 unique tickers
+2023-01-24 14:24:52,183 - simulator:138 - INFO - [2008-02-08 00:00:00] failed to get price for WIN
+2023-01-24 14:24:52,190 - simulator:147 - INFO - [2008-02-08 00:00:00] buying PHM for 14.489999771118164. Total: 246.3299961090088
+2023-01-24 14:24:52,191 - simulator:62 - INFO - [2008-02-09 00:00:00] Skipping weekend
+2023-01-24 14:24:52,191 - simulator:62 - INFO - [2008-02-10 00:00:00] Skipping weekend
+2023-01-24 14:24:52,192 - simulator:76 - INFO - [2008-02-11 00:00:00] found in trade days 253. True. False. 133.75
+2023-01-24 14:24:52,212 - simulator:82 - INFO - [2008-02-11 00:00:00] Current P/L: $20.07247006893158, %1.0040144940137863
+2023-01-24 14:24:52,217 - simulator:83 - INFO - [2008-02-11 00:00:00] Current holdings: [[HST quantity:10; profit:0.99][NOC quantity:6; profit:0.99][CSX quantity:31; profit:1.02][ABK quantity:248; profit:0.98][ABK quantity:247; profit:0.98][VFC quantity:26; profit:1.02][PHM quantity:17; profit:1.02]]
+2023-01-24 14:24:52,251 - simulator:118 - INFO - [2008-02-11 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:52,253 - simulator:76 - INFO - [2008-02-12 00:00:00] found in trade days 253. True. False. 134.99000549316406
+2023-01-24 14:24:52,267 - simulator:82 - INFO - [2008-02-12 00:00:00] Current P/L: $21.72261369228363, %1.0043445227384566
+2023-01-24 14:24:52,271 - simulator:83 - INFO - [2008-02-12 00:00:00] Current holdings: [[HST quantity:10; profit:1.04][NOC quantity:6; profit:0.99][CSX quantity:31; profit:1.02][ABK quantity:248; profit:0.98][ABK quantity:247; profit:0.98][VFC quantity:26; profit:1.02][PHM quantity:17; profit:0.98]]
+2023-01-24 14:24:52,302 - simulator:118 - INFO - [2008-02-12 00:00:00] 1 interesting insider trades
+2023-01-24 14:24:52,302 - simulator:125 - INFO - [2008-02-12 00:00:00] 1 unique tickers
+2023-01-24 14:24:52,316 - simulator:138 - INFO - [2008-02-12 00:00:00] failed to get price for STR
+2023-01-24 14:24:52,318 - simulator:76 - INFO - [2008-02-13 00:00:00] found in trade days 253. True. False. 136.3699951171875
+2023-01-24 14:24:52,338 - simulator:82 - INFO - [2008-02-13 00:00:00] Current P/L: $38.666903376579285, %1.007733380675316
+2023-01-24 14:24:52,343 - simulator:83 - INFO - [2008-02-13 00:00:00] Current holdings: [[HST quantity:10; profit:1.03][NOC quantity:6; profit:1.0][CSX quantity:31; profit:1.05][ABK quantity:248; profit:0.98][ABK quantity:247; profit:0.98][VFC quantity:26; profit:1.03][PHM quantity:17; profit:1.02]]
+2023-01-24 14:24:52,371 - simulator:118 - INFO - [2008-02-13 00:00:00] 7 interesting insider trades
+2023-01-24 14:24:52,372 - simulator:125 - INFO - [2008-02-13 00:00:00] 4 unique tickers
+2023-01-24 14:24:52,381 - simulator:138 - INFO - [2008-02-13 00:00:00] failed to get price for NWMO
+2023-01-24 14:24:52,388 - simulator:138 - INFO - [2008-02-13 00:00:00] failed to get price for STR
+2023-01-24 14:24:52,399 - simulator:147 - INFO - [2008-02-13 00:00:00] buying IP for 31.28548812866211. Total: 125.14195251464844
+2023-01-24 14:24:52,414 - simulator:138 - INFO - [2008-02-13 00:00:00] failed to get price for SFY
+2023-01-24 14:24:52,415 - simulator:76 - INFO - [2008-02-14 00:00:00] found in trade days 253. True. False. 135.1699981689453
+2023-01-24 14:24:52,433 - simulator:82 - INFO - [2008-02-14 00:00:00] Current P/L: $7.002920031547546, %1.0014005840063096
+2023-01-24 14:24:52,439 - simulator:83 - INFO - [2008-02-14 00:00:00] Current holdings: [[HST quantity:10; profit:1.01][NOC quantity:6; profit:1.0][CSX quantity:31; profit:1.02][ABK quantity:248; profit:0.98][ABK quantity:247; profit:0.98][VFC quantity:26; profit:1.01][PHM quantity:17; profit:0.98][IP quantity:4; profit:0.97]]
+2023-01-24 14:24:52,475 - simulator:118 - INFO - [2008-02-14 00:00:00] 3 interesting insider trades
+2023-01-24 14:24:52,476 - simulator:125 - INFO - [2008-02-14 00:00:00] 3 unique tickers
+2023-01-24 14:24:52,485 - simulator:138 - INFO - [2008-02-14 00:00:00] failed to get price for NSOL
+2023-01-24 14:24:52,495 - simulator:147 - INFO - [2008-02-14 00:00:00] buying NNN for 21.76000022888184. Total: 152.32000160217288
+2023-01-24 14:24:52,504 - simulator:138 - INFO - [2008-02-14 00:00:00] failed to get price for BCR
+2023-01-24 14:24:52,505 - simulator:76 - INFO - [2008-02-15 00:00:00] found in trade days 253. True. False. 135.13999938964844
+2023-01-24 14:24:52,524 - simulator:82 - INFO - [2008-02-15 00:00:00] Current P/L: $-9.632375836372375, %0.9980735248327255
+2023-01-24 14:24:52,534 - simulator:83 - INFO - [2008-02-15 00:00:00] Current holdings: [[HST quantity:10; profit:1.01][NOC quantity:6; profit:1.0][CSX quantity:31; profit:1.02][ABK quantity:248; profit:0.98][ABK quantity:247; profit:0.98][VFC quantity:26; profit:0.99][PHM quantity:17; profit:0.94][IP quantity:4; profit:0.97][NNN quantity:7; profit:1.01]]
+2023-01-24 14:24:52,568 - simulator:118 - INFO - [2008-02-15 00:00:00] 1 interesting insider trades
+2023-01-24 14:24:52,568 - simulator:125 - INFO - [2008-02-15 00:00:00] 1 unique tickers
+2023-01-24 14:24:52,579 - simulator:62 - INFO - [2008-02-16 00:00:00] Skipping weekend
+2023-01-24 14:24:52,579 - simulator:62 - INFO - [2008-02-17 00:00:00] Skipping weekend
+2023-01-24 14:24:52,579 - simulator:72 - INFO - [2008-02-18 00:00:00] Skipping invalid trade day
+2023-01-24 14:24:52,581 - simulator:76 - INFO - [2008-02-19 00:00:00] found in trade days 253. True. False. 135.52000427246094
+2023-01-24 14:24:52,599 - simulator:82 - INFO - [2008-02-19 00:00:00] Current P/L: $-3.3778058290481567, %0.9993244388341904
+2023-01-24 14:24:52,604 - simulator:83 - INFO - [2008-02-19 00:00:00] Current holdings: [[HST quantity:10; profit:1.01][NOC quantity:6; profit:1.01][CSX quantity:31; profit:1.02][ABK quantity:248; profit:0.98][ABK quantity:247; profit:0.98][VFC quantity:26; profit:0.98][PHM quantity:17; profit:0.98][IP quantity:4; profit:0.97][NNN quantity:7; profit:0.99]]
+2023-01-24 14:24:52,640 - simulator:118 - INFO - [2008-02-19 00:00:00] 4 interesting insider trades
+2023-01-24 14:24:52,641 - simulator:125 - INFO - [2008-02-19 00:00:00] 1 unique tickers
+2023-01-24 14:24:52,652 - simulator:138 - INFO - [2008-02-19 00:00:00] failed to get price for COMV
+2023-01-24 14:24:52,653 - simulator:76 - INFO - [2008-02-20 00:00:00] found in trade days 253. True. False. 135.9199981689453
+2023-01-24 14:24:52,672 - simulator:82 - INFO - [2008-02-20 00:00:00] Current P/L: $24.702126383781433, %1.0049404252767562
+2023-01-24 14:24:52,679 - simulator:83 - INFO - [2008-02-20 00:00:00] Current holdings: [[HST quantity:10; profit:0.99][NOC quantity:6; profit:1.01][CSX quantity:31; profit:1.06][ABK quantity:248; profit:0.98][ABK quantity:247; profit:0.98][VFC quantity:26; profit:1.0][PHM quantity:17; profit:1.02][IP quantity:4; profit:0.98][NNN quantity:7; profit:1.01]]
+2023-01-24 14:24:52,681 - simulator:100 - INFO - [2008-02-20 00:00:00] TARGET REACHED Selling asset [CSX] for $174.25443840026855. Profit: 1.0603646445933144. Days Held: 22
+2023-01-24 14:24:52,709 - simulator:118 - INFO - [2008-02-20 00:00:00] 14 interesting insider trades
+2023-01-24 14:24:52,709 - simulator:125 - INFO - [2008-02-20 00:00:00] 1 unique tickers
+2023-01-24 14:24:52,723 - simulator:147 - INFO - [2008-02-20 00:00:00] buying ABT for 26.681678771972656. Total: 480.2702178955078
+2023-01-24 14:24:52,726 - simulator:76 - INFO - [2008-02-21 00:00:00] found in trade days 253. True. False. 134.7899932861328
+2023-01-24 14:24:52,750 - simulator:82 - INFO - [2008-02-21 00:00:00] Current P/L: $-15.342768788337708, %0.9969314462423324
+2023-01-24 14:24:52,755 - simulator:83 - INFO - [2008-02-21 00:00:00] Current holdings: [[HST quantity:10; profit:0.96][NOC quantity:6; profit:0.99][ABK quantity:248; profit:0.98][ABK quantity:247; profit:0.98][VFC quantity:26; profit:0.98][PHM quantity:17; profit:1.0][IP quantity:4; profit:0.97][NNN quantity:7; profit:0.97][ABT quantity:18; profit:0.99]]
+2023-01-24 14:24:52,799 - simulator:118 - INFO - [2008-02-21 00:00:00] 8 interesting insider trades
+2023-01-24 14:24:52,799 - simulator:125 - INFO - [2008-02-21 00:00:00] 2 unique tickers
+2023-01-24 14:24:52,811 - simulator:138 - INFO - [2008-02-21 00:00:00] failed to get price for LZ
+2023-01-24 14:24:52,821 - simulator:138 - INFO - [2008-02-21 00:00:00] failed to get price for WMI
+2023-01-24 14:24:52,822 - simulator:76 - INFO - [2008-02-22 00:00:00] found in trade days 253. True. False. 135.6199951171875
+2023-01-24 14:24:52,844 - simulator:82 - INFO - [2008-02-22 00:00:00] Current P/L: $-11.907004475593567, %0.9976185991048813
+2023-01-24 14:24:52,850 - simulator:83 - INFO - [2008-02-22 00:00:00] Current holdings: [[HST quantity:10; profit:0.98][NOC quantity:6; profit:0.99][ABK quantity:248; profit:0.98][ABK quantity:247; profit:0.98][VFC quantity:26; profit:0.98][PHM quantity:17; profit:1.02][IP quantity:4; profit:0.97][NNN quantity:7; profit:0.98][ABT quantity:18; profit:0.98]]
+2023-01-24 14:24:52,889 - simulator:118 - INFO - [2008-02-22 00:00:00] 6 interesting insider trades
+2023-01-24 14:24:52,890 - simulator:125 - INFO - [2008-02-22 00:00:00] 3 unique tickers
+2023-01-24 14:24:52,915 - simulator:138 - INFO - [2008-02-22 00:00:00] failed to get price for HET
+2023-01-24 14:24:52,924 - simulator:147 - INFO - [2008-02-22 00:00:00] buying FE for 70.4000015258789. Total: 140.8000030517578
+2023-01-24 14:24:52,925 - simulator:62 - INFO - [2008-02-23 00:00:00] Skipping weekend
+2023-01-24 14:24:52,925 - simulator:62 - INFO - [2008-02-24 00:00:00] Skipping weekend
+2023-01-24 14:24:52,926 - simulator:76 - INFO - [2008-02-25 00:00:00] found in trade days 253. True. False. 137.3300018310547
+2023-01-24 14:24:52,948 - simulator:82 - INFO - [2008-02-25 00:00:00] Current P/L: $17.758617281913757, %1.0035517234563827
+2023-01-24 14:24:52,953 - simulator:83 - INFO - [2008-02-25 00:00:00] Current holdings: [[HST quantity:10; profit:1.01][NOC quantity:6; profit:1.0][ABK quantity:248; profit:0.98][ABK quantity:247; profit:0.98][VFC quantity:26; profit:0.98][PHM quantity:17; profit:1.02][IP quantity:4; profit:0.99][NNN quantity:7; profit:1.03][ABT quantity:18; profit:1.0][FE quantity:2; profit:1.01]]
+2023-01-24 14:24:52,994 - simulator:118 - INFO - [2008-02-25 00:00:00] 12 interesting insider trades
+2023-01-24 14:24:52,995 - simulator:125 - INFO - [2008-02-25 00:00:00] 4 unique tickers
+2023-01-24 14:24:53,006 - simulator:138 - INFO - [2008-02-25 00:00:00] failed to get price for AMB
+2023-01-24 14:24:53,017 - simulator:138 - INFO - [2008-02-25 00:00:00] failed to get price for MWE
+2023-01-24 14:24:53,047 - simulator:76 - INFO - [2008-02-26 00:00:00] found in trade days 253. True. False. 138.36000061035156
+2023-01-24 14:24:53,069 - simulator:82 - INFO - [2008-02-26 00:00:00] Current P/L: $41.741308093070984, %1.0083482616186141
+2023-01-24 14:24:53,078 - simulator:83 - INFO - [2008-02-26 00:00:00] Current holdings: [[HST quantity:10; profit:1.01][NOC quantity:6; profit:0.99][ABK quantity:248; profit:0.98][ABK quantity:247; profit:0.98][VFC quantity:26; profit:1.0][PHM quantity:17; profit:1.07][IP quantity:4; profit:0.99][NNN quantity:7; profit:1.06][ABT quantity:18; profit:1.0][FE quantity:2; profit:1.01]]
+2023-01-24 14:24:53,083 - simulator:100 - INFO - [2008-02-26 00:00:00] TARGET REACHED Selling asset [PHM] for $263.3299961090088. Profit: 1.069013113581494. Days Held: 18
+2023-01-24 14:24:53,085 - simulator:100 - INFO - [2008-02-26 00:00:00] TARGET REACHED Selling asset [NNN] for $161.1400032043457. Profit: 1.0579044216741067. Days Held: 12
+2023-01-24 14:24:53,121 - simulator:118 - INFO - [2008-02-26 00:00:00] 8 interesting insider trades
+2023-01-24 14:24:53,121 - simulator:125 - INFO - [2008-02-26 00:00:00] 4 unique tickers
+2023-01-24 14:24:53,131 - simulator:138 - INFO - [2008-02-26 00:00:00] failed to get price for UPL
+2023-01-24 14:24:53,141 - simulator:138 - INFO - [2008-02-26 00:00:00] failed to get price for TRA
+2023-01-24 14:24:53,152 - simulator:147 - INFO - [2008-02-26 00:00:00] buying CLF for 62.47999954223633. Total: 124.95999908447266
+2023-01-24 14:24:53,162 - simulator:138 - INFO - [2008-02-26 00:00:00] failed to get price for COG
+2023-01-24 14:24:53,166 - simulator:76 - INFO - [2008-02-27 00:00:00] found in trade days 253. True. False. 138.22000122070312
+2023-01-24 14:24:53,187 - simulator:82 - INFO - [2008-02-27 00:00:00] Current P/L: $26.209141969680786, %1.0052418283939362
+2023-01-24 14:24:53,192 - simulator:83 - INFO - [2008-02-27 00:00:00] Current holdings: [[HST quantity:10; profit:1.01][NOC quantity:6; profit:1.01][ABK quantity:248; profit:0.97][ABK quantity:247; profit:0.97][VFC quantity:26; profit:1.0][IP quantity:4; profit:0.99][ABT quantity:18; profit:0.98][FE quantity:2; profit:0.99][CLF quantity:2; profit:0.99]]
+2023-01-24 14:24:53,234 - simulator:118 - INFO - [2008-02-27 00:00:00] 7 interesting insider trades
+2023-01-24 14:24:53,235 - simulator:125 - INFO - [2008-02-27 00:00:00] 4 unique tickers
+2023-01-24 14:24:53,256 - simulator:147 - INFO - [2008-02-27 00:00:00] buying DTE for 35.0638313293457. Total: 105.19149398803711
+2023-01-24 14:24:53,282 - simulator:138 - INFO - [2008-02-27 00:00:00] failed to get price for Y
+2023-01-24 14:24:53,283 - simulator:76 - INFO - [2008-02-28 00:00:00] found in trade days 253. True. False. 136.8699951171875
+2023-01-24 14:24:53,305 - simulator:82 - INFO - [2008-02-28 00:00:00] Current P/L: $9.46735692024231, %1.0018934713840484
+2023-01-24 14:24:53,312 - simulator:83 - INFO - [2008-02-28 00:00:00] Current holdings: [[HST quantity:10; profit:0.98][NOC quantity:6; profit:1.0][ABK quantity:248; profit:0.97][ABK quantity:247; profit:0.97][VFC quantity:26; profit:0.98][IP quantity:4; profit:0.97][ABT quantity:18; profit:0.98][FE quantity:2; profit:0.99][CLF quantity:2; profit:1.02][DTE quantity:3; profit:1.0]]
+2023-01-24 14:24:53,353 - simulator:118 - INFO - [2008-02-28 00:00:00] 6 interesting insider trades
+2023-01-24 14:24:53,354 - simulator:125 - INFO - [2008-02-28 00:00:00] 2 unique tickers
+2023-01-24 14:24:53,368 - simulator:147 - INFO - [2008-02-28 00:00:00] buying HIG for 72.62999725341797. Total: 217.8899917602539
+2023-01-24 14:24:53,385 - simulator:147 - INFO - [2008-02-28 00:00:00] buying WST for 21.815000534057617. Total: 239.9650058746338
+2023-01-24 14:24:53,387 - simulator:76 - INFO - [2008-02-29 00:00:00] found in trade days 253. True. False. 133.82000732421875
+2023-01-24 14:24:53,416 - simulator:82 - INFO - [2008-02-29 00:00:00] Current P/L: $-61.387972593307495, %0.9877224054813385
+2023-01-24 14:24:53,424 - simulator:83 - INFO - [2008-02-29 00:00:00] Current holdings: [[HST quantity:10; profit:0.97][NOC quantity:6; profit:0.98][ABK quantity:248; profit:0.97][ABK quantity:247; profit:0.97][VFC quantity:26; profit:0.95][IP quantity:4; profit:0.95][ABT quantity:18; profit:0.96][FE quantity:2; profit:0.96][CLF quantity:2; profit:0.96][DTE quantity:3; profit:0.97][HIG quantity:3; profit:0.96][WST quantity:11; profit:0.95]]
+2023-01-24 14:24:53,473 - simulator:118 - INFO - [2008-02-29 00:00:00] 18 interesting insider trades
+2023-01-24 14:24:53,473 - simulator:125 - INFO - [2008-02-29 00:00:00] 4 unique tickers
+2023-01-24 14:24:53,492 - simulator:147 - INFO - [2008-02-29 00:00:00] buying NOC for 71.02413177490234. Total: 71.02413177490234
+2023-01-24 14:24:53,510 - simulator:138 - INFO - [2008-02-29 00:00:00] failed to get price for TEC
+2023-01-24 14:24:53,523 - simulator:138 - INFO - [2008-02-29 00:00:00] failed to get price for VAL
+2023-01-24 14:24:53,537 - simulator:62 - INFO - [2008-03-01 00:00:00] Skipping weekend
+2023-01-24 14:24:53,537 - simulator:62 - INFO - [2008-03-02 00:00:00] Skipping weekend
+2023-01-24 14:24:53,538 - simulator:76 - INFO - [2008-03-03 00:00:00] found in trade days 253. True. False. 133.5
+2023-01-24 14:24:53,565 - simulator:82 - INFO - [2008-03-03 00:00:00] Current P/L: $-28.76028835773468, %0.994247942328453
+2023-01-24 14:24:53,571 - simulator:83 - INFO - [2008-03-03 00:00:00] Current holdings: [[HST quantity:10; profit:1.01][NOC quantity:6; profit:1.03][NOC quantity:1; profit:1.05][ABK quantity:248; profit:0.98][ABK quantity:247; profit:0.98][VFC quantity:26; profit:0.95][IP quantity:4; profit:0.95][ABT quantity:18; profit:0.96][FE quantity:2; profit:0.96][CLF quantity:2; profit:0.98][DTE quantity:3; profit:0.98][HIG quantity:3; profit:0.95][WST quantity:11; profit:0.93]]
+2023-01-24 14:24:53,573 - simulator:100 - INFO - [2008-03-03 00:00:00] TARGET REACHED Selling asset [NOC] for $74.60199737548828. Profit: 1.0503753514639969. Days Held: 3
+2023-01-24 14:24:53,623 - simulator:118 - INFO - [2008-03-03 00:00:00] 2 interesting insider trades
+2023-01-24 14:24:53,623 - simulator:125 - INFO - [2008-03-03 00:00:00] 2 unique tickers
+2023-01-24 14:24:53,636 - simulator:138 - INFO - [2008-03-03 00:00:00] failed to get price for (MRK)
+2023-01-24 14:24:53,651 - simulator:147 - INFO - [2008-03-03 00:00:00] buying IPG for 8.279999732971191. Total: 248.39999198913574
+2023-01-24 14:24:53,653 - simulator:76 - INFO - [2008-03-04 00:00:00] found in trade days 253. True. False. 132.99000549316406
+2023-01-24 14:24:53,681 - simulator:82 - INFO - [2008-03-04 00:00:00] Current P/L: $-32.79631245136261, %0.9934407375097275
+2023-01-24 14:24:53,691 - simulator:83 - INFO - [2008-03-04 00:00:00] Current holdings: [[HST quantity:10; profit:1.0][NOC quantity:6; profit:1.0][ABK quantity:248; profit:0.98][ABK quantity:247; profit:0.98][VFC quantity:26; profit:0.96][IP quantity:4; profit:0.95][ABT quantity:18; profit:0.96][FE quantity:2; profit:0.99][CLF quantity:2; profit:0.95][DTE quantity:3; profit:0.99][HIG quantity:3; profit:0.96][WST quantity:11; profit:0.93][IPG quantity:30; profit:1.01]]
+2023-01-24 14:24:53,741 - simulator:118 - INFO - [2008-03-04 00:00:00] 6 interesting insider trades
+2023-01-24 14:24:53,742 - simulator:125 - INFO - [2008-03-04 00:00:00] 3 unique tickers
+2023-01-24 14:24:53,783 - simulator:147 - INFO - [2008-03-04 00:00:00] buying MMM for 78.41000366210938. Total: 156.82000732421875
+2023-01-24 14:24:53,784 - simulator:76 - INFO - [2008-03-05 00:00:00] found in trade days 253. True. False. 133.8300018310547
+2023-01-24 14:24:53,810 - simulator:82 - INFO - [2008-03-05 00:00:00] Current P/L: $-30.933953046798706, %0.9938132093906402
+2023-01-24 14:24:53,818 - simulator:83 - INFO - [2008-03-05 00:00:00] Current holdings: [[HST quantity:10; profit:1.01][NOC quantity:6; profit:1.0][ABK quantity:248; profit:0.97][ABK quantity:247; profit:0.97][VFC quantity:26; profit:0.97][IP quantity:4; profit:0.97][ABT quantity:18; profit:0.95][FE quantity:2; profit:1.0][CLF quantity:2; profit:0.98][DTE quantity:3; profit:0.99][HIG quantity:3; profit:0.94][WST quantity:11; profit:0.93][IPG quantity:30; profit:1.01][MMM quantity:2; profit:1.01]]
+2023-01-24 14:24:53,872 - simulator:118 - INFO - [2008-03-05 00:00:00] 1 interesting insider trades
+2023-01-24 14:24:53,873 - simulator:125 - INFO - [2008-03-05 00:00:00] 1 unique tickers
+2023-01-24 14:24:53,891 - simulator:147 - INFO - [2008-03-05 00:00:00] buying SJI for 16.969999313354492. Total: 492.1299800872803
+2023-01-24 14:24:53,897 - simulator:76 - INFO - [2008-03-06 00:00:00] found in trade days 253. True. False. 131.05999755859375
+2023-01-24 14:24:53,928 - simulator:82 - INFO - [2008-03-06 00:00:00] Current P/L: $-113.42289423942566, %0.9773154211521149
+2023-01-24 14:24:53,940 - simulator:83 - INFO - [2008-03-06 00:00:00] Current holdings: [[HST quantity:10; profit:0.97][NOC quantity:6; profit:1.0][ABK quantity:248; profit:0.97][ABK quantity:247; profit:0.97][VFC quantity:26; profit:0.93][IP quantity:4; profit:0.96][ABT quantity:18; profit:0.94][FE quantity:2; profit:0.98][CLF quantity:2; profit:0.94][DTE quantity:3; profit:0.96][HIG quantity:3; profit:0.92][WST quantity:11; profit:0.9][IPG quantity:30; profit:1.0][MMM quantity:2; profit:0.99][SJI quantity:29; profit:0.96]]
+2023-01-24 14:24:54,003 - simulator:118 - INFO - [2008-03-06 00:00:00] 2 interesting insider trades
+2023-01-24 14:24:54,003 - simulator:125 - INFO - [2008-03-06 00:00:00] 2 unique tickers
+2023-01-24 14:24:54,030 - simulator:138 - INFO - [2008-03-06 00:00:00] failed to get price for DELL
+2023-01-24 14:24:54,047 - simulator:138 - INFO - [2008-03-06 00:00:00] failed to get price for SVNT
+2023-01-24 14:24:54,048 - simulator:76 - INFO - [2008-03-07 00:00:00] found in trade days 253. True. False. 129.7100067138672
+2023-01-24 14:24:54,081 - simulator:82 - INFO - [2008-03-07 00:00:00] Current P/L: $-133.73920512199402, %0.9732521589756012
+2023-01-24 14:24:54,089 - simulator:83 - INFO - [2008-03-07 00:00:00] Current holdings: [[HST quantity:10; profit:0.98][NOC quantity:6; profit:0.99][ABK quantity:248; profit:0.97][ABK quantity:247; profit:0.97][VFC quantity:26; profit:0.93][IP quantity:4; profit:0.93][ABT quantity:18; profit:0.92][FE quantity:2; profit:0.97][CLF quantity:2; profit:0.9][DTE quantity:3; profit:0.96][HIG quantity:3; profit:0.92][WST quantity:11; profit:0.91][IPG quantity:30; profit:1.0][MMM quantity:2; profit:0.98][SJI quantity:29; profit:0.96]]
+2023-01-24 14:24:54,159 - simulator:118 - INFO - [2008-03-07 00:00:00] 6 interesting insider trades
+2023-01-24 14:24:54,160 - simulator:125 - INFO - [2008-03-07 00:00:00] 1 unique tickers
+2023-01-24 14:24:54,179 - simulator:62 - INFO - [2008-03-08 00:00:00] Skipping weekend
+2023-01-24 14:24:54,179 - simulator:62 - INFO - [2008-03-09 00:00:00] Skipping weekend
+2023-01-24 14:24:54,181 - simulator:76 - INFO - [2008-03-10 00:00:00] found in trade days 253. True. False. 128.0
+2023-01-24 14:24:54,214 - simulator:82 - INFO - [2008-03-10 00:00:00] Current P/L: $-169.37826919555664, %0.9661243461608887
+2023-01-24 14:24:54,225 - simulator:83 - INFO - [2008-03-10 00:00:00] Current holdings: [[HST quantity:10; profit:0.97][NOC quantity:6; profit:0.98][ABK quantity:248; profit:1.0][ABK quantity:247; profit:1.0][VFC quantity:26; profit:0.9][IP quantity:4; profit:0.92][ABT quantity:18; profit:0.91][FE quantity:2; profit:0.96][CLF quantity:2; profit:0.84][DTE quantity:3; profit:0.96][HIG quantity:3; profit:0.92][WST quantity:11; profit:0.89][IPG quantity:30; profit:0.98][MMM quantity:2; profit:0.96][SJI quantity:29; profit:0.95]]
+2023-01-24 14:24:54,236 - simulator:96 - INFO - [2008-03-10 00:00:00] STOP LOSS Selling asset [CLF] for $105.16999816894531. Profit: 0.8416293128959664. Days Held: 13
+2023-01-24 14:24:54,286 - simulator:118 - INFO - [2008-03-10 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:54,287 - simulator:76 - INFO - [2008-03-11 00:00:00] found in trade days 253. True. False. 132.60000610351562
+2023-01-24 14:24:54,319 - simulator:82 - INFO - [2008-03-11 00:00:00] Current P/L: $-94.64409446716309, %0.9810711811065674
+2023-01-24 14:24:54,326 - simulator:83 - INFO - [2008-03-11 00:00:00] Current holdings: [[HST quantity:10; profit:1.02][NOC quantity:6; profit:1.0][ABK quantity:248; profit:1.0][ABK quantity:247; profit:1.0][VFC quantity:26; profit:0.93][IP quantity:4; profit:0.95][ABT quantity:18; profit:0.91][FE quantity:2; profit:0.99][DTE quantity:3; profit:0.99][HIG quantity:3; profit:0.97][WST quantity:11; profit:0.91][IPG quantity:30; profit:1.0][MMM quantity:2; profit:0.99][SJI quantity:29; profit:0.96]]
+2023-01-24 14:24:54,388 - simulator:118 - INFO - [2008-03-11 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:54,389 - simulator:76 - INFO - [2008-03-12 00:00:00] found in trade days 253. True. False. 131.36000061035156
+2023-01-24 14:24:54,421 - simulator:82 - INFO - [2008-03-12 00:00:00] Current P/L: $-77.68116879463196, %0.9844637662410736
+2023-01-24 14:24:54,431 - simulator:83 - INFO - [2008-03-12 00:00:00] Current holdings: [[HST quantity:10; profit:1.0][NOC quantity:6; profit:0.99][ABK quantity:248; profit:1.02][ABK quantity:247; profit:1.02][VFC quantity:26; profit:0.98][IP quantity:4; profit:0.96][ABT quantity:18; profit:0.92][FE quantity:2; profit:0.98][DTE quantity:3; profit:0.97][HIG quantity:3; profit:0.96][WST quantity:11; profit:0.9][IPG quantity:30; profit:0.99][MMM quantity:2; profit:1.0][SJI quantity:29; profit:0.96]]
+2023-01-24 14:24:54,497 - simulator:118 - INFO - [2008-03-12 00:00:00] 4 interesting insider trades
+2023-01-24 14:24:54,498 - simulator:125 - INFO - [2008-03-12 00:00:00] 1 unique tickers
+2023-01-24 14:24:54,515 - simulator:76 - INFO - [2008-03-13 00:00:00] found in trade days 253. True. False. 131.64999389648438
+2023-01-24 14:24:54,549 - simulator:82 - INFO - [2008-03-13 00:00:00] Current P/L: $-67.28225719928741, %0.9865435485601425
+2023-01-24 14:24:54,556 - simulator:83 - INFO - [2008-03-13 00:00:00] Current holdings: [[HST quantity:10; profit:1.0][NOC quantity:6; profit:0.99][ABK quantity:248; profit:0.98][ABK quantity:247; profit:0.98][VFC quantity:26; profit:0.97][IP quantity:4; profit:0.95][ABT quantity:18; profit:0.94][FE quantity:2; profit:0.97][DTE quantity:3; profit:0.97][HIG quantity:3; profit:0.95][WST quantity:11; profit:0.93][IPG quantity:30; profit:1.0][MMM quantity:2; profit:1.01][SJI quantity:29; profit:0.99]]
+2023-01-24 14:24:54,645 - simulator:118 - INFO - [2008-03-13 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:54,647 - simulator:76 - INFO - [2008-03-14 00:00:00] found in trade days 253. True. False. 129.61000061035156
+2023-01-24 14:24:54,674 - simulator:82 - INFO - [2008-03-14 00:00:00] Current P/L: $-113.37234318256378, %0.9773255313634872
+2023-01-24 14:24:54,682 - simulator:83 - INFO - [2008-03-14 00:00:00] Current holdings: [[HST quantity:10; profit:0.98][NOC quantity:6; profit:0.97][ABK quantity:248; profit:0.98][ABK quantity:247; profit:0.98][VFC quantity:26; profit:0.95][IP quantity:4; profit:0.96][ABT quantity:18; profit:0.92][FE quantity:2; profit:0.96][DTE quantity:3; profit:0.95][HIG quantity:3; profit:0.92][WST quantity:11; profit:0.92][IPG quantity:30; profit:0.98][MMM quantity:2; profit:0.99][SJI quantity:29; profit:0.99]]
+2023-01-24 14:24:54,739 - simulator:118 - INFO - [2008-03-14 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:54,739 - simulator:62 - INFO - [2008-03-15 00:00:00] Skipping weekend
+2023-01-24 14:24:54,740 - simulator:62 - INFO - [2008-03-16 00:00:00] Skipping weekend
+2023-01-24 14:24:54,741 - simulator:76 - INFO - [2008-03-17 00:00:00] found in trade days 253. True. False. 128.3000030517578
+2023-01-24 14:24:54,768 - simulator:82 - INFO - [2008-03-17 00:00:00] Current P/L: $-100.14883422851562, %0.9799702331542969
+2023-01-24 14:24:54,775 - simulator:83 - INFO - [2008-03-17 00:00:00] Current holdings: [[HST quantity:10; profit:0.94][NOC quantity:6; profit:0.99][ABK quantity:248; profit:1.0][ABK quantity:247; profit:1.0][VFC quantity:26; profit:0.96][IP quantity:4; profit:0.88][ABT quantity:18; profit:0.95][FE quantity:2; profit:0.97][DTE quantity:3; profit:0.94][HIG quantity:3; profit:0.91][WST quantity:11; profit:0.91][IPG quantity:30; profit:0.98][MMM quantity:2; profit:1.0][SJI quantity:29; profit:0.99]]
+2023-01-24 14:24:54,837 - simulator:118 - INFO - [2008-03-17 00:00:00] 5 interesting insider trades
+2023-01-24 14:24:54,837 - simulator:125 - INFO - [2008-03-17 00:00:00] 2 unique tickers
+2023-01-24 14:24:54,851 - simulator:147 - INFO - [2008-03-17 00:00:00] buying SEAC for 6.559999942779541. Total: 242.71999788284302
+2023-01-24 14:24:54,868 - simulator:147 - INFO - [2008-03-17 00:00:00] buying VLGEA for 24.280000686645508. Total: 242.80000686645508
+2023-01-24 14:24:54,869 - simulator:76 - INFO - [2008-03-18 00:00:00] found in trade days 253. True. False. 133.6300048828125
+2023-01-24 14:24:54,904 - simulator:82 - INFO - [2008-03-18 00:00:00] Current P/L: $17.60548210144043, %1.003521096420288
+2023-01-24 14:24:54,913 - simulator:83 - INFO - [2008-03-18 00:00:00] Current holdings: [[HST quantity:10; profit:0.98][NOC quantity:6; profit:1.0][ABK quantity:248; profit:1.0][ABK quantity:247; profit:1.0][VFC quantity:26; profit:0.98][IP quantity:4; profit:0.86][ABT quantity:18; profit:0.97][FE quantity:2; profit:1.0][DTE quantity:3; profit:0.96][HIG quantity:3; profit:0.98][WST quantity:11; profit:0.97][IPG quantity:30; profit:1.03][MMM quantity:2; profit:1.03][SJI quantity:29; profit:1.03][SEAC quantity:37; profit:1.05][VLGEA quantity:10; profit:1.03]]
+2023-01-24 14:24:54,924 - simulator:100 - INFO - [2008-03-18 00:00:00] TARGET REACHED Selling asset [SEAC] for $254.92999505996704. Profit: 1.0503048668573967. Days Held: 1
+2023-01-24 14:24:54,981 - simulator:118 - INFO - [2008-03-18 00:00:00] 2 interesting insider trades
+2023-01-24 14:24:54,981 - simulator:125 - INFO - [2008-03-18 00:00:00] 2 unique tickers
+2023-01-24 14:24:54,997 - simulator:138 - INFO - [2008-03-18 00:00:00] failed to get price for WMG
+2023-01-24 14:24:55,014 - simulator:147 - INFO - [2008-03-18 00:00:00] buying GVA for 32.29999923706055. Total: 226.09999465942383
+2023-01-24 14:24:55,017 - simulator:76 - INFO - [2008-03-19 00:00:00] found in trade days 253. True. False. 130.32000732421875
+2023-01-24 14:24:55,048 - simulator:82 - INFO - [2008-03-19 00:00:00] Current P/L: $-28.724605560302734, %0.9942550788879394
+2023-01-24 14:24:55,056 - simulator:83 - INFO - [2008-03-19 00:00:00] Current holdings: [[HST quantity:10; profit:0.94][NOC quantity:6; profit:0.98][ABK quantity:248; profit:1.0][ABK quantity:247; profit:1.0][VFC quantity:26; profit:0.96][IP quantity:4; profit:0.82][ABT quantity:18; profit:0.98][FE quantity:2; profit:0.98][DTE quantity:3; profit:0.94][HIG quantity:3; profit:0.98][WST quantity:11; profit:0.98][IPG quantity:30; profit:1.02][MMM quantity:2; profit:1.01][SJI quantity:29; profit:1.02][VLGEA quantity:10; profit:1.03][GVA quantity:7; profit:0.96]]
+2023-01-24 14:24:55,060 - simulator:96 - INFO - [2008-03-19 00:00:00] STOP LOSS Selling asset [IP] for $102.50433349609376. Profit: 0.8191044764472183. Days Held: 35
+2023-01-24 14:24:55,118 - simulator:118 - INFO - [2008-03-19 00:00:00] 3 interesting insider trades
+2023-01-24 14:24:55,119 - simulator:125 - INFO - [2008-03-19 00:00:00] 1 unique tickers
+2023-01-24 14:24:55,137 - simulator:138 - INFO - [2008-03-19 00:00:00] failed to get price for BNE
+2023-01-24 14:24:55,139 - simulator:76 - INFO - [2008-03-20 00:00:00] found in trade days 253. True. False. 132.0800018310547
+2023-01-24 14:24:55,167 - simulator:82 - INFO - [2008-03-20 00:00:00] Current P/L: $32.143829345703125, %1.0064287658691407
+2023-01-24 14:24:55,174 - simulator:83 - INFO - [2008-03-20 00:00:00] Current holdings: [[HST quantity:10; profit:0.97][NOC quantity:6; profit:0.98][ABK quantity:248; profit:1.0][ABK quantity:247; profit:1.0][VFC quantity:26; profit:0.99][ABT quantity:18; profit:1.0][FE quantity:2; profit:0.99][DTE quantity:3; profit:0.95][HIG quantity:3; profit:1.02][WST quantity:11; profit:1.0][IPG quantity:30; profit:1.04][MMM quantity:2; profit:0.99][SJI quantity:29; profit:1.02][VLGEA quantity:10; profit:1.06][GVA quantity:7; profit:0.99]]
+2023-01-24 14:24:55,184 - simulator:100 - INFO - [2008-03-20 00:00:00] TARGET REACHED Selling asset [VLGEA] for $256.200008392334. Profit: 1.0551894610664043. Days Held: 3
+2023-01-24 14:24:55,226 - simulator:118 - INFO - [2008-03-20 00:00:00] 11 interesting insider trades
+2023-01-24 14:24:55,226 - simulator:125 - INFO - [2008-03-20 00:00:00] 3 unique tickers
+2023-01-24 14:24:55,241 - simulator:138 - INFO - [2008-03-20 00:00:00] failed to get price for GLG
+2023-01-24 14:24:55,254 - simulator:138 - INFO - [2008-03-20 00:00:00] failed to get price for PGN
+2023-01-24 14:24:55,269 - simulator:72 - INFO - [2008-03-21 00:00:00] Skipping invalid trade day
+2023-01-24 14:24:55,269 - simulator:62 - INFO - [2008-03-22 00:00:00] Skipping weekend
+2023-01-24 14:24:55,269 - simulator:62 - INFO - [2008-03-23 00:00:00] Skipping weekend
+2023-01-24 14:24:55,271 - simulator:76 - INFO - [2008-03-24 00:00:00] found in trade days 253. True. False. 134.72000122070312
+2023-01-24 14:24:55,300 - simulator:82 - INFO - [2008-03-24 00:00:00] Current P/L: $31.81224888563156, %1.0063624497771264
+2023-01-24 14:24:55,307 - simulator:83 - INFO - [2008-03-24 00:00:00] Current holdings: [[HST quantity:10; profit:1.02][NOC quantity:6; profit:0.98][ABK quantity:248; profit:0.92][ABK quantity:247; profit:0.92][VFC quantity:26; profit:0.99][ABT quantity:18; profit:1.0][FE quantity:2; profit:0.98][DTE quantity:3; profit:0.95][HIG quantity:3; profit:1.04][WST quantity:11; profit:1.03][IPG quantity:30; profit:1.06][MMM quantity:2; profit:1.0][SJI quantity:29; profit:1.02][GVA quantity:7; profit:1.04]]
+2023-01-24 14:24:55,316 - simulator:100 - INFO - [2008-03-24 00:00:00] TARGET REACHED Selling asset [IPG] for $263.6999988555908. Profit: 1.0615942325276897. Days Held: 21
+2023-01-24 14:24:55,357 - simulator:118 - INFO - [2008-03-24 00:00:00] 1 interesting insider trades
+2023-01-24 14:24:55,357 - simulator:125 - INFO - [2008-03-24 00:00:00] 1 unique tickers
+2023-01-24 14:24:55,373 - simulator:76 - INFO - [2008-03-25 00:00:00] found in trade days 253. True. False. 134.85000610351562
+2023-01-24 14:24:55,406 - simulator:82 - INFO - [2008-03-25 00:00:00] Current P/L: $45.161940693855286, %1.009032388138771
+2023-01-24 14:24:55,417 - simulator:83 - INFO - [2008-03-25 00:00:00] Current holdings: [[HST quantity:10; profit:1.03][NOC quantity:6; profit:0.99][ABK quantity:248; profit:0.97][ABK quantity:247; profit:0.97][VFC quantity:26; profit:0.99][ABT quantity:18; profit:0.98][FE quantity:2; profit:0.97][DTE quantity:3; profit:0.94][HIG quantity:3; profit:1.03][WST quantity:11; profit:1.01][MMM quantity:2; profit:1.01][SJI quantity:29; profit:1.03][GVA quantity:7; profit:1.03]]
+2023-01-24 14:24:55,468 - simulator:118 - INFO - [2008-03-25 00:00:00] 4 interesting insider trades
+2023-01-24 14:24:55,469 - simulator:125 - INFO - [2008-03-25 00:00:00] 1 unique tickers
+2023-01-24 14:24:55,487 - simulator:138 - INFO - [2008-03-25 00:00:00] failed to get price for ATMI
+2023-01-24 14:24:55,488 - simulator:76 - INFO - [2008-03-26 00:00:00] found in trade days 253. True. False. 133.1999969482422
+2023-01-24 14:24:55,515 - simulator:82 - INFO - [2008-03-26 00:00:00] Current P/L: $18.440855503082275, %1.0036881711006165
+2023-01-24 14:24:55,522 - simulator:83 - INFO - [2008-03-26 00:00:00] Current holdings: [[HST quantity:10; profit:1.0][NOC quantity:6; profit:0.98][ABK quantity:248; profit:0.96][ABK quantity:247; profit:0.96][VFC quantity:26; profit:0.99][ABT quantity:18; profit:0.97][FE quantity:2; profit:0.97][DTE quantity:3; profit:0.94][HIG quantity:3; profit:1.02][WST quantity:11; profit:1.01][MMM quantity:2; profit:1.0][SJI quantity:29; profit:1.04][GVA quantity:7; profit:1.02]]
+2023-01-24 14:24:55,579 - simulator:118 - INFO - [2008-03-26 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:55,581 - simulator:76 - INFO - [2008-03-27 00:00:00] found in trade days 253. True. False. 132.77999877929688
+2023-01-24 14:24:55,611 - simulator:82 - INFO - [2008-03-27 00:00:00] Current P/L: $-12.6214320063591, %0.9974757135987282
+2023-01-24 14:24:55,620 - simulator:83 - INFO - [2008-03-27 00:00:00] Current holdings: [[HST quantity:10; profit:0.99][NOC quantity:6; profit:0.97][ABK quantity:248; profit:0.94][ABK quantity:247; profit:0.94][VFC quantity:26; profit:0.98][ABT quantity:18; profit:0.96][FE quantity:2; profit:0.97][DTE quantity:3; profit:0.95][HIG quantity:3; profit:1.02][WST quantity:11; profit:0.99][MMM quantity:2; profit:0.99][SJI quantity:29; profit:1.03][GVA quantity:7; profit:1.0]]
+2023-01-24 14:24:55,666 - simulator:118 - INFO - [2008-03-27 00:00:00] 6 interesting insider trades
+2023-01-24 14:24:55,666 - simulator:125 - INFO - [2008-03-27 00:00:00] 2 unique tickers
+2023-01-24 14:24:55,684 - simulator:138 - INFO - [2008-03-27 00:00:00] failed to get price for FCEA/FCEB
+2023-01-24 14:24:55,698 - simulator:147 - INFO - [2008-03-27 00:00:00] buying NI for 6.774066925048828. Total: 243.8664093017578
+2023-01-24 14:24:55,699 - simulator:76 - INFO - [2008-03-28 00:00:00] found in trade days 253. True. False. 131.50999450683594
+2023-01-24 14:24:55,732 - simulator:82 - INFO - [2008-03-28 00:00:00] Current P/L: $-41.89521664381027, %0.991620956671238
+2023-01-24 14:24:55,739 - simulator:83 - INFO - [2008-03-28 00:00:00] Current holdings: [[HST quantity:10; profit:0.97][NOC quantity:6; profit:0.97][ABK quantity:248; profit:0.94][ABK quantity:247; profit:0.94][VFC quantity:26; profit:0.95][ABT quantity:18; profit:0.95][FE quantity:2; profit:0.96][DTE quantity:3; profit:0.94][HIG quantity:3; profit:1.03][WST quantity:11; profit:0.98][MMM quantity:2; profit:0.99][SJI quantity:29; profit:1.03][GVA quantity:7; profit:1.0][NI quantity:36; profit:0.99]]
+2023-01-24 14:24:55,796 - simulator:118 - INFO - [2008-03-28 00:00:00] 2 interesting insider trades
+2023-01-24 14:24:55,797 - simulator:125 - INFO - [2008-03-28 00:00:00] 1 unique tickers
+2023-01-24 14:24:55,818 - simulator:147 - INFO - [2008-03-28 00:00:00] buying FE for 67.87999725341797. Total: 475.1599807739258
+2023-01-24 14:24:55,819 - simulator:62 - INFO - [2008-03-29 00:00:00] Skipping weekend
+2023-01-24 14:24:55,819 - simulator:62 - INFO - [2008-03-30 00:00:00] Skipping weekend
+2023-01-24 14:24:55,820 - simulator:76 - INFO - [2008-03-31 00:00:00] found in trade days 253. True. False. 131.97000122070312
+2023-01-24 14:24:55,852 - simulator:82 - INFO - [2008-03-31 00:00:00] Current P/L: $55.53156900405884, %1.0111063138008118
+2023-01-24 14:24:55,864 - simulator:83 - INFO - [2008-03-31 00:00:00] Current holdings: [[HST quantity:10; profit:0.95][NOC quantity:6; profit:0.97][ABK quantity:248; profit:1.02][ABK quantity:247; profit:1.02][VFC quantity:26; profit:0.97][ABT quantity:18; profit:0.99][FE quantity:2; profit:0.97][FE quantity:7; profit:1.01][DTE quantity:3; profit:0.94][HIG quantity:3; profit:1.04][WST quantity:11; profit:1.01][MMM quantity:2; profit:1.01][SJI quantity:29; profit:1.03][GVA quantity:7; profit:1.01][NI quantity:36; profit:1.0]]
+2023-01-24 14:24:55,924 - simulator:118 - INFO - [2008-03-31 00:00:00] 1 interesting insider trades
+2023-01-24 14:24:55,924 - simulator:125 - INFO - [2008-03-31 00:00:00] 1 unique tickers
+2023-01-24 14:24:55,939 - simulator:138 - INFO - [2008-03-31 00:00:00] failed to get price for EK
+2023-01-24 14:24:55,940 - simulator:76 - INFO - [2008-04-01 00:00:00] found in trade days 253. True. False. 136.61000061035156
+2023-01-24 14:24:55,972 - simulator:82 - INFO - [2008-04-01 00:00:00] Current P/L: $147.42702281475067, %1.0294854045629502
+2023-01-24 14:24:55,981 - simulator:83 - INFO - [2008-04-01 00:00:00] Current holdings: [[HST quantity:10; profit:1.02][NOC quantity:6; profit:0.98][ABK quantity:248; profit:1.01][ABK quantity:247; profit:1.01][VFC quantity:26; profit:0.99][ABT quantity:18; profit:0.99][FE quantity:2; profit:1.01][FE quantity:7; profit:1.05][DTE quantity:3; profit:0.97][HIG quantity:3; profit:1.09][WST quantity:11; profit:1.03][MMM quantity:2; profit:1.04][SJI quantity:29; profit:1.05][GVA quantity:7; profit:1.08][NI quantity:36; profit:1.03]]
+2023-01-24 14:24:55,986 - simulator:100 - INFO - [2008-04-01 00:00:00] TARGET REACHED Selling asset [HIG] for $237.0. Profit: 1.0877048463096597. Days Held: 33
+2023-01-24 14:24:55,989 - simulator:100 - INFO - [2008-04-01 00:00:00] TARGET REACHED Selling asset [SJI] for $518.0849933624268. Profit: 1.0527401587494087. Days Held: 27
+2023-01-24 14:24:55,991 - simulator:100 - INFO - [2008-04-01 00:00:00] TARGET REACHED Selling asset [GVA] for $243.45999145507812. Profit: 1.0767801733998437. Days Held: 14
+2023-01-24 14:24:56,035 - simulator:118 - INFO - [2008-04-01 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:56,036 - simulator:76 - INFO - [2008-04-02 00:00:00] found in trade days 253. True. False. 136.6999969482422
+2023-01-24 14:24:56,062 - simulator:82 - INFO - [2008-04-02 00:00:00] Current P/L: $125.44360208511353, %1.0250887204170227
+2023-01-24 14:24:56,070 - simulator:83 - INFO - [2008-04-02 00:00:00] Current holdings: [[HST quantity:10; profit:1.02][NOC quantity:6; profit:0.99][ABK quantity:248; profit:0.96][ABK quantity:247; profit:0.96][VFC quantity:26; profit:0.98][ABT quantity:18; profit:0.98][FE quantity:2; profit:1.02][FE quantity:7; profit:1.06][DTE quantity:3; profit:0.98][WST quantity:11; profit:1.04][MMM quantity:2; profit:1.03][NI quantity:36; profit:1.05]]
+2023-01-24 14:24:56,072 - simulator:103 - INFO - [2008-04-02 00:00:00] EXPIRED Selling asset [HST] for $167.20508575439453. Profit: 1.0227544722951851. Days Held: 90
+2023-01-24 14:24:56,078 - simulator:100 - INFO - [2008-04-02 00:00:00] TARGET REACHED Selling asset [FE] for $503.58001708984375. Profit: 1.0598115107876473. Days Held: 5
+2023-01-24 14:24:56,117 - simulator:118 - INFO - [2008-04-02 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:56,118 - simulator:76 - INFO - [2008-04-03 00:00:00] found in trade days 253. True. False. 137.0399932861328
+2023-01-24 14:24:56,137 - simulator:82 - INFO - [2008-04-03 00:00:00] Current P/L: $117.47216540575027, %1.02349443308115
+2023-01-24 14:24:56,142 - simulator:83 - INFO - [2008-04-03 00:00:00] Current holdings: [[NOC quantity:6; profit:0.99][ABK quantity:248; profit:0.94][ABK quantity:247; profit:0.94][VFC quantity:26; profit:0.99][ABT quantity:18; profit:0.98][FE quantity:2; profit:1.02][DTE quantity:3; profit:0.98][WST quantity:11; profit:1.03][MMM quantity:2; profit:1.02][NI quantity:36; profit:1.04]]
+2023-01-24 14:24:56,182 - simulator:118 - INFO - [2008-04-03 00:00:00] 2 interesting insider trades
+2023-01-24 14:24:56,182 - simulator:125 - INFO - [2008-04-03 00:00:00] 2 unique tickers
+2023-01-24 14:24:56,204 - simulator:138 - INFO - [2008-04-03 00:00:00] failed to get price for MHP
+2023-01-24 14:24:56,205 - simulator:76 - INFO - [2008-04-04 00:00:00] found in trade days 253. True. False. 136.88999938964844
+2023-01-24 14:24:56,227 - simulator:82 - INFO - [2008-04-04 00:00:00] Current P/L: $110.88212138414383, %1.0221764242768288
+2023-01-24 14:24:56,233 - simulator:83 - INFO - [2008-04-04 00:00:00] Current holdings: [[NOC quantity:6; profit:0.98][ABK quantity:248; profit:0.94][ABK quantity:247; profit:0.94][VFC quantity:26; profit:0.98][ABT quantity:18; profit:0.99][FE quantity:2; profit:1.03][DTE quantity:3; profit:0.99][WST quantity:11; profit:1.03][MMM quantity:2; profit:1.03][NI quantity:36; profit:1.03]]
+2023-01-24 14:24:56,272 - simulator:118 - INFO - [2008-04-04 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:56,272 - simulator:62 - INFO - [2008-04-05 00:00:00] Skipping weekend
+2023-01-24 14:24:56,272 - simulator:62 - INFO - [2008-04-06 00:00:00] Skipping weekend
+2023-01-24 14:24:56,273 - simulator:76 - INFO - [2008-04-07 00:00:00] found in trade days 253. True. False. 136.9600067138672
+2023-01-24 14:24:56,296 - simulator:82 - INFO - [2008-04-07 00:00:00] Current P/L: $113.47211962938309, %1.0226944239258766
+2023-01-24 14:24:56,303 - simulator:83 - INFO - [2008-04-07 00:00:00] Current holdings: [[NOC quantity:6; profit:0.98][ABK quantity:248; profit:0.94][ABK quantity:247; profit:0.94][VFC quantity:26; profit:0.97][ABT quantity:18; profit:0.99][FE quantity:2; profit:1.03][DTE quantity:3; profit:0.98][WST quantity:11; profit:1.05][MMM quantity:2; profit:1.02][NI quantity:36; profit:1.03]]
+2023-01-24 14:24:56,346 - simulator:118 - INFO - [2008-04-07 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:56,347 - simulator:76 - INFO - [2008-04-08 00:00:00] found in trade days 253. True. False. 136.82000732421875
+2023-01-24 14:24:56,373 - simulator:82 - INFO - [2008-04-08 00:00:00] Current P/L: $109.26200914382935, %1.0218524018287658
+2023-01-24 14:24:56,383 - simulator:83 - INFO - [2008-04-08 00:00:00] Current holdings: [[NOC quantity:6; profit:0.98][ABK quantity:248; profit:0.96][ABK quantity:247; profit:0.96][VFC quantity:26; profit:0.97][ABT quantity:18; profit:0.97][FE quantity:2; profit:1.04][DTE quantity:3; profit:0.97][WST quantity:11; profit:1.04][MMM quantity:2; profit:1.02][NI quantity:36; profit:1.03]]
+2023-01-24 14:24:56,422 - simulator:118 - INFO - [2008-04-08 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:56,423 - simulator:76 - INFO - [2008-04-09 00:00:00] found in trade days 253. True. False. 135.8300018310547
+2023-01-24 14:24:56,448 - simulator:82 - INFO - [2008-04-09 00:00:00] Current P/L: $87.43715792894363, %1.0174874315857887
+2023-01-24 14:24:56,453 - simulator:83 - INFO - [2008-04-09 00:00:00] Current holdings: [[NOC quantity:6; profit:0.97][ABK quantity:248; profit:0.94][ABK quantity:247; profit:0.94][VFC quantity:26; profit:0.96][ABT quantity:18; profit:0.97][FE quantity:2; profit:1.03][DTE quantity:3; profit:0.98][WST quantity:11; profit:1.03][MMM quantity:2; profit:1.02][NI quantity:36; profit:1.03]]
+2023-01-24 14:24:56,491 - simulator:118 - INFO - [2008-04-09 00:00:00] 1 interesting insider trades
+2023-01-24 14:24:56,491 - simulator:125 - INFO - [2008-04-09 00:00:00] 1 unique tickers
+2023-01-24 14:24:56,504 - simulator:138 - INFO - [2008-04-09 00:00:00] failed to get price for DSTI
+2023-01-24 14:24:56,505 - simulator:76 - INFO - [2008-04-10 00:00:00] found in trade days 253. True. False. 136.02000427246094
+2023-01-24 14:24:56,525 - simulator:82 - INFO - [2008-04-10 00:00:00] Current P/L: $75.47954374551773, %1.0150959087491036
+2023-01-24 14:24:56,533 - simulator:83 - INFO - [2008-04-10 00:00:00] Current holdings: [[NOC quantity:6; profit:0.98][ABK quantity:248; profit:0.91][ABK quantity:247; profit:0.91][VFC quantity:26; profit:0.96][ABT quantity:18; profit:0.97][FE quantity:2; profit:1.05][DTE quantity:3; profit:0.98][WST quantity:11; profit:1.03][MMM quantity:2; profit:1.02][NI quantity:36; profit:1.02]]
+2023-01-24 14:24:56,575 - simulator:118 - INFO - [2008-04-10 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:56,577 - simulator:76 - INFO - [2008-04-11 00:00:00] found in trade days 253. True. False. 133.3800048828125
+2023-01-24 14:24:56,599 - simulator:82 - INFO - [2008-04-11 00:00:00] Current P/L: $47.18272215127945, %1.009436544430256
+2023-01-24 14:24:56,604 - simulator:83 - INFO - [2008-04-11 00:00:00] Current holdings: [[NOC quantity:6; profit:0.96][ABK quantity:248; profit:0.91][ABK quantity:247; profit:0.91][VFC quantity:26; profit:0.95][ABT quantity:18; profit:0.95][FE quantity:2; profit:1.06][DTE quantity:3; profit:0.99][WST quantity:11; profit:1.01][MMM quantity:2; profit:1.0][NI quantity:36; profit:1.02]]
+2023-01-24 14:24:56,607 - simulator:100 - INFO - [2008-04-11 00:00:00] TARGET REACHED Selling asset [FE] for $149.9199981689453. Profit: 1.064772691189751. Days Held: 49
+2023-01-24 14:24:56,640 - simulator:118 - INFO - [2008-04-11 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:56,640 - simulator:62 - INFO - [2008-04-12 00:00:00] Skipping weekend
+2023-01-24 14:24:56,641 - simulator:62 - INFO - [2008-04-13 00:00:00] Skipping weekend
+2023-01-24 14:24:56,642 - simulator:76 - INFO - [2008-04-14 00:00:00] found in trade days 253. True. False. 132.92999267578125
+2023-01-24 14:24:56,663 - simulator:82 - INFO - [2008-04-14 00:00:00] Current P/L: $51.73986059427261, %1.0103479721188546
+2023-01-24 14:24:56,668 - simulator:83 - INFO - [2008-04-14 00:00:00] Current holdings: [[NOC quantity:6; profit:0.96][ABK quantity:248; profit:0.91][ABK quantity:247; profit:0.91][VFC quantity:26; profit:0.95][ABT quantity:18; profit:0.94][DTE quantity:3; profit:1.0][WST quantity:11; profit:1.03][MMM quantity:2; profit:1.0][NI quantity:36; profit:1.02]]
+2023-01-24 14:24:56,702 - simulator:118 - INFO - [2008-04-14 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:56,703 - simulator:76 - INFO - [2008-04-15 00:00:00] found in trade days 253. True. False. 133.24000549316406
+2023-01-24 14:24:56,721 - simulator:82 - INFO - [2008-04-15 00:00:00] Current P/L: $18.709392607212067, %1.0037418785214425
+2023-01-24 14:24:56,728 - simulator:83 - INFO - [2008-04-15 00:00:00] Current holdings: [[NOC quantity:6; profit:0.89][ABK quantity:248; profit:0.91][ABK quantity:247; profit:0.91][VFC quantity:26; profit:0.94][ABT quantity:18; profit:0.93][DTE quantity:3; profit:1.01][WST quantity:11; profit:1.02][MMM quantity:2; profit:1.01][NI quantity:36; profit:1.03]]
+2023-01-24 14:24:56,730 - simulator:103 - INFO - [2008-04-15 00:00:00] EXPIRED Selling asset [NOC] for $387.9809875488281. Profit: 0.8948487232666872. Days Held: 90
+2023-01-24 14:24:56,760 - simulator:118 - INFO - [2008-04-15 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:56,762 - simulator:76 - INFO - [2008-04-16 00:00:00] found in trade days 253. True. False. 136.85000610351562
+2023-01-24 14:24:56,778 - simulator:82 - INFO - [2008-04-16 00:00:00] Current P/L: $53.12249118089676, %1.0106244982361794
+2023-01-24 14:24:56,783 - simulator:83 - INFO - [2008-04-16 00:00:00] Current holdings: [[ABK quantity:248; profit:0.94][ABK quantity:247; profit:0.94][VFC quantity:26; profit:0.95][ABT quantity:18; profit:0.92][DTE quantity:3; profit:1.03][WST quantity:11; profit:1.05][MMM quantity:2; profit:1.03][NI quantity:36; profit:1.06]]
+2023-01-24 14:24:56,787 - simulator:100 - INFO - [2008-04-16 00:00:00] TARGET REACHED Selling asset [NI] for $257.58742332458496. Profit: 1.056264468985759. Days Held: 20
+2023-01-24 14:24:56,811 - simulator:118 - INFO - [2008-04-16 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:56,812 - simulator:76 - INFO - [2008-04-17 00:00:00] found in trade days 253. True. False. 137.0500030517578
+2023-01-24 14:24:56,825 - simulator:82 - INFO - [2008-04-17 00:00:00] Current P/L: $51.57688456773758, %1.0103153769135476
+2023-01-24 14:24:56,830 - simulator:83 - INFO - [2008-04-17 00:00:00] Current holdings: [[ABK quantity:248; profit:0.94][ABK quantity:247; profit:0.94][VFC quantity:26; profit:0.97][ABT quantity:18; profit:0.92][DTE quantity:3; profit:1.03][WST quantity:11; profit:1.03][MMM quantity:2; profit:1.03]]
+2023-01-24 14:24:56,862 - simulator:118 - INFO - [2008-04-17 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:56,863 - simulator:76 - INFO - [2008-04-18 00:00:00] found in trade days 253. True. False. 138.47999572753906
+2023-01-24 14:24:56,877 - simulator:82 - INFO - [2008-04-18 00:00:00] Current P/L: $75.83681231737137, %1.0151673624634743
+2023-01-24 14:24:56,884 - simulator:83 - INFO - [2008-04-18 00:00:00] Current holdings: [[ABK quantity:248; profit:0.94][ABK quantity:247; profit:0.94][VFC quantity:26; profit:0.99][ABT quantity:18; profit:0.91][DTE quantity:3; profit:1.03][WST quantity:11; profit:1.08][MMM quantity:2; profit:1.06]]
+2023-01-24 14:24:56,887 - simulator:100 - INFO - [2008-04-18 00:00:00] TARGET REACHED Selling asset [WST] for $258.16999244689936. Profit: 1.075865172531767. Days Held: 50
+2023-01-24 14:24:56,889 - simulator:100 - INFO - [2008-04-18 00:00:00] TARGET REACHED Selling asset [MMM] for $165.8000030517578. Profit: 1.0572630742770806. Days Held: 45
+2023-01-24 14:24:56,907 - simulator:118 - INFO - [2008-04-18 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:56,907 - simulator:62 - INFO - [2008-04-19 00:00:00] Skipping weekend
+2023-01-24 14:24:56,907 - simulator:62 - INFO - [2008-04-20 00:00:00] Skipping weekend
+2023-01-24 14:24:56,908 - simulator:76 - INFO - [2008-04-21 00:00:00] found in trade days 253. True. False. 138.5500030517578
+2023-01-24 14:24:56,922 - simulator:82 - INFO - [2008-04-21 00:00:00] Current P/L: $70.15940600633621, %1.0140318812012672
+2023-01-24 14:24:56,927 - simulator:83 - INFO - [2008-04-21 00:00:00] Current holdings: [[ABK quantity:248; profit:0.94][ABK quantity:247; profit:0.94][VFC quantity:26; profit:0.98][ABT quantity:18; profit:0.91][DTE quantity:3; profit:1.02]]
+2023-01-24 14:24:56,955 - simulator:118 - INFO - [2008-04-21 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:56,956 - simulator:76 - INFO - [2008-04-22 00:00:00] found in trade days 253. True. False. 137.94000244140625
+2023-01-24 14:24:56,969 - simulator:82 - INFO - [2008-04-22 00:00:00] Current P/L: $49.38938146829605, %1.009877876293659
+2023-01-24 14:24:56,972 - simulator:83 - INFO - [2008-04-22 00:00:00] Current holdings: [[ABK quantity:248; profit:0.91][ABK quantity:247; profit:0.91][VFC quantity:26; profit:0.98][ABT quantity:18; profit:0.91][DTE quantity:3; profit:1.01]]
+2023-01-24 14:24:56,993 - simulator:118 - INFO - [2008-04-22 00:00:00] 1 interesting insider trades
+2023-01-24 14:24:56,993 - simulator:125 - INFO - [2008-04-22 00:00:00] 1 unique tickers
+2023-01-24 14:24:57,002 - simulator:138 - INFO - [2008-04-22 00:00:00] failed to get price for ARP
+2023-01-24 14:24:57,003 - simulator:76 - INFO - [2008-04-23 00:00:00] found in trade days 253. True. False. 137.72000122070312
+2023-01-24 14:24:57,013 - simulator:82 - INFO - [2008-04-23 00:00:00] Current P/L: $49.35759860277176, %1.0098715197205543
+2023-01-24 14:24:57,017 - simulator:83 - INFO - [2008-04-23 00:00:00] Current holdings: [[ABK quantity:248; profit:0.94][ABK quantity:247; profit:0.94][VFC quantity:26; profit:0.94][ABT quantity:18; profit:0.91][DTE quantity:3; profit:1.01]]
+2023-01-24 14:24:57,037 - simulator:118 - INFO - [2008-04-23 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:57,038 - simulator:76 - INFO - [2008-04-24 00:00:00] found in trade days 253. True. False. 138.32000732421875
+2023-01-24 14:24:57,051 - simulator:82 - INFO - [2008-04-24 00:00:00] Current P/L: $43.2348912358284, %1.0086469782471656
+2023-01-24 14:24:57,053 - simulator:83 - INFO - [2008-04-24 00:00:00] Current holdings: [[ABK quantity:248; profit:0.94][ABK quantity:247; profit:0.94][VFC quantity:26; profit:0.93][ABT quantity:18; profit:0.91][DTE quantity:3; profit:1.0]]
+2023-01-24 14:24:57,074 - simulator:118 - INFO - [2008-04-24 00:00:00] 6 interesting insider trades
+2023-01-24 14:24:57,074 - simulator:125 - INFO - [2008-04-24 00:00:00] 1 unique tickers
+2023-01-24 14:24:57,081 - simulator:147 - INFO - [2008-04-24 00:00:00] buying MET for 53.65419006347656. Total: 482.88771057128906
+2023-01-24 14:24:57,082 - simulator:76 - INFO - [2008-04-25 00:00:00] found in trade days 253. True. False. 139.60000610351562
+2023-01-24 14:24:57,094 - simulator:82 - INFO - [2008-04-25 00:00:00] Current P/L: $66.7447674870491, %1.0133489534974098
+2023-01-24 14:24:57,098 - simulator:83 - INFO - [2008-04-25 00:00:00] Current holdings: [[ABK quantity:248; profit:0.94][ABK quantity:247; profit:0.94][VFC quantity:26; profit:0.96][ABT quantity:18; profit:0.92][DTE quantity:3; profit:1.0][MET quantity:9; profit:1.01]]
+2023-01-24 14:24:57,122 - simulator:118 - INFO - [2008-04-25 00:00:00] 3 interesting insider trades
+2023-01-24 14:24:57,122 - simulator:125 - INFO - [2008-04-25 00:00:00] 2 unique tickers
+2023-01-24 14:24:57,130 - simulator:138 - INFO - [2008-04-25 00:00:00] failed to get price for UTX
+2023-01-24 14:24:57,136 - simulator:62 - INFO - [2008-04-26 00:00:00] Skipping weekend
+2023-01-24 14:24:57,136 - simulator:62 - INFO - [2008-04-27 00:00:00] Skipping weekend
+2023-01-24 14:24:57,137 - simulator:76 - INFO - [2008-04-28 00:00:00] found in trade days 253. True. False. 139.6300048828125
+2023-01-24 14:24:57,149 - simulator:82 - INFO - [2008-04-28 00:00:00] Current P/L: $59.55006855726242, %1.0119100137114525
+2023-01-24 14:24:57,152 - simulator:83 - INFO - [2008-04-28 00:00:00] Current holdings: [[ABK quantity:248; profit:0.92][ABK quantity:247; profit:0.92][VFC quantity:26; profit:0.95][ABT quantity:18; profit:0.93][DTE quantity:3; profit:0.99][MET quantity:9; profit:1.02]]
+2023-01-24 14:24:57,177 - simulator:118 - INFO - [2008-04-28 00:00:00] 1 interesting insider trades
+2023-01-24 14:24:57,177 - simulator:125 - INFO - [2008-04-28 00:00:00] 1 unique tickers
+2023-01-24 14:24:57,185 - simulator:76 - INFO - [2008-04-29 00:00:00] found in trade days 253. True. False. 139.0800018310547
+2023-01-24 14:24:57,199 - simulator:82 - INFO - [2008-04-29 00:00:00] Current P/L: $72.77609699964523, %1.014555219399929
+2023-01-24 14:24:57,204 - simulator:83 - INFO - [2008-04-29 00:00:00] Current holdings: [[ABK quantity:248; profit:0.92][ABK quantity:247; profit:0.92][VFC quantity:26; profit:0.94][ABT quantity:18; profit:0.96][DTE quantity:3; profit:0.98][MET quantity:9; profit:1.02]]
+2023-01-24 14:24:57,206 - simulator:103 - INFO - [2008-04-29 00:00:00] EXPIRED Selling asset [ABK] for $231.25008249282834. Profit: 0.9223053809783718. Days Held: 90
+2023-01-24 14:24:57,233 - simulator:118 - INFO - [2008-04-29 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:57,235 - simulator:76 - INFO - [2008-04-30 00:00:00] found in trade days 253. True. False. 138.25999450683594
+2023-01-24 14:24:57,244 - simulator:82 - INFO - [2008-04-30 00:00:00] Current P/L: $65.2555103302002, %1.01305110206604
+2023-01-24 14:24:57,251 - simulator:83 - INFO - [2008-04-30 00:00:00] Current holdings: [[ABK quantity:247; profit:0.96][VFC quantity:26; profit:0.93][ABT quantity:18; profit:0.95][DTE quantity:3; profit:0.98][MET quantity:9; profit:1.01]]
+2023-01-24 14:24:57,253 - simulator:103 - INFO - [2008-04-30 00:00:00] EXPIRED Selling asset [ABK] for $238.69338667392734. Profit: 0.9558460727414694. Days Held: 90
+2023-01-24 14:24:57,270 - simulator:118 - INFO - [2008-04-30 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:57,271 - simulator:76 - INFO - [2008-05-01 00:00:00] found in trade days 253. True. False. 141.1199951171875
+2023-01-24 14:24:57,280 - simulator:82 - INFO - [2008-05-01 00:00:00] Current P/L: $98.16538429260254, %1.0196330768585204
+2023-01-24 14:24:57,284 - simulator:83 - INFO - [2008-05-01 00:00:00] Current holdings: [[VFC quantity:26; profit:0.96][ABT quantity:18; profit:0.96][DTE quantity:3; profit:1.01][MET quantity:9; profit:1.03]]
+2023-01-24 14:24:57,304 - simulator:118 - INFO - [2008-05-01 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:57,305 - simulator:76 - INFO - [2008-05-02 00:00:00] found in trade days 253. True. False. 141.50999450683594
+2023-01-24 14:24:57,315 - simulator:82 - INFO - [2008-05-02 00:00:00] Current P/L: $100.61030006408691, %1.0201220600128174
+2023-01-24 14:24:57,317 - simulator:83 - INFO - [2008-05-02 00:00:00] Current holdings: [[VFC quantity:26; profit:0.97][ABT quantity:18; profit:0.96][DTE quantity:3; profit:1.0][MET quantity:9; profit:1.03]]
+2023-01-24 14:24:57,334 - simulator:118 - INFO - [2008-05-02 00:00:00] 1 interesting insider trades
+2023-01-24 14:24:57,335 - simulator:125 - INFO - [2008-05-02 00:00:00] 1 unique tickers
+2023-01-24 14:24:57,340 - simulator:147 - INFO - [2008-05-02 00:00:00] buying CAO for 11.652400016784668. Total: 501.0532007217407
+2023-01-24 14:24:57,340 - simulator:62 - INFO - [2008-05-03 00:00:00] Skipping weekend
+2023-01-24 14:24:57,340 - simulator:62 - INFO - [2008-05-04 00:00:00] Skipping weekend
+2023-01-24 14:24:57,341 - simulator:76 - INFO - [2008-05-05 00:00:00] found in trade days 253. True. False. 140.8300018310547
+2023-01-24 14:24:57,352 - simulator:82 - INFO - [2008-05-05 00:00:00] Current P/L: $92.74321746826172, %1.0185486434936524
+2023-01-24 14:24:57,354 - simulator:83 - INFO - [2008-05-05 00:00:00] Current holdings: [[VFC quantity:26; profit:0.95][ABT quantity:18; profit:0.95][DTE quantity:3; profit:1.01][MET quantity:9; profit:1.03][CAO quantity:43; profit:1.01]]
+2023-01-24 14:24:57,377 - simulator:118 - INFO - [2008-05-05 00:00:00] 2 interesting insider trades
+2023-01-24 14:24:57,378 - simulator:125 - INFO - [2008-05-05 00:00:00] 1 unique tickers
+2023-01-24 14:24:57,387 - simulator:147 - INFO - [2008-05-05 00:00:00] buying ABT for 25.429399490356445. Total: 508.5879898071289
+2023-01-24 14:24:57,389 - simulator:76 - INFO - [2008-05-06 00:00:00] found in trade days 253. True. False. 142.0500030517578
+2023-01-24 14:24:57,406 - simulator:82 - INFO - [2008-05-06 00:00:00] Current P/L: $72.2836332321167, %1.0144567266464233
+2023-01-24 14:24:57,413 - simulator:83 - INFO - [2008-05-06 00:00:00] Current holdings: [[VFC quantity:26; profit:0.94][ABT quantity:18; profit:0.95][ABT quantity:20; profit:0.99][DTE quantity:3; profit:1.02][MET quantity:9; profit:1.04][CAO quantity:43; profit:0.98]]
+2023-01-24 14:24:57,440 - simulator:118 - INFO - [2008-05-06 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:57,441 - simulator:76 - INFO - [2008-05-07 00:00:00] found in trade days 253. True. False. 139.52000427246094
+2023-01-24 14:24:57,457 - simulator:82 - INFO - [2008-05-07 00:00:00] Current P/L: $39.018961906433105, %1.0078037923812866
+2023-01-24 14:24:57,462 - simulator:83 - INFO - [2008-05-07 00:00:00] Current holdings: [[VFC quantity:26; profit:0.93][ABT quantity:18; profit:0.92][ABT quantity:20; profit:0.97][DTE quantity:3; profit:1.02][MET quantity:9; profit:1.01][CAO quantity:43; profit:0.99]]
+2023-01-24 14:24:57,467 - simulator:103 - INFO - [2008-05-07 00:00:00] EXPIRED Selling asset [VFC] for $456.2853012084961. Profit: 0.9325743914166682. Days Held: 90
+2023-01-24 14:24:57,489 - simulator:118 - INFO - [2008-05-07 00:00:00] 1 interesting insider trades
+2023-01-24 14:24:57,489 - simulator:125 - INFO - [2008-05-07 00:00:00] 1 unique tickers
+2023-01-24 14:24:57,497 - simulator:147 - INFO - [2008-05-07 00:00:00] buying ITRI for 92.20999908447266. Total: 461.0499954223633
+2023-01-24 14:24:57,499 - simulator:76 - INFO - [2008-05-08 00:00:00] found in trade days 253. True. False. 139.16000366210938
+2023-01-24 14:24:57,515 - simulator:82 - INFO - [2008-05-08 00:00:00] Current P/L: $38.68689155578613, %1.0077373783111572
+2023-01-24 14:24:57,519 - simulator:83 - INFO - [2008-05-08 00:00:00] Current holdings: [[ABT quantity:18; profit:0.92][ABT quantity:20; profit:0.97][DTE quantity:3; profit:1.03][MET quantity:9; profit:1.0][CAO quantity:43; profit:0.99][ITRI quantity:5; profit:1.01]]
+2023-01-24 14:24:57,549 - simulator:118 - INFO - [2008-05-08 00:00:00] 3 interesting insider trades
+2023-01-24 14:24:57,550 - simulator:125 - INFO - [2008-05-08 00:00:00] 3 unique tickers
+2023-01-24 14:24:57,555 - simulator:138 - INFO - [2008-05-08 00:00:00] failed to get price for IMN
+2023-01-24 14:24:57,565 - simulator:147 - INFO - [2008-05-08 00:00:00] buying ABK for 0.9494100213050842. Total: 167.09616374969482
+2023-01-24 14:24:57,574 - simulator:147 - INFO - [2008-05-08 00:00:00] buying dpl for 28.299999237060547. Total: 141.49999618530273
+2023-01-24 14:24:57,579 - simulator:76 - INFO - [2008-05-09 00:00:00] found in trade days 253. True. False. 138.89999389648438
+2023-01-24 14:24:57,598 - simulator:82 - INFO - [2008-05-09 00:00:00] Current P/L: $37.91416263580322, %1.0075828325271607
+2023-01-24 14:24:57,602 - simulator:83 - INFO - [2008-05-09 00:00:00] Current holdings: [[ABK quantity:176; profit:1.0][ABT quantity:18; profit:0.93][ABT quantity:20; profit:0.98][DTE quantity:3; profit:1.03][MET quantity:9; profit:1.0][CAO quantity:43; profit:0.99][ITRI quantity:5; profit:1.0][dpl quantity:5; profit:1.0]]
+2023-01-24 14:24:57,635 - simulator:118 - INFO - [2008-05-09 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:57,635 - simulator:62 - INFO - [2008-05-10 00:00:00] Skipping weekend
+2023-01-24 14:24:57,635 - simulator:62 - INFO - [2008-05-11 00:00:00] Skipping weekend
+2023-01-24 14:24:57,636 - simulator:76 - INFO - [2008-05-12 00:00:00] found in trade days 253. True. False. 140.4600067138672
+2023-01-24 14:24:57,656 - simulator:82 - INFO - [2008-05-12 00:00:00] Current P/L: $64.21111392974854, %1.0128422227859497
+2023-01-24 14:24:57,664 - simulator:83 - INFO - [2008-05-12 00:00:00] Current holdings: [[ABK quantity:176; profit:1.02][ABT quantity:18; profit:0.95][ABT quantity:20; profit:1.0][DTE quantity:3; profit:1.04][MET quantity:9; profit:1.03][CAO quantity:43; profit:0.97][ITRI quantity:5; profit:1.0][dpl quantity:5; profit:0.99]]
+2023-01-24 14:24:57,698 - simulator:118 - INFO - [2008-05-12 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:57,699 - simulator:76 - INFO - [2008-05-13 00:00:00] found in trade days 253. True. False. 140.47999572753906
+2023-01-24 14:24:57,714 - simulator:82 - INFO - [2008-05-13 00:00:00] Current P/L: $84.26899242401123, %1.0168537984848023
+2023-01-24 14:24:57,718 - simulator:83 - INFO - [2008-05-13 00:00:00] Current holdings: [[ABK quantity:176; profit:1.0][ABT quantity:18; profit:0.98][ABT quantity:20; profit:1.03][DTE quantity:3; profit:1.04][MET quantity:9; profit:1.02][CAO quantity:43; profit:0.97][ITRI quantity:5; profit:1.0][dpl quantity:5; profit:0.98]]
+2023-01-24 14:24:57,753 - simulator:118 - INFO - [2008-05-13 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:57,755 - simulator:76 - INFO - [2008-05-14 00:00:00] found in trade days 253. True. False. 140.77000427246094
+2023-01-24 14:24:57,778 - simulator:82 - INFO - [2008-05-14 00:00:00] Current P/L: $88.46276950836182, %1.0176925539016723
+2023-01-24 14:24:57,783 - simulator:83 - INFO - [2008-05-14 00:00:00] Current holdings: [[ABK quantity:176; profit:1.0][ABT quantity:18; profit:0.99][ABT quantity:20; profit:1.03][DTE quantity:3; profit:1.06][MET quantity:9; profit:1.03][CAO quantity:43; profit:0.97][ITRI quantity:5; profit:0.98][dpl quantity:5; profit:0.98]]
+2023-01-24 14:24:57,785 - simulator:100 - INFO - [2008-05-14 00:00:00] TARGET REACHED Selling asset [DTE] for $111.47234344482422. Profit: 1.0597087199607735. Days Held: 77
+2023-01-24 14:24:57,815 - simulator:118 - INFO - [2008-05-14 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:57,816 - simulator:76 - INFO - [2008-05-15 00:00:00] found in trade days 253. True. False. 142.52999877929688
+2023-01-24 14:24:57,834 - simulator:82 - INFO - [2008-05-15 00:00:00] Current P/L: $119.29177188873291, %1.0238583543777466
+2023-01-24 14:24:57,839 - simulator:83 - INFO - [2008-05-15 00:00:00] Current holdings: [[ABK quantity:176; profit:1.0][ABT quantity:18; profit:0.99][ABT quantity:20; profit:1.04][MET quantity:9; profit:1.03][CAO quantity:43; profit:1.0][ITRI quantity:5; profit:1.0][dpl quantity:5; profit:0.96]]
+2023-01-24 14:24:57,866 - simulator:118 - INFO - [2008-05-15 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:57,867 - simulator:76 - INFO - [2008-05-16 00:00:00] found in trade days 253. True. False. 142.66000366210938
+2023-01-24 14:24:57,884 - simulator:82 - INFO - [2008-05-16 00:00:00] Current P/L: $121.71538543701172, %1.0243430770874022
+2023-01-24 14:24:57,888 - simulator:83 - INFO - [2008-05-16 00:00:00] Current holdings: [[ABK quantity:176; profit:1.0][ABT quantity:18; profit:0.98][ABT quantity:20; profit:1.03][MET quantity:9; profit:1.03][CAO quantity:43; profit:1.0][ITRI quantity:5; profit:1.02][dpl quantity:5; profit:0.97]]
+2023-01-24 14:24:57,919 - simulator:118 - INFO - [2008-05-16 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:57,919 - simulator:62 - INFO - [2008-05-17 00:00:00] Skipping weekend
+2023-01-24 14:24:57,919 - simulator:62 - INFO - [2008-05-18 00:00:00] Skipping weekend
+2023-01-24 14:24:57,920 - simulator:76 - INFO - [2008-05-19 00:00:00] found in trade days 253. True. False. 143.0500030517578
+2023-01-24 14:24:57,936 - simulator:82 - INFO - [2008-05-19 00:00:00] Current P/L: $116.19821834564209, %1.0232396436691285
+2023-01-24 14:24:57,940 - simulator:83 - INFO - [2008-05-19 00:00:00] Current holdings: [[ABK quantity:176; profit:1.02][ABT quantity:18; profit:0.99][ABT quantity:20; profit:1.04][MET quantity:9; profit:1.02][CAO quantity:43; profit:1.0][ITRI quantity:5; profit:1.01][dpl quantity:5; profit:0.95]]
+2023-01-24 14:24:57,971 - simulator:118 - INFO - [2008-05-19 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:57,971 - simulator:76 - INFO - [2008-05-20 00:00:00] found in trade days 253. True. False. 141.88999938964844
+2023-01-24 14:24:57,995 - simulator:82 - INFO - [2008-05-20 00:00:00] Current P/L: $92.0180892944336, %1.0184036178588867
+2023-01-24 14:24:58,001 - simulator:83 - INFO - [2008-05-20 00:00:00] Current holdings: [[ABK quantity:176; profit:1.02][ABT quantity:18; profit:0.98][ABT quantity:20; profit:1.03][MET quantity:9; profit:1.0][CAO quantity:43; profit:1.01][ITRI quantity:5; profit:1.0][dpl quantity:5; profit:0.87]]
+2023-01-24 14:24:58,002 - simulator:103 - INFO - [2008-05-20 00:00:00] EXPIRED Selling asset [ABT] for $472.23835372924805. Profit: 0.9832763642903894. Days Held: 90
+2023-01-24 14:24:58,027 - simulator:118 - INFO - [2008-05-20 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:58,029 - simulator:76 - INFO - [2008-05-21 00:00:00] found in trade days 253. True. False. 139.49000549316406
+2023-01-24 14:24:58,040 - simulator:82 - INFO - [2008-05-21 00:00:00] Current P/L: $67.3017520904541, %1.0134603504180908
+2023-01-24 14:24:58,045 - simulator:83 - INFO - [2008-05-21 00:00:00] Current holdings: [[ABK quantity:176; profit:1.0][ABT quantity:20; profit:1.03][MET quantity:9; profit:0.98][CAO quantity:43; profit:0.99][ITRI quantity:5; profit:1.0][dpl quantity:5; profit:0.9]]
+2023-01-24 14:24:58,070 - simulator:118 - INFO - [2008-05-21 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:58,071 - simulator:76 - INFO - [2008-05-22 00:00:00] found in trade days 253. True. False. 139.50999450683594
+2023-01-24 14:24:58,086 - simulator:82 - INFO - [2008-05-22 00:00:00] Current P/L: $-49.8490047454834, %0.9900301990509033
+2023-01-24 14:24:58,089 - simulator:83 - INFO - [2008-05-22 00:00:00] Current holdings: [[ABK quantity:176; profit:1.02][ABT quantity:20; profit:1.03][MET quantity:9; profit:0.99][CAO quantity:43; profit:0.98][ITRI quantity:5; profit:1.0][dpl quantity:5; profit:1]]
+2023-01-24 14:24:58,126 - simulator:118 - INFO - [2008-05-22 00:00:00] 4 interesting insider trades
+2023-01-24 14:24:58,126 - simulator:125 - INFO - [2008-05-22 00:00:00] 1 unique tickers
+2023-01-24 14:24:58,134 - simulator:138 - INFO - [2008-05-22 00:00:00] failed to get price for SEPR
+2023-01-24 14:24:58,135 - simulator:76 - INFO - [2008-05-23 00:00:00] found in trade days 253. True. False. 137.63999938964844
+2023-01-24 14:24:58,146 - simulator:82 - INFO - [2008-05-23 00:00:00] Current P/L: $76.45314407348633, %1.0152906288146972
+2023-01-24 14:24:58,150 - simulator:83 - INFO - [2008-05-23 00:00:00] Current holdings: [[ABK quantity:176; profit:1.02][ABT quantity:20; profit:1.02][MET quantity:9; profit:0.98][CAO quantity:43; profit:1.0][ITRI quantity:5; profit:1.0][dpl quantity:5; profit:0.91]]
+2023-01-24 14:24:58,174 - simulator:118 - INFO - [2008-05-23 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:58,174 - simulator:62 - INFO - [2008-05-24 00:00:00] Skipping weekend
+2023-01-24 14:24:58,174 - simulator:62 - INFO - [2008-05-25 00:00:00] Skipping weekend
+2023-01-24 14:24:58,176 - simulator:72 - INFO - [2008-05-26 00:00:00] Skipping invalid trade day
+2023-01-24 14:24:58,179 - simulator:76 - INFO - [2008-05-27 00:00:00] found in trade days 253. True. False. 138.66000366210938
+2023-01-24 14:24:58,195 - simulator:82 - INFO - [2008-05-27 00:00:00] Current P/L: $69.02633762359619, %1.0138052675247193
+2023-01-24 14:24:58,199 - simulator:83 - INFO - [2008-05-27 00:00:00] Current holdings: [[ABK quantity:176; profit:0.98][ABT quantity:20; profit:1.03][MET quantity:9; profit:0.98][CAO quantity:43; profit:0.97][ITRI quantity:5; profit:1.02][dpl quantity:5; profit:0.9]]
+2023-01-24 14:24:58,226 - simulator:118 - INFO - [2008-05-27 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:58,228 - simulator:76 - INFO - [2008-05-28 00:00:00] found in trade days 253. True. False. 139.3000030517578
+2023-01-24 14:24:58,240 - simulator:82 - INFO - [2008-05-28 00:00:00] Current P/L: $76.81513595581055, %1.015363027191162
+2023-01-24 14:24:58,246 - simulator:83 - INFO - [2008-05-28 00:00:00] Current holdings: [[ABK quantity:176; profit:1.0][ABT quantity:20; profit:1.02][MET quantity:9; profit:0.99][CAO quantity:43; profit:0.97][ITRI quantity:5; profit:1.03][dpl quantity:5; profit:0.9]]
+2023-01-24 14:24:58,271 - simulator:118 - INFO - [2008-05-28 00:00:00] 1 interesting insider trades
+2023-01-24 14:24:58,271 - simulator:125 - INFO - [2008-05-28 00:00:00] 1 unique tickers
+2023-01-24 14:24:58,280 - simulator:138 - INFO - [2008-05-28 00:00:00] failed to get price for VRTU
+2023-01-24 14:24:58,281 - simulator:76 - INFO - [2008-05-29 00:00:00] found in trade days 253. True. False. 140.0
+2023-01-24 14:24:58,292 - simulator:82 - INFO - [2008-05-29 00:00:00] Current P/L: $110.38673400878906, %1.0220773468017579
+2023-01-24 14:24:58,297 - simulator:83 - INFO - [2008-05-29 00:00:00] Current holdings: [[ABK quantity:176; profit:1.02][ABT quantity:20; profit:1.06][MET quantity:9; profit:1.01][CAO quantity:43; profit:0.97][ITRI quantity:5; profit:1.04][dpl quantity:5; profit:0.89]]
+2023-01-24 14:24:58,300 - simulator:100 - INFO - [2008-05-29 00:00:00] TARGET REACHED Selling asset [ABT] for $536.9921493530273. Profit: 1.0558490568302057. Days Held: 24
+2023-01-24 14:24:58,320 - simulator:118 - INFO - [2008-05-29 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:58,321 - simulator:76 - INFO - [2008-05-30 00:00:00] found in trade days 253. True. False. 140.35000610351562
+2023-01-24 14:24:58,334 - simulator:82 - INFO - [2008-05-30 00:00:00] Current P/L: $120.36102867126465, %1.0240722057342528
+2023-01-24 14:24:58,337 - simulator:83 - INFO - [2008-05-30 00:00:00] Current holdings: [[ABK quantity:176; profit:1.02][MET quantity:9; profit:1.0][CAO quantity:43; profit:0.98][ITRI quantity:5; profit:1.06][dpl quantity:5; profit:0.89]]
+2023-01-24 14:24:58,340 - simulator:100 - INFO - [2008-05-30 00:00:00] TARGET REACHED Selling asset [ITRI] for $487.9000091552734. Profit: 1.0582366641351184. Days Held: 23
+2023-01-24 14:24:58,358 - simulator:118 - INFO - [2008-05-30 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:58,359 - simulator:62 - INFO - [2008-05-31 00:00:00] Skipping weekend
+2023-01-24 14:24:58,359 - simulator:62 - INFO - [2008-06-01 00:00:00] Skipping weekend
+2023-01-24 14:24:58,362 - simulator:76 - INFO - [2008-06-02 00:00:00] found in trade days 253. True. False. 138.89999389648438
+2023-01-24 14:24:58,371 - simulator:82 - INFO - [2008-06-02 00:00:00] Current P/L: $116.05764770507812, %1.0232115295410156
+2023-01-24 14:24:58,373 - simulator:83 - INFO - [2008-06-02 00:00:00] Current holdings: [[ABK quantity:176; profit:1.02][MET quantity:9; profit:0.98][CAO quantity:43; profit:0.99][dpl quantity:5; profit:0.88]]
+2023-01-24 14:24:58,393 - simulator:118 - INFO - [2008-06-02 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:58,396 - simulator:76 - INFO - [2008-06-03 00:00:00] found in trade days 253. True. False. 138.08999633789062
+2023-01-24 14:24:58,405 - simulator:82 - INFO - [2008-06-03 00:00:00] Current P/L: $118.37360191345215, %1.0236747203826904
+2023-01-24 14:24:58,407 - simulator:83 - INFO - [2008-06-03 00:00:00] Current holdings: [[ABK quantity:176; profit:1.02][MET quantity:9; profit:0.99][CAO quantity:43; profit:0.99][dpl quantity:5; profit:0.88]]
+2023-01-24 14:24:58,425 - simulator:118 - INFO - [2008-06-03 00:00:00] 9 interesting insider trades
+2023-01-24 14:24:58,425 - simulator:125 - INFO - [2008-06-03 00:00:00] 3 unique tickers
+2023-01-24 14:24:58,433 - simulator:147 - INFO - [2008-06-03 00:00:00] buying BRE for 9.300600051879885. Total: 167.41080093383792
+2023-01-24 14:24:58,438 - simulator:138 - INFO - [2008-06-03 00:00:00] failed to get price for ESV
+2023-01-24 14:24:58,449 - simulator:76 - INFO - [2008-06-04 00:00:00] found in trade days 253. True. False. 138.02000427246094
+2023-01-24 14:24:58,459 - simulator:82 - INFO - [2008-06-04 00:00:00] Current P/L: $113.37316513061523, %1.022674633026123
+2023-01-24 14:24:58,465 - simulator:83 - INFO - [2008-06-04 00:00:00] Current holdings: [[ABK quantity:176; profit:1.02][MET quantity:9; profit:0.98][CAO quantity:43; profit:0.99][dpl quantity:5; profit:0.88][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:58,488 - simulator:118 - INFO - [2008-06-04 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:58,489 - simulator:76 - INFO - [2008-06-05 00:00:00] found in trade days 253. True. False. 140.77999877929688
+2023-01-24 14:24:58,502 - simulator:82 - INFO - [2008-06-05 00:00:00] Current P/L: $128.45556926727295, %1.0256911138534546
+2023-01-24 14:24:58,505 - simulator:83 - INFO - [2008-06-05 00:00:00] Current holdings: [[ABK quantity:176; profit:1.02][MET quantity:9; profit:0.99][CAO quantity:43; profit:1.01][dpl quantity:5; profit:0.88][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:58,528 - simulator:118 - INFO - [2008-06-05 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:58,530 - simulator:76 - INFO - [2008-06-06 00:00:00] found in trade days 253. True. False. 136.2899932861328
+2023-01-24 14:24:58,539 - simulator:82 - INFO - [2008-06-06 00:00:00] Current P/L: $104.73038482666016, %1.020946076965332
+2023-01-24 14:24:58,544 - simulator:83 - INFO - [2008-06-06 00:00:00] Current holdings: [[ABK quantity:176; profit:1.02][MET quantity:9; profit:0.95][CAO quantity:43; profit:1.01][dpl quantity:5; profit:0.87][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:58,570 - simulator:118 - INFO - [2008-06-06 00:00:00] 1 interesting insider trades
+2023-01-24 14:24:58,570 - simulator:125 - INFO - [2008-06-06 00:00:00] 1 unique tickers
+2023-01-24 14:24:58,580 - simulator:62 - INFO - [2008-06-07 00:00:00] Skipping weekend
+2023-01-24 14:24:58,580 - simulator:62 - INFO - [2008-06-08 00:00:00] Skipping weekend
+2023-01-24 14:24:58,581 - simulator:76 - INFO - [2008-06-09 00:00:00] found in trade days 253. True. False. 136.6199951171875
+2023-01-24 14:24:58,591 - simulator:82 - INFO - [2008-06-09 00:00:00] Current P/L: $83.07568073272705, %1.0166151361465454
+2023-01-24 14:24:58,598 - simulator:83 - INFO - [2008-06-09 00:00:00] Current holdings: [[ABK quantity:176; profit:1.02][MET quantity:9; profit:0.95][CAO quantity:43; profit:0.98][dpl quantity:5; profit:0.82][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:58,600 - simulator:96 - INFO - [2008-06-09 00:00:00] STOP LOSS Selling asset [dpl] for $115.50000190734863. Profit: 0.816254452446023. Days Held: 32
+2023-01-24 14:24:58,620 - simulator:118 - INFO - [2008-06-09 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:58,621 - simulator:76 - INFO - [2008-06-10 00:00:00] found in trade days 253. True. False. 135.94000244140625
+2023-01-24 14:24:58,632 - simulator:82 - INFO - [2008-06-10 00:00:00] Current P/L: $92.10817337036133, %1.0184216346740722
+2023-01-24 14:24:58,634 - simulator:83 - INFO - [2008-06-10 00:00:00] Current holdings: [[ABK quantity:176; profit:1.02][MET quantity:9; profit:0.96][CAO quantity:43; profit:0.98][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:58,655 - simulator:118 - INFO - [2008-06-10 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:58,657 - simulator:76 - INFO - [2008-06-11 00:00:00] found in trade days 253. True. False. 133.94000244140625
+2023-01-24 14:24:58,669 - simulator:82 - INFO - [2008-06-11 00:00:00] Current P/L: $87.87956142425537, %1.0175759122848511
+2023-01-24 14:24:58,672 - simulator:83 - INFO - [2008-06-11 00:00:00] Current holdings: [[ABK quantity:176; profit:1.02][MET quantity:9; profit:0.93][CAO quantity:43; profit:1.0][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:58,690 - simulator:118 - INFO - [2008-06-11 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:58,691 - simulator:76 - INFO - [2008-06-12 00:00:00] found in trade days 253. True. False. 134.4499969482422
+2023-01-24 14:24:58,705 - simulator:82 - INFO - [2008-06-12 00:00:00] Current P/L: $87.70673942565918, %1.0175413478851318
+2023-01-24 14:24:58,708 - simulator:83 - INFO - [2008-06-12 00:00:00] Current holdings: [[ABK quantity:176; profit:0.98][MET quantity:9; profit:0.96][CAO quantity:43; profit:0.99][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:58,730 - simulator:118 - INFO - [2008-06-12 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:58,731 - simulator:76 - INFO - [2008-06-13 00:00:00] found in trade days 253. True. False. 136.14999389648438
+2023-01-24 14:24:58,738 - simulator:82 - INFO - [2008-06-13 00:00:00] Current P/L: $102.04882526397705, %1.0204097650527955
+2023-01-24 14:24:58,740 - simulator:83 - INFO - [2008-06-13 00:00:00] Current holdings: [[ABK quantity:176; profit:0.98][MET quantity:9; profit:0.99][CAO quantity:43; profit:0.99][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:58,765 - simulator:118 - INFO - [2008-06-13 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:58,765 - simulator:62 - INFO - [2008-06-14 00:00:00] Skipping weekend
+2023-01-24 14:24:58,765 - simulator:62 - INFO - [2008-06-15 00:00:00] Skipping weekend
+2023-01-24 14:24:58,766 - simulator:76 - INFO - [2008-06-16 00:00:00] found in trade days 253. True. False. 136.22999572753906
+2023-01-24 14:24:58,776 - simulator:82 - INFO - [2008-06-16 00:00:00] Current P/L: $94.61980247497559, %1.0189239604949951
+2023-01-24 14:24:58,780 - simulator:83 - INFO - [2008-06-16 00:00:00] Current holdings: [[ABK quantity:176; profit:1.02][MET quantity:9; profit:0.98][CAO quantity:43; profit:0.97][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:58,800 - simulator:118 - INFO - [2008-06-16 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:58,801 - simulator:76 - INFO - [2008-06-17 00:00:00] found in trade days 253. True. False. 135.57000732421875
+2023-01-24 14:24:58,813 - simulator:82 - INFO - [2008-06-17 00:00:00] Current P/L: $73.36684226989746, %1.0146733684539795
+2023-01-24 14:24:58,815 - simulator:83 - INFO - [2008-06-17 00:00:00] Current holdings: [[ABK quantity:176; profit:1.02][MET quantity:9; profit:0.95][CAO quantity:43; profit:0.95][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:58,837 - simulator:118 - INFO - [2008-06-17 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:58,838 - simulator:76 - INFO - [2008-06-18 00:00:00] found in trade days 253. True. False. 134.25
+2023-01-24 14:24:58,849 - simulator:82 - INFO - [2008-06-18 00:00:00] Current P/L: $70.50039863586426, %1.0141000797271729
+2023-01-24 14:24:58,852 - simulator:83 - INFO - [2008-06-18 00:00:00] Current holdings: [[ABK quantity:176; profit:1.04][MET quantity:9; profit:0.94][CAO quantity:43; profit:0.95][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:58,870 - simulator:118 - INFO - [2008-06-18 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:58,871 - simulator:76 - INFO - [2008-06-19 00:00:00] found in trade days 253. True. False. 134.4199981689453
+2023-01-24 14:24:58,881 - simulator:82 - INFO - [2008-06-19 00:00:00] Current P/L: $74.27853775024414, %1.0148557075500488
+2023-01-24 14:24:58,885 - simulator:83 - INFO - [2008-06-19 00:00:00] Current holdings: [[ABK quantity:176; profit:1.04][MET quantity:9; profit:0.97][CAO quantity:43; profit:0.94][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:58,903 - simulator:118 - INFO - [2008-06-19 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:58,904 - simulator:76 - INFO - [2008-06-20 00:00:00] found in trade days 253. True. False. 131.5800018310547
+2023-01-24 14:24:58,914 - simulator:82 - INFO - [2008-06-20 00:00:00] Current P/L: $60.84016132354736, %1.0121680322647095
+2023-01-24 14:24:58,916 - simulator:83 - INFO - [2008-06-20 00:00:00] Current holdings: [[ABK quantity:176; profit:1.04][MET quantity:9; profit:0.95][CAO quantity:43; profit:0.93][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:58,937 - simulator:118 - INFO - [2008-06-20 00:00:00] 1 interesting insider trades
+2023-01-24 14:24:58,937 - simulator:125 - INFO - [2008-06-20 00:00:00] 1 unique tickers
+2023-01-24 14:24:58,941 - simulator:138 - INFO - [2008-06-20 00:00:00] failed to get price for FCEA/FCEB
+2023-01-24 14:24:58,942 - simulator:62 - INFO - [2008-06-21 00:00:00] Skipping weekend
+2023-01-24 14:24:58,942 - simulator:62 - INFO - [2008-06-22 00:00:00] Skipping weekend
+2023-01-24 14:24:58,945 - simulator:76 - INFO - [2008-06-23 00:00:00] found in trade days 253. True. False. 131.4499969482422
+2023-01-24 14:24:58,954 - simulator:82 - INFO - [2008-06-23 00:00:00] Current P/L: $50.71703338623047, %1.0101434066772461
+2023-01-24 14:24:58,956 - simulator:83 - INFO - [2008-06-23 00:00:00] Current holdings: [[ABK quantity:176; profit:1.04][MET quantity:9; profit:0.93][CAO quantity:43; profit:0.93][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:58,973 - simulator:118 - INFO - [2008-06-23 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:58,974 - simulator:76 - INFO - [2008-06-24 00:00:00] found in trade days 253. True. False. 131.19000244140625
+2023-01-24 14:24:58,986 - simulator:82 - INFO - [2008-06-24 00:00:00] Current P/L: $53.76144599914551, %1.010752289199829
+2023-01-24 14:24:58,989 - simulator:83 - INFO - [2008-06-24 00:00:00] Current holdings: [[ABK quantity:176; profit:1.0][MET quantity:9; profit:0.92][CAO quantity:43; profit:0.95][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:59,006 - simulator:118 - INFO - [2008-06-24 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:59,007 - simulator:76 - INFO - [2008-06-25 00:00:00] found in trade days 253. True. False. 131.80999755859375
+2023-01-24 14:24:59,016 - simulator:82 - INFO - [2008-06-25 00:00:00] Current P/L: $69.2390947341919, %1.0138478189468383
+2023-01-24 14:24:59,018 - simulator:83 - INFO - [2008-06-25 00:00:00] Current holdings: [[ABK quantity:176; profit:1.02][MET quantity:9; profit:0.94][CAO quantity:43; profit:0.96][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:59,035 - simulator:118 - INFO - [2008-06-25 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:59,036 - simulator:76 - INFO - [2008-06-26 00:00:00] found in trade days 253. True. False. 128.22999572753906
+2023-01-24 14:24:59,048 - simulator:82 - INFO - [2008-06-26 00:00:00] Current P/L: $46.211233139038086, %1.0092422466278077
+2023-01-24 14:24:59,051 - simulator:83 - INFO - [2008-06-26 00:00:00] Current holdings: [[ABK quantity:176; profit:1.02][MET quantity:9; profit:0.91][CAO quantity:43; profit:0.94][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:59,069 - simulator:118 - INFO - [2008-06-26 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:59,070 - simulator:76 - INFO - [2008-06-27 00:00:00] found in trade days 253. True. False. 127.52999877929688
+2023-01-24 14:24:59,080 - simulator:82 - INFO - [2008-06-27 00:00:00] Current P/L: $10.617745399475098, %1.002123549079895
+2023-01-24 14:24:59,082 - simulator:83 - INFO - [2008-06-27 00:00:00] Current holdings: [[ABK quantity:176; profit:1.02][MET quantity:9; profit:0.89][CAO quantity:43; profit:0.89][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:59,099 - simulator:118 - INFO - [2008-06-27 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:59,099 - simulator:62 - INFO - [2008-06-28 00:00:00] Skipping weekend
+2023-01-24 14:24:59,100 - simulator:62 - INFO - [2008-06-29 00:00:00] Skipping weekend
+2023-01-24 14:24:59,100 - simulator:76 - INFO - [2008-06-30 00:00:00] found in trade days 253. True. False. 127.9800033569336
+2023-01-24 14:24:59,110 - simulator:82 - INFO - [2008-06-30 00:00:00] Current P/L: $-22.623571395874023, %0.9954752857208252
+2023-01-24 14:24:59,113 - simulator:83 - INFO - [2008-06-30 00:00:00] Current holdings: [[ABK quantity:176; profit:1.04][MET quantity:9; profit:0.88][CAO quantity:43; profit:0.83][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:59,116 - simulator:96 - INFO - [2008-06-30 00:00:00] STOP LOSS Selling asset [CAO] for $416.5027103424072. Profit: 0.8312544650796703. Days Held: 59
+2023-01-24 14:24:59,135 - simulator:118 - INFO - [2008-06-30 00:00:00] 2 interesting insider trades
+2023-01-24 14:24:59,135 - simulator:125 - INFO - [2008-06-30 00:00:00] 2 unique tickers
+2023-01-24 14:24:59,140 - simulator:138 - INFO - [2008-06-30 00:00:00] failed to get price for UPL
+2023-01-24 14:24:59,146 - simulator:138 - INFO - [2008-06-30 00:00:00] failed to get price for TXCO
+2023-01-24 14:24:59,149 - simulator:76 - INFO - [2008-07-01 00:00:00] found in trade days 253. True. False. 128.3800048828125
+2023-01-24 14:24:59,157 - simulator:82 - INFO - [2008-07-01 00:00:00] Current P/L: $-24.54868507385254, %0.9950902629852295
+2023-01-24 14:24:59,159 - simulator:83 - INFO - [2008-07-01 00:00:00] Current holdings: [[ABK quantity:176; profit:1.04][MET quantity:9; profit:0.87][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:59,175 - simulator:118 - INFO - [2008-07-01 00:00:00] 1 interesting insider trades
+2023-01-24 14:24:59,176 - simulator:125 - INFO - [2008-07-01 00:00:00] 1 unique tickers
+2023-01-24 14:24:59,181 - simulator:138 - INFO - [2008-07-01 00:00:00] failed to get price for UPL
+2023-01-24 14:24:59,183 - simulator:76 - INFO - [2008-07-02 00:00:00] found in trade days 253. True. False. 126.18000030517578
+2023-01-24 14:24:59,190 - simulator:82 - INFO - [2008-07-02 00:00:00] Current P/L: $-26.248477935791016, %0.9947503044128418
+2023-01-24 14:24:59,192 - simulator:83 - INFO - [2008-07-02 00:00:00] Current holdings: [[ABK quantity:176; profit:1.02][MET quantity:9; profit:0.88][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:59,206 - simulator:118 - INFO - [2008-07-02 00:00:00] 1 interesting insider trades
+2023-01-24 14:24:59,206 - simulator:125 - INFO - [2008-07-02 00:00:00] 1 unique tickers
+2023-01-24 14:24:59,212 - simulator:76 - INFO - [2008-07-03 00:00:00] found in trade days 253. True. False. 126.30999755859376
+2023-01-24 14:24:59,218 - simulator:82 - INFO - [2008-07-03 00:00:00] Current P/L: $-31.735363960266113, %0.9936529272079467
+2023-01-24 14:24:59,220 - simulator:83 - INFO - [2008-07-03 00:00:00] Current holdings: [[ABK quantity:176; profit:0.98][MET quantity:9; profit:0.88][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:59,235 - simulator:118 - INFO - [2008-07-03 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:59,235 - simulator:72 - INFO - [2008-07-04 00:00:00] Skipping invalid trade day
+2023-01-24 14:24:59,235 - simulator:62 - INFO - [2008-07-05 00:00:00] Skipping weekend
+2023-01-24 14:24:59,235 - simulator:62 - INFO - [2008-07-06 00:00:00] Skipping weekend
+2023-01-24 14:24:59,236 - simulator:76 - INFO - [2008-07-07 00:00:00] found in trade days 253. True. False. 125.0199966430664
+2023-01-24 14:24:59,243 - simulator:82 - INFO - [2008-07-07 00:00:00] Current P/L: $-29.216400146484375, %0.9941567199707031
+2023-01-24 14:24:59,246 - simulator:83 - INFO - [2008-07-07 00:00:00] Current holdings: [[ABK quantity:176; profit:1.02][MET quantity:9; profit:0.87][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:59,260 - simulator:118 - INFO - [2008-07-07 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:59,262 - simulator:76 - INFO - [2008-07-08 00:00:00] found in trade days 253. True. False. 127.23999786376952
+2023-01-24 14:24:59,271 - simulator:82 - INFO - [2008-07-08 00:00:00] Current P/L: $-22.430562019348145, %0.9955138875961304
+2023-01-24 14:24:59,273 - simulator:83 - INFO - [2008-07-08 00:00:00] Current holdings: [[ABK quantity:176; profit:0.98][MET quantity:9; profit:0.9][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:59,288 - simulator:118 - INFO - [2008-07-08 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:59,289 - simulator:76 - INFO - [2008-07-09 00:00:00] found in trade days 253. True. False. 124.79000091552734
+2023-01-24 14:24:59,298 - simulator:82 - INFO - [2008-07-09 00:00:00] Current P/L: $-29.875136375427246, %0.9940249727249145
+2023-01-24 14:24:59,300 - simulator:83 - INFO - [2008-07-09 00:00:00] Current holdings: [[ABK quantity:176; profit:1.0][MET quantity:9; profit:0.87][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:59,317 - simulator:118 - INFO - [2008-07-09 00:00:00] 1 interesting insider trades
+2023-01-24 14:24:59,317 - simulator:125 - INFO - [2008-07-09 00:00:00] 1 unique tickers
+2023-01-24 14:24:59,320 - simulator:138 - INFO - [2008-07-09 00:00:00] failed to get price for CYCL
+2023-01-24 14:24:59,321 - simulator:76 - INFO - [2008-07-10 00:00:00] found in trade days 253. True. False. 125.3000030517578
+2023-01-24 14:24:59,328 - simulator:82 - INFO - [2008-07-10 00:00:00] Current P/L: $-34.06154727935791, %0.9931876905441284
+2023-01-24 14:24:59,332 - simulator:83 - INFO - [2008-07-10 00:00:00] Current holdings: [[ABK quantity:176; profit:0.98][MET quantity:9; profit:0.87][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:59,348 - simulator:118 - INFO - [2008-07-10 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:59,349 - simulator:76 - INFO - [2008-07-11 00:00:00] found in trade days 253. True. False. 123.83999633789062
+2023-01-24 14:24:59,355 - simulator:82 - INFO - [2008-07-11 00:00:00] Current P/L: $-45.291497230529785, %0.9909417005538941
+2023-01-24 14:24:59,357 - simulator:83 - INFO - [2008-07-11 00:00:00] Current holdings: [[ABK quantity:176; profit:0.98][MET quantity:9; profit:0.85][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:59,359 - simulator:96 - INFO - [2008-07-11 00:00:00] STOP LOSS Selling asset [MET] for $409.5722007751465. Profit: 0.848172756955431. Days Held: 78
+2023-01-24 14:24:59,373 - simulator:118 - INFO - [2008-07-11 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:59,373 - simulator:62 - INFO - [2008-07-12 00:00:00] Skipping weekend
+2023-01-24 14:24:59,373 - simulator:62 - INFO - [2008-07-13 00:00:00] Skipping weekend
+2023-01-24 14:24:59,375 - simulator:76 - INFO - [2008-07-14 00:00:00] found in trade days 253. True. False. 122.72000122070312
+2023-01-24 14:24:59,380 - simulator:82 - INFO - [2008-07-14 00:00:00] Current P/L: $-42.308295249938965, %0.9915383409500123
+2023-01-24 14:24:59,382 - simulator:83 - INFO - [2008-07-14 00:00:00] Current holdings: [[ABK quantity:176; profit:1.0][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:59,395 - simulator:118 - INFO - [2008-07-14 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:59,397 - simulator:76 - INFO - [2008-07-15 00:00:00] found in trade days 253. True. False. 120.98999786376952
+2023-01-24 14:24:59,402 - simulator:82 - INFO - [2008-07-15 00:00:00] Current P/L: $-42.308295249938965, %0.9915383409500123
+2023-01-24 14:24:59,403 - simulator:83 - INFO - [2008-07-15 00:00:00] Current holdings: [[ABK quantity:176; profit:1.0][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:59,416 - simulator:118 - INFO - [2008-07-15 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:59,418 - simulator:76 - INFO - [2008-07-16 00:00:00] found in trade days 253. True. False. 123.95999908447266
+2023-01-24 14:24:59,424 - simulator:82 - INFO - [2008-07-16 00:00:00] Current P/L: $-42.308295249938965, %0.9915383409500123
+2023-01-24 14:24:59,426 - simulator:83 - INFO - [2008-07-16 00:00:00] Current holdings: [[ABK quantity:176; profit:1.0][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:59,439 - simulator:118 - INFO - [2008-07-16 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:59,440 - simulator:76 - INFO - [2008-07-17 00:00:00] found in trade days 253. True. False. 125.1999969482422
+2023-01-24 14:24:59,446 - simulator:82 - INFO - [2008-07-17 00:00:00] Current P/L: $-45.291497230529785, %0.9909417005538941
+2023-01-24 14:24:59,449 - simulator:83 - INFO - [2008-07-17 00:00:00] Current holdings: [[ABK quantity:176; profit:0.98][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:59,465 - simulator:118 - INFO - [2008-07-17 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:59,466 - simulator:76 - INFO - [2008-07-18 00:00:00] found in trade days 253. True. False. 125.9800033569336
+2023-01-24 14:24:59,471 - simulator:82 - INFO - [2008-07-18 00:00:00] Current P/L: $-45.291497230529785, %0.9909417005538941
+2023-01-24 14:24:59,473 - simulator:83 - INFO - [2008-07-18 00:00:00] Current holdings: [[ABK quantity:176; profit:0.98][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:59,486 - simulator:118 - INFO - [2008-07-18 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:59,486 - simulator:62 - INFO - [2008-07-19 00:00:00] Skipping weekend
+2023-01-24 14:24:59,486 - simulator:62 - INFO - [2008-07-20 00:00:00] Skipping weekend
+2023-01-24 14:24:59,487 - simulator:76 - INFO - [2008-07-21 00:00:00] found in trade days 253. True. False. 126.0500030517578
+2023-01-24 14:24:59,492 - simulator:82 - INFO - [2008-07-21 00:00:00] Current P/L: $-39.323341369628906, %0.9921353317260743
+2023-01-24 14:24:59,494 - simulator:83 - INFO - [2008-07-21 00:00:00] Current holdings: [[ABK quantity:176; profit:1.02][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:59,505 - simulator:118 - INFO - [2008-07-21 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:59,506 - simulator:76 - INFO - [2008-07-22 00:00:00] found in trade days 253. True. False. 127.4800033569336
+2023-01-24 14:24:59,513 - simulator:82 - INFO - [2008-07-22 00:00:00] Current P/L: $-45.291497230529785, %0.9909417005538941
+2023-01-24 14:24:59,515 - simulator:83 - INFO - [2008-07-22 00:00:00] Current holdings: [[ABK quantity:176; profit:0.98][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:59,525 - simulator:118 - INFO - [2008-07-22 00:00:00] 1 interesting insider trades
+2023-01-24 14:24:59,526 - simulator:125 - INFO - [2008-07-22 00:00:00] 1 unique tickers
+2023-01-24 14:24:59,530 - simulator:138 - INFO - [2008-07-22 00:00:00] failed to get price for HCF
+2023-01-24 14:24:59,531 - simulator:76 - INFO - [2008-07-23 00:00:00] found in trade days 253. True. False. 128.1699981689453
+2023-01-24 14:24:59,535 - simulator:82 - INFO - [2008-07-23 00:00:00] Current P/L: $-39.323341369628906, %0.9921353317260743
+2023-01-24 14:24:59,536 - simulator:83 - INFO - [2008-07-23 00:00:00] Current holdings: [[ABK quantity:176; profit:1.02][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:59,549 - simulator:118 - INFO - [2008-07-23 00:00:00] 1 interesting insider trades
+2023-01-24 14:24:59,549 - simulator:125 - INFO - [2008-07-23 00:00:00] 1 unique tickers
+2023-01-24 14:24:59,552 - simulator:138 - INFO - [2008-07-23 00:00:00] failed to get price for METH
+2023-01-24 14:24:59,553 - simulator:76 - INFO - [2008-07-24 00:00:00] found in trade days 253. True. False. 125.51000213623048
+2023-01-24 14:24:59,559 - simulator:82 - INFO - [2008-07-24 00:00:00] Current P/L: $-42.308295249938965, %0.9915383409500123
+2023-01-24 14:24:59,561 - simulator:83 - INFO - [2008-07-24 00:00:00] Current holdings: [[ABK quantity:176; profit:1.0][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:59,573 - simulator:118 - INFO - [2008-07-24 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:59,574 - simulator:76 - INFO - [2008-07-25 00:00:00] found in trade days 253. True. False. 125.4800033569336
+2023-01-24 14:24:59,582 - simulator:82 - INFO - [2008-07-25 00:00:00] Current P/L: $-42.308295249938965, %0.9915383409500123
+2023-01-24 14:24:59,583 - simulator:83 - INFO - [2008-07-25 00:00:00] Current holdings: [[ABK quantity:176; profit:1.0][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:59,594 - simulator:118 - INFO - [2008-07-25 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:59,594 - simulator:62 - INFO - [2008-07-26 00:00:00] Skipping weekend
+2023-01-24 14:24:59,594 - simulator:62 - INFO - [2008-07-27 00:00:00] Skipping weekend
+2023-01-24 14:24:59,597 - simulator:76 - INFO - [2008-07-28 00:00:00] found in trade days 253. True. False. 123.63999938964844
+2023-01-24 14:24:59,602 - simulator:82 - INFO - [2008-07-28 00:00:00] Current P/L: $-42.308295249938965, %0.9915383409500123
+2023-01-24 14:24:59,603 - simulator:83 - INFO - [2008-07-28 00:00:00] Current holdings: [[ABK quantity:176; profit:1.0][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:59,617 - simulator:118 - INFO - [2008-07-28 00:00:00] 1 interesting insider trades
+2023-01-24 14:24:59,617 - simulator:125 - INFO - [2008-07-28 00:00:00] 1 unique tickers
+2023-01-24 14:24:59,622 - simulator:147 - INFO - [2008-07-28 00:00:00] buying MET for 44.82174682617188. Total: 493.0392150878907
+2023-01-24 14:24:59,624 - simulator:76 - INFO - [2008-07-29 00:00:00] found in trade days 253. True. False. 126.27999877929688
+2023-01-24 14:24:59,635 - simulator:82 - INFO - [2008-07-29 00:00:00] Current P/L: $-17.602396965026855, %0.9964795206069946
+2023-01-24 14:24:59,637 - simulator:83 - INFO - [2008-07-29 00:00:00] Current holdings: [[ABK quantity:176; profit:1.0][MET quantity:11; profit:1.05][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:59,639 - simulator:100 - INFO - [2008-07-29 00:00:00] TARGET REACHED Selling asset [MET] for $517.7451133728027. Profit: 1.050109398053678. Days Held: 1
+2023-01-24 14:24:59,653 - simulator:118 - INFO - [2008-07-29 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:59,655 - simulator:76 - INFO - [2008-07-30 00:00:00] found in trade days 253. True. False. 128.52999877929688
+2023-01-24 14:24:59,660 - simulator:82 - INFO - [2008-07-30 00:00:00] Current P/L: $-20.585598945617676, %0.9958828802108765
+2023-01-24 14:24:59,662 - simulator:83 - INFO - [2008-07-30 00:00:00] Current holdings: [[ABK quantity:176; profit:0.98][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:59,676 - simulator:118 - INFO - [2008-07-30 00:00:00] 2 interesting insider trades
+2023-01-24 14:24:59,677 - simulator:125 - INFO - [2008-07-30 00:00:00] 1 unique tickers
+2023-01-24 14:24:59,682 - simulator:76 - INFO - [2008-07-31 00:00:00] found in trade days 253. True. False. 126.83000183105467
+2023-01-24 14:24:59,686 - simulator:82 - INFO - [2008-07-31 00:00:00] Current P/L: $-20.585598945617676, %0.9958828802108765
+2023-01-24 14:24:59,687 - simulator:83 - INFO - [2008-07-31 00:00:00] Current holdings: [[ABK quantity:176; profit:0.98][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:59,698 - simulator:118 - INFO - [2008-07-31 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:59,699 - simulator:76 - INFO - [2008-08-01 00:00:00] found in trade days 253. True. False. 126.16000366210938
+2023-01-24 14:24:59,704 - simulator:82 - INFO - [2008-08-01 00:00:00] Current P/L: $-20.585598945617676, %0.9958828802108765
+2023-01-24 14:24:59,705 - simulator:83 - INFO - [2008-08-01 00:00:00] Current holdings: [[ABK quantity:176; profit:0.98][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:59,716 - simulator:118 - INFO - [2008-08-01 00:00:00] 1 interesting insider trades
+2023-01-24 14:24:59,716 - simulator:125 - INFO - [2008-08-01 00:00:00] 1 unique tickers
+2023-01-24 14:24:59,719 - simulator:138 - INFO - [2008-08-01 00:00:00] failed to get price for INDM
+2023-01-24 14:24:59,719 - simulator:62 - INFO - [2008-08-02 00:00:00] Skipping weekend
+2023-01-24 14:24:59,719 - simulator:62 - INFO - [2008-08-03 00:00:00] Skipping weekend
+2023-01-24 14:24:59,720 - simulator:76 - INFO - [2008-08-04 00:00:00] found in trade days 253. True. False. 124.98999786376952
+2023-01-24 14:24:59,724 - simulator:82 - INFO - [2008-08-04 00:00:00] Current P/L: $-20.585598945617676, %0.9958828802108765
+2023-01-24 14:24:59,726 - simulator:83 - INFO - [2008-08-04 00:00:00] Current holdings: [[ABK quantity:176; profit:0.98][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:59,741 - simulator:118 - INFO - [2008-08-04 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:59,743 - simulator:76 - INFO - [2008-08-05 00:00:00] found in trade days 253. True. False. 128.36000061035156
+2023-01-24 14:24:59,750 - simulator:82 - INFO - [2008-08-05 00:00:00] Current P/L: $-20.585598945617676, %0.9958828802108765
+2023-01-24 14:24:59,752 - simulator:83 - INFO - [2008-08-05 00:00:00] Current holdings: [[ABK quantity:176; profit:0.98][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:59,766 - simulator:118 - INFO - [2008-08-05 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:59,767 - simulator:76 - INFO - [2008-08-06 00:00:00] found in trade days 253. True. False. 128.92999267578125
+2023-01-24 14:24:59,771 - simulator:82 - INFO - [2008-08-06 00:00:00] Current P/L: $-23.568800926208496, %0.9952862398147583
+2023-01-24 14:24:59,772 - simulator:83 - INFO - [2008-08-06 00:00:00] Current holdings: [[ABK quantity:176; profit:0.96][BRE quantity:18; profit:1.0]]
+2023-01-24 14:24:59,773 - simulator:103 - INFO - [2008-08-06 00:00:00] EXPIRED Selling asset [ABK] for $161.12975978851318. Profit: 0.964293591023914. Days Held: 90
+2023-01-24 14:24:59,783 - simulator:118 - INFO - [2008-08-06 00:00:00] 1 interesting insider trades
+2023-01-24 14:24:59,783 - simulator:125 - INFO - [2008-08-06 00:00:00] 1 unique tickers
+2023-01-24 14:24:59,786 - simulator:147 - INFO - [2008-08-06 00:00:00] buying LSCG for 4.079999923706055. Total: 493.6799907684326
+2023-01-24 14:24:59,789 - simulator:76 - INFO - [2008-08-07 00:00:00] found in trade days 253. True. False. 127.01000213623048
+2023-01-24 14:24:59,794 - simulator:82 - INFO - [2008-08-07 00:00:00] Current P/L: $-51.39880323410034, %0.98972023935318
+2023-01-24 14:24:59,798 - simulator:83 - INFO - [2008-08-07 00:00:00] Current holdings: [[BRE quantity:18; profit:1.0][LSCG quantity:121; profit:0.94]]
+2023-01-24 14:24:59,807 - simulator:118 - INFO - [2008-08-07 00:00:00] 1 interesting insider trades
+2023-01-24 14:24:59,807 - simulator:125 - INFO - [2008-08-07 00:00:00] 1 unique tickers
+2023-01-24 14:24:59,811 - simulator:138 - INFO - [2008-08-07 00:00:00] failed to get price for BEAV
+2023-01-24 14:24:59,812 - simulator:76 - INFO - [2008-08-08 00:00:00] found in trade days 253. True. False. 129.3699951171875
+2023-01-24 14:24:59,817 - simulator:82 - INFO - [2008-08-08 00:00:00] Current P/L: $-39.2987859249115, %0.9921402428150177
+2023-01-24 14:24:59,818 - simulator:83 - INFO - [2008-08-08 00:00:00] Current holdings: [[BRE quantity:18; profit:1.0][LSCG quantity:121; profit:0.97]]
+2023-01-24 14:24:59,829 - simulator:118 - INFO - [2008-08-08 00:00:00] 3 interesting insider trades
+2023-01-24 14:24:59,829 - simulator:125 - INFO - [2008-08-08 00:00:00] 2 unique tickers
+2023-01-24 14:24:59,832 - simulator:138 - INFO - [2008-08-08 00:00:00] failed to get price for DNEX
+2023-01-24 14:24:59,836 - simulator:62 - INFO - [2008-08-09 00:00:00] Skipping weekend
+2023-01-24 14:24:59,836 - simulator:62 - INFO - [2008-08-10 00:00:00] Skipping weekend
+2023-01-24 14:24:59,837 - simulator:76 - INFO - [2008-08-11 00:00:00] found in trade days 253. True. False. 130.7100067138672
+2023-01-24 14:24:59,843 - simulator:82 - INFO - [2008-08-11 00:00:00] Current P/L: $-45.348780155181885, %0.9909302439689637
+2023-01-24 14:24:59,845 - simulator:83 - INFO - [2008-08-11 00:00:00] Current holdings: [[BRE quantity:18; profit:1.0][LSCG quantity:121; profit:0.96]]
+2023-01-24 14:24:59,856 - simulator:118 - INFO - [2008-08-11 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:59,857 - simulator:76 - INFO - [2008-08-12 00:00:00] found in trade days 253. True. False. 129.35000610351562
+2023-01-24 14:24:59,865 - simulator:82 - INFO - [2008-08-12 00:00:00] Current P/L: $-45.348780155181885, %0.9909302439689637
+2023-01-24 14:24:59,866 - simulator:83 - INFO - [2008-08-12 00:00:00] Current holdings: [[BRE quantity:18; profit:1.0][LSCG quantity:121; profit:0.96]]
+2023-01-24 14:24:59,877 - simulator:118 - INFO - [2008-08-12 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:59,879 - simulator:76 - INFO - [2008-08-13 00:00:00] found in trade days 253. True. False. 128.57000732421875
+2023-01-24 14:24:59,885 - simulator:82 - INFO - [2008-08-13 00:00:00] Current P/L: $-57.44879746437073, %0.9885102405071259
+2023-01-24 14:24:59,886 - simulator:83 - INFO - [2008-08-13 00:00:00] Current holdings: [[BRE quantity:18; profit:1.0][LSCG quantity:121; profit:0.93]]
+2023-01-24 14:24:59,899 - simulator:118 - INFO - [2008-08-13 00:00:00] 1 interesting insider trades
+2023-01-24 14:24:59,899 - simulator:125 - INFO - [2008-08-13 00:00:00] 1 unique tickers
+2023-01-24 14:24:59,901 - simulator:138 - INFO - [2008-08-13 00:00:00] failed to get price for BHI
+2023-01-24 14:24:59,902 - simulator:76 - INFO - [2008-08-14 00:00:00] found in trade days 253. True. False. 129.5399932861328
+2023-01-24 14:24:59,907 - simulator:82 - INFO - [2008-08-14 00:00:00] Current P/L: $-57.44879746437073, %0.9885102405071259
+2023-01-24 14:24:59,908 - simulator:83 - INFO - [2008-08-14 00:00:00] Current holdings: [[BRE quantity:18; profit:1.0][LSCG quantity:121; profit:0.93]]
+2023-01-24 14:24:59,919 - simulator:118 - INFO - [2008-08-14 00:00:00] 0 interesting insider trades
+2023-01-24 14:24:59,919 - simulator:76 - INFO - [2008-08-15 00:00:00] found in trade days 253. True. False. 130.1699981689453
+2023-01-24 14:24:59,923 - simulator:82 - INFO - [2008-08-15 00:00:00] Current P/L: $-63.49879169464111, %0.9873002416610718
+2023-01-24 14:24:59,925 - simulator:83 - INFO - [2008-08-15 00:00:00] Current holdings: [[BRE quantity:18; profit:1.0][LSCG quantity:121; profit:0.92]]
+2023-01-24 14:24:59,935 - simulator:118 - INFO - [2008-08-15 00:00:00] 2 interesting insider trades
+2023-01-24 14:24:59,936 - simulator:125 - INFO - [2008-08-15 00:00:00] 1 unique tickers
+2023-01-24 14:24:59,938 - simulator:62 - INFO - [2008-08-16 00:00:00] Skipping weekend
+2023-01-24 14:24:59,938 - simulator:62 - INFO - [2008-08-17 00:00:00] Skipping weekend
+2023-01-24 14:24:59,939 - simulator:76 - INFO - [2008-08-18 00:00:00] found in trade days 253. True. False. 128.38999938964844
+2023-01-24 14:24:59,946 - simulator:82 - INFO - [2008-08-18 00:00:00] Current P/L: $-93.74879169464111, %0.9812502416610718
+2023-01-24 14:24:59,948 - simulator:83 - INFO - [2008-08-18 00:00:00] Current holdings: [[BRE quantity:18; profit:1.0][LSCG quantity:121; profit:0.86]]
+2023-01-24 14:24:59,957 - simulator:118 - INFO - [2008-08-18 00:00:00] 1 interesting insider trades
+2023-01-24 14:24:59,958 - simulator:125 - INFO - [2008-08-18 00:00:00] 1 unique tickers
+2023-01-24 14:24:59,964 - simulator:147 - INFO - [2008-08-18 00:00:00] buying EAT for 20.190000534057617. Total: 484.5600128173828
+2023-01-24 14:24:59,966 - simulator:76 - INFO - [2008-08-19 00:00:00] found in trade days 253. True. False. 126.98999786376952
+2023-01-24 14:24:59,972 - simulator:82 - INFO - [2008-08-19 00:00:00] Current P/L: $-137.67878437042236, %0.9724642431259155
+2023-01-24 14:24:59,975 - simulator:83 - INFO - [2008-08-19 00:00:00] Current holdings: [[BRE quantity:18; profit:1.0][LSCG quantity:121; profit:0.8][EAT quantity:24; profit:0.97]]
+2023-01-24 14:24:59,980 - simulator:96 - INFO - [2008-08-19 00:00:00] STOP LOSS Selling asset [LSCG] for $393.25. Profit: 0.7965686423464129. Days Held: 13
+2023-01-24 14:24:59,990 - simulator:118 - INFO - [2008-08-19 00:00:00] 4 interesting insider trades
+2023-01-24 14:24:59,991 - simulator:125 - INFO - [2008-08-19 00:00:00] 1 unique tickers
+2023-01-24 14:24:59,996 - simulator:147 - INFO - [2008-08-19 00:00:00] buying CAH for 55.68000030517578. Total: 445.44000244140625
+2023-01-24 14:24:59,998 - simulator:76 - INFO - [2008-08-20 00:00:00] found in trade days 253. True. False. 127.58000183105467
+2023-01-24 14:25:00,007 - simulator:82 - INFO - [2008-08-20 00:00:00] Current P/L: $-150.71879291534424, %0.9698562414169312
+2023-01-24 14:25:00,015 - simulator:83 - INFO - [2008-08-20 00:00:00] Current holdings: [[BRE quantity:18; profit:1.0][EAT quantity:24; profit:0.95][CAH quantity:8; profit:0.99]]
+2023-01-24 14:25:00,034 - simulator:118 - INFO - [2008-08-20 00:00:00] 2 interesting insider trades
+2023-01-24 14:25:00,034 - simulator:125 - INFO - [2008-08-20 00:00:00] 2 unique tickers
+2023-01-24 14:25:00,039 - simulator:138 - INFO - [2008-08-20 00:00:00] failed to get price for SOYL
+2023-01-24 14:25:00,043 - simulator:138 - INFO - [2008-08-20 00:00:00] failed to get price for SEPR
+2023-01-24 14:25:00,045 - simulator:76 - INFO - [2008-08-21 00:00:00] found in trade days 253. True. False. 127.8000030517578
+2023-01-24 14:25:00,055 - simulator:82 - INFO - [2008-08-21 00:00:00] Current P/L: $-164.23879718780518, %0.967152240562439
+2023-01-24 14:25:00,058 - simulator:83 - INFO - [2008-08-21 00:00:00] Current holdings: [[BRE quantity:18; profit:1.0][EAT quantity:24; profit:0.92][CAH quantity:8; profit:1.0]]
+2023-01-24 14:25:00,075 - simulator:118 - INFO - [2008-08-21 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:00,077 - simulator:76 - INFO - [2008-08-22 00:00:00] found in trade days 253. True. False. 129.64999389648438
+2023-01-24 14:25:00,085 - simulator:82 - INFO - [2008-08-22 00:00:00] Current P/L: $-133.91882038116455, %0.973216235923767
+2023-01-24 14:25:00,088 - simulator:83 - INFO - [2008-08-22 00:00:00] Current holdings: [[BRE quantity:18; profit:1.0][EAT quantity:24; profit:0.97][CAH quantity:8; profit:1.01]]
+2023-01-24 14:25:00,104 - simulator:118 - INFO - [2008-08-22 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:00,104 - simulator:62 - INFO - [2008-08-23 00:00:00] Skipping weekend
+2023-01-24 14:25:00,104 - simulator:62 - INFO - [2008-08-24 00:00:00] Skipping weekend
+2023-01-24 14:25:00,105 - simulator:76 - INFO - [2008-08-25 00:00:00] found in trade days 253. True. False. 127.0199966430664
+2023-01-24 14:25:00,115 - simulator:82 - INFO - [2008-08-25 00:00:00] Current P/L: $-160.798810005188, %0.9678402379989623
+2023-01-24 14:25:00,116 - simulator:83 - INFO - [2008-08-25 00:00:00] Current holdings: [[BRE quantity:18; profit:1.0][EAT quantity:24; profit:0.93][CAH quantity:8; profit:0.99]]
+2023-01-24 14:25:00,130 - simulator:118 - INFO - [2008-08-25 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:00,132 - simulator:76 - INFO - [2008-08-26 00:00:00] found in trade days 253. True. False. 127.38999938964844
+2023-01-24 14:25:00,137 - simulator:82 - INFO - [2008-08-26 00:00:00] Current P/L: $-172.87882709503174, %0.9654242345809937
+2023-01-24 14:25:00,139 - simulator:83 - INFO - [2008-08-26 00:00:00] Current holdings: [[BRE quantity:18; profit:1.0][EAT quantity:24; profit:0.91][CAH quantity:8; profit:0.99]]
+2023-01-24 14:25:00,153 - simulator:118 - INFO - [2008-08-26 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:00,154 - simulator:76 - INFO - [2008-08-27 00:00:00] found in trade days 253. True. False. 128.6300048828125
+2023-01-24 14:25:00,160 - simulator:82 - INFO - [2008-08-27 00:00:00] Current P/L: $-174.23879718780518, %0.965152240562439
+2023-01-24 14:25:00,163 - simulator:83 - INFO - [2008-08-27 00:00:00] Current holdings: [[BRE quantity:18; profit:1.0][EAT quantity:24; profit:0.9][CAH quantity:8; profit:0.99]]
+2023-01-24 14:25:00,177 - simulator:118 - INFO - [2008-08-27 00:00:00] 1 interesting insider trades
+2023-01-24 14:25:00,178 - simulator:125 - INFO - [2008-08-27 00:00:00] 1 unique tickers
+2023-01-24 14:25:00,183 - simulator:147 - INFO - [2008-08-27 00:00:00] buying NI for 6.534380912780762. Total: 477.0098066329956
+2023-01-24 14:25:00,184 - simulator:76 - INFO - [2008-08-28 00:00:00] found in trade days 253. True. False. 130.19000244140625
+2023-01-24 14:25:00,192 - simulator:82 - INFO - [2008-08-28 00:00:00] Current P/L: $-147.37037181854248, %0.9705259256362915
+2023-01-24 14:25:00,195 - simulator:83 - INFO - [2008-08-28 00:00:00] Current holdings: [[NI quantity:73; profit:1.01][BRE quantity:18; profit:1.0][EAT quantity:24; profit:0.95][CAH quantity:8; profit:1.0]]
+2023-01-24 14:25:00,215 - simulator:118 - INFO - [2008-08-28 00:00:00] 2 interesting insider trades
+2023-01-24 14:25:00,215 - simulator:125 - INFO - [2008-08-28 00:00:00] 2 unique tickers
+2023-01-24 14:25:00,229 - simulator:76 - INFO - [2008-08-29 00:00:00] found in trade days 253. True. False. 128.7899932861328
+2023-01-24 14:25:00,237 - simulator:82 - INFO - [2008-08-29 00:00:00] Current P/L: $-164.38135433197021, %0.967123729133606
+2023-01-24 14:25:00,239 - simulator:83 - INFO - [2008-08-29 00:00:00] Current holdings: [[NI quantity:73; profit:0.99][BRE quantity:18; profit:1.0][EAT quantity:24; profit:0.94][CAH quantity:8; profit:0.99]]
+2023-01-24 14:25:00,263 - simulator:118 - INFO - [2008-08-29 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:00,264 - simulator:62 - INFO - [2008-08-30 00:00:00] Skipping weekend
+2023-01-24 14:25:00,264 - simulator:62 - INFO - [2008-08-31 00:00:00] Skipping weekend
+2023-01-24 14:25:00,264 - simulator:72 - INFO - [2008-09-01 00:00:00] Skipping invalid trade day
+2023-01-24 14:25:00,265 - simulator:76 - INFO - [2008-09-02 00:00:00] found in trade days 253. True. False. 127.98999786376952
+2023-01-24 14:25:00,273 - simulator:82 - INFO - [2008-09-02 00:00:00] Current P/L: $-142.1881856918335, %0.9715623628616333
+2023-01-24 14:25:00,275 - simulator:83 - INFO - [2008-09-02 00:00:00] Current holdings: [[NI quantity:73; profit:0.99][BRE quantity:18; profit:1.0][EAT quantity:24; profit:0.97][CAH quantity:8; profit:1.0]]
+2023-01-24 14:25:00,278 - simulator:103 - INFO - [2008-09-02 00:00:00] EXPIRED Selling asset [BRE] for $167.41080093383792. Profit: 1.0. Days Held: 91
+2023-01-24 14:25:00,294 - simulator:118 - INFO - [2008-09-02 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:00,296 - simulator:76 - INFO - [2008-09-03 00:00:00] found in trade days 253. True. False. 127.87999725341795
+2023-01-24 14:25:00,304 - simulator:82 - INFO - [2008-09-03 00:00:00] Current P/L: $-148.196044921875, %0.970360791015625
+2023-01-24 14:25:00,307 - simulator:83 - INFO - [2008-09-03 00:00:00] Current holdings: [[NI quantity:73; profit:0.99][EAT quantity:24; profit:0.97][CAH quantity:8; profit:0.99]]
+2023-01-24 14:25:00,322 - simulator:118 - INFO - [2008-09-03 00:00:00] 2 interesting insider trades
+2023-01-24 14:25:00,323 - simulator:125 - INFO - [2008-09-03 00:00:00] 1 unique tickers
+2023-01-24 14:25:00,330 - simulator:138 - INFO - [2008-09-03 00:00:00] failed to get price for MWA, MWA.B
+2023-01-24 14:25:00,332 - simulator:76 - INFO - [2008-09-04 00:00:00] found in trade days 253. True. False. 124.02999877929688
+2023-01-24 14:25:00,339 - simulator:82 - INFO - [2008-09-04 00:00:00] Current P/L: $-179.171724319458, %0.9641656551361084
+2023-01-24 14:25:00,341 - simulator:83 - INFO - [2008-09-04 00:00:00] Current holdings: [[NI quantity:73; profit:0.98][EAT quantity:24; profit:0.94][CAH quantity:8; profit:0.96]]
+2023-01-24 14:25:00,372 - simulator:118 - INFO - [2008-09-04 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:00,373 - simulator:76 - INFO - [2008-09-05 00:00:00] found in trade days 253. True. False. 124.41999816894533
+2023-01-24 14:25:00,386 - simulator:82 - INFO - [2008-09-05 00:00:00] Current P/L: $-191.1310839653015, %0.9617737832069397
+2023-01-24 14:25:00,389 - simulator:83 - INFO - [2008-09-05 00:00:00] Current holdings: [[NI quantity:73; profit:0.96][EAT quantity:24; profit:0.93][CAH quantity:8; profit:0.97]]
+2023-01-24 14:25:00,406 - simulator:118 - INFO - [2008-09-05 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:00,406 - simulator:62 - INFO - [2008-09-06 00:00:00] Skipping weekend
+2023-01-24 14:25:00,406 - simulator:62 - INFO - [2008-09-07 00:00:00] Skipping weekend
+2023-01-24 14:25:00,407 - simulator:76 - INFO - [2008-09-08 00:00:00] found in trade days 253. True. False. 126.98999786376952
+2023-01-24 14:25:00,415 - simulator:82 - INFO - [2008-09-08 00:00:00] Current P/L: $-156.9317798614502, %0.96861364402771
+2023-01-24 14:25:00,416 - simulator:83 - INFO - [2008-09-08 00:00:00] Current holdings: [[NI quantity:73; profit:0.98][EAT quantity:24; profit:0.96][CAH quantity:8; profit:0.99]]
+2023-01-24 14:25:00,436 - simulator:118 - INFO - [2008-09-08 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:00,438 - simulator:76 - INFO - [2008-09-09 00:00:00] found in trade days 253. True. False. 123.22000122070312
+2023-01-24 14:25:00,452 - simulator:82 - INFO - [2008-09-09 00:00:00] Current P/L: $-197.33378553390503, %0.960533242893219
+2023-01-24 14:25:00,459 - simulator:83 - INFO - [2008-09-09 00:00:00] Current holdings: [[NI quantity:73; profit:0.97][EAT quantity:24; profit:0.93][CAH quantity:8; profit:0.95]]
+2023-01-24 14:25:00,475 - simulator:118 - INFO - [2008-09-09 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:00,478 - simulator:76 - INFO - [2008-09-10 00:00:00] found in trade days 253. True. False. 123.72000122070312
+2023-01-24 14:25:00,486 - simulator:82 - INFO - [2008-09-10 00:00:00] Current P/L: $-189.75329875946045, %0.962049340248108
+2023-01-24 14:25:00,488 - simulator:83 - INFO - [2008-09-10 00:00:00] Current holdings: [[NI quantity:73; profit:0.97][EAT quantity:24; profit:0.94][CAH quantity:8; profit:0.94]]
+2023-01-24 14:25:00,507 - simulator:118 - INFO - [2008-09-10 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:00,508 - simulator:76 - INFO - [2008-09-11 00:00:00] found in trade days 253. True. False. 125.51000213623048
+2023-01-24 14:25:00,517 - simulator:82 - INFO - [2008-09-11 00:00:00] Current P/L: $-192.4244360923767, %0.9615151127815247
+2023-01-24 14:25:00,519 - simulator:83 - INFO - [2008-09-11 00:00:00] Current holdings: [[NI quantity:73; profit:0.98][EAT quantity:24; profit:0.94][CAH quantity:8; profit:0.94]]
+2023-01-24 14:25:00,532 - simulator:118 - INFO - [2008-09-11 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:00,533 - simulator:76 - INFO - [2008-09-12 00:00:00] found in trade days 253. True. False. 126.08999633789062
+2023-01-24 14:25:00,539 - simulator:82 - INFO - [2008-09-12 00:00:00] Current P/L: $-205.05240678787231, %0.9589895186424255
+2023-01-24 14:25:00,542 - simulator:83 - INFO - [2008-09-12 00:00:00] Current holdings: [[NI quantity:73; profit:1.0][EAT quantity:24; profit:0.89][CAH quantity:8; profit:0.94]]
+2023-01-24 14:25:00,555 - simulator:118 - INFO - [2008-09-12 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:00,555 - simulator:62 - INFO - [2008-09-13 00:00:00] Skipping weekend
+2023-01-24 14:25:00,556 - simulator:62 - INFO - [2008-09-14 00:00:00] Skipping weekend
+2023-01-24 14:25:00,556 - simulator:76 - INFO - [2008-09-15 00:00:00] found in trade days 253. True. False. 120.08999633789062
+2023-01-24 14:25:00,565 - simulator:82 - INFO - [2008-09-15 00:00:00] Current P/L: $-228.51432418823242, %0.9542971351623535
+2023-01-24 14:25:00,567 - simulator:83 - INFO - [2008-09-15 00:00:00] Current holdings: [[NI quantity:73; profit:0.97][EAT quantity:24; profit:0.89][CAH quantity:8; profit:0.92]]
+2023-01-24 14:25:00,588 - simulator:118 - INFO - [2008-09-15 00:00:00] 3 interesting insider trades
+2023-01-24 14:25:00,588 - simulator:125 - INFO - [2008-09-15 00:00:00] 1 unique tickers
+2023-01-24 14:25:00,596 - simulator:147 - INFO - [2008-09-15 00:00:00] buying DCI for 20.684999465942383. Total: 475.7549877166748
+2023-01-24 14:25:00,598 - simulator:76 - INFO - [2008-09-16 00:00:00] found in trade days 253. True. False. 122.0999984741211
+2023-01-24 14:25:00,606 - simulator:82 - INFO - [2008-09-16 00:00:00] Current P/L: $-203.77067470550537, %0.959245865058899
+2023-01-24 14:25:00,609 - simulator:83 - INFO - [2008-09-16 00:00:00] Current holdings: [[NI quantity:73; profit:0.98][EAT quantity:24; profit:0.9][CAH quantity:8; profit:0.92][DCI quantity:23; profit:1.02]]
+2023-01-24 14:25:00,629 - simulator:118 - INFO - [2008-09-16 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:00,631 - simulator:76 - INFO - [2008-09-17 00:00:00] found in trade days 253. True. False. 116.61000061035156
+2023-01-24 14:25:00,640 - simulator:82 - INFO - [2008-09-17 00:00:00] Current P/L: $-238.2132921218872, %0.9523573415756226
+2023-01-24 14:25:00,644 - simulator:83 - INFO - [2008-09-17 00:00:00] Current holdings: [[NI quantity:73; profit:0.91][EAT quantity:24; profit:0.91][CAH quantity:8; profit:0.91][DCI quantity:23; profit:1.03]]
+2023-01-24 14:25:00,663 - simulator:118 - INFO - [2008-09-17 00:00:00] 2 interesting insider trades
+2023-01-24 14:25:00,663 - simulator:125 - INFO - [2008-09-17 00:00:00] 2 unique tickers
+2023-01-24 14:25:00,668 - simulator:138 - INFO - [2008-09-17 00:00:00] failed to get price for ORH
+2023-01-24 14:25:00,673 - simulator:147 - INFO - [2008-09-17 00:00:00] buying WW for 37.33000183105469. Total: 223.98001098632812
+2023-01-24 14:25:00,677 - simulator:76 - INFO - [2008-09-18 00:00:00] found in trade days 253. True. False. 120.06999969482422
+2023-01-24 14:25:00,687 - simulator:82 - INFO - [2008-09-18 00:00:00] Current P/L: $-150.01623678207397, %0.9699967526435852
+2023-01-24 14:25:00,690 - simulator:83 - INFO - [2008-09-18 00:00:00] Current holdings: [[NI quantity:73; profit:0.92][EAT quantity:24; profit:0.99][CAH quantity:8; profit:0.92][DCI quantity:23; profit:1.1][WW quantity:6; profit:1.03]]
+2023-01-24 14:25:00,696 - simulator:100 - INFO - [2008-09-18 00:00:00] TARGET REACHED Selling asset [DCI] for $521.640007019043. Profit: 1.0964467435698098. Days Held: 3
+2023-01-24 14:25:00,714 - simulator:118 - INFO - [2008-09-18 00:00:00] 1 interesting insider trades
+2023-01-24 14:25:00,715 - simulator:125 - INFO - [2008-09-18 00:00:00] 1 unique tickers
+2023-01-24 14:25:00,720 - simulator:138 - INFO - [2008-09-18 00:00:00] failed to get price for ESV
+2023-01-24 14:25:00,721 - simulator:76 - INFO - [2008-09-19 00:00:00] found in trade days 253. True. False. 124.12000274658205
+2023-01-24 14:25:00,730 - simulator:82 - INFO - [2008-09-19 00:00:00] Current P/L: $-115.70476627349854, %0.9768590467453003
+2023-01-24 14:25:00,732 - simulator:83 - INFO - [2008-09-19 00:00:00] Current holdings: [[NI quantity:73; profit:0.94][EAT quantity:24; profit:1.03][CAH quantity:8; profit:0.91][WW quantity:6; profit:1.07]]
+2023-01-24 14:25:00,735 - simulator:100 - INFO - [2008-09-19 00:00:00] TARGET REACHED Selling asset [WW] for $238.8600082397461. Profit: 1.0664344875593663. Days Held: 2
+2023-01-24 14:25:00,749 - simulator:118 - INFO - [2008-09-19 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:00,749 - simulator:62 - INFO - [2008-09-20 00:00:00] Skipping weekend
+2023-01-24 14:25:00,749 - simulator:62 - INFO - [2008-09-21 00:00:00] Skipping weekend
+2023-01-24 14:25:00,750 - simulator:76 - INFO - [2008-09-22 00:00:00] found in trade days 253. True. False. 121.30999755859376
+2023-01-24 14:25:00,756 - simulator:82 - INFO - [2008-09-22 00:00:00] Current P/L: $-181.41039848327637, %0.9637179203033447
+2023-01-24 14:25:00,757 - simulator:83 - INFO - [2008-09-22 00:00:00] Current holdings: [[NI quantity:73; profit:0.92][EAT quantity:24; profit:0.93][CAH quantity:8; profit:0.89]]
+2023-01-24 14:25:00,774 - simulator:118 - INFO - [2008-09-22 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:00,775 - simulator:76 - INFO - [2008-09-23 00:00:00] found in trade days 253. True. False. 118.5500030517578
+2023-01-24 14:25:00,783 - simulator:82 - INFO - [2008-09-23 00:00:00] Current P/L: $-211.33654308319092, %0.9577326913833618
+2023-01-24 14:25:00,785 - simulator:83 - INFO - [2008-09-23 00:00:00] Current holdings: [[NI quantity:73; profit:0.9][EAT quantity:24; profit:0.91][CAH quantity:8; profit:0.88]]
+2023-01-24 14:25:00,800 - simulator:118 - INFO - [2008-09-23 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:00,801 - simulator:76 - INFO - [2008-09-24 00:00:00] found in trade days 253. True. False. 118.93000030517578
+2023-01-24 14:25:00,807 - simulator:82 - INFO - [2008-09-24 00:00:00] Current P/L: $-221.12187385559082, %0.9557756252288818
+2023-01-24 14:25:00,810 - simulator:83 - INFO - [2008-09-24 00:00:00] Current holdings: [[NI quantity:73; profit:0.9][EAT quantity:24; profit:0.88][CAH quantity:8; profit:0.88]]
+2023-01-24 14:25:00,826 - simulator:118 - INFO - [2008-09-24 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:00,828 - simulator:76 - INFO - [2008-09-25 00:00:00] found in trade days 253. True. False. 120.79000091552734
+2023-01-24 14:25:00,836 - simulator:82 - INFO - [2008-09-25 00:00:00] Current P/L: $-211.2387957572937, %0.9577522408485413
+2023-01-24 14:25:00,837 - simulator:83 - INFO - [2008-09-25 00:00:00] Current holdings: [[NI quantity:73; profit:0.91][EAT quantity:24; profit:0.88][CAH quantity:8; profit:0.89]]
+2023-01-24 14:25:00,853 - simulator:118 - INFO - [2008-09-25 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:00,855 - simulator:76 - INFO - [2008-09-26 00:00:00] found in trade days 253. True. False. 120.8499984741211
+2023-01-24 14:25:00,862 - simulator:82 - INFO - [2008-09-26 00:00:00] Current P/L: $-202.14410638809204, %0.9595711787223816
+2023-01-24 14:25:00,864 - simulator:83 - INFO - [2008-09-26 00:00:00] Current holdings: [[NI quantity:73; profit:0.92][EAT quantity:24; profit:0.89][CAH quantity:8; profit:0.9]]
+2023-01-24 14:25:00,878 - simulator:118 - INFO - [2008-09-26 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:00,878 - simulator:62 - INFO - [2008-09-27 00:00:00] Skipping weekend
+2023-01-24 14:25:00,879 - simulator:62 - INFO - [2008-09-28 00:00:00] Skipping weekend
+2023-01-24 14:25:00,881 - simulator:76 - INFO - [2008-09-29 00:00:00] found in trade days 253. True. False. 111.37999725341795
+2023-01-24 14:25:00,887 - simulator:82 - INFO - [2008-09-29 00:00:00] Current P/L: $-259.70197772979736, %0.9480596044540405
+2023-01-24 14:25:00,888 - simulator:83 - INFO - [2008-09-29 00:00:00] Current holdings: [[NI quantity:73; profit:0.85][EAT quantity:24; profit:0.86][CAH quantity:8; profit:0.87]]
+2023-01-24 14:25:00,904 - simulator:118 - INFO - [2008-09-29 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:00,905 - simulator:76 - INFO - [2008-09-30 00:00:00] found in trade days 253. True. False. 115.98999786376952
+2023-01-24 14:25:00,912 - simulator:82 - INFO - [2008-09-30 00:00:00] Current P/L: $-223.2723250389099, %0.955345534992218
+2023-01-24 14:25:00,914 - simulator:83 - INFO - [2008-09-30 00:00:00] Current holdings: [[NI quantity:73; profit:0.89][EAT quantity:24; profit:0.89][CAH quantity:8; profit:0.89]]
+2023-01-24 14:25:00,930 - simulator:118 - INFO - [2008-09-30 00:00:00] 4 interesting insider trades
+2023-01-24 14:25:00,930 - simulator:125 - INFO - [2008-09-30 00:00:00] 1 unique tickers
+2023-01-24 14:25:00,936 - simulator:147 - INFO - [2008-09-30 00:00:00] buying CAH for 49.27999877929688. Total: 443.51998901367193
+2023-01-24 14:25:00,938 - simulator:76 - INFO - [2008-10-01 00:00:00] found in trade days 253. True. False. 116.05999755859376
+2023-01-24 14:25:00,947 - simulator:82 - INFO - [2008-10-01 00:00:00] Current P/L: $-203.11759233474731, %0.9593764815330506
+2023-01-24 14:25:00,949 - simulator:83 - INFO - [2008-10-01 00:00:00] Current holdings: [[NI quantity:73; profit:0.89][EAT quantity:24; profit:0.88][CAH quantity:8; profit:0.91][CAH quantity:9; profit:1.02]]
+2023-01-24 14:25:00,968 - simulator:118 - INFO - [2008-10-01 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:00,969 - simulator:76 - INFO - [2008-10-02 00:00:00] found in trade days 253. True. False. 111.8499984741211
+2023-01-24 14:25:00,978 - simulator:82 - INFO - [2008-10-02 00:00:00] Current P/L: $-224.1207194328308, %0.9551758561134338
+2023-01-24 14:25:00,981 - simulator:83 - INFO - [2008-10-02 00:00:00] Current holdings: [[NI quantity:73; profit:0.89][EAT quantity:24; profit:0.84][CAH quantity:8; profit:0.9][CAH quantity:9; profit:1.02]]
+2023-01-24 14:25:00,983 - simulator:96 - INFO - [2008-10-02 00:00:00] STOP LOSS Selling asset [EAT] for $409.4399871826172. Profit: 0.8449727099890179. Days Held: 45
+2023-01-24 14:25:01,000 - simulator:118 - INFO - [2008-10-02 00:00:00] 1 interesting insider trades
+2023-01-24 14:25:01,000 - simulator:125 - INFO - [2008-10-02 00:00:00] 1 unique tickers
+2023-01-24 14:25:01,005 - simulator:147 - INFO - [2008-10-02 00:00:00] buying PLD for 39.43999862670898. Total: 473.2799835205077
+2023-01-24 14:25:01,007 - simulator:76 - INFO - [2008-10-03 00:00:00] found in trade days 253. True. False. 110.33999633789062
+2023-01-24 14:25:01,017 - simulator:82 - INFO - [2008-10-03 00:00:00] Current P/L: $-250.88810443878174, %0.9498223791122437
+2023-01-24 14:25:01,019 - simulator:83 - INFO - [2008-10-03 00:00:00] Current holdings: [[NI quantity:73; profit:0.89][CAH quantity:8; profit:0.9][CAH quantity:9; profit:1.02][PLD quantity:12; profit:0.95]]
+2023-01-24 14:25:01,039 - simulator:118 - INFO - [2008-10-03 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,040 - simulator:62 - INFO - [2008-10-04 00:00:00] Skipping weekend
+2023-01-24 14:25:01,040 - simulator:62 - INFO - [2008-10-05 00:00:00] Skipping weekend
+2023-01-24 14:25:01,041 - simulator:76 - INFO - [2008-10-06 00:00:00] found in trade days 253. True. False. 104.72000122070312
+2023-01-24 14:25:01,053 - simulator:82 - INFO - [2008-10-06 00:00:00] Current P/L: $-360.1498203277588, %0.9279700359344483
+2023-01-24 14:25:01,056 - simulator:83 - INFO - [2008-10-06 00:00:00] Current holdings: [[NI quantity:73; profit:0.85][CAH quantity:8; profit:0.83][CAH quantity:9; profit:0.94][PLD quantity:12; profit:0.91]]
+2023-01-24 14:25:01,057 - simulator:96 - INFO - [2008-10-06 00:00:00] STOP LOSS Selling asset [NI] for $405.0137710571289. Profit: 0.8490680179427434. Days Held: 40
+2023-01-24 14:25:01,060 - simulator:96 - INFO - [2008-10-06 00:00:00] STOP LOSS Selling asset [CAH] for $368.9599914550781. Profit: 0.8283045739782017. Days Held: 48
+2023-01-24 14:25:01,072 - simulator:118 - INFO - [2008-10-06 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,073 - simulator:76 - INFO - [2008-10-07 00:00:00] found in trade days 253. True. False. 100.02999877929688
+2023-01-24 14:25:01,078 - simulator:82 - INFO - [2008-10-07 00:00:00] Current P/L: $-424.88983726501465, %0.9150220325469971
+2023-01-24 14:25:01,081 - simulator:83 - INFO - [2008-10-07 00:00:00] Current holdings: [[CAH quantity:9; profit:0.9][PLD quantity:12; profit:0.8]]
+2023-01-24 14:25:01,083 - simulator:96 - INFO - [2008-10-07 00:00:00] STOP LOSS Selling asset [PLD] for $378.59999084472656. Profit: 0.7999492985705816. Days Held: 5
+2023-01-24 14:25:01,089 - simulator:118 - INFO - [2008-10-07 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,090 - simulator:76 - INFO - [2008-10-08 00:00:00] found in trade days 253. True. False. 97.51000213623048
+2023-01-24 14:25:01,093 - simulator:82 - INFO - [2008-10-08 00:00:00] Current P/L: $-440.8198413848877, %0.9118360317230224
+2023-01-24 14:25:01,094 - simulator:83 - INFO - [2008-10-08 00:00:00] Current holdings: [[CAH quantity:9; profit:0.87]]
+2023-01-24 14:25:01,102 - simulator:118 - INFO - [2008-10-08 00:00:00] 1 interesting insider trades
+2023-01-24 14:25:01,103 - simulator:125 - INFO - [2008-10-08 00:00:00] 1 unique tickers
+2023-01-24 14:25:01,104 - simulator:138 - INFO - [2008-10-08 00:00:00] failed to get price for ISLE
+2023-01-24 14:25:01,105 - simulator:76 - INFO - [2008-10-09 00:00:00] found in trade days 253. True. False. 90.6999969482422
+2023-01-24 14:25:01,107 - simulator:82 - INFO - [2008-10-09 00:00:00] Current P/L: $-464.1298427581787, %0.9071740314483643
+2023-01-24 14:25:01,108 - simulator:83 - INFO - [2008-10-09 00:00:00] Current holdings: [[CAH quantity:9; profit:0.81]]
+2023-01-24 14:25:01,111 - simulator:96 - INFO - [2008-10-09 00:00:00] STOP LOSS Selling asset [CAH] for $360.8999862670898. Profit: 0.8137175216604831. Days Held: 9
+2023-01-24 14:25:01,116 - simulator:118 - INFO - [2008-10-09 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,117 - simulator:76 - INFO - [2008-10-10 00:00:00] found in trade days 253. True. False. 88.5
+2023-01-24 14:25:01,117 - simulator:82 - INFO - [2008-10-10 00:00:00] Current P/L: $-464.1298427581787, %0.9071740314483643
+2023-01-24 14:25:01,117 - simulator:83 - INFO - [2008-10-10 00:00:00] Current holdings: []
+2023-01-24 14:25:01,121 - simulator:118 - INFO - [2008-10-10 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,121 - simulator:62 - INFO - [2008-10-11 00:00:00] Skipping weekend
+2023-01-24 14:25:01,121 - simulator:62 - INFO - [2008-10-12 00:00:00] Skipping weekend
+2023-01-24 14:25:01,122 - simulator:76 - INFO - [2008-10-13 00:00:00] found in trade days 253. True. False. 101.3499984741211
+2023-01-24 14:25:01,122 - simulator:82 - INFO - [2008-10-13 00:00:00] Current P/L: $-464.1298427581787, %0.9071740314483643
+2023-01-24 14:25:01,122 - simulator:83 - INFO - [2008-10-13 00:00:00] Current holdings: []
+2023-01-24 14:25:01,127 - simulator:118 - INFO - [2008-10-13 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,128 - simulator:76 - INFO - [2008-10-14 00:00:00] found in trade days 253. True. False. 99.8499984741211
+2023-01-24 14:25:01,129 - simulator:82 - INFO - [2008-10-14 00:00:00] Current P/L: $-464.1298427581787, %0.9071740314483643
+2023-01-24 14:25:01,129 - simulator:83 - INFO - [2008-10-14 00:00:00] Current holdings: []
+2023-01-24 14:25:01,134 - simulator:118 - INFO - [2008-10-14 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,135 - simulator:76 - INFO - [2008-10-15 00:00:00] found in trade days 253. True. False. 90.0199966430664
+2023-01-24 14:25:01,135 - simulator:82 - INFO - [2008-10-15 00:00:00] Current P/L: $-464.1298427581787, %0.9071740314483643
+2023-01-24 14:25:01,135 - simulator:83 - INFO - [2008-10-15 00:00:00] Current holdings: []
+2023-01-24 14:25:01,138 - simulator:118 - INFO - [2008-10-15 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,139 - simulator:76 - INFO - [2008-10-16 00:00:00] found in trade days 253. True. False. 93.7699966430664
+2023-01-24 14:25:01,139 - simulator:82 - INFO - [2008-10-16 00:00:00] Current P/L: $-464.1298427581787, %0.9071740314483643
+2023-01-24 14:25:01,139 - simulator:83 - INFO - [2008-10-16 00:00:00] Current holdings: []
+2023-01-24 14:25:01,148 - simulator:118 - INFO - [2008-10-16 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,150 - simulator:76 - INFO - [2008-10-17 00:00:00] found in trade days 253. True. False. 93.20999908447266
+2023-01-24 14:25:01,150 - simulator:82 - INFO - [2008-10-17 00:00:00] Current P/L: $-464.1298427581787, %0.9071740314483643
+2023-01-24 14:25:01,150 - simulator:83 - INFO - [2008-10-17 00:00:00] Current holdings: []
+2023-01-24 14:25:01,154 - simulator:118 - INFO - [2008-10-17 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,154 - simulator:62 - INFO - [2008-10-18 00:00:00] Skipping weekend
+2023-01-24 14:25:01,154 - simulator:62 - INFO - [2008-10-19 00:00:00] Skipping weekend
+2023-01-24 14:25:01,155 - simulator:76 - INFO - [2008-10-20 00:00:00] found in trade days 253. True. False. 98.80999755859376
+2023-01-24 14:25:01,155 - simulator:82 - INFO - [2008-10-20 00:00:00] Current P/L: $-464.1298427581787, %0.9071740314483643
+2023-01-24 14:25:01,155 - simulator:83 - INFO - [2008-10-20 00:00:00] Current holdings: []
+2023-01-24 14:25:01,158 - simulator:118 - INFO - [2008-10-20 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,160 - simulator:76 - INFO - [2008-10-21 00:00:00] found in trade days 253. True. False. 95.86000061035156
+2023-01-24 14:25:01,160 - simulator:82 - INFO - [2008-10-21 00:00:00] Current P/L: $-464.1298427581787, %0.9071740314483643
+2023-01-24 14:25:01,161 - simulator:83 - INFO - [2008-10-21 00:00:00] Current holdings: []
+2023-01-24 14:25:01,166 - simulator:118 - INFO - [2008-10-21 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,167 - simulator:76 - INFO - [2008-10-22 00:00:00] found in trade days 253. True. False. 90.63999938964844
+2023-01-24 14:25:01,167 - simulator:82 - INFO - [2008-10-22 00:00:00] Current P/L: $-464.1298427581787, %0.9071740314483643
+2023-01-24 14:25:01,167 - simulator:83 - INFO - [2008-10-22 00:00:00] Current holdings: []
+2023-01-24 14:25:01,171 - simulator:118 - INFO - [2008-10-22 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,171 - simulator:76 - INFO - [2008-10-23 00:00:00] found in trade days 253. True. False. 91.69000244140624
+2023-01-24 14:25:01,172 - simulator:82 - INFO - [2008-10-23 00:00:00] Current P/L: $-464.1298427581787, %0.9071740314483643
+2023-01-24 14:25:01,172 - simulator:83 - INFO - [2008-10-23 00:00:00] Current holdings: []
+2023-01-24 14:25:01,176 - simulator:118 - INFO - [2008-10-23 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,179 - simulator:76 - INFO - [2008-10-24 00:00:00] found in trade days 253. True. False. 87.04000091552734
+2023-01-24 14:25:01,180 - simulator:82 - INFO - [2008-10-24 00:00:00] Current P/L: $-464.1298427581787, %0.9071740314483643
+2023-01-24 14:25:01,180 - simulator:83 - INFO - [2008-10-24 00:00:00] Current holdings: []
+2023-01-24 14:25:01,185 - simulator:118 - INFO - [2008-10-24 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,185 - simulator:62 - INFO - [2008-10-25 00:00:00] Skipping weekend
+2023-01-24 14:25:01,185 - simulator:62 - INFO - [2008-10-26 00:00:00] Skipping weekend
+2023-01-24 14:25:01,186 - simulator:76 - INFO - [2008-10-27 00:00:00] found in trade days 253. True. False. 83.94999694824219
+2023-01-24 14:25:01,187 - simulator:82 - INFO - [2008-10-27 00:00:00] Current P/L: $-464.1298427581787, %0.9071740314483643
+2023-01-24 14:25:01,187 - simulator:83 - INFO - [2008-10-27 00:00:00] Current holdings: []
+2023-01-24 14:25:01,190 - simulator:118 - INFO - [2008-10-27 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,192 - simulator:76 - INFO - [2008-10-28 00:00:00] found in trade days 253. True. False. 93.76000213623048
+2023-01-24 14:25:01,192 - simulator:82 - INFO - [2008-10-28 00:00:00] Current P/L: $-464.1298427581787, %0.9071740314483643
+2023-01-24 14:25:01,192 - simulator:83 - INFO - [2008-10-28 00:00:00] Current holdings: []
+2023-01-24 14:25:01,198 - simulator:118 - INFO - [2008-10-28 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,199 - simulator:76 - INFO - [2008-10-29 00:00:00] found in trade days 253. True. False. 93.08000183105467
+2023-01-24 14:25:01,199 - simulator:82 - INFO - [2008-10-29 00:00:00] Current P/L: $-464.1298427581787, %0.9071740314483643
+2023-01-24 14:25:01,199 - simulator:83 - INFO - [2008-10-29 00:00:00] Current holdings: []
+2023-01-24 14:25:01,204 - simulator:118 - INFO - [2008-10-29 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,206 - simulator:76 - INFO - [2008-10-30 00:00:00] found in trade days 253. True. False. 96.3000030517578
+2023-01-24 14:25:01,206 - simulator:82 - INFO - [2008-10-30 00:00:00] Current P/L: $-464.1298427581787, %0.9071740314483643
+2023-01-24 14:25:01,206 - simulator:83 - INFO - [2008-10-30 00:00:00] Current holdings: []
+2023-01-24 14:25:01,211 - simulator:118 - INFO - [2008-10-30 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,212 - simulator:76 - INFO - [2008-10-31 00:00:00] found in trade days 253. True. False. 96.83000183105467
+2023-01-24 14:25:01,213 - simulator:82 - INFO - [2008-10-31 00:00:00] Current P/L: $-464.1298427581787, %0.9071740314483643
+2023-01-24 14:25:01,213 - simulator:83 - INFO - [2008-10-31 00:00:00] Current holdings: []
+2023-01-24 14:25:01,217 - simulator:118 - INFO - [2008-10-31 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,217 - simulator:62 - INFO - [2008-11-01 00:00:00] Skipping weekend
+2023-01-24 14:25:01,218 - simulator:62 - INFO - [2008-11-02 00:00:00] Skipping weekend
+2023-01-24 14:25:01,218 - simulator:76 - INFO - [2008-11-03 00:00:00] found in trade days 253. True. False. 97.11000061035156
+2023-01-24 14:25:01,219 - simulator:82 - INFO - [2008-11-03 00:00:00] Current P/L: $-464.1298427581787, %0.9071740314483643
+2023-01-24 14:25:01,219 - simulator:83 - INFO - [2008-11-03 00:00:00] Current holdings: []
+2023-01-24 14:25:01,222 - simulator:118 - INFO - [2008-11-03 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,224 - simulator:76 - INFO - [2008-11-04 00:00:00] found in trade days 253. True. False. 100.41000366210938
+2023-01-24 14:25:01,224 - simulator:82 - INFO - [2008-11-04 00:00:00] Current P/L: $-464.1298427581787, %0.9071740314483643
+2023-01-24 14:25:01,224 - simulator:83 - INFO - [2008-11-04 00:00:00] Current holdings: []
+2023-01-24 14:25:01,230 - simulator:118 - INFO - [2008-11-04 00:00:00] 1 interesting insider trades
+2023-01-24 14:25:01,231 - simulator:125 - INFO - [2008-11-04 00:00:00] 1 unique tickers
+2023-01-24 14:25:01,232 - simulator:147 - INFO - [2008-11-04 00:00:00] buying BEN for 24.280000686645508. Total: 437.04001235961914
+2023-01-24 14:25:01,234 - simulator:76 - INFO - [2008-11-05 00:00:00] found in trade days 253. True. False. 96.19000244140624
+2023-01-24 14:25:01,236 - simulator:82 - INFO - [2008-11-05 00:00:00] Current P/L: $-499.52985191345215, %0.9000940296173096
+2023-01-24 14:25:01,237 - simulator:83 - INFO - [2008-11-05 00:00:00] Current holdings: [[BEN quantity:18; profit:0.92]]
+2023-01-24 14:25:01,246 - simulator:118 - INFO - [2008-11-05 00:00:00] 1 interesting insider trades
+2023-01-24 14:25:01,247 - simulator:125 - INFO - [2008-11-05 00:00:00] 1 unique tickers
+2023-01-24 14:25:01,250 - simulator:147 - INFO - [2008-11-05 00:00:00] buying CNC for 5.125. Total: 445.875
+2023-01-24 14:25:01,253 - simulator:76 - INFO - [2008-11-06 00:00:00] found in trade days 253. True. False. 90.86000061035156
+2023-01-24 14:25:01,257 - simulator:82 - INFO - [2008-11-06 00:00:00] Current P/L: $-556.0348763465881, %0.8887930247306823
+2023-01-24 14:25:01,259 - simulator:83 - INFO - [2008-11-06 00:00:00] Current holdings: [[BEN quantity:18; profit:0.84][CNC quantity:87; profit:0.95]]
+2023-01-24 14:25:01,264 - simulator:96 - INFO - [2008-11-06 00:00:00] STOP LOSS Selling asset [BEN] for $365.5799903869629. Profit: 0.8364908933924905. Days Held: 2
+2023-01-24 14:25:01,274 - simulator:118 - INFO - [2008-11-06 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,276 - simulator:76 - INFO - [2008-11-07 00:00:00] found in trade days 253. True. False. 93.86000061035156
+2023-01-24 14:25:01,279 - simulator:82 - INFO - [2008-11-07 00:00:00] Current P/L: $-556.2523813247681, %0.8887495237350463
+2023-01-24 14:25:01,281 - simulator:83 - INFO - [2008-11-07 00:00:00] Current holdings: [[CNC quantity:87; profit:0.95]]
+2023-01-24 14:25:01,290 - simulator:118 - INFO - [2008-11-07 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,290 - simulator:62 - INFO - [2008-11-08 00:00:00] Skipping weekend
+2023-01-24 14:25:01,290 - simulator:62 - INFO - [2008-11-09 00:00:00] Skipping weekend
+2023-01-24 14:25:01,292 - simulator:76 - INFO - [2008-11-10 00:00:00] found in trade days 253. True. False. 92.62999725341795
+2023-01-24 14:25:01,297 - simulator:82 - INFO - [2008-11-10 00:00:00] Current P/L: $-590.3998746871948, %0.8819200250625611
+2023-01-24 14:25:01,298 - simulator:83 - INFO - [2008-11-10 00:00:00] Current holdings: [[CNC quantity:87; profit:0.88]]
+2023-01-24 14:25:01,305 - simulator:118 - INFO - [2008-11-10 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,306 - simulator:76 - INFO - [2008-11-11 00:00:00] found in trade days 253. True. False. 89.7699966430664
+2023-01-24 14:25:01,308 - simulator:82 - INFO - [2008-11-11 00:00:00] Current P/L: $-597.5773730278015, %0.8804845253944397
+2023-01-24 14:25:01,310 - simulator:83 - INFO - [2008-11-11 00:00:00] Current holdings: [[CNC quantity:87; profit:0.86]]
+2023-01-24 14:25:01,318 - simulator:118 - INFO - [2008-11-11 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,320 - simulator:76 - INFO - [2008-11-12 00:00:00] found in trade days 253. True. False. 85.81999969482422
+2023-01-24 14:25:01,323 - simulator:82 - INFO - [2008-11-12 00:00:00] Current P/L: $-609.1048464775085, %0.8781790307044983
+2023-01-24 14:25:01,324 - simulator:83 - INFO - [2008-11-12 00:00:00] Current holdings: [[CNC quantity:87; profit:0.84]]
+2023-01-24 14:25:01,325 - simulator:96 - INFO - [2008-11-12 00:00:00] STOP LOSS Selling asset [CNC] for $372.3600182533264. Profit: 0.8351219921577268. Days Held: 7
+2023-01-24 14:25:01,331 - simulator:118 - INFO - [2008-11-12 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,332 - simulator:76 - INFO - [2008-11-13 00:00:00] found in trade days 253. True. False. 91.16999816894533
+2023-01-24 14:25:01,332 - simulator:82 - INFO - [2008-11-13 00:00:00] Current P/L: $-609.1048464775085, %0.8781790307044983
+2023-01-24 14:25:01,333 - simulator:83 - INFO - [2008-11-13 00:00:00] Current holdings: []
+2023-01-24 14:25:01,336 - simulator:118 - INFO - [2008-11-13 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,337 - simulator:76 - INFO - [2008-11-14 00:00:00] found in trade days 253. True. False. 86.62000274658203
+2023-01-24 14:25:01,337 - simulator:82 - INFO - [2008-11-14 00:00:00] Current P/L: $-609.1048464775085, %0.8781790307044983
+2023-01-24 14:25:01,337 - simulator:83 - INFO - [2008-11-14 00:00:00] Current holdings: []
+2023-01-24 14:25:01,340 - simulator:118 - INFO - [2008-11-14 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,341 - simulator:62 - INFO - [2008-11-15 00:00:00] Skipping weekend
+2023-01-24 14:25:01,341 - simulator:62 - INFO - [2008-11-16 00:00:00] Skipping weekend
+2023-01-24 14:25:01,343 - simulator:76 - INFO - [2008-11-17 00:00:00] found in trade days 253. True. False. 85.47000122070312
+2023-01-24 14:25:01,343 - simulator:82 - INFO - [2008-11-17 00:00:00] Current P/L: $-609.1048464775085, %0.8781790307044983
+2023-01-24 14:25:01,344 - simulator:83 - INFO - [2008-11-17 00:00:00] Current holdings: []
+2023-01-24 14:25:01,349 - simulator:118 - INFO - [2008-11-17 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,350 - simulator:76 - INFO - [2008-11-18 00:00:00] found in trade days 253. True. False. 87.08000183105469
+2023-01-24 14:25:01,350 - simulator:82 - INFO - [2008-11-18 00:00:00] Current P/L: $-609.1048464775085, %0.8781790307044983
+2023-01-24 14:25:01,350 - simulator:83 - INFO - [2008-11-18 00:00:00] Current holdings: []
+2023-01-24 14:25:01,353 - simulator:118 - INFO - [2008-11-18 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,354 - simulator:76 - INFO - [2008-11-19 00:00:00] found in trade days 253. True. False. 81.5
+2023-01-24 14:25:01,354 - simulator:82 - INFO - [2008-11-19 00:00:00] Current P/L: $-609.1048464775085, %0.8781790307044983
+2023-01-24 14:25:01,355 - simulator:83 - INFO - [2008-11-19 00:00:00] Current holdings: []
+2023-01-24 14:25:01,358 - simulator:118 - INFO - [2008-11-19 00:00:00] 3 interesting insider trades
+2023-01-24 14:25:01,358 - simulator:125 - INFO - [2008-11-19 00:00:00] 1 unique tickers
+2023-01-24 14:25:01,359 - simulator:138 - INFO - [2008-11-19 00:00:00] failed to get price for BEAV
+2023-01-24 14:25:01,361 - simulator:76 - INFO - [2008-11-20 00:00:00] found in trade days 253. True. False. 75.44999694824219
+2023-01-24 14:25:01,362 - simulator:82 - INFO - [2008-11-20 00:00:00] Current P/L: $-609.1048464775085, %0.8781790307044983
+2023-01-24 14:25:01,362 - simulator:83 - INFO - [2008-11-20 00:00:00] Current holdings: []
+2023-01-24 14:25:01,366 - simulator:118 - INFO - [2008-11-20 00:00:00] 1 interesting insider trades
+2023-01-24 14:25:01,367 - simulator:125 - INFO - [2008-11-20 00:00:00] 1 unique tickers
+2023-01-24 14:25:01,368 - simulator:147 - INFO - [2008-11-20 00:00:00] buying A for 11.587983131408691. Total: 428.7553758621216
+2023-01-24 14:25:01,369 - simulator:76 - INFO - [2008-11-21 00:00:00] found in trade days 253. True. False. 79.5199966430664
+2023-01-24 14:25:01,371 - simulator:82 - INFO - [2008-11-21 00:00:00] Current P/L: $-580.2565007209778, %0.8839486998558045
+2023-01-24 14:25:01,372 - simulator:83 - INFO - [2008-11-21 00:00:00] Current holdings: [[A quantity:37; profit:1.07]]
+2023-01-24 14:25:01,374 - simulator:100 - INFO - [2008-11-21 00:00:00] TARGET REACHED Selling asset [A] for $457.60372161865234. Profit: 1.0672839278073747. Days Held: 1
+2023-01-24 14:25:01,383 - simulator:118 - INFO - [2008-11-21 00:00:00] 1 interesting insider trades
+2023-01-24 14:25:01,384 - simulator:125 - INFO - [2008-11-21 00:00:00] 1 unique tickers
+2023-01-24 14:25:01,384 - simulator:138 - INFO - [2008-11-21 00:00:00] failed to get price for CAST
+2023-01-24 14:25:01,384 - simulator:62 - INFO - [2008-11-22 00:00:00] Skipping weekend
+2023-01-24 14:25:01,384 - simulator:62 - INFO - [2008-11-23 00:00:00] Skipping weekend
+2023-01-24 14:25:01,386 - simulator:76 - INFO - [2008-11-24 00:00:00] found in trade days 253. True. False. 85.02999877929688
+2023-01-24 14:25:01,386 - simulator:82 - INFO - [2008-11-24 00:00:00] Current P/L: $-580.2565007209778, %0.8839486998558045
+2023-01-24 14:25:01,386 - simulator:83 - INFO - [2008-11-24 00:00:00] Current holdings: []
+2023-01-24 14:25:01,390 - simulator:118 - INFO - [2008-11-24 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,392 - simulator:76 - INFO - [2008-11-25 00:00:00] found in trade days 253. True. False. 85.66000366210938
+2023-01-24 14:25:01,393 - simulator:82 - INFO - [2008-11-25 00:00:00] Current P/L: $-580.2565007209778, %0.8839486998558045
+2023-01-24 14:25:01,393 - simulator:83 - INFO - [2008-11-25 00:00:00] Current holdings: []
+2023-01-24 14:25:01,399 - simulator:118 - INFO - [2008-11-25 00:00:00] 1 interesting insider trades
+2023-01-24 14:25:01,400 - simulator:125 - INFO - [2008-11-25 00:00:00] 1 unique tickers
+2023-01-24 14:25:01,402 - simulator:147 - INFO - [2008-11-25 00:00:00] buying KDKN for 0.5899999737739563. Total: 441.90998035669327
+2023-01-24 14:25:01,404 - simulator:76 - INFO - [2008-11-26 00:00:00] found in trade days 253. True. False. 88.97000122070312
+2023-01-24 14:25:01,406 - simulator:82 - INFO - [2008-11-26 00:00:00] Current P/L: $-535.3164989352226, %0.8929367002129555
+2023-01-24 14:25:01,407 - simulator:83 - INFO - [2008-11-26 00:00:00] Current holdings: [[KDKN quantity:749; profit:1.1]]
+2023-01-24 14:25:01,408 - simulator:100 - INFO - [2008-11-26 00:00:00] TARGET REACHED Selling asset [KDKN] for $486.8499821424484. Profit: 1.1016949238156633. Days Held: 1
+2023-01-24 14:25:01,416 - simulator:118 - INFO - [2008-11-26 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,416 - simulator:72 - INFO - [2008-11-27 00:00:00] Skipping invalid trade day
+2023-01-24 14:25:01,417 - simulator:76 - INFO - [2008-11-28 00:00:00] found in trade days 253. True. False. 90.08999633789062
+2023-01-24 14:25:01,417 - simulator:82 - INFO - [2008-11-28 00:00:00] Current P/L: $-535.3164989352226, %0.8929367002129555
+2023-01-24 14:25:01,417 - simulator:83 - INFO - [2008-11-28 00:00:00] Current holdings: []
+2023-01-24 14:25:01,420 - simulator:118 - INFO - [2008-11-28 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,421 - simulator:62 - INFO - [2008-11-29 00:00:00] Skipping weekend
+2023-01-24 14:25:01,421 - simulator:62 - INFO - [2008-11-30 00:00:00] Skipping weekend
+2023-01-24 14:25:01,422 - simulator:76 - INFO - [2008-12-01 00:00:00] found in trade days 253. True. False. 82.11000061035156
+2023-01-24 14:25:01,422 - simulator:82 - INFO - [2008-12-01 00:00:00] Current P/L: $-535.3164989352226, %0.8929367002129555
+2023-01-24 14:25:01,422 - simulator:83 - INFO - [2008-12-01 00:00:00] Current holdings: []
+2023-01-24 14:25:01,426 - simulator:118 - INFO - [2008-12-01 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,428 - simulator:76 - INFO - [2008-12-02 00:00:00] found in trade days 253. True. False. 85.2699966430664
+2023-01-24 14:25:01,428 - simulator:82 - INFO - [2008-12-02 00:00:00] Current P/L: $-535.3164989352226, %0.8929367002129555
+2023-01-24 14:25:01,429 - simulator:83 - INFO - [2008-12-02 00:00:00] Current holdings: []
+2023-01-24 14:25:01,436 - simulator:118 - INFO - [2008-12-02 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,437 - simulator:76 - INFO - [2008-12-03 00:00:00] found in trade days 253. True. False. 87.31999969482422
+2023-01-24 14:25:01,437 - simulator:82 - INFO - [2008-12-03 00:00:00] Current P/L: $-535.3164989352226, %0.8929367002129555
+2023-01-24 14:25:01,437 - simulator:83 - INFO - [2008-12-03 00:00:00] Current holdings: []
+2023-01-24 14:25:01,442 - simulator:118 - INFO - [2008-12-03 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,444 - simulator:76 - INFO - [2008-12-04 00:00:00] found in trade days 253. True. False. 85.30000305175781
+2023-01-24 14:25:01,444 - simulator:82 - INFO - [2008-12-04 00:00:00] Current P/L: $-535.3164989352226, %0.8929367002129555
+2023-01-24 14:25:01,444 - simulator:83 - INFO - [2008-12-04 00:00:00] Current holdings: []
+2023-01-24 14:25:01,450 - simulator:118 - INFO - [2008-12-04 00:00:00] 9 interesting insider trades
+2023-01-24 14:25:01,451 - simulator:125 - INFO - [2008-12-04 00:00:00] 2 unique tickers
+2023-01-24 14:25:01,453 - simulator:147 - INFO - [2008-12-04 00:00:00] buying HAL for 13.779999732971191. Total: 220.47999572753906
+2023-01-24 14:25:01,456 - simulator:76 - INFO - [2008-12-05 00:00:00] found in trade days 253. True. False. 87.93000030517578
+2023-01-24 14:25:01,460 - simulator:82 - INFO - [2008-12-05 00:00:00] Current P/L: $-526.8364879488945, %0.8946327024102211
+2023-01-24 14:25:01,462 - simulator:83 - INFO - [2008-12-05 00:00:00] Current holdings: [[HAL quantity:16; profit:1.04]]
+2023-01-24 14:25:01,471 - simulator:118 - INFO - [2008-12-05 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,471 - simulator:62 - INFO - [2008-12-06 00:00:00] Skipping weekend
+2023-01-24 14:25:01,471 - simulator:62 - INFO - [2008-12-07 00:00:00] Skipping weekend
+2023-01-24 14:25:01,472 - simulator:76 - INFO - [2008-12-08 00:00:00] found in trade days 253. True. False. 91.0
+2023-01-24 14:25:01,478 - simulator:82 - INFO - [2008-12-08 00:00:00] Current P/L: $-510.8364879488945, %0.8978327024102211
+2023-01-24 14:25:01,480 - simulator:83 - INFO - [2008-12-08 00:00:00] Current holdings: [[HAL quantity:16; profit:1.11]]
+2023-01-24 14:25:01,483 - simulator:100 - INFO - [2008-12-08 00:00:00] TARGET REACHED Selling asset [HAL] for $244.9600067138672. Profit: 1.1110305309356936. Days Held: 4
+2023-01-24 14:25:01,487 - simulator:118 - INFO - [2008-12-08 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,488 - simulator:76 - INFO - [2008-12-09 00:00:00] found in trade days 253. True. False. 89.5
+2023-01-24 14:25:01,488 - simulator:82 - INFO - [2008-12-09 00:00:00] Current P/L: $-510.8364879488945, %0.8978327024102211
+2023-01-24 14:25:01,488 - simulator:83 - INFO - [2008-12-09 00:00:00] Current holdings: []
+2023-01-24 14:25:01,494 - simulator:118 - INFO - [2008-12-09 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,495 - simulator:76 - INFO - [2008-12-10 00:00:00] found in trade days 253. True. False. 90.11000061035156
+2023-01-24 14:25:01,495 - simulator:82 - INFO - [2008-12-10 00:00:00] Current P/L: $-510.8364879488945, %0.8978327024102211
+2023-01-24 14:25:01,495 - simulator:83 - INFO - [2008-12-10 00:00:00] Current holdings: []
+2023-01-24 14:25:01,502 - simulator:118 - INFO - [2008-12-10 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,504 - simulator:76 - INFO - [2008-12-11 00:00:00] found in trade days 253. True. False. 87.94000244140625
+2023-01-24 14:25:01,504 - simulator:82 - INFO - [2008-12-11 00:00:00] Current P/L: $-510.8364879488945, %0.8978327024102211
+2023-01-24 14:25:01,504 - simulator:83 - INFO - [2008-12-11 00:00:00] Current holdings: []
+2023-01-24 14:25:01,509 - simulator:118 - INFO - [2008-12-11 00:00:00] 1 interesting insider trades
+2023-01-24 14:25:01,509 - simulator:125 - INFO - [2008-12-11 00:00:00] 1 unique tickers
+2023-01-24 14:25:01,512 - simulator:147 - INFO - [2008-12-11 00:00:00] buying CNC for 4.027500152587891. Total: 447.05251693725586
+2023-01-24 14:25:01,515 - simulator:76 - INFO - [2008-12-12 00:00:00] found in trade days 253. True. False. 88.98999786376953
+2023-01-24 14:25:01,518 - simulator:82 - INFO - [2008-12-12 00:00:00] Current P/L: $-514.9990038275719, %0.8970001992344856
+2023-01-24 14:25:01,519 - simulator:83 - INFO - [2008-12-12 00:00:00] Current holdings: [[CNC quantity:111; profit:0.99]]
+2023-01-24 14:25:01,527 - simulator:118 - INFO - [2008-12-12 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,528 - simulator:62 - INFO - [2008-12-13 00:00:00] Skipping weekend
+2023-01-24 14:25:01,528 - simulator:62 - INFO - [2008-12-14 00:00:00] Skipping weekend
+2023-01-24 14:25:01,529 - simulator:76 - INFO - [2008-12-15 00:00:00] found in trade days 253. True. False. 87.75
+2023-01-24 14:25:01,532 - simulator:82 - INFO - [2008-12-15 00:00:00] Current P/L: $-520.2714921832085, %0.8959457015633583
+2023-01-24 14:25:01,533 - simulator:83 - INFO - [2008-12-15 00:00:00] Current holdings: [[CNC quantity:111; profit:0.98]]
+2023-01-24 14:25:01,539 - simulator:118 - INFO - [2008-12-15 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,540 - simulator:76 - INFO - [2008-12-16 00:00:00] found in trade days 253. True. False. 91.87999725341795
+2023-01-24 14:25:01,543 - simulator:82 - INFO - [2008-12-16 00:00:00] Current P/L: $-512.2240197062492, %0.8975551960587501
+2023-01-24 14:25:01,544 - simulator:83 - INFO - [2008-12-16 00:00:00] Current holdings: [[CNC quantity:111; profit:1.0]]
+2023-01-24 14:25:01,552 - simulator:118 - INFO - [2008-12-16 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,554 - simulator:76 - INFO - [2008-12-17 00:00:00] found in trade days 253. True. False. 90.98999786376952
+2023-01-24 14:25:01,556 - simulator:82 - INFO - [2008-12-17 00:00:00] Current P/L: $-487.8039900660515, %0.9024392019867897
+2023-01-24 14:25:01,557 - simulator:83 - INFO - [2008-12-17 00:00:00] Current holdings: [[CNC quantity:111; profit:1.05]]
+2023-01-24 14:25:01,560 - simulator:100 - INFO - [2008-12-17 00:00:00] TARGET REACHED Selling asset [CNC] for $470.0850148200989. Profit: 1.051520787849799. Days Held: 6
+2023-01-24 14:25:01,566 - simulator:118 - INFO - [2008-12-17 00:00:00] 1 interesting insider trades
+2023-01-24 14:25:01,566 - simulator:125 - INFO - [2008-12-17 00:00:00] 1 unique tickers
+2023-01-24 14:25:01,567 - simulator:138 - INFO - [2008-12-17 00:00:00] failed to get price for SUG
+2023-01-24 14:25:01,569 - simulator:76 - INFO - [2008-12-18 00:00:00] found in trade days 253. True. False. 89.29000091552734
+2023-01-24 14:25:01,570 - simulator:82 - INFO - [2008-12-18 00:00:00] Current P/L: $-487.8039900660515, %0.9024392019867897
+2023-01-24 14:25:01,570 - simulator:83 - INFO - [2008-12-18 00:00:00] Current holdings: []
+2023-01-24 14:25:01,574 - simulator:118 - INFO - [2008-12-18 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,576 - simulator:76 - INFO - [2008-12-19 00:00:00] found in trade days 253. True. False. 88.19000244140625
+2023-01-24 14:25:01,578 - simulator:82 - INFO - [2008-12-19 00:00:00] Current P/L: $-487.8039900660515, %0.9024392019867897
+2023-01-24 14:25:01,578 - simulator:83 - INFO - [2008-12-19 00:00:00] Current holdings: []
+2023-01-24 14:25:01,584 - simulator:118 - INFO - [2008-12-19 00:00:00] 1 interesting insider trades
+2023-01-24 14:25:01,584 - simulator:125 - INFO - [2008-12-19 00:00:00] 1 unique tickers
+2023-01-24 14:25:01,584 - simulator:138 - INFO - [2008-12-19 00:00:00] failed to get price for PNY
+2023-01-24 14:25:01,584 - simulator:62 - INFO - [2008-12-20 00:00:00] Skipping weekend
+2023-01-24 14:25:01,584 - simulator:62 - INFO - [2008-12-21 00:00:00] Skipping weekend
+2023-01-24 14:25:01,585 - simulator:76 - INFO - [2008-12-22 00:00:00] found in trade days 253. True. False. 87.05999755859375
+2023-01-24 14:25:01,585 - simulator:82 - INFO - [2008-12-22 00:00:00] Current P/L: $-487.8039900660515, %0.9024392019867897
+2023-01-24 14:25:01,585 - simulator:83 - INFO - [2008-12-22 00:00:00] Current holdings: []
+2023-01-24 14:25:01,589 - simulator:118 - INFO - [2008-12-22 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,590 - simulator:76 - INFO - [2008-12-23 00:00:00] found in trade days 253. True. False. 86.16000366210938
+2023-01-24 14:25:01,591 - simulator:82 - INFO - [2008-12-23 00:00:00] Current P/L: $-487.8039900660515, %0.9024392019867897
+2023-01-24 14:25:01,591 - simulator:83 - INFO - [2008-12-23 00:00:00] Current holdings: []
+2023-01-24 14:25:01,599 - simulator:118 - INFO - [2008-12-23 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,601 - simulator:76 - INFO - [2008-12-24 00:00:00] found in trade days 253. True. False. 86.66000366210938
+2023-01-24 14:25:01,601 - simulator:82 - INFO - [2008-12-24 00:00:00] Current P/L: $-487.8039900660515, %0.9024392019867897
+2023-01-24 14:25:01,601 - simulator:83 - INFO - [2008-12-24 00:00:00] Current holdings: []
+2023-01-24 14:25:01,605 - simulator:118 - INFO - [2008-12-24 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,605 - simulator:72 - INFO - [2008-12-25 00:00:00] Skipping invalid trade day
+2023-01-24 14:25:01,606 - simulator:76 - INFO - [2008-12-26 00:00:00] found in trade days 253. True. False. 87.16000366210938
+2023-01-24 14:25:01,607 - simulator:82 - INFO - [2008-12-26 00:00:00] Current P/L: $-487.8039900660515, %0.9024392019867897
+2023-01-24 14:25:01,607 - simulator:83 - INFO - [2008-12-26 00:00:00] Current holdings: []
+2023-01-24 14:25:01,612 - simulator:118 - INFO - [2008-12-26 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,612 - simulator:62 - INFO - [2008-12-27 00:00:00] Skipping weekend
+2023-01-24 14:25:01,612 - simulator:62 - INFO - [2008-12-28 00:00:00] Skipping weekend
+2023-01-24 14:25:01,614 - simulator:76 - INFO - [2008-12-29 00:00:00] found in trade days 253. True. False. 86.91000366210938
+2023-01-24 14:25:01,615 - simulator:82 - INFO - [2008-12-29 00:00:00] Current P/L: $-487.8039900660515, %0.9024392019867897
+2023-01-24 14:25:01,615 - simulator:83 - INFO - [2008-12-29 00:00:00] Current holdings: []
+2023-01-24 14:25:01,619 - simulator:118 - INFO - [2008-12-29 00:00:00] 0 interesting insider trades
+2023-01-24 14:25:01,620 - simulator:76 - INFO - [2008-12-30 00:00:00] found in trade days 253. True. False. 88.97000122070312
+2023-01-24 14:25:01,620 - simulator:82 - INFO - [2008-12-30 00:00:00] Current P/L: $-487.8039900660515, %0.9024392019867897
+2023-01-24 14:25:01,620 - simulator:83 - INFO - [2008-12-30 00:00:00] Current holdings: []
+2023-01-24 14:25:01,623 - simulator:118 - INFO - [2008-12-30 00:00:00] 0 interesting insider trades

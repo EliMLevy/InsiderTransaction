@@ -7,7 +7,6 @@ class Holding:
         self.price_lookup = price_lookup
 
     def profit_percent(self, date):
-        # print(f"{self.ticker} calculating profit: {self.get_price(date)} {(self.purchase_price)}")
         if self.get_price(date) is None:
             return 1
         return self.get_price(date) / (self.purchase_price)
@@ -19,7 +18,7 @@ class Holding:
 
     def val(self, date):
         if self.get_price(date) is None:
-            return 1
+            return None
         return self.quantity * self.get_price(date)
 
     def get_price(self, date):

@@ -44,7 +44,7 @@ price_lookup.lookup("SPY", start_date)
 
 
 def execute_simulation(strategy):
-    finished_portfolio, sim_stats = run_simulator(start_date, end_date, all_insider_trades, price_lookup, strategy["simlation_output_file"], valid_trade_days_ticker="SPY", fragment_size=strategy["fragment_size"], loss_stop=strategy["loss_stop"], profit_target=strategy["profit_target"], jump_sell=strategy["jump_sell"],  expiration=strategy["expiration"], starting_cash=strategy["starting_cash"])
+    finished_portfolio, sim_stats = run_simulator(start_date, end_date, all_insider_trades, price_lookup, strategy["simlation_output_file"], valid_trade_days_ticker="SPY", fragment_size=strategy["fragment_size"], loss_stop=strategy["loss_stop"], profit_target=strategy["profit_target"],  expiration=strategy["expiration"], starting_cash=strategy["starting_cash"])
 
     with open(strategy["stats_output_file"], "w") as stats_file:
         full_stat_report = {

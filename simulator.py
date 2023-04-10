@@ -19,7 +19,7 @@ def is_trading_day(logger, day, trade_days):
     return True
 
 
-def find_holdings_to_sell(logger, portfolio, day, stats, ticker_weight, last_trading_day, loss_stop, profit_target, jump_sell, expiration):
+def find_holdings_to_sell(logger, portfolio, day, stats, ticker_weight, last_trading_day, loss_stop, profit_target, expiration):
     # Go through each holding
     for holding_dict in list(portfolio.holdings.values()):
         # We may have bought a certain ticker more than once
@@ -30,7 +30,7 @@ def find_holdings_to_sell(logger, portfolio, day, stats, ticker_weight, last_tra
             else:
                 last_trading_day_profit_percent = holding.profit_percent(last_trading_day)
             days_held = (day - holding.date_bought).days
-            if profit_percent < loss_stop or profit_percent > profit_target or days_held >= expiration or profit_percent - last_trading_day_profit_percent > jump_sell:
+            if profit_percent < loss_stop or profit_percent > profit_target or days_held >= expiration:
                 if profit_percent < loss_stop:
                     stats["total_stop_losses"] += 1
                     if holding.ticker in ticker_weight:
@@ -44,10 +44,6 @@ def find_holdings_to_sell(logger, portfolio, day, stats, ticker_weight, last_tra
                 elif days_held >= expiration:
                     stats["total_expiries"] += 1
                     logger.info(f"[{str(day)}] EXPIRED Selling asset [{holding.ticker}] for ${holding.val(day)}. Profit: {profit_percent}. Days Held: {days_held}")
-                elif profit_percent - last_trading_day_profit_percent > jump_sell:
-                    stats["jump_sells"] += 1
-                    stats["jump_sell_tickers"].append(holding.ticker)
-                    logger.info(f"[{str(day)}] JUMP Selling asset [{holding.ticker}] for ${holding.val(day)}. Profit: {profit_percent}. Days Held: {days_held}")
                 portfolio.sell_asset(holding.ticker, day, holding.date_bought)
 
 
@@ -78,7 +74,7 @@ def record_current_profit(portfolio, day, spy_holding, portfolio_profit_df):
 #       if we dont have that much money then use all that we have
 #       if we have no money then skip today
 #   split that amount by the number of worthy stocks
-def run_simulator(start_date, end_date, insider_trades, price_lookup, simlation_output_file, valid_trade_days_ticker="SPY", fragment_size=0.1, loss_stop=0.95, profit_target=1.01, jump_sell=0.05, expiration=90, starting_cash=5000):
+def run_simulator(start_date, end_date, insider_trades, price_lookup, simlation_output_file, valid_trade_days_ticker="SPY", fragment_size=0.1, loss_stop=0.95, profit_target=1.01, expiration=90, starting_cash=5000):
     
     sim_logger = logging_utils.get_logger(__name__, f"{start_date.year}_{start_date.month}_{start_date.day}-{end_date.year}_{end_date.month}_{end_date.day}simulation.log")
 
@@ -99,9 +95,7 @@ def run_simulator(start_date, end_date, insider_trades, price_lookup, simlation_
         "total_expiries": 0,
         "total_stop_losses": 0,
         "stop_loss_tickers": [],
-        "target_reached_tickers": [],
-        "jump_sells": 0,
-        "jump_sell_tickers": []
+        "target_reached_tickers": []
     }
 
     # Sometimes insiders just buy their stock regularly. To try preventing these 
@@ -124,7 +118,7 @@ def run_simulator(start_date, end_date, insider_trades, price_lookup, simlation_
             sim_logger.info(f"[{str(current_day)}] Current holdings: {portfolio.print_holdings(current_day)}")
 
             # Find holdings to sell
-            find_holdings_to_sell(sim_logger, portfolio, current_day, stats, ticker_weight, last_trading_day, loss_stop, profit_target, jump_sell, expiration)
+            find_holdings_to_sell(sim_logger, portfolio, current_day, stats, ticker_weight, last_trading_day, loss_stop, profit_target, expiration)
 
             # Record our current profit
             record_current_profit(portfolio, current_day, spy_holding, portfolio_profit_df)
@@ -171,6 +165,6 @@ def run_simulator(start_date, end_date, insider_trades, price_lookup, simlation_
         
     portfolio_profit_df.to_csv(simlation_output_file)
     print(stats)
-    print(f"Portfolio cash: {portfolio.cash_bal}; Portfolio assets: {portfolio.asset_bal(current_day)};")
+    print(f"Portfolio profit: %{portfolio.get_pl(last_trading_day)}; Portfolio cash: {portfolio.cash_bal}; Portfolio assets: {portfolio.asset_bal(current_day)};")
     print(portfolio.print_holdings(current_day))
     return portfolio, stats

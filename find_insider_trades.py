@@ -25,7 +25,7 @@ def find_insider_trades(start_date, end_date, transactions, threshold=1_000_000)
                         row["ISSUERTRADINGSYMBOL"],
                         row["TRANS_SHARES"],
                         row["TRANS_PRICEPERSHARE"],
-                        float(row["TRANS_SHARES"]) * float(row["TRANS_PRICEPERSHARE"]),
+                        total_cost,
                         row["SHRS_OWND_FOLWNG_TRANS"],
                         row["TRANS_CODE"]
                     ]

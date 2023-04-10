@@ -21,3 +21,10 @@ def combine_insider_trades(start_date, end_date, quarters, combined_file, combin
 
     all_insider_trades.to_csv(combined_file)
     return all_insider_trades
+
+
+def main():
+    pass
+
+if __name__ == '__main__':
+    main()

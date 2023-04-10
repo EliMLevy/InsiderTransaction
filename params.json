@@ -16,7 +16,7 @@
     ],
     "fragment_size": 0.075,
     "loss_stop": 0.90,
-    "profit_target": 1.15,
+    "profit_target": 1.05,
     "expiration": 90,
     "jump_sell": 0.05,
     "starting_cash": 5000,

@@ -26,9 +26,6 @@ def graph_pl(input_file, output_file, liquidity_graph_file):
 
     plt.plot(datetimes, spyPL, label="SPY PL")
     plt.plot(datetimes, myPL, label="My PL")
-    plt.savefig(output_file)
-
-    plt.plot(datetimes, percent_liquid, label="Percent Liquid")
     # plt.plot(x,y)
     plt.gcf().autofmt_xdate()
 
@@ -36,6 +33,9 @@ def graph_pl(input_file, output_file, liquidity_graph_file):
     plt.ylabel("% PL")
     plt.xlabel("Date")
     plt.legend(loc="upper left")
+    plt.savefig(output_file)
+
+    plt.plot(datetimes, percent_liquid, label="Percent Liquid")
 
 
     plt.savefig(liquidity_graph_file)

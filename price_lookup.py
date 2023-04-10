@@ -24,6 +24,10 @@ from alpaca.data.timeframe import TimeFrame
 
 import sys
 
+import os
+from dotenv import load_dotenv
+load_dotenv()
+
 
 
 
@@ -37,29 +41,24 @@ class Yahoo_Price_Lookup():
         self.lookup_table = defaultdict(pd.DataFrame)
         self.last_request_time = None
         self.cache_dir = cache_dir
-        print("Starig super constructor")
         if not path.exists(cache_dir):
             mkdir(cache_dir)
         else:
             for prev_cache_dir in prev_caches:
-                # print(prev_cache_dir)
                 if path.exists(prev_cache_dir):
                     for f in listdir(prev_cache_dir):
-                        # print(f)
                         if isfile(join(prev_cache_dir, f)):
                             parsed_filename = f.split('.')[0]
                             print("loading ticker " + parsed_filename + " from " + str(prev_cache_dir))
                             data = pd.read_csv(f"{prev_cache_dir}/{f}", index_col=0)
-                            # print(data.head(3))
                             self.lookup_table[parsed_filename] = pd.concat([self.lookup_table[parsed_filename], data]).reset_index(drop=True)
-                            # print(self.lookup_table[parsed_filename].head(3))
 
 
 
         self.blacklist = set()
         # old_blacklist = ["AMB", "ESV", "SOYL", "SUG", "WMG", "NLOK", "ATMI", "NSOL", "STR", "TRA", "Y", "MWE", "NLSN", "NITE", "UTX", "TSO", "BEAV", "LZ", "DELL", "Z AND ZG", "PGN", "CNB", "TEC"]
         # old_blacklist = ["AGII", "SUG", "ESV", "MWE", "BHI", "VCSY", "ARB", "FLOW", "SVNT", "(MRK)", "MWA, MWA.B", "BCR", "SCBT", "ASI", "ASEI", "LLEN", "QRE", "FPO", "URS", "VAL", "DELL", "COMV", "Z AND ZG", "ATPG", "CHTL", "ARP", "ICON", "IMN", "DNEX", "FCEA/FCEB", "HCF", "UPL", "NWMO", "GLG", "NSOL", "MDCA", "DWA", "WMG", "ROIA/ROIAK", "TRA", "INDM", "ISLE", "ORH", "NLSN", "TEC", "HEK", "COG", "NITE", "UBI", "TSO", "RGA", "APC", "EUGS", "LLTC", "IDSA", "AMSG", "WSCE", "VRTU", "METH", "NU", "CAST", "EK", "ONNN", "NONE", "SEPR", "XJT", "GEF,GEF.B", "PNY", "POLGA.OC", "MRH", "PGN", "EPCC", "LZ", "SOYL", "ETEV.OB", "AMB", "LGF", "LBTY", "SLE", "CNB", "WMI", "SIAL", "NCS", "RKT", "SFY", "POLGA.OB", "DSTI", "CBB", "cvit", "NLOK", "UTX", "STI", "MNRK", "HET", "MHP", "CYCL", "DLM", "GPOR", "Y", "POM", "CEPH", "BNE", "RA", "WIN", "IBKC", "BEAV", "NIHD", "ATMI", "HR", "STR", "CRN", "PL", "TXCO"]
-        old_blacklist = []
+        old_blacklist = ["MBTF", "BRSS", "GLXZ", "ABQQ", "TWOH", "UEEC", "BDCO", "Z AND ZG", "WDLF", "VCSY", "MOBQ", "PTVCA/B", "FMCB", "REAC"]
         for ticker in old_blacklist:
             self.blacklist.add(ticker)
 
@@ -184,9 +183,8 @@ class Alpaca_Price_Lookup(Yahoo_Price_Lookup):
 
     def __init__(self, cache_dir, prev_caches):
         super().__init__(cache_dir, prev_caches)
-        print("Done with super constructor")
-        APCA_API_KEY_ID = 'AKPYYWRH22CBIP972ME7'
-        APCA_API_SECRET_KEY = '2wM6nlA56bckhHyc1JkkRUkfrbbZiSNlNCxsy0SB'
+        APCA_API_KEY_ID = os.getenv('APCA_API_KEY_ID')
+        APCA_API_SECRET_KEY = os.getenv('APCA_API_SECRET_KEY')
         self.client = StockHistoricalDataClient(APCA_API_KEY_ID, APCA_API_SECRET_KEY)
 
 
@@ -211,10 +209,12 @@ class Alpaca_Price_Lookup(Yahoo_Price_Lookup):
             return None
 
         result = pd.DataFrame(columns=["date", "open", "close", "timestamp"])
-        for day in res.data[ticker]:
-            rounded_date = datetime.datetime(day.timestamp.year, day.timestamp.month, day.timestamp.day)
-            result.loc[len(result)] = [str(rounded_date), day.open, day.close, rounded_date.timestamp()]
-
+        if ticker.upper() in res.data:
+            for day in res.data[ticker.upper()]:
+                rounded_date = datetime.datetime(day.timestamp.year, day.timestamp.month, day.timestamp.day)
+                result.loc[len(result)] = [str(rounded_date), day.open, day.close, rounded_date.timestamp()]
+        else:
+            raise Exception("Strange API response: " + str(res))
         return result
 
 

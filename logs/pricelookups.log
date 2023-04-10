@@ -1,7 +1,2 @@
-2023-02-16 11:46:08,508 - price_lookup:92 - INFO - [2019-03-05 00:00:00] Cache miss on Z AND ZG 2019-03-05 00:00:00. True 0
-2023-02-16 11:46:08,859 - price_lookup:203 - WARNING - Got error for ticker Z AND ZG
-2023-02-16 11:46:08,859 - price_lookup:205 - INFO - blacklist: ["Z AND ZG"]
-2023-02-16 11:46:08,859 - price_lookup:96 - INFO - [2019-03-05 00:00:00] Blacklisting Z AND ZG. Blacklist: ["Z AND ZG"]
-2023-02-16 11:46:33,054 - price_lookup:92 - INFO - [2019-07-16 00:00:00] Cache miss on BRSS 2019-07-16 00:00:00. True 0
-2023-02-16 11:46:33,101 - price_lookup:210 - WARNING - Got empty response for ticker BRSS from URL from resonse: {} 
-2023-02-16 11:46:33,103 - price_lookup:96 - INFO - [2019-07-16 00:00:00] Blacklisting BRSS. Blacklist: ["Z AND ZG", "BRSS"]
+2023-04-10 17:03:27,100 - price_lookup:91 - INFO - [2019-01-02 00:00:00] Cache miss on SPY 2019-01-02 00:00:00. True 0
+2023-04-10 17:03:27,993 - price_lookup:81 - INFO - [2019-01-14 00:00:00] Black listed ticker

@@ -25,11 +25,12 @@ import traceback
 #       if we dont have that much money then use all that we have
 #       if we have no money then skip today
 #   split that amount by the number of worthy stocks
-def run_simulator(start_date, end_date, insider_trades, price_lookup, simlation_output_file, valid_trade_days_ticker=None, fragment_size=0.1, loss_stop=0.95, profit_target=1.01, expiration=90, starting_cash=5000):
+def run_simulator(start_date, end_date, insider_trades, price_lookup, simlation_output_file, valid_trade_days_ticker="SPY", fragment_size=0.1, loss_stop=0.95, profit_target=1.01, jump_sell=0.05, expiration=90, starting_cash=5000):
     
     sim_logger = logging_utils.get_logger(__name__, f"{start_date.year}_{start_date.month}_{start_date.day}-{end_date.year}_{end_date.month}_{end_date.day}simulation.log")
 
     current_day = start_date
+    last_trading_day = None
     portfolio = Portfolio(starting_cash)
     portfolio_profit_df = pd.DataFrame(columns=["date", "$p/l", "%p/l", "SPY $p/l", "SPY %p/l", "percent liquid", "cash balance"])
     spy_holding = None
@@ -37,17 +38,18 @@ def run_simulator(start_date, end_date, insider_trades, price_lookup, simlation_
     if price_lookup.lookup("SPY", current_day) is not None:
         spy_holding = Holding("SPY", 1, price_lookup.lookup("SPY", current_day), current_day, price_lookup)
     
-    trade_days = None
-    if valid_trade_days_ticker is not None:
-        df = price_lookup.lookup_table[valid_trade_days_ticker]
-        trade_days = set(df["date"])
+    df = price_lookup.lookup_table[valid_trade_days_ticker]
+    trade_days = set(df["date"])
+    print(trade_days)
 
     stats = {
         "total_target_reaches": 0,
         "total_expiries": 0,
         "total_stop_losses": 0,
         "stop_loss_tickers": [],
-        "target_reached_tickers": []
+        "target_reached_tickers": [],
+        "jump_sells": 0,
+        "jump_sell_tickers": []
     }
 
     # Sometimes insiders just buy their stock regularly. To try preventing these 
@@ -68,7 +70,7 @@ def run_simulator(start_date, end_date, insider_trades, price_lookup, simlation_
             #     current_day += timedelta(days=1)
             #     continue
             if trade_days is not None and str(current_day) not in trade_days:
-                sim_logger.info(f"[{str(current_day)}] Skipping invalid trade day {str(current_day) not in trade_days} {price_lookup.lookup(valid_trade_days_ticker, current_day) is None}")
+                sim_logger.info(f"[{str(current_day)}] Skipping invalid trade day {str(current_day) not in trade_days} ")
                 current_day += timedelta(days=1)
                 continue
             # else:
@@ -85,8 +87,12 @@ def run_simulator(start_date, end_date, insider_trades, price_lookup, simlation_
             for holding_dict in list(portfolio.holdings.values()):
                 for holding in list(holding_dict.values()):
                     profit_percent = holding.profit_percent(current_day)
+                    if last_trading_day is None:
+                        last_trading_day_profit_percent = holding.profit_percent(current_day)
+                    else:
+                        last_trading_day_profit_percent = holding.profit_percent(last_trading_day)
                     days_held = (current_day - holding.date_bought).days
-                    if profit_percent < loss_stop or profit_percent > profit_target or days_held >= expiration:
+                    if profit_percent < loss_stop or profit_percent > profit_target or days_held >= expiration or profit_percent - last_trading_day_profit_percent > jump_sell:
                         if profit_percent < loss_stop:
                             stats["total_stop_losses"] += 1
                             if holding.ticker in ticker_weight:
@@ -100,7 +106,10 @@ def run_simulator(start_date, end_date, insider_trades, price_lookup, simlation_
                         elif days_held >= expiration:
                             stats["total_expiries"] += 1
                             sim_logger.info(f"[{str(current_day)}] EXPIRED Selling asset [{holding.ticker}] for ${holding.val(current_day)}. Profit: {profit_percent}. Days Held: {days_held}")
-                            
+                        elif profit_percent - last_trading_day_profit_percent > jump_sell:
+                            stats["jump_sells"] += 1
+                            stats["jump_sell_tickers"].append(holding.ticker)
+                            sim_logger.info(f"[{str(current_day)}] JUMP Selling asset [{holding.ticker}] for ${holding.val(current_day)}. Profit: {profit_percent}. Days Held: {days_held}")
                         portfolio.sell_asset(holding.ticker, current_day, holding.date_bought)
 
             # Record our current profit
@@ -146,6 +155,7 @@ def run_simulator(start_date, end_date, insider_trades, price_lookup, simlation_
                                 sim_logger.info(f"[{str(current_day)}] buying {ticker} for {price}. Total: {new_holding.val(current_day)}")
                                 portfolio.buy_asset(new_holding, current_day)
 
+            last_trading_day = current_day
             current_day += timedelta(days=1)
     except Exception as e:
         traceback.print_exc()
@@ -158,4 +168,4 @@ def run_simulator(start_date, end_date, insider_trades, price_lookup, simlation_
     print(stats)
     print(f"Portfolio cash: {portfolio.cash_bal}; Portfolio assets: {portfolio.asset_bal(current_day)};")
     print(portfolio.print_holdings(current_day))
-    return portfolio
+    return portfolio, stats

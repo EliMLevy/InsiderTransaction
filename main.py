@@ -16,6 +16,7 @@ from graph_pl import graph_pl
 # quarters = ["./data/2022Q1/", "./data/2022Q2/", "./data/2022Q3/", "./data/2022Q4/"]
 
 
+
 params = {}
 with open("./params.json", "r") as param_file:
     params = json.loads(param_file.read())
@@ -36,14 +37,25 @@ input("All insider trades computed. Press enter to continue")
 
 # price_lookup = Yahoo_Price_Lookup(params["cached_ticker_data_dir"], params["prev_cached_ticker_data_dirs"])
 price_lookup = Alpaca_Price_Lookup(params["cached_ticker_data_dir"], params["prev_cached_ticker_data_dirs"])
+price_lookup.lookup("SPY", start_date)
 
 
-finished_portfolio = run_simulator(start_date, end_date, all_insider_trades, price_lookup, params["simlation_output_file"], valid_trade_days_ticker="SPY", fragment_size=params["fragment_size"], loss_stop=params["loss_stop"], profit_target=params["profit_target"], expiration=params["expiration"], starting_cash=params["starting_cash"])
+
+
+finished_portfolio, sim_stats = run_simulator(start_date, end_date, all_insider_trades, price_lookup, params["simlation_output_file"], valid_trade_days_ticker="SPY", fragment_size=params["fragment_size"], loss_stop=params["loss_stop"], profit_target=params["profit_target"], jump_sell=params["jump_sell"],  expiration=params["expiration"], starting_cash=params["starting_cash"])
+
+with open(params["stats_output_file"], "w") as stats_file:
+    full_stat_report = {
+        "params": params,
+        "stat": sim_stats
+    }
+    
+    stats_file.write(json.dumps(full_stat_report))
 
 input("Finished simulation. Press enter to continue")
 
 
-graph_pl(params["simlation_output_file"], params["simlation_output_graph"])
+graph_pl(params["simlation_output_file"], params["simlation_output_graph"], params["liquidity_graph"])
 
         
 input("Done! Press enter to exit")

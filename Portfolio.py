@@ -51,7 +51,7 @@ class Portfolio():
         output = "["
         for holdings_dict in self.holdings.values():
             for holding in holdings_dict.values():
-                output += f"[{holding.ticker} quantity:{holding.quantity}; profit:{round(holding.profit_percent(date), 2)}]"
+                output += f"[{holding.ticker} quantity:{holding.quantity}; profit:{round(holding.profit_percent(date), 2)}; value: {round(holding.val(date))}]"
 
         output += "]"
         return output

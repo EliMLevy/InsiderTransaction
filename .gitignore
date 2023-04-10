@@ -1,0 +1,5 @@
+cached_ticker_data/**
+__pycache__/**
+data/**
+logs/**
+output/**

@@ -7,7 +7,6 @@ Streamline dataset download and extraction
 - Print out a json string of the filenames to be used in the main script
 
 
-*****DONE***********
 
 Streamline parameter construction
 - There should be one file for the parameters 
@@ -25,7 +24,7 @@ starting_cash, simlation_output_file (csv), simlation_output_graph (png)
 Output CSV and graph
 - add graph construction to pipeline
 
-
+*****DONE***********
 
 -------------
 WORKFLOW:
@@ -40,5 +39,6 @@ WORKFLOW:
 
 -------------------
 Multi year simulation
-- Pass in all the directories for the EDGAR datasets
-- pre load all years for the valid trades ticker by manually running the price lookup script for each year (unless its already computed)
+- The transaction finder will return all the tickers that are going to be needed. 
+- Lookup the prices for every ticker (one thread)
+- generate X parameters and start up multiple threads to start running the simulation

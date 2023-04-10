@@ -1,24 +1,27 @@
 {
-    "start_date": "2020-01-02",
-    "end_date": "2020-12-31",
+    "start_date": "2019-01-02",
+    "end_date": "2019-12-31",
     "transaction_files": [
-        "./data/2020Q1/",
-        "./data/2020Q2/",
-        "./data/2020Q3/",
-        "./data/2020Q4/"
+        "./data/2019q1/",
+        "./data/2019q2/",
+        "./data/2019q3/",
+        "./data/2019q4/"
     ],
-    "filtered_transactions_output_file": "./data/all_trades2020.csv",
-    "already_computed": false,
+    "filtered_transactions_output_file": "./data/all_trades2019.csv",
+    "already_computed": true,
     "minimum_transaction_value": 500000,
-    "cached_ticker_data_dir": "./cached_ticker_data/2020",
+    "cached_ticker_data_dir": "./cached_ticker_data/2019",
     "prev_cached_ticker_data_dirs": [
-        "./cached_ticker_data/2020"
+        "./cached_ticker_data/2019"
     ],
-    "fragment_size": 0.1,
+    "fragment_size": 0.075,
     "loss_stop": 0.90,
-    "profit_target": 1.10,
+    "profit_target": 1.15,
     "expiration": 90,
+    "jump_sell": 0.05,
     "starting_cash": 5000,
-    "simlation_output_file": "./output/PortfolioProfit_2020.csv",
-    "simlation_output_graph": "./output/PortfolioProfit_2020.png"
+    "stats_output_file": "./output/Stats_2019JumpSell.json",
+    "simlation_output_file": "./output/PortfolioProfit_2019JumpSell.csv",
+    "simlation_output_graph": "./output/PortfolioProfit_2019JumpSell.png",
+    "liquidity_graph" : "./output/Liquidity_PercentJumpSell.png"
 }

@@ -8,7 +8,7 @@ import matplotlib.dates as mdates
 from matplotlib.pyplot import figure
 
 
-def graph_pl(input_file, output_file):
+def graph_pl(input_file, output_file, liquidity_graph_file):
     figure(figsize=(12, 6), dpi=80)
 
     data = pd.read_csv(input_file)
@@ -26,6 +26,8 @@ def graph_pl(input_file, output_file):
 
     plt.plot(datetimes, spyPL, label="SPY PL")
     plt.plot(datetimes, myPL, label="My PL")
+    plt.savefig(output_file)
+
     plt.plot(datetimes, percent_liquid, label="Percent Liquid")
     # plt.plot(x,y)
     plt.gcf().autofmt_xdate()
@@ -36,7 +38,7 @@ def graph_pl(input_file, output_file):
     plt.legend(loc="upper left")
 
 
-    plt.savefig(output_file)
+    plt.savefig(liquidity_graph_file)
 
 
 if __name__ == "__main__":

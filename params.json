@@ -14,14 +14,54 @@
     "prev_cached_ticker_data_dirs": [
         "./cached_ticker_data/2019"
     ],
-    "fragment_size": 0.075,
-    "loss_stop": 0.90,
-    "profit_target": 1.05,
-    "expiration": 90,
-    "jump_sell": 0.05,
-    "starting_cash": 5000,
-    "stats_output_file": "./output/Stats_2019JumpSell.json",
-    "simlation_output_file": "./output/PortfolioProfit_2019JumpSell.csv",
-    "simlation_output_graph": "./output/PortfolioProfit_2019JumpSell.png",
-    "liquidity_graph" : "./output/Liquidity_PercentJumpSell.png"
+    "strategies": [
+        {
+            "fragment_size": 0.075,
+            "loss_stop": 0.90,
+            "profit_target": 1.05,
+            "expiration": 90,
+            "jump_sell": 0.05,
+            "starting_cash": 5000,
+            "stats_output_file": "./output/Stats_2019JumpSell.json",
+            "simlation_output_file": "./output/PortfolioProfit_2019JumpSell.csv",
+            "simlation_output_graph": "./output/PortfolioProfit_2019JumpSell.png",
+            "liquidity_graph" : "./output/Liquidity_PercentJumpSell.png"
+        },
+        {
+            "fragment_size": 0.075,
+            "loss_stop": 0.90,
+            "profit_target": 1.05,
+            "expiration": 90,
+            "jump_sell": 10000000,
+            "starting_cash": 5000,
+            "stats_output_file": "./output/Stats_2019NoJumpSell.json",
+            "simlation_output_file": "./output/PortfolioProfit_2019NoJumpSell.csv",
+            "simlation_output_graph": "./output/PortfolioProfit_2019NoJumpSell.png",
+            "liquidity_graph" : "./output/Liquidity_PercentNoJumpSell.png"
+        },
+        {
+            "fragment_size": 0.075,
+            "loss_stop": 0.90,
+            "profit_target": 1.05,
+            "expiration": 90,
+            "jump_sell": 0.1,
+            "starting_cash": 5000,
+            "stats_output_file": "./output/Stats_2019MidJumpSell.json",
+            "simlation_output_file": "./output/PortfolioProfit_2019MidJumpSell.csv",
+            "simlation_output_graph": "./output/PortfolioProfit_2019MidJumpSell.png",
+            "liquidity_graph" : "./output/Liquidity_PercentMidJumpSell.png"
+        },
+        {
+            "fragment_size": 0.075,
+            "loss_stop": 0.90,
+            "profit_target": 1.05,
+            "expiration": 90,
+            "jump_sell": 0.2,
+            "starting_cash": 5000,
+            "stats_output_file": "./output/Stats_2019LargeJumpSell.json",
+            "simlation_output_file": "./output/PortfolioProfit_2019LargeJumpSell.csv",
+            "simlation_output_graph": "./output/PortfolioProfit_2019LargeJumpSell.png",
+            "liquidity_graph" : "./output/Liquidity_PercentLargeJumpSell.png"
+        }
+    ]
 }

@@ -39,8 +39,9 @@ def graph_pl(input_file, output_file, liquidity_graph_file):
 
 
     plt.savefig(liquidity_graph_file)
+    plt.clf()
 
 
 if __name__ == "__main__":
-    graph_pl("output/PortfolioProfit_2019.csv", "output/PortfolioProfit_2019.png")
+    graph_pl("output/PortfolioProfit_2019JumpSell.csv", "output/AAAAAAAAAAAAAA.png", "output/AAAAAAAAAAAAAAB.png")
 

@@ -7,6 +7,59 @@ import math
 import logging_utils
 import traceback
 
+def is_trading_day(logger, day, trade_days):
+    if day.weekday() >= 5:
+        logger.info(f"[{str(day)}] Skipping weekend")
+        day += timedelta(days=1)
+        return False
+    if trade_days is not None and str(day) not in trade_days:
+        logger.info(f"[{str(day)}] Skipping invalid trade day {str(day) not in trade_days} ")
+        day += timedelta(days=1)
+        return False
+    return True
+
+
+def find_holdings_to_sell(logger, portfolio, day, stats, ticker_weight, last_trading_day, loss_stop, profit_target, jump_sell, expiration):
+    # Go through each holding
+    for holding_dict in list(portfolio.holdings.values()):
+        # We may have bought a certain ticker more than once
+        for holding in list(holding_dict.values()):
+            profit_percent = holding.profit_percent(day)
+            if last_trading_day is None:
+                last_trading_day_profit_percent = holding.profit_percent(day)
+            else:
+                last_trading_day_profit_percent = holding.profit_percent(last_trading_day)
+            days_held = (day - holding.date_bought).days
+            if profit_percent < loss_stop or profit_percent > profit_target or days_held >= expiration or profit_percent - last_trading_day_profit_percent > jump_sell:
+                if profit_percent < loss_stop:
+                    stats["total_stop_losses"] += 1
+                    if holding.ticker in ticker_weight:
+                        ticker_weight[holding.ticker] *= 0.9
+                    stats["stop_loss_tickers"].append(holding.ticker)
+                    logger.info(f"[{str(day)}] STOP LOSS Selling asset [{holding.ticker}] for ${holding.val(day)}. Profit: {profit_percent}. Days Held: {days_held}")
+                elif profit_percent > profit_target:
+                    stats["total_target_reaches"] += 1
+                    stats["target_reached_tickers"].append(holding.ticker)
+                    logger.info(f"[{str(day)}] TARGET REACHED Selling asset [{holding.ticker}] for ${holding.val(day)}. Profit: {profit_percent}. Days Held: {days_held}")
+                elif days_held >= expiration:
+                    stats["total_expiries"] += 1
+                    logger.info(f"[{str(day)}] EXPIRED Selling asset [{holding.ticker}] for ${holding.val(day)}. Profit: {profit_percent}. Days Held: {days_held}")
+                elif profit_percent - last_trading_day_profit_percent > jump_sell:
+                    stats["jump_sells"] += 1
+                    stats["jump_sell_tickers"].append(holding.ticker)
+                    logger.info(f"[{str(day)}] JUMP Selling asset [{holding.ticker}] for ${holding.val(day)}. Profit: {profit_percent}. Days Held: {days_held}")
+                portfolio.sell_asset(holding.ticker, day, holding.date_bought)
+
+
+def record_current_profit(portfolio, day, spy_holding, portfolio_profit_df):
+    portfolio_dollar_pl = portfolio.get_dollar_pl(day)
+    portfolio_percent_pl = portfolio.get_percent_pl(day) 
+    spy_dollar_pl = spy_holding.profit_dollar(day) 
+    spy_percent_pl = spy_holding.profit_percent(day)
+    percent_liquid = portfolio.cash_bal / portfolio.portfolio_value(day)
+    dollar_liquid = portfolio.cash_bal
+    portfolio_profit_df.loc[len(portfolio_profit_df)] = [str(day),portfolio_dollar_pl, portfolio_percent_pl, spy_dollar_pl, spy_percent_pl, percent_liquid, dollar_liquid ]
+    
 
 # Simulate the strategy:
 # current_day = sept 1
@@ -40,7 +93,6 @@ def run_simulator(start_date, end_date, insider_trades, price_lookup, simlation_
     
     df = price_lookup.lookup_table[valid_trade_days_ticker]
     trade_days = set(df["date"])
-    print(trade_days)
 
     stats = {
         "total_target_reaches": 0,
@@ -58,23 +110,11 @@ def run_simulator(start_date, end_date, insider_trades, price_lookup, simlation_
 
     try:        
         while current_day < end_date:
+            # print(str(current_day))
             # Check if its a trading day
-            if current_day.weekday() >= 5:
-                sim_logger.info(f"[{str(current_day)}] Skipping weekend")
+            if not is_trading_day(sim_logger, current_day, trade_days):
                 current_day += timedelta(days=1)
                 continue
-            # holiday = holidays_df[(holidays_df["Month"] == current_day.month) & (holidays_df["Day"] == current_day.day)]
-            # holiday = holidays_df[holidays_df["Day"] == current_day.day]
-            # if len(holiday) > 0:
-            #     sim_logger.info(f"[{str(current_day)}] Skipping holiday")
-            #     current_day += timedelta(days=1)
-            #     continue
-            if trade_days is not None and str(current_day) not in trade_days:
-                sim_logger.info(f"[{str(current_day)}] Skipping invalid trade day {str(current_day) not in trade_days} ")
-                current_day += timedelta(days=1)
-                continue
-            # else:
-            #     sim_logger.info(f"[{str(current_day)}] found in trade days {len(trade_days)}. {trade_days is not None}. {str(current_day) not in trade_days}. {price_lookup.lookup(valid_trade_days_ticker, current_day)}")
 
             # Ensure that we initialize the SPY holding on the first trading day
             if spy_holding is None and price_lookup.lookup("SPY", current_day) is not None:
@@ -84,51 +124,16 @@ def run_simulator(start_date, end_date, insider_trades, price_lookup, simlation_
             sim_logger.info(f"[{str(current_day)}] Current holdings: {portfolio.print_holdings(current_day)}")
 
             # Find holdings to sell
-            for holding_dict in list(portfolio.holdings.values()):
-                for holding in list(holding_dict.values()):
-                    profit_percent = holding.profit_percent(current_day)
-                    if last_trading_day is None:
-                        last_trading_day_profit_percent = holding.profit_percent(current_day)
-                    else:
-                        last_trading_day_profit_percent = holding.profit_percent(last_trading_day)
-                    days_held = (current_day - holding.date_bought).days
-                    if profit_percent < loss_stop or profit_percent > profit_target or days_held >= expiration or profit_percent - last_trading_day_profit_percent > jump_sell:
-                        if profit_percent < loss_stop:
-                            stats["total_stop_losses"] += 1
-                            if holding.ticker in ticker_weight:
-                                ticker_weight[ticker] *= 0.9
-                            stats["stop_loss_tickers"].append(holding.ticker)
-                            sim_logger.info(f"[{str(current_day)}] STOP LOSS Selling asset [{holding.ticker}] for ${holding.val(current_day)}. Profit: {profit_percent}. Days Held: {days_held}")
-                        elif profit_percent > profit_target:
-                            stats["total_target_reaches"] += 1
-                            stats["target_reached_tickers"].append(holding.ticker)
-                            sim_logger.info(f"[{str(current_day)}] TARGET REACHED Selling asset [{holding.ticker}] for ${holding.val(current_day)}. Profit: {profit_percent}. Days Held: {days_held}")
-                        elif days_held >= expiration:
-                            stats["total_expiries"] += 1
-                            sim_logger.info(f"[{str(current_day)}] EXPIRED Selling asset [{holding.ticker}] for ${holding.val(current_day)}. Profit: {profit_percent}. Days Held: {days_held}")
-                        elif profit_percent - last_trading_day_profit_percent > jump_sell:
-                            stats["jump_sells"] += 1
-                            stats["jump_sell_tickers"].append(holding.ticker)
-                            sim_logger.info(f"[{str(current_day)}] JUMP Selling asset [{holding.ticker}] for ${holding.val(current_day)}. Profit: {profit_percent}. Days Held: {days_held}")
-                        portfolio.sell_asset(holding.ticker, current_day, holding.date_bought)
+            find_holdings_to_sell(sim_logger, portfolio, current_day, stats, ticker_weight, last_trading_day, loss_stop, profit_target, jump_sell, expiration)
 
             # Record our current profit
-            portfolio_dollar_pl = portfolio.get_dollar_pl(current_day)
-            portfolio_percent_pl = portfolio.get_percent_pl(current_day) 
-            spy_dollar_pl = spy_holding.profit_dollar(current_day) 
-            spy_percent_pl = spy_holding.profit_percent(current_day)
-            percent_liquid = portfolio.cash_bal / portfolio.portfolio_value(current_day)
-            dollar_liquid = portfolio.cash_bal
-            portfolio_profit_df.loc[len(portfolio_profit_df)] = [str(current_day),portfolio_dollar_pl, portfolio_percent_pl, spy_dollar_pl, spy_percent_pl, percent_liquid, dollar_liquid ]
+            record_current_profit(portfolio, current_day, spy_holding, portfolio_profit_df)
+
             # Get today's trades
             todays_insider_trades = insider_trades[insider_trades["date"] == str(current_day)]
 
-            sim_logger.info(f"[{str(current_day)}] {len(todays_insider_trades)} interesting insider trades")
-
             if len(todays_insider_trades) > 0:
-                # for trade in todays_insider_trades.values():
                 tickers = todays_insider_trades["ticker"].unique()
-                # tickers = [n for n in todays_insider_trades["ticker"].unique() if n not in bad_tickers]
 
                 sim_logger.info(f"[{str(current_day)}] {len(tickers)} unique tickers")
 

@@ -42,3 +42,12 @@ Multi year simulation
 - The transaction finder will return all the tickers that are going to be needed. 
 - Lookup the prices for every ticker (one thread)
 - generate X parameters and start up multiple threads to start running the simulation
+
+
+
+--------------
+TESTS
+- Make a test input for filter_EDGAR_data.py
+
+
+

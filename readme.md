@@ -2,7 +2,7 @@
 
 Hi there,
 
-This is Python-based project that extracts insider trading data from the SEC EDGAR database (datasets can be downloaded from https://www.sec.gov/dera/data/form-345) and enables backtesting on a trading strategy based on insider buying activity. The project uses Pandas and is designed to be efficient by incorporating multithreading to run multiple strategies simultaneously.
+This is Python-based project that extracts insider trading data from the SEC EDGAR database (datasets can be downloaded from https://www.sec.gov/dera/data/form-345) and enables backtesting on a trading strategy based on insider buying activity. The project uses Pandas for data handling and transformation and uses Matplotlib for data visualization. The backtester is designed to be efficient by incorporating multithreading to run multiple strategies simultaneously.
 
 Strategies are defined in the params.json file. The configurable details are:
 
@@ -21,6 +21,7 @@ The backtester takes the parameters and simulates the performance of the portfol
     ```
     pip install -r requirements.txt
     ```
+2. Put your Alpaca API credentials in a .env file using the APCA_API_KEY_ID variable for the API key and APCA_API_SECRET_KEY variable for the secret key.
 2. Download the datasets for the backtest duration from https://www.sec.gov/dera/data/form-345. You can use the extract_datasets.py script to automatically unzip the files. Do not rename the files!
 3. Specify the start and end date in the params.json file. Also specify where the insider transactions files are located in the transaction_files property. These could be  absolute or relative paths from the root of the project directory. Each path should point to the folder that contains the insider transactions files.
 4. The first step that the backtester will do is filter out all the data from the dataset that isn't relevant to the trading algorithm. For the full criteria regarding what filings are filtered out you can check out the filter_EDGAR_data.py script. The backtester will save the filtered data in a file specified in the params.json file as the filtered_transactions_output_file property. If you want to rerun the backtest with other parameters you can change the already_computed property to true and the filtering step will be skipped.

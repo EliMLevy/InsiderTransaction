@@ -20,48 +20,55 @@
             "loss_stop": 0.90,
             "profit_target": 1.05,
             "expiration": 90,
-            "jump_sell": 0.05,
             "starting_cash": 5000,
-            "stats_output_file": "./output/Stats_2019JumpSell.json",
-            "simlation_output_file": "./output/PortfolioProfit_2019JumpSell.csv",
-            "simlation_output_graph": "./output/PortfolioProfit_2019JumpSell.png",
-            "liquidity_graph" : "./output/Liquidity_PercentJumpSell.png"
+            "stats_output_file": "./output/Stats_2019A.json",
+            "simlation_output_file": "./output/PortfolioProfit_2019A.csv",
+            "simlation_output_graph": "./output/PortfolioProfit_2019A.png",
+            "liquidity_graph" : "./output/Liquidity_PercentA.png"
         },
         {
             "fragment_size": 0.075,
-            "loss_stop": 0.90,
+            "loss_stop": 0.85,
             "profit_target": 1.05,
             "expiration": 90,
-            "jump_sell": 10000000,
             "starting_cash": 5000,
-            "stats_output_file": "./output/Stats_2019NoJumpSell.json",
-            "simlation_output_file": "./output/PortfolioProfit_2019NoJumpSell.csv",
-            "simlation_output_graph": "./output/PortfolioProfit_2019NoJumpSell.png",
-            "liquidity_graph" : "./output/Liquidity_PercentNoJumpSell.png"
+            "stats_output_file": "./output/Stats_2019B.json",
+            "simlation_output_file": "./output/PortfolioProfit_2019B.csv",
+            "simlation_output_graph": "./output/PortfolioProfit_2019B.png",
+            "liquidity_graph" : "./output/Liquidity_PercentB.png"
         },
         {
             "fragment_size": 0.075,
-            "loss_stop": 0.90,
-            "profit_target": 1.05,
+            "loss_stop": 0.85,
+            "profit_target": 1.10,
             "expiration": 90,
-            "jump_sell": 0.1,
             "starting_cash": 5000,
-            "stats_output_file": "./output/Stats_2019MidJumpSell.json",
-            "simlation_output_file": "./output/PortfolioProfit_2019MidJumpSell.csv",
-            "simlation_output_graph": "./output/PortfolioProfit_2019MidJumpSell.png",
-            "liquidity_graph" : "./output/Liquidity_PercentMidJumpSell.png"
+            "stats_output_file": "./output/Stats_2019C.json",
+            "simlation_output_file": "./output/PortfolioProfit_2019C.csv",
+            "simlation_output_graph": "./output/PortfolioProfit_2019C.png",
+            "liquidity_graph" : "./output/Liquidity_PercentC.png"
         },
         {
             "fragment_size": 0.075,
-            "loss_stop": 0.90,
-            "profit_target": 1.05,
+            "loss_stop": 0.80,
+            "profit_target": 1.10,
             "expiration": 90,
-            "jump_sell": 0.2,
             "starting_cash": 5000,
-            "stats_output_file": "./output/Stats_2019LargeJumpSell.json",
-            "simlation_output_file": "./output/PortfolioProfit_2019LargeJumpSell.csv",
-            "simlation_output_graph": "./output/PortfolioProfit_2019LargeJumpSell.png",
-            "liquidity_graph" : "./output/Liquidity_PercentLargeJumpSell.png"
+            "stats_output_file": "./output/Stats_2019D.json",
+            "simlation_output_file": "./output/PortfolioProfit_2019D.csv",
+            "simlation_output_graph": "./output/PortfolioProfit_2019D.png",
+            "liquidity_graph" : "./output/Liquidity_PercentD.png"
+        },
+        {
+            "fragment_size": 0.075,
+            "loss_stop": 0.75,
+            "profit_target": 1.15,
+            "expiration": 90,
+            "starting_cash": 5000,
+            "stats_output_file": "./output/Stats_2019E.json",
+            "simlation_output_file": "./output/PortfolioProfit_2019E.csv",
+            "simlation_output_graph": "./output/PortfolioProfit_2019E.png",
+            "liquidity_graph" : "./output/Liquidity_PercentE.png"
         }
     ]
 }
